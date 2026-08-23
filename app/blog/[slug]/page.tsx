@@ -1,0 +1,10 @@
+import type { Metadata } from "next";
+import Link from "next/link";
+import { notFound } from "next/navigation";
+import { Breadcrumbs, PageShell } from "@/components/site-shell";
+import { articles, getArticle } from "@/lib/articles";
+import { metaDescription } from "@/lib/seo";
+export const dynamicParams=false;
+export function generateStaticParams(){return articles.map(a=>({slug:a.slug}));}
+export function generateMetadata({params}:{params:{slug:string}}):Metadata{const a=getArticle(params.slug);if(!a)return{};const title=`${a.title} | Laundromat Near Me`;const description=metaDescription(a.description);const path=`/blog/${a.slug}`;return{title,description,alternates:{canonical:path},openGraph:{title,description,url:path,images:[]},twitter:{title,description,images:[]}}}
+export default function ArticlePage({params}:{params:{slug:string}}){const a=getArticle(params.slug);if(!a)notFound();return <PageShell><article><header className="border-b border-brand-100 bg-brand-50"><div className="mx-auto max-w-4xl px-5 py-14"><Breadcrumbs items={[{label:"Laundry guides",href:"/blog"},{label:a.title}]}/><p className="text-sm font-bold uppercase tracking-[.18em] text-coral">{a.readTime} read</p><h1 className="mt-3 font-display text-4xl font-extrabold leading-tight tracking-tight sm:text-5xl">{a.title}</h1><p className="mt-6 text-xl leading-8 text-slate-600">{a.description}</p></div></header><div className="mx-auto max-w-3xl px-5 py-14">{a.sections.map(s=><section key={s.heading} className="mb-10"><h2 className="font-display text-2xl font-extrabold">{s.heading}</h2>{s.paragraphs.map(p=><p className="mt-4 text-lg leading-8 text-slate-600" key={p}>{p}</p>)}</section>)}<aside className="rounded-2xl bg-brand-50 p-7"><h2 className="font-display text-xl font-extrabold">Explore local laundry guides</h2><p className="mt-2 leading-7 text-slate-600">Browse city-specific guidance on typical hours, pricing, neighborhoods, and service options.</p><Link href="/#popular-cities" className="mt-4 inline-flex font-bold text-brand-700">Browse popular cities →</Link></aside></div></article></PageShell>}

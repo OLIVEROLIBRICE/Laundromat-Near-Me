@@ -1,0 +1,2166 @@
+[
+  {
+    "id": 1,
+    "name": "Brooklyn Wash N Fold Corp",
+    "address": "3411 Avenue H, Brooklyn, NY 11210",
+    "phone": "(718) 421-5245",
+    "website": "https://brooklynwashnfold.com/",
+    "rating": 4.8,
+    "reviewCount": 81,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6321368,
+    "lng": -73.9432725,
+    "verified": false,
+    "description": "Community laundromat providing comprehensive washing and drying solutions in Brooklyn, NY. Well-equipped with modern laundry machines."
+  },
+  {
+    "id": 2,
+    "name": "Roger's Avenue Laundromat",
+    "address": "1021 Rogers Ave, Brooklyn, NY 11226",
+    "phone": "(718) 282-0118",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 69,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6452217,
+    "lng": -73.9516761,
+    "verified": false,
+    "description": "Convenient laundromat providing efficient washing and drying services in Brooklyn, NY. Popular with local residents for its reliable machines and clean environment."
+  },
+  {
+    "id": 3,
+    "name": "Go Easy Laundry",
+    "address": "1332-1340 Flatbush Ave, Brooklyn, NY 11210",
+    "phone": "(518) 589-3646",
+    "website": null,
+    "rating": 4.4,
+    "reviewCount": 14,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6375959,
+    "lng": -73.9530423,
+    "verified": false,
+    "description": "Full-service washing facility offering quality laundry solutions in Brooklyn, NY. Features comfortable environment and well-maintained machines."
+  },
+  {
+    "id": 4,
+    "name": "Bubble Zone Laundromat",
+    "address": "1236 Flatbush Ave, Brooklyn, NY 11226",
+    "phone": "(347) 768-0838",
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 36,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.640068,
+    "lng": -73.9554138,
+    "verified": false,
+    "description": "Professional laundromat serving the Brooklyn, NY area with modern washing and drying equipment. Known for efficient service and clean facilities. This 4.50-star rated facility provides dependable service."
+  },
+  {
+    "id": 5,
+    "name": "628 Laundromat inc",
+    "address": "842 Clarkson Ave, Brooklyn, NY 11203",
+    "phone": "(917) 635-6930",
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 26,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6564972,
+    "lng": -73.9303224,
+    "verified": false,
+    "description": "Family-friendly laundromat serving Brooklyn, NY with convenient washing and drying services. Features comfortable seating and modern laundry equipment."
+  },
+  {
+    "id": 6,
+    "name": "Jane Laundromat",
+    "address": "484 Albany Ave, Brooklyn, NY 11203",
+    "phone": "(718) 221-4936",
+    "website": null,
+    "rating": 4.2,
+    "reviewCount": 11,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.663405,
+    "lng": -73.9401967,
+    "verified": false,
+    "description": "Neighborhood laundromat providing quality washing and drying services to the Brooklyn, NY community. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 7,
+    "name": "Goeasy laundry",
+    "address": "644 Utica Ave, Brooklyn, NY 11203",
+    "phone": "(347) 413-6188",
+    "website": null,
+    "rating": 4.3,
+    "reviewCount": 100,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6577815,
+    "lng": -73.9312061,
+    "verified": false,
+    "description": "Community-oriented laundromat providing quality washing and drying services in Brooklyn, NY. Known for clean environment and friendly atmosphere."
+  },
+  {
+    "id": 8,
+    "name": "Lin sunshine laundromat",
+    "address": "4111 Church Ave, Brooklyn, NY 11203",
+    "phone": "(718) 360-5888",
+    "website": null,
+    "rating": 4.1,
+    "reviewCount": 62,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6515744,
+    "lng": -73.9386204,
+    "verified": false,
+    "description": "Professional laundromat offering reliable washing and drying solutions in Brooklyn, NY. Known for clean facilities and well-maintained equipment."
+  },
+  {
+    "id": 9,
+    "name": "Giant Laundromat",
+    "address": "169 E 98th St, Brooklyn, NY 11212",
+    "phone": "(718) 221-5700",
+    "website": null,
+    "rating": 4,
+    "reviewCount": 126,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6629821,
+    "lng": -73.9204682,
+    "verified": false,
+    "description": "Neighborhood coin laundry offering convenient washing and drying solutions in Brooklyn, NY. Features spacious facility and reliable equipment."
+  },
+  {
+    "id": 10,
+    "name": "Gentle Cycle",
+    "address": "5101 Avenue D, Brooklyn, NY 11203",
+    "phone": "(718) 629-6680",
+    "website": null,
+    "rating": 4,
+    "reviewCount": 47,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.642577,
+    "lng": -73.928111,
+    "verified": false,
+    "description": "Local laundromat offering comprehensive washing and drying services in Brooklyn, NY. Features spacious facility with modern equipment and convenient hours."
+  },
+  {
+    "id": 11,
+    "name": "Bing fang laundromat",
+    "address": "2808 Avenue D, Brooklyn, NY 11226",
+    "phone": "(646) 666-7908",
+    "website": null,
+    "rating": 4,
+    "reviewCount": 39,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6407064,
+    "lng": -73.9501239,
+    "verified": false,
+    "description": "Convenient laundromat providing efficient washing and drying services in Brooklyn, NY. Popular with local residents for its reliable machines and clean environment. This 4.00-star rated facility provides dependable service."
+  },
+  {
+    "id": 12,
+    "name": "Go Easy Laundry",
+    "address": "1610 Ralph Ave, Brooklyn, NY 11236",
+    "phone": null,
+    "website": null,
+    "rating": 4,
+    "reviewCount": 112,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6375583,
+    "lng": -73.9194946,
+    "verified": false,
+    "description": "Community laundromat offering convenient washing and drying services to Brooklyn, NY residents. Features well-maintained machines and comfortable environment."
+  },
+  {
+    "id": 13,
+    "name": "Speedy Fresh Laundromat",
+    "address": "9702 Church Ave, Brooklyn, NY 11212",
+    "phone": "(718) 490-0334",
+    "website": "http://www.speedyfreshlaundromat.com/",
+    "rating": 4.9,
+    "reviewCount": 363,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6562244,
+    "lng": -73.9142582,
+    "verified": false,
+    "description": "Established washing facility offering reliable laundry services in Brooklyn, NY. Features spacious layout and dependable equipment."
+  },
+  {
+    "id": 14,
+    "name": "Laundromat",
+    "address": "4124 Avenue D, Brooklyn, NY 11203",
+    "phone": "(718) 282-5174",
+    "website": null,
+    "rating": 3.4,
+    "reviewCount": 20,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6415211,
+    "lng": -73.9371676,
+    "verified": false,
+    "description": "Full-service laundromat offering reliable washing and drying solutions in Brooklyn, NY. Features modern equipment and convenient operating hours."
+  },
+  {
+    "id": 15,
+    "name": "6 Star Laundromat & Dry Cleaners",
+    "address": "5712 Clarendon Rd, Brooklyn, NY 11203",
+    "phone": "(718) 608-6494",
+    "website": null,
+    "rating": 3.6,
+    "reviewCount": 58,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6445952,
+    "lng": -73.9223416,
+    "verified": false,
+    "description": "Convenient laundromat featuring hygiene-focused facility serving the Brooklyn, NY area with efficient washing and drying services. Popular with residents for reliable equipment."
+  },
+  {
+    "id": 16,
+    "name": "Clean Laundromat",
+    "address": "1003 Clarkson Ave, Brooklyn, NY 11212",
+    "phone": null,
+    "website": null,
+    "rating": 3.7,
+    "reviewCount": 19,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6584844,
+    "lng": -73.9247895,
+    "verified": false,
+    "description": "Spotless environment coin laundry providing washing and drying solutions in Brooklyn, NY. Known for clean facilities and dependable laundry equipment."
+  },
+  {
+    "id": 17,
+    "name": "Amboy Laundromat",
+    "address": "398 Amboy St, Brooklyn, NY 11212",
+    "phone": null,
+    "website": null,
+    "rating": 4.7,
+    "reviewCount": 21,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6605765,
+    "lng": -73.9124863,
+    "verified": false,
+    "description": "Local laundromat offering comprehensive washing and drying services in Brooklyn, NY. Features spacious facility with modern equipment and convenient hours. This 4.70-star rated facility provides dependable service."
+  },
+  {
+    "id": 18,
+    "name": "Bluebird Laundromat",
+    "address": "1528 Utica Ave, Brooklyn, NY 11234",
+    "phone": "(718) 252-0674",
+    "website": "http://bluebird-laundromat.lany.io/",
+    "rating": 3.9,
+    "reviewCount": 56,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6350169,
+    "lng": -73.9288536,
+    "verified": false,
+    "description": "Family-friendly laundromat serving Brooklyn, NY with convenient washing and drying services. Features comfortable seating and modern laundry equipment. This 3.90-star rated facility provides dependable service."
+  },
+  {
+    "id": 19,
+    "name": "All Right Laundromat",
+    "address": "1011 Rogers Ave, Brooklyn, NY 11226",
+    "phone": "(718) 282-7129",
+    "website": null,
+    "rating": 3.9,
+    "reviewCount": 118,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6455384,
+    "lng": -73.9516226,
+    "verified": false,
+    "description": "Convenient coin-operated laundromat serving Brooklyn, NY with efficient washing and drying facilities. Popular with local community members. This 3.90-star rated facility provides dependable service."
+  },
+  {
+    "id": 20,
+    "name": "5318 King I Laundromat",
+    "address": "5318 Church Ave, Brooklyn, NY 11203",
+    "phone": "(917) 966-5318",
+    "website": null,
+    "rating": 4.3,
+    "reviewCount": 16,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6522521,
+    "lng": -73.9268264,
+    "verified": false,
+    "description": "Professional coin laundry providing efficient washing and drying solutions in Brooklyn, NY. Popular choice for reliable laundry services."
+  },
+  {
+    "id": 21,
+    "name": "Lucky Laundromat",
+    "address": "1073 Nostrand Ave, Brooklyn, NY 11225",
+    "phone": "(347) 453-5854",
+    "website": null,
+    "rating": 4,
+    "reviewCount": 0,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6618235,
+    "lng": -73.9504881,
+    "verified": false,
+    "description": "Full-service laundromat offering convenient washing and drying facilities in Brooklyn, NY. Features modern equipment and a clean environment for all your laundry needs."
+  },
+  {
+    "id": 22,
+    "name": "NY CITY LAUNDROMAT 1 INC",
+    "address": "384 Evergreen Ave, Brooklyn, NY 11221",
+    "phone": "(347) 365-8124",
+    "website": null,
+    "rating": 3.8,
+    "reviewCount": 102,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.693704,
+    "lng": -73.9233809,
+    "verified": false,
+    "description": "Full-service laundromat offering convenient washing and drying facilities in Brooklyn, NY. Features modern equipment and a clean environment for all your laundry needs."
+  },
+  {
+    "id": 23,
+    "name": "Laundromatic NYC",
+    "address": "108 Albany Ave, Brooklyn, NY 11213",
+    "phone": "(917) 822-4849",
+    "website": "https://laundromaticnyc.com/",
+    "rating": 4.6,
+    "reviewCount": 280,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Family-friendly laundromat serving Brooklyn, NY with convenient washing and drying services. Features comfortable seating and modern laundry equipment."
+  },
+  {
+    "id": 24,
+    "name": "A 1 Laundromat",
+    "address": "1032 Utica Ave, Brooklyn, NY 11203",
+    "phone": "(718) 922-2982",
+    "website": "https://www.uticalaundry.com/",
+    "rating": 4.5,
+    "reviewCount": 158,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Convenient laundromat serving the Brooklyn, NY area with efficient washing and drying services. Popular with residents for reliable equipment."
+  },
+  {
+    "id": 25,
+    "name": "BK Laundry",
+    "address": "593 4th Ave, Brooklyn, NY 11215",
+    "phone": null,
+    "website": "http://www.bklaundry.com/",
+    "rating": 4.1,
+    "reviewCount": 27,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Community laundromat providing comprehensive washing and drying solutions in Brooklyn, NY. Well-equipped with modern laundry machines."
+  },
+  {
+    "id": 26,
+    "name": "Shop and Wash Laundry",
+    "address": "2 Avenue I, Brooklyn, NY 11230",
+    "phone": "(347) 587-7997",
+    "website": "http://www.shopandwash.net/",
+    "rating": 4,
+    "reviewCount": 86,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Professional laundromat serving the Brooklyn, NY area with modern washing and drying equipment. Known for efficient service and clean facilities."
+  },
+  {
+    "id": 27,
+    "name": "Central Wash Laundromat",
+    "address": "649 Grand St, Brooklyn, NY 11211",
+    "phone": "(347) 457-6580",
+    "website": "https://centralwashlaundromat.com/",
+    "rating": 4.9,
+    "reviewCount": 89,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Community-oriented laundromat providing quality washing and drying services in Brooklyn, NY. Known for clean environment and friendly atmosphere."
+  },
+  {
+    "id": 28,
+    "name": "Neighborhood Laundromat",
+    "address": "136 Stuyvesant Ave, Brooklyn, NY 11221",
+    "phone": null,
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 60,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Neighborhood laundromat serving Brooklyn, NY with convenient washing and drying facilities. Known for modern equipment and clean environment."
+  },
+  {
+    "id": 29,
+    "name": "Laundry House - Laundromat",
+    "address": "521 Ocean Ave, Brooklyn, NY 11226",
+    "phone": "(929) 295-4953",
+    "website": "https://laundryhouseny.com/?utm_source=gbp&utm_medium=organic&utm_campaign=website&utm_content=521_ocean&utm_id=lh",
+    "rating": 4.9,
+    "reviewCount": 370,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Community-focused laundromat providing reliable washing and drying services to residents of Brooklyn, NY. Known for well-maintained machines and friendly service."
+  },
+  {
+    "id": 30,
+    "name": "Celsious",
+    "address": "115 N 7th St, Brooklyn, NY 11249",
+    "phone": "(718) 388-1221",
+    "website": "https://celsious.com/",
+    "rating": 4.8,
+    "reviewCount": 240,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Established laundry facility providing comprehensive washing and drying services in Brooklyn, NY. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 31,
+    "name": "D&E Laundromat",
+    "address": "314 E 53rd St, Brooklyn, NY 11203",
+    "phone": "(718) 313-6878",
+    "website": null,
+    "rating": 4.4,
+    "reviewCount": 18,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6520794,
+    "lng": -73.927653,
+    "verified": false,
+    "description": "Established laundromat serving the Brooklyn, NY area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry."
+  },
+  {
+    "id": 32,
+    "name": "New Sunrise Laundromat",
+    "address": "9012 Avenue B, Brooklyn, NY 11236",
+    "phone": "(718) 531-4965",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 51,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6496896,
+    "lng": -73.9158664,
+    "verified": false,
+    "description": "Established laundromat featuring recently established serving the Brooklyn, NY area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry."
+  },
+  {
+    "id": 33,
+    "name": "Miss Bubbles Laundromat",
+    "address": "3802 Church Ave, Brooklyn, NY 11203",
+    "phone": "(718) 941-3900",
+    "website": null,
+    "rating": 4.4,
+    "reviewCount": 36,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6510704,
+    "lng": -73.9417587,
+    "verified": false,
+    "description": "Full-service coin laundry providing washing and drying solutions in Brooklyn, NY. Known for clean facilities and dependable laundry equipment."
+  },
+  {
+    "id": 34,
+    "name": "Laundry run LLC",
+    "address": "893 Nostrand Ave, Brooklyn, NY 11225",
+    "phone": "(929) 370-8201",
+    "website": null,
+    "rating": 4,
+    "reviewCount": 0,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6660972,
+    "lng": -73.9506746,
+    "verified": false,
+    "description": "Community-focused laundromat providing reliable washing and drying services to residents of Brooklyn, NY. Known for well-maintained machines and friendly service."
+  },
+  {
+    "id": 35,
+    "name": "Ryanna Laundromat",
+    "address": "4514 Avenue D, Brooklyn, NY 11203",
+    "phone": "(718) 629-9000",
+    "website": "http://www.ryannalaundry.com/",
+    "rating": 4.3,
+    "reviewCount": 64,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6417696,
+    "lng": -73.9336318,
+    "verified": false,
+    "description": "Local washing facility providing reliable laundry services in Brooklyn, NY. Popular choice for both quick wash and full-service laundry needs."
+  },
+  {
+    "id": 36,
+    "name": "Kings Laundromat",
+    "address": "4824 Church Ave, Brooklyn, NY 11203",
+    "phone": "(646) 594-6395",
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 11,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6515674,
+    "lng": -73.9315195,
+    "verified": false,
+    "description": "Convenient coin-operated laundromat serving Brooklyn, NY with efficient washing and drying facilities. Popular with local community members."
+  },
+  {
+    "id": 37,
+    "name": "Nostrand Megawash Inc. 好棒洗衣店",
+    "address": "1200 Nostrand Ave, Brooklyn, NY 11225",
+    "phone": null,
+    "website": null,
+    "rating": 3.9,
+    "reviewCount": 37,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6581268,
+    "lng": -73.9505145,
+    "verified": false,
+    "description": "Convenient laundromat featuring multiple machine options serving the Brooklyn, NY area with efficient washing and drying services. Popular with residents for reliable equipment."
+  },
+  {
+    "id": 38,
+    "name": "Super Clean Center",
+    "address": "5622 Church Ave, Brooklyn, NY 11203",
+    "phone": null,
+    "website": null,
+    "rating": 3.7,
+    "reviewCount": 20,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.652313,
+    "lng": -73.923888,
+    "verified": false,
+    "description": "Community-oriented laundromat featuring comprehensive services providing quality washing and drying services in Brooklyn, NY. Known for clean environment and friendly atmosphere."
+  },
+  {
+    "id": 39,
+    "name": "Big City Laundry",
+    "address": "3012 Avenue D, Brooklyn, NY 11226",
+    "phone": null,
+    "website": "https://www.bigcitylaundry.com/",
+    "rating": 4,
+    "reviewCount": 0,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6408385,
+    "lng": -73.9480276,
+    "verified": false,
+    "description": "Established washing facility offering reliable laundry services in Brooklyn, NY. Features spacious layout and dependable equipment. This 4.00-star rated facility provides dependable service."
+  },
+  {
+    "id": 40,
+    "name": "Li Laundromat",
+    "address": "3300 Tilden Ave, Brooklyn, NY 11203",
+    "phone": "(646) 745-0173",
+    "website": null,
+    "rating": 3.7,
+    "reviewCount": 18,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6469003,
+    "lng": -73.9460775,
+    "verified": false,
+    "description": "Professional coin laundry providing efficient washing and drying solutions in Brooklyn, NY. Popular choice for reliable laundry services. This 3.70-star rated facility provides dependable service."
+  },
+  {
+    "id": 41,
+    "name": "New Seven Star Laundry",
+    "address": "356 Utica Ave, Brooklyn, NY 11213",
+    "phone": "(646) 879-7858",
+    "website": null,
+    "rating": 3.9,
+    "reviewCount": 54,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.665766,
+    "lng": -73.931662,
+    "verified": false,
+    "description": "Community-oriented laundromat featuring updated equipment providing quality washing and drying services in Brooklyn, NY. Known for clean environment and friendly atmosphere."
+  },
+  {
+    "id": 42,
+    "name": "LG SuperLaundry Inc",
+    "address": "4223 Church Ave, Brooklyn, NY 11203",
+    "phone": "(347) 770-9013",
+    "website": null,
+    "rating": 3.7,
+    "reviewCount": 10,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6515728,
+    "lng": -73.9373449,
+    "verified": false,
+    "description": "Professional laundromat featuring extensive equipment selection serving the Brooklyn, NY area with modern washing and drying equipment. Known for efficient service and clean facilities."
+  },
+  {
+    "id": 43,
+    "name": "B&W Laundromat",
+    "address": "208 Tapscott St, Brooklyn, NY 11212",
+    "phone": null,
+    "website": null,
+    "rating": 5,
+    "reviewCount": 8,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6628271,
+    "lng": -73.9198589,
+    "verified": false,
+    "description": "Convenient laundromat serving the Brooklyn, NY area with efficient washing and drying services. Popular with residents for reliable equipment. This 5.00-star rated facility provides dependable service."
+  },
+  {
+    "id": 44,
+    "name": "Immaculate Laundromat",
+    "address": "870 Clarkson Ave, Brooklyn, NY 11203",
+    "phone": "(718) 773-8719",
+    "website": null,
+    "rating": 4.2,
+    "reviewCount": 20,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6566202,
+    "lng": -73.9292609,
+    "verified": false,
+    "description": "Local laundry facility offering comprehensive washing and drying services to Brooklyn, NY residents. Features well-maintained equipment and convenient location."
+  },
+  {
+    "id": 45,
+    "name": "24 Hours Laundry",
+    "address": "1073 Nostrand Ave, Brooklyn, NY 11225",
+    "phone": null,
+    "website": null,
+    "rating": 1,
+    "reviewCount": 1,
+    "services": [
+      "Self-Service",
+      "24/7 Operation"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6618235,
+    "lng": -73.9504881,
+    "verified": false,
+    "description": "Convenient laundromat serving the Brooklyn, NY area with efficient washing and drying services. Popular with residents for reliable equipment."
+  },
+  {
+    "id": 46,
+    "name": "Laundrmat",
+    "address": "4718 Church Ave, Brooklyn, NY 11203",
+    "phone": null,
+    "website": null,
+    "rating": 4.4,
+    "reviewCount": 15,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6515206,
+    "lng": -73.9326041,
+    "verified": false,
+    "description": "Professional laundromat serving the Brooklyn, NY area with modern washing and drying equipment. Known for efficient service and clean facilities."
+  },
+  {
+    "id": 47,
+    "name": "Double Dragon Laundromat Self Service & Drop Off",
+    "address": "1007 Winthrop St, Brooklyn, NY 11212",
+    "phone": null,
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 17,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6601603,
+    "lng": -73.9261879,
+    "verified": false,
+    "description": "Established washing facility offering comprehensive laundry services in Brooklyn, NY. Features modern equipment and convenient location for easy access."
+  },
+  {
+    "id": 48,
+    "name": "Rainbow Laundromat",
+    "address": "833 E New York Ave, Brooklyn, NY 11203",
+    "phone": null,
+    "website": null,
+    "rating": 3.7,
+    "reviewCount": 9,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6626625,
+    "lng": -73.9351959,
+    "verified": false,
+    "description": "Neighborhood laundromat serving Brooklyn, NY with convenient washing and drying facilities. Known for modern equipment and clean environment."
+  },
+  {
+    "id": 49,
+    "name": "Dexter Express Laundromat",
+    "address": "3608 Clarendon Rd, Brooklyn, NY 11203",
+    "phone": null,
+    "website": null,
+    "rating": 4,
+    "reviewCount": 5,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6434213,
+    "lng": -73.9426181,
+    "verified": false,
+    "description": "Fast and efficient coin laundry providing washing and drying solutions in Brooklyn, NY. Known for clean facilities and dependable laundry equipment."
+  },
+  {
+    "id": 50,
+    "name": "R & W Laundromat, Inc.",
+    "address": "991 Clarkson Ave, Brooklyn, NY 11212",
+    "phone": null,
+    "website": null,
+    "rating": 4.3,
+    "reviewCount": 19,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6581244,
+    "lng": -73.9251482,
+    "verified": false,
+    "description": "Community laundromat providing comprehensive washing and drying solutions in Brooklyn, NY. Well-equipped with modern laundry machines. This 4.30-star rated facility provides dependable service."
+  },
+  {
+    "id": 51,
+    "name": "Hi Tech Laundromat",
+    "address": "628 Remsen Ave, Brooklyn, NY 11236",
+    "phone": "(347) 789-5406",
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 5,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6514674,
+    "lng": -73.9187238,
+    "verified": false,
+    "description": "Family-friendly laundromat serving Brooklyn, NY with convenient washing and drying services. Features comfortable seating and modern laundry equipment. This 4.60-star rated facility provides dependable service."
+  },
+  {
+    "id": 52,
+    "name": "Lin Laundry Express Inc",
+    "address": "1105 Clarkson Ave, Brooklyn, NY 11212",
+    "phone": "(718) 922-0080",
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 21,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6603214,
+    "lng": -73.9216345,
+    "verified": false,
+    "description": "Professional laundromat featuring fast and efficient offering reliable washing and drying solutions in Brooklyn, NY. Known for clean facilities and well-maintained equipment."
+  },
+  {
+    "id": 53,
+    "name": "Clean Rite Center",
+    "address": "5616 Church Ave, Brooklyn, NY 11203",
+    "phone": "(347) 663-2871",
+    "website": "https://www.cleanritecenter.com/stores/clean-rite-center-5616churchave-brooklynny/?utm_source=extnet&utm_medium=yext",
+    "rating": 4.6,
+    "reviewCount": 242,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Emphasis on cleanliness laundromat offering reliable washing and drying solutions in Brooklyn, NY. Features modern equipment and convenient operating hours."
+  },
+  {
+    "id": 54,
+    "name": "Laundry & Latte",
+    "address": "6 Columbia Pl, Brooklyn, NY 11201",
+    "phone": "(718) 237-1157",
+    "website": "http://www.laundryandlatte.com/",
+    "rating": 5,
+    "reviewCount": 37,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Local laundromat offering comprehensive washing and drying services in Brooklyn, NY. Features spacious facility with modern equipment and convenient hours."
+  },
+  {
+    "id": 55,
+    "name": "Si Laundromat",
+    "address": "340 S 4th St, Brooklyn, NY 11211",
+    "phone": "(718) 387-0056",
+    "website": "https://cents.oxfore.com/api/mailings/click/5~ordrjidk7SKiF6ZzMPNtEQTj133vuhod1oh9TEQ4vFZ7sRVz5FPefzgiujrXm69DtJXMWjUsa2mvdaonJztLPEuJggiV8XVHtY3jrK1f9RREDQbBUJg67PPMoxPFuaB5tQB9EWvnnaaGvVvZS7isK63dzqQUeBvwzg6BbXK71rA6aoJjkFUKmeG7QDWxquScbbvsnHwCv5YDfhm7DB9xLdBYWHSGx8mUWn88FfQhRaPrkFLS4EgSKtrwfXo3j4NBtG",
+    "rating": 4.8,
+    "reviewCount": 97,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Community laundromat providing comprehensive washing and drying solutions in Brooklyn, NY. Well-equipped with modern laundry machines."
+  },
+  {
+    "id": 56,
+    "name": "Flatlands Laundromat & Wash and Fold",
+    "address": "7718 Flatlands Ave, Brooklyn, NY 11236",
+    "phone": "(718) 763-7320",
+    "website": "https://flatlandslaundromat.com/pick-up-and-delivery/?utm_source=GMB&utm_medium=organic&utm_campaign=GMB_Organic",
+    "rating": 4.5,
+    "reviewCount": 284,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Full-service laundromat offering convenient washing and drying facilities in Brooklyn, NY. Features modern equipment and a clean environment for all your laundry needs."
+  },
+  {
+    "id": 57,
+    "name": "Laundrybee - Bushwick",
+    "address": "373 Knickerbocker Ave, Brooklyn, NY 11237",
+    "phone": "(929) 430-2867",
+    "website": "http://www.laundrybee.com/",
+    "rating": 4.9,
+    "reviewCount": 198,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Convenient laundromat providing efficient washing and drying services in Brooklyn, NY. Popular with local residents for its reliable machines and clean environment."
+  },
+  {
+    "id": 58,
+    "name": "Atlantis Super Wash Center",
+    "address": "873 Bedford Ave, Brooklyn, NY 11205",
+    "phone": "(718) 624-0800",
+    "website": "http://www.hamperville.com/",
+    "rating": 3.7,
+    "reviewCount": 161,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Convenient laundromat featuring large-capacity facility providing efficient washing and drying services in Brooklyn, NY. Popular with local residents for its reliable machines and clean environment."
+  },
+  {
+    "id": 59,
+    "name": "Oasis Laundromat",
+    "address": "341 Ocean Ave, Brooklyn, NY 11226",
+    "phone": "(718) 693-7941",
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 72,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Family-friendly laundromat serving Brooklyn, NY with convenient washing and drying services. Features comfortable seating and modern laundry equipment."
+  },
+  {
+    "id": 61,
+    "name": "Clean Rite Center",
+    "address": "8905 Flatlands Ave, Brooklyn, NY 11236",
+    "phone": "(718) 257-8080",
+    "website": "https://www.cleanritecenter.com/stores/clean-rite-center-8905flatlandsave-brooklynny/?utm_source=extnet&utm_medium=yext",
+    "rating": 4.8,
+    "reviewCount": 394,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Established washing facility offering reliable laundry services in Brooklyn, NY. Features spacious layout and dependable equipment."
+  },
+  {
+    "id": 62,
+    "name": "Sunshine Laundromat",
+    "address": "860 Manhattan Ave, Brooklyn, NY 11222",
+    "phone": "(718) 475-2055",
+    "website": "http://sunshinelaundromat.com/",
+    "rating": 4.7,
+    "reviewCount": 587,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Community-oriented laundromat providing quality washing and drying services in Brooklyn, NY. Known for clean environment and friendly atmosphere."
+  },
+  {
+    "id": 63,
+    "name": "Clean Rite Center",
+    "address": "1205 Flatbush Ave, Brooklyn, NY 11226",
+    "phone": "(347) 240-0336",
+    "website": "https://www.cleanritecenter.com/stores/clean-rite-center-1205flatbushave-brooklynny/?utm_source=extnet&utm_medium=yext",
+    "rating": 4.6,
+    "reviewCount": 327,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6409124,
+    "lng": -73.9557626,
+    "verified": false,
+    "description": "Established laundry facility providing comprehensive washing and drying services in Brooklyn, NY. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 64,
+    "name": "Clean Rite Center",
+    "address": "1760 Eastern Pkwy, Brooklyn, NY 11233",
+    "phone": "(718) 342-6597",
+    "website": "https://www.cleanritecenter.com/stores/clean-rite-center-1760easternpkwy-brooklynny/",
+    "rating": 4.3,
+    "reviewCount": 459,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Community laundromat featuring emphasis on cleanliness providing comprehensive washing and drying solutions in Brooklyn, NY. Well-equipped with modern laundry machines."
+  },
+  {
+    "id": 65,
+    "name": "Clean Rite Center",
+    "address": "3720 Nostrand Ave, Brooklyn, NY 11235",
+    "phone": "(718) 676-5140",
+    "website": "https://www.cleanritecenter.com/stores/clean-rite-center-3720nostrandave-brooklynny/?utm_source=extnet&utm_medium=yext",
+    "rating": 4.3,
+    "reviewCount": 462,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Community laundromat featuring emphasis on cleanliness offering convenient washing and drying services to Brooklyn, NY residents. Features well-maintained machines and comfortable environment."
+  },
+  {
+    "id": 66,
+    "name": "Clean Rite Center",
+    "address": "10516 Flatlands Ave, Brooklyn, NY 11236",
+    "phone": "(347) 326-8384",
+    "website": "https://www.cleanritecenter.com/stores/clean-rite-center-10516flatlandsave-brooklynny/",
+    "rating": 4.4,
+    "reviewCount": 329,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Local laundromat featuring hygiene-focused facility offering comprehensive washing and drying services in Brooklyn, NY. Features spacious facility with modern equipment and convenient hours."
+  },
+  {
+    "id": 67,
+    "name": "Clean Rite Center",
+    "address": "1950 Fulton St, Brooklyn, NY 11233",
+    "phone": "(347) 789-9488",
+    "website": "https://www.cleanritecenter.com/stores/clean-rite-center-1950fultonst-brooklynny/?utm_source=extnet&utm_medium=yext",
+    "rating": 4.7,
+    "reviewCount": 416,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Professional coin laundry providing efficient washing and drying solutions in Brooklyn, NY. Popular choice for reliable laundry services."
+  },
+  {
+    "id": 68,
+    "name": "Clean Rite Center",
+    "address": "155 Utica Ave, Brooklyn, NY 11213",
+    "phone": "(718) 771-7222",
+    "website": "https://www.cleanritecenter.com/stores/clean-rite-center-155uticaave-brooklynny/",
+    "rating": 4.1,
+    "reviewCount": 291,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Local laundry facility offering comprehensive washing and drying services to Brooklyn, NY residents. Features well-maintained equipment and convenient location."
+  },
+  {
+    "id": 69,
+    "name": "Clean Rite Center",
+    "address": "621 4th Ave, Brooklyn, NY 11232",
+    "phone": "(845) 927-4669",
+    "website": "https://www.cleanritecenter.com/stores/clean-rite-center-6204ave-brooklynny/?utm_source=extnet&utm_medium=yext",
+    "rating": 4.4,
+    "reviewCount": 476,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Spotless environment washing facility offering quality laundry solutions in Brooklyn, NY. Features comfortable environment and well-maintained machines."
+  },
+  {
+    "id": 70,
+    "name": "Wash In Peace Laundromat",
+    "address": "423 Church Ave, Brooklyn, NY 11218",
+    "phone": "(718) 435-2700",
+    "website": "https://washinpeace.nyc",
+    "rating": 4.3,
+    "reviewCount": 145,
+    "services": [
+      "Self-Service",
+      "Wash & Fold",
+      "Pickup & Delivery",
+      "Dry Cleaning"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card",
+      "Mobile Payment"
+    ],
+    "pricing": "Wash $4.00; dry $2.75; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": true,
+    "hasParking": true,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Best laundromat in Brooklyn with 10% off first pickup & delivery service. Clean facility with reliable machines."
+  },
+  {
+    "id": 71,
+    "name": "86th St Super Wash Center",
+    "address": "2432 86th St, Brooklyn, NY 11214",
+    "phone": "(718) 266-5415",
+    "website": null,
+    "rating": 4.2,
+    "reviewCount": 160,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Local washing facility providing reliable laundry services in Brooklyn, NY. Popular choice for both quick wash and full-service laundry needs."
+  },
+  {
+    "id": 72,
+    "name": "The Perfect Laundromat",
+    "address": "176 Central Ave, Brooklyn, NY 11221",
+    "phone": "(929) 267-3270",
+    "website": "https://perfectlaundry.co/",
+    "rating": 4.9,
+    "reviewCount": 105,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Full-service laundromat offering reliable washing and drying solutions in Brooklyn, NY. Features modern equipment and convenient operating hours."
+  },
+  {
+    "id": 73,
+    "name": "Clean n Green Laundromat",
+    "address": "1417 Newkirk Ave, Brooklyn, NY 11226",
+    "phone": "(718) 941-4942",
+    "website": "http://www.cleangreennyc.com/",
+    "rating": 4.6,
+    "reviewCount": 476,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Spotless environment laundromat providing reliable washing and drying services to residents of Brooklyn, NY. Known for well-maintained machines and friendly service."
+  },
+  {
+    "id": 74,
+    "name": "Laundry King Pick Up and Delivery in Brooklyn",
+    "address": "39 Neptune Ave, Brooklyn, NY 11235",
+    "phone": "(718) 332-0100",
+    "website": "https://laundrykingnyc.com/",
+    "rating": 4.2,
+    "reviewCount": 319,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Convenient coin-operated laundromat serving Brooklyn, NY with efficient washing and drying facilities. Popular with local community members."
+  },
+  {
+    "id": 75,
+    "name": "Clean Rite Center",
+    "address": "1936 Atlantic Ave, Brooklyn, NY 11233",
+    "phone": "(347) 529-1192",
+    "website": "https://www.cleanritecenter.com/stores/clean-rite-center-1936atlanticave-brooklynny/",
+    "rating": 4.5,
+    "reviewCount": 294,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Convenient coin-operated laundromat featuring emphasis on cleanliness serving Brooklyn, NY with efficient washing and drying facilities. Popular with local community members."
+  },
+  {
+    "id": 76,
+    "name": "Laundrybee - Bed-Stuy",
+    "address": "566 Nostrand Ave, Brooklyn, NY 11216",
+    "phone": "(929) 430-2867",
+    "website": "https://www.laundrybee.com/",
+    "rating": 4.9,
+    "reviewCount": 155,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Established laundromat serving the Brooklyn, NY area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry."
+  },
+  {
+    "id": 77,
+    "name": "N & K Express I.N.C Laundromat",
+    "address": "88 Rogers Ave, Brooklyn, NY 11216",
+    "phone": "(718) 484-0314",
+    "website": null,
+    "rating": 3.9,
+    "reviewCount": 56,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Neighborhood coin laundry offering convenient washing and drying solutions in Brooklyn, NY. Features spacious facility and reliable equipment."
+  },
+  {
+    "id": 78,
+    "name": "Laundry Express Center",
+    "address": "4108 Farragut Rd, Brooklyn, NY 11210",
+    "phone": "(718) 434-9274",
+    "website": "https://www.laundryexpresscenter.com/farragut-rd-contact",
+    "rating": 4.4,
+    "reviewCount": 60,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Local laundromat featuring fast and efficient offering comprehensive washing and drying services in Brooklyn, NY. Features spacious facility with modern equipment and convenient hours."
+  },
+  {
+    "id": 79,
+    "name": "Aqua Wash Laundromat",
+    "address": "255 E 98th St, Brooklyn, NY 11212",
+    "phone": "(718) 922-1900",
+    "website": null,
+    "rating": 4.2,
+    "reviewCount": 110,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Professional laundromat offering reliable washing and drying solutions in Brooklyn, NY. Known for clean facilities and well-maintained equipment."
+  },
+  {
+    "id": 80,
+    "name": "Gufran Launderette (The Original Laundromat)",
+    "address": "1444 St Johns Pl, Brooklyn, NY 11213",
+    "phone": "(718) 363-2692",
+    "website": "https://www.originallaundromat.com/",
+    "rating": 4.1,
+    "reviewCount": 79,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Neighborhood laundromat providing quality washing and drying services to the Brooklyn, NY community. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 81,
+    "name": "The Laundry Station",
+    "address": "1890 Flatbush Ave, Brooklyn, NY 11210",
+    "phone": "(718) 677-0090",
+    "website": "https://www.facebook.com/TheNewLaundryStation",
+    "rating": 4.2,
+    "reviewCount": 123,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Full-service coin laundry providing washing and drying solutions in Brooklyn, NY. Known for clean facilities and dependable laundry equipment."
+  },
+  {
+    "id": 82,
+    "name": "Classic Laundry",
+    "address": "8923 5th Ave, Brooklyn, NY 11209",
+    "phone": "(347) 909-7076",
+    "website": "http://www.classiclaundrybk.com/",
+    "rating": 4.1,
+    "reviewCount": 209,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Full-service laundromat offering reliable washing and drying solutions in Brooklyn, NY. Features modern equipment and convenient operating hours. This 4.10-star rated facility provides dependable service."
+  },
+  {
+    "id": 84,
+    "name": "Clean Rite Center",
+    "address": "1475 Flatbush Ave, Brooklyn, NY 11210",
+    "phone": "(917) 893-8942",
+    "website": "https://www.cleanritecenter.com/stores/clean-rite-center-1475flatbushave-brooklynny/",
+    "rating": 4.2,
+    "reviewCount": 273,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Professional laundromat featuring hygiene-focused facility serving the Brooklyn, NY area with modern washing and drying equipment. Known for efficient service and clean facilities."
+  },
+  {
+    "id": 85,
+    "name": "Pearl Lee's Washtub",
+    "address": "314 Rogers Ave, Brooklyn, NY 11225",
+    "phone": "(718) 676-0647",
+    "website": "https://www.instagram.com/pearl_lees_washtub/?hl=en",
+    "rating": 4.8,
+    "reviewCount": 85,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Established washing facility offering comprehensive laundry services in Brooklyn, NY. Features modern equipment and convenient location for easy access."
+  },
+  {
+    "id": 86,
+    "name": "NYC Laundry City Express",
+    "address": "1566 Bedford Ave, Brooklyn, NY 11225",
+    "phone": "(347) 384-1173",
+    "website": null,
+    "rating": 4,
+    "reviewCount": 169,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Speedy laundry solutions laundromat offering convenient washing and drying facilities in Brooklyn, NY. Features modern equipment and a clean environment for all your laundry needs."
+  },
+  {
+    "id": 88,
+    "name": "Clean Rite Center",
+    "address": "529 Utica Ave, Brooklyn, NY 11203",
+    "phone": "(347) 789-9700",
+    "website": "https://www.cleanritecenter.com/stores/clean-rite-center-529uticaave-brooklynny/?utm_source=extnet&utm_medium=yext",
+    "rating": 4.3,
+    "reviewCount": 140,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6782,
+    "lng": -73.9442,
+    "verified": false,
+    "description": "Convenient laundromat featuring emphasis on cleanliness providing efficient washing and drying services in Brooklyn, NY. Popular with local residents for its reliable machines and clean environment."
+  }
+]

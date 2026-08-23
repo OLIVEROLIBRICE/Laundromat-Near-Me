@@ -1,0 +1,5 @@
+import type { Metadata } from "next";
+import Link from "next/link";
+import { PageShell } from "@/components/site-shell";
+export const metadata:Metadata={title:"Page Not Found | Laundromat Near Me",description:"The requested laundromat directory page could not be found. Return to the location finder to browse states, cities, listings, and practical laundry guides.",robots:{index:false,follow:true}};
+export default function NotFound(){return <PageShell><section className="mx-auto max-w-3xl px-5 py-28 text-center"><p className="text-sm font-bold uppercase tracking-[.2em] text-coral">404 · Spin cycle interrupted</p><h1 className="mt-4 font-display text-5xl font-extrabold">We couldn’t find that page.</h1><p className="mx-auto mt-5 max-w-xl text-lg leading-8 text-slate-600">The listing may have moved or the address may be mistyped. Browse the directory to find another laundromat nearby.</p><Link href="/" className="mt-8 inline-flex rounded-xl bg-brand-600 px-6 py-3 font-bold text-white">Return to the directory</Link></section></PageShell>}

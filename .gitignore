@@ -1,0 +1,11 @@
+node_modules
+.next
+.pnpm-store
+.vercel
+.env
+.env.local
+prisma/dev.db
+prisma/dev.db-journal
+
+# Local Netlify folder
+.netlify

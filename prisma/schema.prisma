@@ -1,0 +1,61 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model State {
+  id           Int          @id @default(autoincrement())
+  name         String       @unique
+  slug         String       @unique
+  listingCount Int          @default(0) @map("listing_count")
+  cities       City[]
+  laundromats  Laundromat[]
+}
+
+model City {
+  id           Int          @id @default(autoincrement())
+  stateId      Int          @map("state_id")
+  state        State        @relation(fields: [stateId], references: [id], onDelete: Cascade)
+  name         String
+  slug         String
+  listingCount Int          @default(0) @map("listing_count")
+  lat          Float
+  lng          Float
+  description  String
+  laundromats  Laundromat[]
+  @@unique([stateId, slug])
+}
+
+model Laundromat {
+  id             Int      @id @default(autoincrement())
+  cityId         Int      @map("city_id")
+  city           City     @relation(fields: [cityId], references: [id], onDelete: Cascade)
+  stateId        Int      @map("state_id")
+  state          State    @relation(fields: [stateId], references: [id], onDelete: Cascade)
+  name           String
+  slug           String   @unique
+  address        String
+  phone          String?
+  website        String?
+  lat            Float
+  lng            Float
+  hours          String
+  amenities      String
+  paymentMethods String   @map("payment_methods")
+  priceRangeMin  Float    @map("price_range_min")
+  priceRangeMax  Float    @map("price_range_max")
+  description    String
+  rating         Float
+  reviewCount    Int      @map("review_count")
+  is24Hours      Boolean  @default(false) @map("is_24_hours")
+  isSelfService  Boolean  @default(true) @map("is_self_service")
+  hasWifi        Boolean  @default(false) @map("has_wifi")
+  hasParking     Boolean  @default(false) @map("has_parking")
+  isClaimed      Boolean  @default(false) @map("is_claimed")
+  createdAt      DateTime @default(now()) @map("created_at")
+  updatedAt      DateTime @updatedAt @map("updated_at")
+}

@@ -1,0 +1,3 @@
+import { NextRequest, NextResponse } from "next/server";
+export function middleware(request:NextRequest){const username=process.env.ADMIN_USERNAME;const password=process.env.ADMIN_PASSWORD;if(!username||!password)return new NextResponse("Admin access is not configured.",{status:503});const auth=request.headers.get("authorization");if(auth?.startsWith("Basic ")){const [user,pass]=atob(auth.slice(6)).split(":");if(user===username&&pass===password)return NextResponse.next();}return new NextResponse("Authentication required.",{status:401,headers:{"WWW-Authenticate":'Basic realm="Laundromat Directory Admin"'}})}
+export const config={matcher:["/admin/:path*","/api/admin/:path*"]};
