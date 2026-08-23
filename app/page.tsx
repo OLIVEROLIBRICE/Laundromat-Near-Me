@@ -1,7 +1,12 @@
 import Link from "next/link";
 import Image from "next/image";
+import { articles } from "@/lib/articles";
 import { popularCities } from "@/lib/popular-cities";
 import {
+  ArrowRight,
+  BookOpen,
+  Building2,
+  Clock3,
   Facebook,
   Instagram,
   Mail,
@@ -14,11 +19,41 @@ import {
   WashingMachine,
 } from "lucide-react";
 
+const featuredStates = Array.from(new Set(popularCities.map((city) => city.state))).sort().map((state) => ({
+  state,
+  cities: popularCities.filter((city) => city.state === state),
+}));
+
+const faqItems = [
+  {
+    question: "What is a laundromat?",
+    answer: "A laundromat (also commonly spelled laundrymat or laundermat) is a shared laundry facility where customers pay to use commercial washing machines and dryers by the cycle. Locations may accept coins, cards, laundry cards, or mobile payment apps.",
+  },
+  {
+    question: "How do I find a laundromat near me?",
+    answer: "Enter a city, neighborhood, business name, street, or ZIP code in the search bar above. The directory will show matching city guides and available listing records so you can review location details before visiting.",
+  },
+  {
+    question: "How much does a laundromat cost?",
+    answer: "A standard wash often costs about $2 to $5, depending on the city and machine size. Dryers may charge by a block of minutes or by the cycle. Treat online prices as estimates and confirm the current amount at the machine.",
+  },
+  {
+    question: "Are there 24-hour laundromats near me?",
+    answer: "Many larger cities have laundromats that operate around the clock. Search your city and review the posted hours, then confirm directly with the business because holiday schedules, last-wash times, and overnight access can change.",
+  },
+  {
+    question: "What is the difference between a laundromat and a laundry service?",
+    answer: "A laundromat is usually self-service: you wash and dry your own clothes. A laundry service or wash-and-fold business has staff handle the work for a per-pound or per-order fee. Many locations offer both options.",
+  },
+];
+
 export default function Home() {
   const schema = { "@context": "https://schema.org", "@type": "WebSite", name: "Laundromat Near Me", url: "https://laundrymatnearme.com", potentialAction: { "@type": "SearchAction", target: "https://laundrymatnearme.com/search?q={search_term_string}", "query-input": "required name=search_term_string" } };
+  const faqSchema = { "@context": "https://schema.org", "@type": "FAQPage", mainEntity: faqItems.map((item) => ({ "@type": "Question", name: item.question, acceptedAnswer: { "@type": "Answer", text: item.answer } })) };
 
   return <>
     <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />
+    <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
 
     <header className="absolute inset-x-0 top-0 z-20 text-white">
       <div className="bg-[#3b82f6]">
@@ -66,8 +101,8 @@ export default function Home() {
         <div className="relative mx-auto w-full max-w-7xl px-5 lg:px-8">
           <div className="mx-auto max-w-4xl text-center">
             <p className="mb-5 inline-flex items-center gap-2 rounded-full border border-white/25 bg-black/20 px-4 py-2 text-xs font-bold uppercase tracking-[.18em] backdrop-blur-sm"><Sparkles size={14} className="text-[#93c5fd]"/> Laundry day, made easier</p>
-            <h1 className="font-display text-4xl font-extrabold leading-[1.05] tracking-[-.035em] drop-shadow-md sm:text-6xl lg:text-7xl">Find the Best Laundromat in Your City</h1>
-            <p className="mx-auto mt-5 max-w-2xl text-base leading-7 text-white/85 sm:text-lg">Compare trusted local laundromats, opening hours, payment options, and the amenities that make laundry day simpler.</p>
+            <h1 className="font-display text-4xl font-extrabold leading-[1.05] tracking-[-.035em] drop-shadow-md sm:text-6xl lg:text-7xl">Find a Laundromat Near Me — Search Local Guides Across the US</h1>
+            <p className="mx-auto mt-5 max-w-2xl text-base leading-7 text-white/85 sm:text-lg">Search city guides and available local records by city, neighborhood, business name, street, or ZIP code.</p>
           </div>
 
           <form action="/search" className="mx-auto mt-9 grid max-w-4xl gap-3 sm:grid-cols-[1.1fr_1fr_auto]" aria-label="Search laundromats">
@@ -122,6 +157,87 @@ export default function Home() {
                 </span>
               </Link>)}
             </div>
+          </div>
+        </div>
+      </section>
+
+      <section aria-label="Directory highlights" className="border-b border-brand-100 bg-white">
+        <div className="mx-auto grid max-w-7xl grid-cols-2 divide-x divide-y divide-brand-100 px-5 sm:grid-cols-4 sm:divide-y-0 lg:px-8">
+          {[
+            ["85", "Brooklyn records"],
+            ["15", "Featured city guides"],
+            ["9", "States represented"],
+            ["5", "In-depth laundry guides"],
+          ].map(([value, label]) => <div key={label} className="px-3 py-7 text-center sm:px-5">
+            <strong className="font-display text-3xl font-extrabold text-brand-700 sm:text-4xl">{value}</strong>
+            <span className="mt-1 block text-xs font-bold uppercase tracking-[.13em] text-slate-500">{label}</span>
+          </div>)}
+        </div>
+      </section>
+
+      <section className="bg-cream">
+        <div className="mx-auto grid max-w-7xl gap-10 px-5 py-16 lg:grid-cols-[.8fr_1.2fr] lg:px-8 lg:py-20">
+          <div>
+            <p className="text-sm font-extrabold uppercase tracking-[.18em] text-brand-600">A more useful local search</p>
+            <h2 className="mt-3 font-display text-3xl font-extrabold tracking-tight sm:text-4xl">How Laundromat Near Me works</h2>
+          </div>
+          <div className="space-y-5 text-lg leading-8 text-slate-600">
+            <p>Finding a clean, convenient laundromat should not be a guessing game. Laundromat Near Me is a growing directory that combines supplied local business records with practical editorial guides for 15 featured US cities. Search by city, neighborhood, business name, street, or ZIP code to narrow the options before you leave home.</p>
+            <p>The details that matter most can vary from one laundry trip to the next. You may need early opening hours after a night shift, a large-capacity washer for a king comforter, free parking, card payment, or wash-and-fold service near work. Our Brooklyn directory includes 85 supplied records with addresses, ratings, services, pricing information, and contact details. Because business information can change, those records are clearly labeled as not independently verified and should be confirmed directly before a visit.</p>
+            <p>Our other featured pages currently provide city-specific guidance on neighborhoods, typical schedules, service options, and local resources while verified business listings are reviewed. Browse the city cards above, explore coverage by state below, or use the search bar to find a relevant city guide in seconds. New locations will be added as dependable information becomes available.</p>
+          </div>
+        </div>
+      </section>
+
+      <section className="border-y border-brand-100 bg-white">
+        <div className="mx-auto max-w-7xl px-5 py-16 lg:px-8 lg:py-20">
+          <div className="max-w-3xl">
+            <p className="flex items-center gap-2 text-sm font-extrabold uppercase tracking-[.18em] text-brand-600"><Building2 size={18}/>Featured coverage</p>
+            <h2 className="mt-3 font-display text-3xl font-extrabold tracking-tight sm:text-4xl">Browse laundromat guides by state</h2>
+            <p className="mt-4 text-lg leading-8 text-slate-600">Explore the states currently represented by our 15 featured city guides. We are expanding coverage carefully as reliable local information becomes available.</p>
+          </div>
+          <div className="mt-9 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {featuredStates.map(({ state, cities }) => <section key={state} className="rounded-2xl border border-slate-200 bg-cream p-6">
+              <h3 className="font-display text-xl font-extrabold">{state}</h3>
+              <div className="mt-4 flex flex-wrap gap-2">
+                {cities.map((city) => <Link key={city.slug} href={`/${city.slug}`} className="focus-ring rounded-full border border-brand-100 bg-white px-4 py-2 text-sm font-bold text-brand-700 transition hover:border-brand-300 hover:bg-brand-50">{city.name}</Link>)}
+              </div>
+            </section>)}
+          </div>
+        </div>
+      </section>
+
+      <section className="bg-cream">
+        <div className="mx-auto max-w-7xl px-5 py-16 lg:px-8 lg:py-20">
+          <div className="flex flex-col justify-between gap-5 sm:flex-row sm:items-end">
+            <div className="max-w-3xl">
+              <p className="flex items-center gap-2 text-sm font-extrabold uppercase tracking-[.18em] text-brand-600"><BookOpen size={18}/>Laundry guides</p>
+              <h2 className="mt-3 font-display text-3xl font-extrabold tracking-tight sm:text-4xl">Plan a smoother laundry day</h2>
+            </div>
+            <Link href="/blog" className="focus-ring inline-flex items-center gap-2 font-bold text-brand-700">View all guides <ArrowRight size={18}/></Link>
+          </div>
+          <div className="mt-9 grid gap-5 lg:grid-cols-3">
+            {articles.slice(0, 3).map((article) => <article key={article.slug} className="flex flex-col rounded-2xl border border-slate-200 bg-white p-7 shadow-sm">
+              <p className="flex items-center gap-2 text-sm font-bold text-brand-600"><Clock3 size={17}/>{article.readTime} read</p>
+              <h3 className="mt-4 font-display text-2xl font-extrabold leading-tight">{article.title}</h3>
+              <p className="mt-4 flex-1 leading-7 text-slate-600">{article.description}</p>
+              <Link href={`/blog/${article.slug}`} className="focus-ring mt-6 inline-flex items-center gap-2 font-bold text-brand-700">Read guide <ArrowRight size={18}/></Link>
+            </article>)}
+          </div>
+        </div>
+      </section>
+
+      <section className="border-t border-brand-100 bg-white">
+        <div className="mx-auto max-w-4xl px-5 py-16 lg:py-20">
+          <div className="text-center">
+            <p className="text-sm font-extrabold uppercase tracking-[.18em] text-brand-600">Common questions</p>
+            <h2 className="mt-3 font-display text-3xl font-extrabold tracking-tight sm:text-4xl">Laundromat near me FAQ</h2>
+          </div>
+          <div className="mt-9 divide-y divide-slate-200 overflow-hidden rounded-2xl border border-slate-200 bg-cream">
+            {faqItems.map((item, index) => <details key={item.question} className="group p-6" open={index === 0}>
+              <summary className="focus-ring cursor-pointer list-none pr-8 font-display text-lg font-extrabold marker:hidden">{item.question}</summary>
+              <p className="mt-4 leading-7 text-slate-600">{item.answer}{item.question.startsWith("Are there 24-hour") && <> Read our <Link href="/blog/laundromats-near-me-open-24-hours" className="font-bold text-brand-700 underline decoration-brand-200 underline-offset-4">24-hour laundromat guide</Link> for more tips.</>}</p>
+            </details>)}
           </div>
         </div>
       </section>

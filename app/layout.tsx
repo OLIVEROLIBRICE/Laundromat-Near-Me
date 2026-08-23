@@ -5,10 +5,10 @@ import "./globals.css";
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://laundrymatnearme.com"),
   title: "Find Laundromats Near Me | Laundromat Locator",
-  description: metaDescription("Find clean, highly rated laundromats near you. Compare hours, prices, amenities, payment options, and reviews in cities across the United States."),
+  description: metaDescription("Find a laundromat near you with searchable local records, city laundry guides, practical cost information, service comparisons, and 24-hour laundromat tips."),
   alternates: { canonical: "/" },
   robots: { index: true, follow: true, "max-image-preview": "large", googleBot: { index: true, follow: true, "max-image-preview": "large" } },
-  openGraph: { title: "Find Laundromats Near Me | Laundromat Locator", description: "Compare nearby laundromats by hours, amenities, pricing, and reviews.", type: "website", url: "/", images: [{ url: "/og.png", width: 1730, height: 909, alt: "Find a Laundromat Near You" }] },
+  openGraph: { title: "Find Laundromats Near Me | Laundromat Locator", description: "Search local laundromat records, city guides, costs, services, and practical laundry tips.", type: "website", url: "/", images: [{ url: "/og.png", width: 1730, height: 909, alt: "Find a Laundromat Near You" }] },
   twitter: { card: "summary_large_image", images: ["/og.png"] }
 };
 
