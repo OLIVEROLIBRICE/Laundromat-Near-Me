@@ -1,0 +1,1981 @@
+[
+  {
+    "id": 1,
+    "name": "Family Laundromat & Cleaners",
+    "address": "138-65 Queens Blvd, Briarwood, NY 11435",
+    "phone": "(718) 526-6201",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 18,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Community-oriented laundromat featuring emphasis on cleanliness providing quality washing and drying services in Briarwood, NY. Known for clean environment and friendly atmosphere."
+  },
+  {
+    "id": 2,
+    "name": "LaundryBee - Forest Hills",
+    "address": "105-21 64th Rd, Forest Hills, NY 11375",
+    "phone": "(929) 430-2867",
+    "website": "http://www.laundrybee.com/",
+    "rating": 4.3,
+    "reviewCount": 200,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Local washing facility providing reliable laundry services in Forest Hills, NY. Popular choice for both quick wash and full-service laundry needs."
+  },
+  {
+    "id": 3,
+    "name": "Liberty Avenue Laundry",
+    "address": "133-12 Liberty Ave, South Richmond Hill, NY 11419",
+    "phone": "(718) 558-5665",
+    "website": "http://libertyavelaundry.com/",
+    "rating": 3.8,
+    "reviewCount": 163,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.6908345,
+    "lng": -73.8131366,
+    "verified": false,
+    "description": "Established washing facility offering comprehensive laundry services in South Richmond Hill, NY. Features modern equipment and convenient location for easy access."
+  },
+  {
+    "id": 4,
+    "name": "Supreme Fast Delivery Laundromat",
+    "address": "97-24 Metropolitan Ave, Forest Hills, NY 11375",
+    "phone": "(347) 610-7142",
+    "website": "https://www.supremefastdelivery.com/",
+    "rating": 5,
+    "reviewCount": 60,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Established laundromat serving the Forest Hills, NY area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry."
+  },
+  {
+    "id": 5,
+    "name": "Fresh Scent Laundromat",
+    "address": "68-18 Fresh Meadow Ln, Fresh Meadows, NY 11365",
+    "phone": "(718) 460-4661",
+    "website": "https://www.facebook.com/profile.php?id=292458667526642&ref=bookmark",
+    "rating": 4,
+    "reviewCount": 140,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Fresh approach to laundry coin laundry providing washing and drying solutions in Fresh Meadows, NY. Known for clean facilities and dependable laundry equipment."
+  },
+  {
+    "id": 6,
+    "name": "14th Laundry",
+    "address": "30-67 14th St, Long Island City, NY 11102",
+    "phone": "(718) 726-0724",
+    "website": "http://14thlaundry.com/",
+    "rating": 4.4,
+    "reviewCount": 67,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Established laundry facility providing comprehensive washing and drying services in Long Island City, NY. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 7,
+    "name": "W.X. Laundromat Inc.",
+    "address": "90-43 149th St, Jamaica, NY 11435",
+    "phone": "(347) 655-5552",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 12,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Professional laundromat offering reliable washing and drying solutions in Jamaica, NY. Known for clean facilities and well-maintained equipment."
+  },
+  {
+    "id": 8,
+    "name": "Laundrybee - Maspeth",
+    "address": "74-17 Grand Ave, Maspeth, NY 11378",
+    "phone": "(929) 430-2867",
+    "website": "http://www.laundrybee.com/",
+    "rating": 4.6,
+    "reviewCount": 242,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Professional coin laundry providing efficient washing and drying solutions in Maspeth, NY. Popular choice for reliable laundry services."
+  },
+  {
+    "id": 9,
+    "name": "Farmers Laundromat",
+    "address": "114-46 Farmers Blvd, Jamaica, NY 11412",
+    "phone": "(718) 400-8393",
+    "website": "https://farmerslaundromat.com/",
+    "rating": 4.8,
+    "reviewCount": 335,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Convenient coin-operated laundromat serving Jamaica, NY with efficient washing and drying facilities. Popular with local community members."
+  },
+  {
+    "id": 10,
+    "name": "New York Laundromat Exchange (NYLaundromats.com)",
+    "address": "253-16 Union Tpke, Queens, NY 11004",
+    "phone": "(718) 831-0111",
+    "website": "http://www.nylaundromats.com/",
+    "rating": 4.9,
+    "reviewCount": 88,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7282,
+    "lng": -73.7949,
+    "verified": false,
+    "description": "Professional laundromat featuring modern facilities offering reliable washing and drying solutions in Queens, NY. Known for clean facilities and well-maintained equipment."
+  },
+  {
+    "id": 11,
+    "name": "108 Corona Megawash Laundromat",
+    "address": "48-15 108th St, Corona, NY 11368",
+    "phone": "(929) 430-2867",
+    "website": "http://www.laundrybee.com/",
+    "rating": 4,
+    "reviewCount": 175,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Neighborhood coin laundry offering convenient washing and drying solutions in Corona, NY. Features spacious facility and reliable equipment."
+  },
+  {
+    "id": 12,
+    "name": "Laundrybee- Kew Gardens",
+    "address": "116-24 Metropolitan Ave, Richmond Hill, NY 11418",
+    "phone": "(929) 430-2867",
+    "website": "http://www.laundrybee.com/",
+    "rating": 4.6,
+    "reviewCount": 93,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Professional laundromat offering reliable washing and drying solutions in Richmond Hill, NY. Known for clean facilities and well-maintained equipment."
+  },
+  {
+    "id": 13,
+    "name": "Amy's Laundromat",
+    "address": "224-02 Braddock Ave, Queens Village, NY 11428",
+    "phone": null,
+    "website": null,
+    "rating": 3.4,
+    "reviewCount": 106,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Established washing facility offering reliable laundry services in Queens Village, NY. Features spacious layout and dependable equipment."
+  },
+  {
+    "id": 14,
+    "name": "Amy Li Laundromat",
+    "address": "51-23 43rd Ave, Woodside, NY 11377",
+    "phone": "(347) 506-8268",
+    "website": null,
+    "rating": 3.5,
+    "reviewCount": 8,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Convenient laundromat serving the Woodside, NY area with efficient washing and drying services. Popular with residents for reliable equipment."
+  },
+  {
+    "id": 15,
+    "name": "99th Street Laundromat",
+    "address": "59-12 99th St, Corona, NY 11368",
+    "phone": "(718) 699-0898",
+    "website": null,
+    "rating": 3.7,
+    "reviewCount": 90,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Established laundromat serving the Corona, NY area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry."
+  },
+  {
+    "id": 16,
+    "name": "D&R Laundromat",
+    "address": "73-13 Ditmars Blvd, East Elmhurst, NY 11370",
+    "phone": "(808) 203-3866",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 63,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Established laundromat serving the East Elmhurst, NY area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry."
+  },
+  {
+    "id": 17,
+    "name": "Laundrybee - Sunnyside",
+    "address": "40-08 Queens Blvd, Sunnyside, NY 11104",
+    "phone": "(929) 430-2867",
+    "website": "http://laundrybee.com/",
+    "rating": 4.9,
+    "reviewCount": 224,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Neighborhood laundromat serving Sunnyside, NY with convenient washing and drying facilities. Known for modern equipment and clean environment."
+  },
+  {
+    "id": 18,
+    "name": "Garden Laundromat",
+    "address": "108-14 Myrtle Ave, Richmond Hill, NY 11418",
+    "phone": "(718) 441-3164",
+    "website": "http://gardenlaundromat.com/",
+    "rating": 3.6,
+    "reviewCount": 48,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Family-friendly laundromat serving Richmond Hill, NY with convenient washing and drying services. Features comfortable seating and modern laundry equipment."
+  },
+  {
+    "id": 19,
+    "name": "WOODSIDE LAUNDRY CORP",
+    "address": "54-22 31st Ave, Woodside, NY 11377",
+    "phone": "(718) 606-8978",
+    "website": "https://woodsidelaundry.com/",
+    "rating": 4.4,
+    "reviewCount": 50,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Convenient laundromat providing efficient washing and drying services in Woodside, NY. Popular with local residents for its reliable machines and clean environment."
+  },
+  {
+    "id": 20,
+    "name": "8026 Laundromat",
+    "address": "80-26 164th St, Fresh meadows, NY 11432",
+    "phone": "(718) 380-1025",
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 87,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Neighborhood laundromat serving Fresh meadows, NY with convenient washing and drying facilities. Known for modern equipment and clean environment."
+  },
+  {
+    "id": 21,
+    "name": "Start Fresh Laundry",
+    "address": "85-27 57th Ave, Flushing, NY 11373",
+    "phone": "(718) 478-2525",
+    "website": "http://start-fresh-laundry.jany.io/",
+    "rating": 3.8,
+    "reviewCount": 48,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Clean and modern washing facility offering quality laundry solutions in Flushing, NY. Features comfortable environment and well-maintained machines."
+  },
+  {
+    "id": 22,
+    "name": "Laundromat Pick Up",
+    "address": "33-12 101st St, Corona, NY 11368",
+    "phone": "(718) 699-8888",
+    "website": "http://laundromatpickup.com/",
+    "rating": 4.4,
+    "reviewCount": 51,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Professional laundromat offering reliable washing and drying solutions in Corona, NY. Known for clean facilities and well-maintained equipment."
+  },
+  {
+    "id": 23,
+    "name": "Parsons MegaWash Laundromat",
+    "address": "79-09 Parsons Blvd, Fresh Meadows, NY 11366",
+    "phone": "(347) 233-2922",
+    "website": "https://cleanmegawash.com/",
+    "rating": 3.9,
+    "reviewCount": 102,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Local washing facility providing reliable laundry services in Fresh Meadows, NY. Popular choice for both quick wash and full-service laundry needs."
+  },
+  {
+    "id": 24,
+    "name": "Kew Gardens Laundromat",
+    "address": "85-54 118th St, Richmond Hill, NY 11418",
+    "phone": "(718) 701-6567",
+    "website": "https://8554laundry.com/",
+    "rating": 4.3,
+    "reviewCount": 95,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Established laundry facility providing comprehensive washing and drying services in Richmond Hill, NY. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 25,
+    "name": "Andrew Laundromat",
+    "address": "147-13 45th Ave, Flushing, NY 11355",
+    "phone": "(917) 563-1082",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 89,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Convenient laundromat providing efficient washing and drying services in Flushing, NY. Popular with local residents for its reliable machines and clean environment."
+  },
+  {
+    "id": 26,
+    "name": "Jackson Heights Megawash Inc.",
+    "address": "37-59 81st St, Jackson Heights, NY 11372",
+    "phone": "(347) 848-0393",
+    "website": "http://www.megawashgroup.com/",
+    "rating": 5,
+    "reviewCount": 28,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Community laundromat featuring high-volume capability offering convenient washing and drying services to Jackson Heights, NY residents. Features well-maintained machines and comfortable environment."
+  },
+  {
+    "id": 27,
+    "name": "Lav Express Laundry",
+    "address": "93-16 Roosevelt Ave, Jackson Heights, NY 11372",
+    "phone": "(718) 672-1600",
+    "website": "http://lavexpress.com/",
+    "rating": 4,
+    "reviewCount": 92,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Fast and efficient coin laundry providing washing and drying solutions in Jackson Heights, NY. Known for clean facilities and dependable laundry equipment."
+  },
+  {
+    "id": 28,
+    "name": "Laundrybee - Oakland Gardens",
+    "address": "73-16 Bell Blvd, Oakland Gardens, NY 11364",
+    "phone": "(929) 430-2867",
+    "website": "http://www.laundrybee.com/",
+    "rating": 4.4,
+    "reviewCount": 174,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Community-focused laundromat providing reliable washing and drying services to residents of Oakland Gardens, NY. Known for well-maintained machines and friendly service."
+  },
+  {
+    "id": 29,
+    "name": "Maspeth Wash Rite Laundromat",
+    "address": "73-50 Grand Ave, Maspeth, NY 11378",
+    "phone": "(718) 565-1999",
+    "website": null,
+    "rating": 3.5,
+    "reviewCount": 134,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Full-service laundromat offering convenient washing and drying facilities in Maspeth, NY. Features modern equipment and a clean environment for all your laundry needs."
+  },
+  {
+    "id": 30,
+    "name": "Fresh Laundromat & Cleaners",
+    "address": "69-60 188th St, Fresh Meadows, NY 11365",
+    "phone": "(718) 380-5500",
+    "website": "https://www.freshlaundry.nyc/freshmeadows/?utm_source=GMBListing&utm_medium=organic&utm_campaign=bio",
+    "rating": 4.3,
+    "reviewCount": 260,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Professional laundromat featuring emphasis on cleanliness offering reliable washing and drying solutions in Fresh Meadows, NY. Known for clean facilities and well-maintained equipment."
+  },
+  {
+    "id": 31,
+    "name": "Super Laundromat",
+    "address": "144-01 Hillside Ave., Jamaica, NY 11435",
+    "phone": "(718) 558-8908",
+    "website": "http://super-laundromat-queens.poi.place/",
+    "rating": 3.8,
+    "reviewCount": 114,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Extensive equipment selection laundromat offering reliable washing and drying solutions in Jamaica, NY. Features modern equipment and convenient operating hours."
+  },
+  {
+    "id": 32,
+    "name": "Lam’s Laundromat",
+    "address": "67-05 Austin St # A, Flushing, NY 11375",
+    "phone": "(718) 896-8956",
+    "website": null,
+    "rating": 3.9,
+    "reviewCount": 30,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Established washing facility offering comprehensive laundry services in Flushing, NY. Features modern equipment and convenient location for easy access."
+  },
+  {
+    "id": 33,
+    "name": "Union Express Laundromat",
+    "address": "34-38 Union St, Flushing, NY 11354",
+    "phone": "(718) 460-6100",
+    "website": "https://www.facebook.com/unionexpress/",
+    "rating": 4.2,
+    "reviewCount": 144,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Established laundromat featuring quick-service focused serving the Flushing, NY area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry."
+  },
+  {
+    "id": 34,
+    "name": "Island Wash Laundromat",
+    "address": "110-68 Queens Blvd, Forest Hills, NY 11375",
+    "phone": "(929) 350-8257",
+    "website": "http://www.islandwashlaundry.com/",
+    "rating": 4.3,
+    "reviewCount": 38,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Local laundry facility offering comprehensive washing and drying services to Forest Hills, NY residents. Features well-maintained equipment and convenient location."
+  },
+  {
+    "id": 35,
+    "name": "Cuenca Laundromat",
+    "address": "133-13 Cross Bay Blvd, Ozone Park, NY 11417",
+    "phone": "(718) 843-2600",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 29,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Professional laundromat serving the Ozone Park, NY area with modern washing and drying equipment. Known for efficient service and clean facilities."
+  },
+  {
+    "id": 36,
+    "name": "NEW TOWN LAUNDROMAT",
+    "address": "90-07 Corona Ave., Elmhurst, NY 11373",
+    "phone": "(347) 257-5611",
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 76,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Established laundromat featuring recently established serving the Elmhurst, NY area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry."
+  },
+  {
+    "id": 37,
+    "name": "Laundry City LIC Laundromat",
+    "address": "10-03 48th Ave, Long Island City, NY 11101",
+    "phone": "(718) 706-6508",
+    "website": "http://www.liclaundromat.com/",
+    "rating": 4,
+    "reviewCount": 104,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Neighborhood laundromat serving Long Island City, NY with convenient washing and drying facilities. Known for modern equipment and clean environment."
+  },
+  {
+    "id": 38,
+    "name": "Express 1 Laundromat",
+    "address": "21-39 45th Rd, Long Island City, NY 11101",
+    "phone": "(718) 786-3667",
+    "website": "http://www.express1laundromat.com/",
+    "rating": 4.1,
+    "reviewCount": 125,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Established washing facility offering reliable laundry services in Long Island City, NY. Features spacious layout and dependable equipment."
+  },
+  {
+    "id": 39,
+    "name": "Zhen Wei Laundromat Inc",
+    "address": "37-12 75th St, Flushing, NY 11372",
+    "phone": "(718) 396-0088",
+    "website": null,
+    "rating": 4.7,
+    "reviewCount": 51,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Convenient coin-operated laundromat serving Flushing, NY with efficient washing and drying facilities. Popular with local community members."
+  },
+  {
+    "id": 40,
+    "name": "M & P Laundromat",
+    "address": "72-01 35th Ave, Jackson Heights, NY 11372",
+    "phone": "(718) 424-3938",
+    "website": "https://www.yelp.com/biz/m-and-p-laundromat-jackson-heights",
+    "rating": 3.4,
+    "reviewCount": 19,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Professional laundromat offering reliable washing and drying solutions in Jackson Heights, NY. Known for clean facilities and well-maintained equipment."
+  },
+  {
+    "id": 41,
+    "name": "C S Laundromat & Dry Cleaning",
+    "address": "82-20 63rd Ave, Flushing, NY 11379",
+    "phone": "(718) 424-1321",
+    "website": "http://c-s-laundromat-dry.jany.io/",
+    "rating": 4.2,
+    "reviewCount": 32,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Professional coin laundry providing efficient washing and drying solutions in Flushing, NY. Popular choice for reliable laundry services."
+  },
+  {
+    "id": 42,
+    "name": "Mr Machine Laundromat",
+    "address": "140-11 Cherry Ave, Flushing, NY 11355",
+    "phone": "(718) 539-8602",
+    "website": "https://laundry724.com/",
+    "rating": 3.9,
+    "reviewCount": 75,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Full-service coin laundry providing washing and drying solutions in Flushing, NY. Known for clean facilities and dependable laundry equipment."
+  },
+  {
+    "id": 43,
+    "name": "Lav Express Laundry",
+    "address": "42-20 43rd Ave, Sunnyside, NY 11104",
+    "phone": "(646) 930-4706",
+    "website": "http://lavexpress.com/",
+    "rating": 4,
+    "reviewCount": 52,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Fast and efficient laundromat offering convenient washing and drying facilities in Sunnyside, NY. Features modern equipment and a clean environment for all your laundry needs."
+  },
+  {
+    "id": 44,
+    "name": "Wash World",
+    "address": "31-11 31st St, Long Island City, NY 11106",
+    "phone": "(718) 728-6052",
+    "website": null,
+    "rating": 3.9,
+    "reviewCount": 76,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Full-service washing facility offering quality laundry solutions in Long Island City, NY. Features comfortable environment and well-maintained machines."
+  },
+  {
+    "id": 45,
+    "name": "Clean Rite Center",
+    "address": "131-01 101st Ave, South Richmond Hill, NY 11419",
+    "phone": "(718) 674-6300",
+    "website": "https://www.cleanritecenter.com/stores/clean-rite-center-131-01101stst-queensny/?utm_source=extnet&utm_medium=yext",
+    "rating": 4.1,
+    "reviewCount": 415,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Convenient laundromat featuring hygiene-focused facility serving the South Richmond Hill, NY area with efficient washing and drying services. Popular with residents for reliable equipment."
+  },
+  {
+    "id": 46,
+    "name": "Luxwater Laundry Place / Japanese Laundromat / Retail 水のスペース",
+    "address": "45-15 82nd St, Elmhurst, NY 11373",
+    "phone": "(917) 636-7878",
+    "website": "https://wluxwater.com/",
+    "rating": 4,
+    "reviewCount": 65,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Convenient laundromat serving the Elmhurst, NY area with efficient washing and drying services. Popular with residents for reliable equipment."
+  },
+  {
+    "id": 47,
+    "name": "Clean Rite Center",
+    "address": "168-04 Liberty Ave, Jamaica, NY 11433",
+    "phone": "(718) 487-4005",
+    "website": "https://www.cleanritecenter.com/stores/clean-rite-center-16804libertyave-queensny/",
+    "rating": 4.2,
+    "reviewCount": 378,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Emphasis on cleanliness coin laundry providing washing and drying solutions in Jamaica, NY. Known for clean facilities and dependable laundry equipment."
+  },
+  {
+    "id": 48,
+    "name": "The Laundry Room",
+    "address": "37-01 28th Ave, Astoria, NY 11103",
+    "phone": "(718) 606-9444",
+    "website": null,
+    "rating": 3.8,
+    "reviewCount": 60,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Established washing facility offering reliable laundry services in Astoria, NY. Features spacious layout and dependable equipment."
+  },
+  {
+    "id": 49,
+    "name": "Laundrybee - Jackson Heights",
+    "address": "71-16 37th Ave, Jackson Heights, NY 11372",
+    "phone": "(929) 430-2867",
+    "website": "http://www.laundrybee.com/",
+    "rating": 4.6,
+    "reviewCount": 159,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Community-oriented laundromat providing quality washing and drying services in Jackson Heights, NY. Known for clean environment and friendly atmosphere."
+  },
+  {
+    "id": 50,
+    "name": "J A Suds Laundromat",
+    "address": "15-04 College Point Blvd, Flushing, NY 11356",
+    "phone": "(718) 539-3916",
+    "website": "https://jasudslaundromat.wixsite.com/home",
+    "rating": 4.4,
+    "reviewCount": 20,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Neighborhood laundromat serving Flushing, NY with convenient washing and drying facilities. Known for modern equipment and clean environment."
+  },
+  {
+    "id": 51,
+    "name": "Laundry Express",
+    "address": "88-08 180th St, Jamaica, NY 11432",
+    "phone": "(718) 526-9274",
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 273,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Established washing facility offering comprehensive laundry services in Jamaica, NY. Features modern equipment and convenient location for easy access."
+  },
+  {
+    "id": 52,
+    "name": "Grand Central Laundromat",
+    "address": "82-75 Parsons Blvd, Jamaica, NY 11432",
+    "phone": "(718) 674-5669",
+    "website": null,
+    "rating": 4,
+    "reviewCount": 211,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Professional laundromat serving the Jamaica, NY area with modern washing and drying equipment. Known for efficient service and clean facilities."
+  },
+  {
+    "id": 53,
+    "name": "Clean Rite Center",
+    "address": "50-14 Roosevelt Ave, Woodside, NY 11377",
+    "phone": "(718) 335-1630",
+    "website": "https://www.cleanritecenter.com/stores/clean-rite-center-5014rooseveltave-queensny/?utm_source=extnet&utm_medium=yext",
+    "rating": 4.2,
+    "reviewCount": 377,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Established washing facility offering comprehensive laundry services in Woodside, NY. Features modern equipment and convenient location for easy access."
+  },
+  {
+    "id": 54,
+    "name": "Farmers Laundromat & Dry",
+    "address": "136-33 Farmers Blvd, Jamaica, NY 11434",
+    "phone": "(718) 525-6881",
+    "website": null,
+    "rating": 4,
+    "reviewCount": 136,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Full-service coin laundry providing washing and drying solutions in Jamaica, NY. Known for clean facilities and dependable laundry equipment."
+  },
+  {
+    "id": 55,
+    "name": "Express 1 Laundromat",
+    "address": "109-10 Northern Blvd, Corona, NY 11368",
+    "phone": "(718) 505-1470",
+    "website": "http://www.express1laundromat.com/",
+    "rating": 4.6,
+    "reviewCount": 46,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Quick-service focused laundromat providing reliable washing and drying services to residents of Corona, NY. Known for well-maintained machines and friendly service."
+  },
+  {
+    "id": 56,
+    "name": "Best Today's Laundromat",
+    "address": "48-15 31st Ave, Astoria, NY 11103",
+    "phone": "(718) 204-9226",
+    "website": "http://btlaundromat.com/",
+    "rating": 4.4,
+    "reviewCount": 293,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Convenient laundromat featuring premium laundry experience providing efficient washing and drying services in Astoria, NY. Popular with local residents for its reliable machines and clean environment."
+  },
+  {
+    "id": 57,
+    "name": "Wash And Fold Super Laundry - Springfield Gardens",
+    "address": "219-03 N Conduit Ave, Springfield Gardens, NY 11413",
+    "phone": "(718) 341-1000",
+    "website": "https://washandfoldsuperlaundry.com/",
+    "rating": 3.7,
+    "reviewCount": 90,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Professional coin laundry providing efficient washing and drying solutions in Springfield Gardens, NY. Popular choice for reliable laundry services."
+  },
+  {
+    "id": 58,
+    "name": "Village Clean Laundry | Pickup & Delivery / Dry Cleaner",
+    "address": "218-02 Hempstead Ave, Queens Village, NY 11429",
+    "phone": "(347) 626-7373",
+    "website": "http://www.vclaundry.com/",
+    "rating": 4.1,
+    "reviewCount": 127,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Community laundromat featuring spotless environment providing comprehensive washing and drying solutions in Queens Village, NY. Well-equipped with modern laundry machines."
+  },
+  {
+    "id": 59,
+    "name": "Soap Club Laundromat",
+    "address": "85-41 Grand Ave, Queens, NY 11373",
+    "phone": "(347) 396-5580",
+    "website": "https://soapclubqueen.com/",
+    "rating": 4.9,
+    "reviewCount": 68,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7282,
+    "lng": -73.7949,
+    "verified": false,
+    "description": "Professional coin laundry providing efficient washing and drying solutions in Queens, NY. Popular choice for reliable laundry services."
+  },
+  {
+    "id": 60,
+    "name": "Elmhurst Laundry Center",
+    "address": "45-12 74th St., Flushing, NY 11373",
+    "phone": "(718) 898-8288",
+    "website": null,
+    "rating": 3.7,
+    "reviewCount": 133,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Community laundromat featuring hub for laundry services offering convenient washing and drying services to Flushing, NY residents. Features well-maintained machines and comfortable environment."
+  },
+  {
+    "id": 61,
+    "name": "55 Roosevelt Laundromat",
+    "address": "55-02 Roosevelt Ave, Flushing, NY 11377",
+    "phone": "(718) 898-8812",
+    "website": "http://55-roosevelt.poi.place/",
+    "rating": 3.4,
+    "reviewCount": 116,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Local laundromat offering comprehensive washing and drying services in Flushing, NY. Features spacious facility with modern equipment and convenient hours."
+  },
+  {
+    "id": 62,
+    "name": "Hong Guang Laundromat",
+    "address": "43-45 41st St, Sunnyside, NY 11104",
+    "phone": "(718) 838-8885",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 29,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Community-oriented laundromat providing quality washing and drying services in Sunnyside, NY. Known for clean environment and friendly atmosphere."
+  },
+  {
+    "id": 63,
+    "name": "Empire Laundromat USA",
+    "address": "109-11 Liberty Ave, South Richmond Hill, NY 11419",
+    "phone": "(718) 925-9574",
+    "website": null,
+    "rating": 3.6,
+    "reviewCount": 98,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Community laundromat offering convenient washing and drying services to South Richmond Hill, NY residents. Features well-maintained machines and comfortable environment."
+  },
+  {
+    "id": 64,
+    "name": "Daisy Laundromat",
+    "address": "69-15 Calamus Ave, Flushing, NY 11377",
+    "phone": null,
+    "website": null,
+    "rating": 3.8,
+    "reviewCount": 82,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Established laundry facility providing comprehensive washing and drying services in Flushing, NY. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 65,
+    "name": "Baxter MegaWash Laundromat",
+    "address": "82-20 Baxter Ave, Elmhurst, NY 11373",
+    "phone": "(718) 458-2811",
+    "website": "https://cleanmegawash.com/",
+    "rating": 4,
+    "reviewCount": 126,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Spacious facility laundromat offering reliable washing and drying solutions in Elmhurst, NY. Features modern equipment and convenient operating hours."
+  },
+  {
+    "id": 66,
+    "name": "A1 Laundromat",
+    "address": "64-07 Grand Ave, Maspeth, NY 11378",
+    "phone": "(718) 326-4444",
+    "website": null,
+    "rating": 4,
+    "reviewCount": 164,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Professional laundromat offering reliable washing and drying solutions in Maspeth, NY. Known for clean facilities and well-maintained equipment."
+  },
+  {
+    "id": 67,
+    "name": "Urban MegaWash Laundromat",
+    "address": "37-05 108th St, Flushing, NY 11368",
+    "phone": "(718) 205-0442",
+    "website": "https://cleanmegawash.com/",
+    "rating": 4.1,
+    "reviewCount": 113,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Professional laundromat featuring spacious facility serving the Flushing, NY area with modern washing and drying equipment. Known for efficient service and clean facilities."
+  },
+  {
+    "id": 68,
+    "name": "Clean Rite Center",
+    "address": "80-10 Rockaway Blvd, Ozone Park, NY 11416",
+    "phone": "(347) 480-5917",
+    "website": "https://www.cleanritecenter.com/stores/095fb/?utm_source=extnet&utm_medium=yext",
+    "rating": 4.1,
+    "reviewCount": 449,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Hygiene-focused facility laundromat providing reliable washing and drying services to residents of Ozone Park, NY. Known for well-maintained machines and friendly service."
+  },
+  {
+    "id": 69,
+    "name": "Laney's Laundry & Dry Clean",
+    "address": "80-57 Lefferts Blvd, Kew Gardens, NY 11415",
+    "phone": "(917) 300-6163",
+    "website": "http://www.laneyslaundry.com/",
+    "rating": 4.7,
+    "reviewCount": 195,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Convenient coin-operated laundromat featuring emphasis on cleanliness serving Kew Gardens, NY with efficient washing and drying facilities. Popular with local community members."
+  },
+  {
+    "id": 70,
+    "name": "Mr. Bubbles Laundromat",
+    "address": "94-23 Astoria Blvd, East Elmhurst, NY 11369",
+    "phone": "(929) 522-0304",
+    "website": "http://www.mrbubblesqueens.com/",
+    "rating": 4.4,
+    "reviewCount": 196,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Professional coin laundry providing efficient washing and drying solutions in East Elmhurst, NY. Popular choice for reliable laundry services."
+  },
+  {
+    "id": 71,
+    "name": "Laundry Haven",
+    "address": "85-42 Woodhaven Blvd, Woodhaven, NY 11421",
+    "phone": "(718) 846-4444",
+    "website": "https://www.laundryhavenexpress.com/",
+    "rating": 3.9,
+    "reviewCount": 289,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Family-friendly laundromat serving Woodhaven, NY with convenient washing and drying services. Features comfortable seating and modern laundry equipment."
+  },
+  {
+    "id": 72,
+    "name": "Clean Rite Center",
+    "address": "214-50 Jamaica Ave, Queens Village, NY 11428",
+    "phone": "(718) 479-2860",
+    "website": "https://www.cleanritecenter.com/stores/clean-rite-center-214-50jamaicaave-queensny/?utm_source=extnet&utm_medium=yext",
+    "rating": 4.5,
+    "reviewCount": 654,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Convenient laundromat featuring spotless environment serving the Queens Village, NY area with efficient washing and drying services. Popular with residents for reliable equipment."
+  },
+  {
+    "id": 73,
+    "name": "JH Laundromat",
+    "address": "85-15 37th Ave, Jackson Heights, NY 11372",
+    "phone": "(347) 878-8515",
+    "website": "http://www.jhlaundromat.com/",
+    "rating": 4.2,
+    "reviewCount": 83,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Convenient laundromat providing efficient washing and drying services in Jackson Heights, NY. Popular with local residents for its reliable machines and clean environment."
+  },
+  {
+    "id": 74,
+    "name": "Guy R Brewer’s Laundromat",
+    "address": "145-87 Guy R Brewer Blvd, Rochdale, NY 11434",
+    "phone": "(718) 712-5200",
+    "website": null,
+    "rating": 3.9,
+    "reviewCount": 233,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Professional laundromat serving the Rochdale, NY area with modern washing and drying equipment. Known for efficient service and clean facilities."
+  },
+  {
+    "id": 75,
+    "name": "Clean Rite Center",
+    "address": "112-05 Sutphin Blvd, Jamaica, NY 11435",
+    "phone": "(718) 641-2900",
+    "website": "https://www.cleanritecenter.com/stores/clean-rite-center-11205sutphinblvd-queensny/",
+    "rating": 3.9,
+    "reviewCount": 266,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Established washing facility offering comprehensive laundry services in Jamaica, NY. Features modern equipment and convenient location for easy access."
+  },
+  {
+    "id": 76,
+    "name": "Fresh Meadows MegaWash",
+    "address": "195-15 69th Ave, Queens, NY 11365",
+    "phone": "(718) 454-5767",
+    "website": "https://cleanmegawash.com/",
+    "rating": 3.9,
+    "reviewCount": 108,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7282,
+    "lng": -73.7949,
+    "verified": false,
+    "description": "Neighborhood laundromat featuring spacious facility providing quality washing and drying services to the Queens, NY community. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 77,
+    "name": "39 LAUNDROMAT",
+    "address": "39-09 104th St, Corona, NY 11368",
+    "phone": null,
+    "website": null,
+    "rating": 4.3,
+    "reviewCount": 12,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": null,
+    "lng": null,
+    "verified": false,
+    "description": "Established washing facility offering comprehensive laundry services in Corona, NY. Features modern equipment and convenient location for easy access."
+  }
+]
