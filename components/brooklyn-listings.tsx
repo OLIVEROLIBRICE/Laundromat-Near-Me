@@ -106,12 +106,12 @@ export function CityListings({ listings, cityName, citySlug }: { listings: CityL
 
             <p className="mt-5 text-sm leading-6 text-slate-600">{listing.description}</p>
 
-            <div className="mt-5 rounded-2xl border border-slate-200 bg-slate-50 p-4">
+            {pricingItems.length > 0 && <div className="mt-5 rounded-2xl border border-slate-200 bg-slate-50 p-4">
               <p className="text-xs font-extrabold uppercase tracking-[.14em] text-slate-400">Supplied pricing</p>
               <div className="mt-3 flex flex-wrap gap-2">
                 {pricingItems.map((item) => <span key={item} className="rounded-lg border border-slate-200 bg-white px-3 py-1.5 text-xs font-extrabold text-slate-700 shadow-sm">{item}</span>)}
               </div>
-            </div>
+            </div>}
 
             <div className="mt-5 flex flex-wrap gap-3">
               {listing.phone && <a href={`tel:${listing.phone}`} className="focus-ring inline-flex flex-1 items-center justify-center gap-2 rounded-xl bg-brand-600 px-4 py-3 text-sm font-extrabold text-white transition hover:bg-brand-700"><Phone size={18}/>Call {listing.phone}</a>}

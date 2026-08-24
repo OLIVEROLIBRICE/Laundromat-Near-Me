@@ -1,0 +1,1392 @@
+[
+  {
+    "id": 1,
+    "name": "Nice & Clean Laundromat",
+    "address": "3225 21st St, San Francisco, CA 94110",
+    "phone": "(415) 583-1669",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 3,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Neighborhood laundromat featuring hygiene-focused facility providing quality washing and drying services to the in the iconic San Francisco area community. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 2,
+    "name": "San Bruno Coin Launderland",
+    "address": "2444 San Bruno Ave, San Francisco, CA 94134",
+    "phone": "(415) 467-4622",
+    "website": null,
+    "rating": 3.8,
+    "reviewCount": 61,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Local washing facility providing reliable laundry services in in the iconic San Francisco area. Popular choice for both quick wash and full-service laundry needs."
+  },
+  {
+    "id": 3,
+    "name": "City Wash",
+    "address": "83 Leland Ave, San Francisco, CA 94134",
+    "phone": "(415) 501-0702",
+    "website": null,
+    "rating": 3.6,
+    "reviewCount": 39,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Local laundromat offering comprehensive washing and drying services in in the iconic San Francisco area. Features spacious facility with modern equipment and convenient hours. This 3.60-star rated facility provides dependable service."
+  },
+  {
+    "id": 4,
+    "name": "Amybelle's Wash & Dry",
+    "address": "3220 Balboa St, San Francisco, CA 94121",
+    "phone": "(415) 279-1948",
+    "website": "http://www.amybelle.com/",
+    "rating": 4,
+    "reviewCount": 29,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Convenient laundromat providing efficient washing and drying services in in the iconic San Francisco area. Popular with local residents for its reliable machines and clean environment."
+  },
+  {
+    "id": 5,
+    "name": "Oomz / Wash & Fold & Free Delivery",
+    "address": "3157 Mission St, San Francisco, CA 94110",
+    "phone": "(415) 225-1013",
+    "website": "https://www.oomzllc.com/",
+    "rating": 4.8,
+    "reviewCount": 39,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Established laundromat serving the in the iconic San Francisco area area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry."
+  },
+  {
+    "id": 6,
+    "name": "Coin Wash & Dry",
+    "address": "1732 Church St, San Francisco, CA 94131",
+    "phone": "(415) 374-4751",
+    "website": null,
+    "rating": 4,
+    "reviewCount": 19,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Community laundromat providing comprehensive washing and drying solutions in in the iconic San Francisco area. Well-equipped with modern laundry machines."
+  },
+  {
+    "id": 7,
+    "name": "First Coin Laundry",
+    "address": "365 Eddy St, San Francisco, CA 94102",
+    "phone": "(415) 474-8493",
+    "website": null,
+    "rating": 4,
+    "reviewCount": 94,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Full-service laundromat offering convenient washing and drying facilities in in the iconic San Francisco area. Features modern equipment and a clean environment for all your laundry needs."
+  },
+  {
+    "id": 8,
+    "name": "Clement Laundry",
+    "address": "1024 Clement St, San Francisco, CA 94118",
+    "phone": "(415) 404-9430",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Neighborhood coin laundry offering convenient washing and drying solutions in in the iconic San Francisco area. Features spacious facility and reliable equipment."
+  },
+  {
+    "id": 9,
+    "name": "BAY WASH LAUNDRY",
+    "address": "4815 Mission St, San Francisco, CA 94112",
+    "phone": null,
+    "website": null,
+    "rating": 4.3,
+    "reviewCount": 4,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Established washing facility offering reliable laundry services in in the iconic San Francisco area. Features spacious layout and dependable equipment."
+  },
+  {
+    "id": 10,
+    "name": "Polk Street Laudromat",
+    "address": "1305 Polk St, San Francisco, CA 94109",
+    "phone": "(415) 757-0139",
+    "website": null,
+    "rating": 4.2,
+    "reviewCount": 66,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Community-oriented laundromat providing quality washing and drying services in in the iconic San Francisco area. Known for clean environment and friendly atmosphere."
+  },
+  {
+    "id": 11,
+    "name": "Greenwich Clean Time",
+    "address": "1720 Greenwich St, San Francisco, CA 94123",
+    "phone": "(415) 474-6972",
+    "website": null,
+    "rating": 4.3,
+    "reviewCount": 77,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Convenient laundromat featuring spotless environment providing efficient washing and drying services in in the iconic San Francisco area. Popular with local residents for its reliable machines and clean environment."
+  },
+  {
+    "id": 12,
+    "name": "Busy B Laundry",
+    "address": "1438 California St, San Francisco, CA 94109",
+    "phone": "(415) 646-1109",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 29,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Family-friendly laundromat serving in the iconic San Francisco area with convenient washing and drying services. Features comfortable seating and modern laundry equipment. This 5.00-star rated facility provides dependable service."
+  },
+  {
+    "id": 13,
+    "name": "Pure Laundry",
+    "address": "210 College Ave, San Francisco, CA 94112",
+    "phone": "(415) 570-4490",
+    "website": "http://www.sfpurelaundry.com/",
+    "rating": 5,
+    "reviewCount": 21,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Professional coin laundry providing efficient washing and drying solutions in in the iconic San Francisco area. Popular choice for reliable laundry services."
+  },
+  {
+    "id": 14,
+    "name": "Launderland",
+    "address": "2020 Ocean Ave, San Francisco, CA 94127",
+    "phone": "(415) 843-1784",
+    "website": "http://www.launderlandsf.com/",
+    "rating": 3.7,
+    "reviewCount": 84,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Community-oriented laundromat providing quality washing and drying services in in the iconic San Francisco area. Known for clean environment and friendly atmosphere. This 3.70-star rated facility provides dependable service."
+  },
+  {
+    "id": 15,
+    "name": "The Laundry Corner",
+    "address": "700 7th Ave, San Francisco, CA 94118",
+    "phone": "(415) 919-7273",
+    "website": "http://www.thelaundrycorner.com/",
+    "rating": 4.5,
+    "reviewCount": 61,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Neighborhood corner spot laundromat providing reliable washing and drying services to residents of in the iconic San Francisco area. Known for well-maintained machines and friendly service."
+  },
+  {
+    "id": 16,
+    "name": "Mission Fiesta Laundry",
+    "address": "5756 Mission St, San Francisco, CA 94112",
+    "phone": "(415) 584-6691",
+    "website": "https://missionfiestalaundry.com/",
+    "rating": 4.1,
+    "reviewCount": 136,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Full-service coin laundry providing washing and drying solutions in in the iconic San Francisco area. Known for clean facilities and dependable laundry equipment."
+  },
+  {
+    "id": 17,
+    "name": "Balboa Bubbles",
+    "address": "2001 Balboa St, San Francisco, CA 94121",
+    "phone": "(415) 789-6679",
+    "website": null,
+    "rating": 3.8,
+    "reviewCount": 29,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Local laundromat offering comprehensive washing and drying services in in the iconic San Francisco area. Features spacious facility with modern equipment and convenient hours."
+  },
+  {
+    "id": 18,
+    "name": "The TL Laundromat & Wash and Fold (NO CAFE)",
+    "address": "517 O'Farrell St, San Francisco, CA 94102",
+    "phone": "(650) 718-2838",
+    "website": "http://www.tlwashandfold.com/",
+    "rating": 4.4,
+    "reviewCount": 338,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Community-oriented laundromat providing quality washing and drying services in in the iconic San Francisco area. Known for clean environment and friendly atmosphere."
+  },
+  {
+    "id": 19,
+    "name": "Ocean View Laundromat",
+    "address": "4089 19th Ave, San Francisco, CA 94132",
+    "phone": "(415) 312-6552",
+    "website": null,
+    "rating": 4.2,
+    "reviewCount": 59,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Full-service washing facility offering quality laundry solutions in in the iconic San Francisco area. Features comfortable environment and well-maintained machines."
+  },
+  {
+    "id": 20,
+    "name": "Bubbloo Laundry",
+    "address": "747 Taraval St, San Francisco, CA 94116",
+    "phone": "(415) 493-8866",
+    "website": null,
+    "rating": 3.7,
+    "reviewCount": 20,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Local laundry facility offering comprehensive washing and drying services to in the iconic San Francisco area residents. Features well-maintained equipment and convenient location."
+  },
+  {
+    "id": 21,
+    "name": "Fiesta Laundromat",
+    "address": "898 S Van Ness Ave, San Francisco, CA 94110",
+    "phone": "(415) 282-0202",
+    "website": null,
+    "rating": 4.2,
+    "reviewCount": 456,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Neighborhood laundromat serving in the iconic San Francisco area with convenient washing and drying facilities. Known for modern equipment and clean environment."
+  },
+  {
+    "id": 22,
+    "name": "Get the Funk Out",
+    "address": "1901 McAllister St, San Francisco, CA 94115",
+    "phone": null,
+    "website": null,
+    "rating": 4.2,
+    "reviewCount": 30,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Community-focused laundromat providing reliable washing and drying services to residents of in the iconic San Francisco area. Known for well-maintained machines and friendly service."
+  },
+  {
+    "id": 23,
+    "name": "Wash N' Fold",
+    "address": "Bosworth St, San Francisco, CA 94131",
+    "phone": null,
+    "website": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Established washing facility offering comprehensive laundry services in in the iconic San Francisco area. Features modern equipment and convenient location for easy access."
+  },
+  {
+    "id": 24,
+    "name": "Jack's Laundry",
+    "address": "196 Noe St, San Francisco, CA 94114",
+    "phone": "(415) 431-2742",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 29,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Full-service laundromat offering reliable washing and drying solutions in in the iconic San Francisco area. Features modern equipment and convenient operating hours."
+  },
+  {
+    "id": 25,
+    "name": "Shermsonia Laundromat",
+    "address": "5539 Geary Blvd, San Francisco, CA 94121",
+    "phone": "(415) 386-9647",
+    "website": "http://shermsonia.com/",
+    "rating": 4.6,
+    "reviewCount": 39,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Full-service laundromat offering convenient washing and drying facilities in in the iconic San Francisco area. Features modern equipment and a clean environment for all your laundry needs."
+  },
+  {
+    "id": 26,
+    "name": "The Laundry Hub SF",
+    "address": "5090 Mission St, San Francisco, CA 94112",
+    "phone": "(510) 925-3180",
+    "website": "https://thelaundryhubsf.com/",
+    "rating": 4.5,
+    "reviewCount": 40,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Convenient laundromat serving the in the iconic San Francisco area area with efficient washing and drying services. Popular with residents for reliable equipment."
+  },
+  {
+    "id": 27,
+    "name": "Laundré",
+    "address": "3487 20th St, San Francisco, CA 94110",
+    "phone": "(415) 704-0717",
+    "website": "http://www.laundre.co/",
+    "rating": 4.3,
+    "reviewCount": 200,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Professional laundromat offering reliable washing and drying solutions in in the iconic San Francisco area. Known for clean facilities and well-maintained equipment."
+  },
+  {
+    "id": 28,
+    "name": "Tons of Bubbles Laundromat",
+    "address": "998 Filbert St, San Francisco, CA 94133",
+    "phone": "(925) 822-7882",
+    "website": "https://www.tonsofbubbles.com/",
+    "rating": 4.4,
+    "reviewCount": 35,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Full-service laundromat offering reliable washing and drying solutions in in the iconic San Francisco area. Features modern equipment and convenient operating hours."
+  },
+  {
+    "id": 29,
+    "name": "North Beach Laundry",
+    "address": "801 Filbert St, San Francisco, CA 94133",
+    "phone": "(415) 658-5032",
+    "website": "https://www.northbeachlaundry.com/",
+    "rating": 4.7,
+    "reviewCount": 167,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Community laundromat providing comprehensive washing and drying solutions in in the iconic San Francisco area. Well-equipped with modern laundry machines."
+  },
+  {
+    "id": 30,
+    "name": "Burbujas 1",
+    "address": "2899 24th St, San Francisco, CA 94110",
+    "phone": "(415) 577-4133",
+    "website": "http://www.burbujaswashandfold.com/",
+    "rating": 4.5,
+    "reviewCount": 57,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Community laundromat offering convenient washing and drying services to in the iconic San Francisco area residents. Features well-maintained machines and comfortable environment."
+  },
+  {
+    "id": 31,
+    "name": "Laundré | Dry Cleaners & Laundromat",
+    "address": "1233 Divisadero St, San Francisco, CA 94115",
+    "phone": "(415) 704-0717",
+    "website": "http://laundre.co/",
+    "rating": 4.6,
+    "reviewCount": 111,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Convenient laundromat featuring emphasis on cleanliness serving the in the iconic San Francisco area area with efficient washing and drying services. Popular with residents for reliable equipment."
+  },
+  {
+    "id": 32,
+    "name": "Angkor Laundromat",
+    "address": "353 Eddy St, San Francisco, CA 94102",
+    "phone": "(415) 986-9773",
+    "website": null,
+    "rating": 4.4,
+    "reviewCount": 48,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Neighborhood laundromat serving in the iconic San Francisco area with convenient washing and drying facilities. Known for modern equipment and clean environment. This 4.40-star rated facility provides dependable service."
+  },
+  {
+    "id": 33,
+    "name": "Lulu Laundromat",
+    "address": "3668 26th St, San Francisco, CA 94110",
+    "phone": "(415) 590-2489",
+    "website": "https://lilylaundromat.com/lulu/",
+    "rating": 4.1,
+    "reviewCount": 19,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Full-service coin laundry providing washing and drying solutions in in the iconic San Francisco area. Known for clean facilities and dependable laundry equipment. This 4.10-star rated facility provides dependable service."
+  },
+  {
+    "id": 34,
+    "name": "Washateria",
+    "address": "485 Guerrero St, San Francisco, CA 94110",
+    "phone": null,
+    "website": null,
+    "rating": 4.4,
+    "reviewCount": 14,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Local laundry facility offering comprehensive washing and drying services to in the iconic San Francisco area residents. Features well-maintained equipment and convenient location. This 4.40-star rated facility provides dependable service."
+  },
+  {
+    "id": 35,
+    "name": "SF Laundromat",
+    "address": "850 Jones St, San Francisco, CA 94109",
+    "phone": "(707) 595-0894",
+    "website": "http://www.sflaundromat.com/",
+    "rating": 4.6,
+    "reviewCount": 265,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Professional coin laundry providing efficient washing and drying solutions in in the iconic San Francisco area. Popular choice for reliable laundry services."
+  },
+  {
+    "id": 36,
+    "name": "So Fresh So Clean Laundry",
+    "address": "254 Clement St, San Francisco, CA 94118",
+    "phone": "(415) 845-7464",
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 46,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Professional laundromat featuring emphasis on cleanliness offering reliable washing and drying solutions in in the iconic San Francisco area. Known for clean facilities and well-maintained equipment."
+  },
+  {
+    "id": 37,
+    "name": "Tower Laundromat",
+    "address": "1800 Stockton St, San Francisco, CA 94133",
+    "phone": "(415) 421-2021",
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 45,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Neighborhood coin laundry offering convenient washing and drying solutions in in the iconic San Francisco area. Features spacious facility and reliable equipment."
+  },
+  {
+    "id": 38,
+    "name": "Carlin's Laundromat",
+    "address": "290 Valencia St, San Francisco, CA 94103",
+    "phone": null,
+    "website": null,
+    "rating": 4,
+    "reviewCount": 91,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Established washing facility offering reliable laundry services in in the iconic San Francisco area. Features spacious layout and dependable equipment."
+  },
+  {
+    "id": 39,
+    "name": "WashClub Bay Area",
+    "address": "1426-B Fillmore St, San Francisco, CA 94115",
+    "phone": "(888) 997-3191",
+    "website": "http://www.washclubbayarea.com/",
+    "rating": 4.2,
+    "reviewCount": 74,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Local washing facility providing reliable laundry services in in the iconic San Francisco area. Popular choice for both quick wash and full-service laundry needs."
+  },
+  {
+    "id": 40,
+    "name": "Sit & Spin",
+    "address": "4023 18th St, San Francisco, CA 94114",
+    "phone": "(415) 522-0201",
+    "website": null,
+    "rating": 4.7,
+    "reviewCount": 60,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Convenient laundromat providing efficient washing and drying services in in the iconic San Francisco area. Popular with local residents for its reliable machines and clean environment."
+  },
+  {
+    "id": 41,
+    "name": "Wash Club",
+    "address": "2307 Folsom St, San Francisco, CA 94110",
+    "phone": "(415) 681-9274",
+    "website": "https://www.washclubsf.com/",
+    "rating": 4.4,
+    "reviewCount": 44,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Professional laundromat offering reliable washing and drying solutions in in the iconic San Francisco area. Known for clean facilities and well-maintained equipment. This 4.40-star rated facility provides dependable service."
+  },
+  {
+    "id": 42,
+    "name": "The Laundromat SF",
+    "address": "3725 Balboa St, San Francisco, CA 94121",
+    "phone": "(415) 379-4340",
+    "website": "https://www.thelaundromatsf.com/",
+    "rating": 4.7,
+    "reviewCount": 520,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Full-service coin laundry providing washing and drying solutions in in the iconic San Francisco area. Known for clean facilities and dependable laundry equipment."
+  },
+  {
+    "id": 43,
+    "name": "Oak Street Laundry",
+    "address": "1130 Oak St, San Francisco, CA 94117",
+    "phone": "(415) 552-0693",
+    "website": null,
+    "rating": 4.3,
+    "reviewCount": 104,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Neighborhood laundromat serving in the iconic San Francisco area with convenient washing and drying facilities. Known for modern equipment and clean environment."
+  },
+  {
+    "id": 44,
+    "name": "Ocean Blue Laundry & Sandwich Shop",
+    "address": "8 Valencia St, San Francisco, CA 94103",
+    "phone": "(415) 923-8911",
+    "website": "https://ocean-blue-sandwich-shop.square.site/#6JBO2UQFU7JAUY53HVZGVVUM",
+    "rating": 4.3,
+    "reviewCount": 40,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Family-friendly laundromat serving in the iconic San Francisco area with convenient washing and drying services. Features comfortable seating and modern laundry equipment."
+  },
+  {
+    "id": 45,
+    "name": "Toss N Turn Laundry",
+    "address": "3001 22nd St, San Francisco, CA 94110",
+    "phone": "(888) 959-0418",
+    "website": "http://www.tossnturn.net/",
+    "rating": 5,
+    "reviewCount": 21,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Established washing facility offering comprehensive laundry services in in the iconic San Francisco area. Features modern equipment and convenient location for easy access."
+  },
+  {
+    "id": 46,
+    "name": "Sparkle Laundry Services",
+    "address": "4200 Balboa St, San Francisco, CA 94121",
+    "phone": "(415) 831-4328",
+    "website": null,
+    "rating": 4.4,
+    "reviewCount": 79,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Family-friendly laundromat serving in the iconic San Francisco area with convenient washing and drying services. Features comfortable seating and modern laundry equipment."
+  },
+  {
+    "id": 47,
+    "name": "Lily Laundromat",
+    "address": "2204 Bryant St, San Francisco, CA 94110",
+    "phone": "(415) 689-6955",
+    "website": "http://lilylaundromat.com/",
+    "rating": 4.4,
+    "reviewCount": 81,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Neighborhood laundromat providing quality washing and drying services to the in the iconic San Francisco area community. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 48,
+    "name": "7-11 Wash & Dry",
+    "address": "3789 Mission St, San Francisco, CA 94110",
+    "phone": "(415) 235-2048",
+    "website": null,
+    "rating": 4.3,
+    "reviewCount": 16,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Community laundromat offering convenient washing and drying services to in the iconic San Francisco area residents. Features well-maintained machines and comfortable environment."
+  },
+  {
+    "id": 49,
+    "name": "Cow Hollow Laundromat",
+    "address": "3107 Pierce St, San Francisco, CA 94123",
+    "phone": "(415) 345-8145",
+    "website": "https://cowhollowlaundromat.com/",
+    "rating": 4.2,
+    "reviewCount": 89,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Established laundry facility providing comprehensive washing and drying services in in the iconic San Francisco area. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 50,
+    "name": "Clean Wash Center Laundry",
+    "address": "4690 Mission St, San Francisco, CA 94112",
+    "phone": "(415) 333-7200",
+    "website": "https://cleanwashcenter.com/",
+    "rating": 3.9,
+    "reviewCount": 84,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Professional laundromat featuring hygiene-focused facility offering reliable washing and drying solutions in in the iconic San Francisco area. Known for clean facilities and well-maintained equipment."
+  },
+  {
+    "id": 51,
+    "name": "Citi Laundry",
+    "address": "7253 Geary Blvd, San Francisco, CA 94121",
+    "phone": "(415) 668-2473",
+    "website": null,
+    "rating": 4.1,
+    "reviewCount": 38,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Professional laundromat serving the in the iconic San Francisco area area with modern washing and drying equipment. Known for efficient service and clean facilities."
+  },
+  {
+    "id": 52,
+    "name": "Social Cleaning Laundromat",
+    "address": "410 Terry A Francois Blvd, San Francisco, CA 94158",
+    "phone": "(415) 872-9274",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 72,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $5.25; dry $4.00; wash-and-fold $1.65/lb",
+    "is24Hours": false,
+    "hasWifi": true,
+    "hasParking": true,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "14 years established in Mission Bay with professional service. Walk-ins welcome for quality laundry care."
+  },
+  {
+    "id": 53,
+    "name": "Rinse - Laundry & Dry Cleaning Delivery",
+    "address": "1000 Brannan St #100, San Francisco, CA 94103",
+    "phone": "(888) 850-2444",
+    "website": "https://www.rinse.com/",
+    "rating": 4.3,
+    "reviewCount": 301,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Community laundromat featuring spotless environment providing comprehensive washing and drying solutions in in the iconic San Francisco area. Well-equipped with modern laundry machines."
+  },
+  {
+    "id": 54,
+    "name": "Toss N Turn Laundry",
+    "address": "1563 Church St, San Francisco, CA 94131",
+    "phone": "(415) 824-8877",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 98,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $5.00; dry $3.75; wash-and-fold $1.60/lb",
+    "is24Hours": false,
+    "hasWifi": true,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "verified": false,
+    "description": "Best laundromat in the city! New in 2024, locally owned with new equipment and friendly attendants."
+  }
+]
