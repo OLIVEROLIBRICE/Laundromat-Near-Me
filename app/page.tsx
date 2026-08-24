@@ -91,7 +91,6 @@ export default function Home() {
             <SiteLogo inverted/>
           </Link>
           <nav className="hidden items-center gap-8 text-sm font-bold lg:flex" aria-label="Main navigation">
-            <Link href="/" className="text-[#93c5fd]">Home</Link>
             <Link href="#popular-cities" className="transition hover:text-[#93c5fd]">Browse locations</Link>
             <Link href="/search?q=24-hour" className="transition hover:text-[#93c5fd]">24-hour laundry</Link>
             <Link href="/blog" className="transition hover:text-[#93c5fd]">Laundry guides</Link>
