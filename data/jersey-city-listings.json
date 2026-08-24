@@ -1,0 +1,386 @@
+[
+  {
+    "id": 1,
+    "name": "Spins Laundromat Jersey City",
+    "address": "580 Montgomery St, Jersey City, NJ 07302",
+    "phone": "(201) 705-0856",
+    "website": "http://spinslaundromats.com/",
+    "rating": 4.8,
+    "reviewCount": 56,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7178,
+    "lng": -74.0431,
+    "verified": false,
+    "description": "Established washing facility offering reliable laundry services in Jersey City, NJ. Features spacious layout and dependable equipment."
+  },
+  {
+    "id": 2,
+    "name": "Zap Laundromat",
+    "address": "386 Martin Luther King Dr, Jersey City, NJ 07305",
+    "phone": "(551) 256-7376",
+    "website": "https://zaplaundromat.com/",
+    "rating": 4.1,
+    "reviewCount": 229,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7178,
+    "lng": -74.0431,
+    "verified": false,
+    "description": "Community laundromat providing comprehensive washing and drying solutions in Jersey City, NJ. Well-equipped with modern laundry machines."
+  },
+  {
+    "id": 3,
+    "name": "Ocean Laundry",
+    "address": "178 Ocean Ave, Jersey City, NJ 07305",
+    "phone": "(201) 433-3329",
+    "website": null,
+    "rating": 3.7,
+    "reviewCount": 49,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7178,
+    "lng": -74.0431,
+    "verified": false,
+    "description": "Convenient coin-operated laundromat serving Jersey City, NJ with efficient washing and drying facilities. Popular with local community members."
+  },
+  {
+    "id": 4,
+    "name": "Sip Avenue Laundromat",
+    "address": "223 Sip Ave # A, Jersey City, NJ 07306",
+    "phone": "(201) 706-3635",
+    "website": null,
+    "rating": 3.8,
+    "reviewCount": 82,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7178,
+    "lng": -74.0431,
+    "verified": false,
+    "description": "Established washing facility offering comprehensive laundry services in Jersey City, NJ. Features modern equipment and convenient location for easy access."
+  },
+  {
+    "id": 5,
+    "name": "Triple Clean Laundromat",
+    "address": "2 Garfield Ave #8, Jersey City, NJ 07305",
+    "phone": "(201) 360-0464",
+    "website": "http://www.triplecleanlaundromat.com/",
+    "rating": 4.1,
+    "reviewCount": 142,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7178,
+    "lng": -74.0431,
+    "verified": false,
+    "description": "Spotless environment laundromat providing reliable washing and drying services to residents of Jersey City, NJ. Known for well-maintained machines and friendly service."
+  },
+  {
+    "id": 6,
+    "name": "Bubbles 3 Laundromat",
+    "address": "3498 John F. Kennedy Blvd, Jersey City, NJ 07307",
+    "phone": "(201) 792-3800",
+    "website": "http://bubbleslaundromatsjc.com/",
+    "rating": 4.3,
+    "reviewCount": 216,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7178,
+    "lng": -74.0431,
+    "verified": false,
+    "description": "Family-friendly laundromat serving Jersey City, NJ with convenient washing and drying services. Features comfortable seating and modern laundry equipment."
+  },
+  {
+    "id": 7,
+    "name": "American Laundromat 24/7 of Jersey City",
+    "address": "536 West Side Ave, Jersey City, NJ 07304",
+    "phone": "(201) 413-0880",
+    "website": "https://www.theamericanlaundromat.com/near-me/jersey-city.shtml",
+    "rating": 4.6,
+    "reviewCount": 446,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7178,
+    "lng": -74.0431,
+    "verified": false,
+    "description": "Local laundry facility offering comprehensive washing and drying services to Jersey City, NJ residents. Features well-maintained equipment and convenient location."
+  },
+  {
+    "id": 8,
+    "name": "JC Eco Laundry",
+    "address": "340 2nd St, Jersey City, NJ 07302",
+    "phone": "(201) 300-3744",
+    "website": "http://www.jcecolaundry.com/",
+    "rating": 4.6,
+    "reviewCount": 266,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7178,
+    "lng": -74.0431,
+    "verified": false,
+    "description": "Family-friendly laundromat serving Jersey City, NJ with convenient washing and drying services. Features comfortable seating and modern laundry equipment."
+  },
+  {
+    "id": 9,
+    "name": "West Side Laundry",
+    "address": "1043 West Side Ave, Jersey City, NJ 07306",
+    "phone": "(201) 451-4288",
+    "website": "https://www.westsidelaundryjerseycity.com/",
+    "rating": 4.2,
+    "reviewCount": 185,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7178,
+    "lng": -74.0431,
+    "verified": false,
+    "description": "Local laundromat offering comprehensive washing and drying services in Jersey City, NJ. Features spacious facility with modern equipment and convenient hours."
+  },
+  {
+    "id": 10,
+    "name": "Time to wash laundry",
+    "address": "403 Ocean Ave, Jersey City, NJ 07305",
+    "phone": "(201) 451-2215",
+    "website": "http://www.timetowashlaundry.com/",
+    "rating": 4,
+    "reviewCount": 134,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7178,
+    "lng": -74.0431,
+    "verified": false,
+    "description": "Neighborhood laundromat serving Jersey City, NJ with convenient washing and drying facilities. Known for modern equipment and clean environment."
+  },
+  {
+    "id": 11,
+    "name": "American Laundromat of Jersey City",
+    "address": "123 Danforth Ave, Jersey City, NJ 07305",
+    "phone": "(201) 434-9274",
+    "website": "https://www.theamericanlaundromat.com/near-me/jersey-city.shtml",
+    "rating": 4.3,
+    "reviewCount": 125,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7178,
+    "lng": -74.0431,
+    "verified": false,
+    "description": "Full-service washing facility offering quality laundry solutions in Jersey City, NJ. Features comfortable environment and well-maintained machines."
+  },
+  {
+    "id": 12,
+    "name": "American Laundromat of Jersey City",
+    "address": "389 Central Ave, Jersey City, NJ 07307",
+    "phone": "(973) 833-4225",
+    "website": "https://www.theamericanlaundromat.com/near-me/jersey-city.shtml",
+    "rating": 4.5,
+    "reviewCount": 196,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7178,
+    "lng": -74.0431,
+    "verified": false,
+    "description": "Neighborhood laundromat providing quality washing and drying services to the Jersey City, NJ community. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 13,
+    "name": "Even Wash Laundromat",
+    "address": "252 Palisade Ave, Jersey City, NJ 07307",
+    "phone": "(201) 360-3875",
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 52,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7178,
+    "lng": -74.0431,
+    "verified": false,
+    "description": "Neighborhood laundromat serving Jersey City, NJ with convenient washing and drying facilities. Known for modern equipment and clean environment."
+  },
+  {
+    "id": 14,
+    "name": "Adriana's Laundromat",
+    "address": "389 West Side Ave, Jersey City, NJ 07305",
+    "phone": "(201) 435-9798",
+    "website": null,
+    "rating": 4.2,
+    "reviewCount": 208,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7178,
+    "lng": -74.0431,
+    "verified": false,
+    "description": "Local laundromat offering comprehensive washing and drying services in Jersey City, NJ. Features spacious facility with modern equipment and convenient hours."
+  },
+  {
+    "id": 15,
+    "name": "Laundry Time Jersey City - Laundromat, Wash and Fold Laundry Service",
+    "address": "756 Communipaw Ave, Jersey City, NJ 07304",
+    "phone": "(201) 630-6065",
+    "website": "https://laundrytimestores.com/location-laundry-time-jersey-city/",
+    "rating": 4.8,
+    "reviewCount": 576,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7178,
+    "lng": -74.0431,
+    "verified": false,
+    "description": "Neighborhood coin laundry offering convenient washing and drying solutions in Jersey City, NJ. Features spacious facility and reliable equipment."
+  }
+]
