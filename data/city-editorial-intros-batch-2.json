@@ -1,0 +1,92 @@
+{
+  "chicago": {
+    "name": "Chicago",
+    "state": "Illinois",
+    "abbr": "IL",
+    "intro": "Chicago's laundromat network follows its neighborhood geography closely — density is highest in renter-heavy communities on the North, South, and West Sides, while more homeowner-dominant areas like Beverly and Edison Park are thinner on options. Pilsen, Logan Square, Humboldt Park, Englewood, and Rogers Park are among the most laundromat-dense neighborhoods in the city, each with multiple coin laundries within a few blocks of most apartment buildings. The city's transit grid makes it easy to carry laundry without a car — several laundromats sit within a block or two of CTA Red, Blue, and Green Line stops. Wash cycles in Chicago typically run $2.50–$4.00, putting it in the mid-range for major Midwestern cities. Hours at most locations run 6 AM to 10 PM, with a solid number of 24-hour options in higher-density corridors like Lawrence Avenue, Belmont, and 63rd Street. Drop-off wash-and-fold service is widely available across the city, with same-day turnaround common at larger locations. Browse all Chicago laundromats by neighborhood using the listings below."
+  },
+  "los-angeles": {
+    "name": "Los Angeles",
+    "state": "California",
+    "abbr": "CA",
+    "intro": "Los Angeles has one of the most fragmented laundromat landscapes of any major US city — density varies dramatically by neighborhood, driven entirely by the ratio of renters to homeowners. Apartment-dense corridors in Koreatown, Pico-Union, Mid-City, East LA, and the eastern San Fernando Valley are well-served, while homeowner-dominant areas like Brentwood, Hancock Park, and Studio City have far fewer options. Laundromats along Vermont Avenue, Western Avenue, and the Crenshaw corridor are among the most consistently accessible in the city. Wash cycle prices in LA run $3.00–$5.00, reflecting the city's higher cost of doing business. Most locations operate 6 AM to 10 PM, with a number of 24-hour spots in Koreatown and the Pico-Union area serving overnight workers. Card and app-based payment is increasingly standard at newer or renovated locations. Drop-off service is widely available, popular among the city's large population of busy professionals and service workers. Find every Los Angeles laundromat by neighborhood using the full directory listings below."
+  },
+  "manhattan": {
+    "name": "Manhattan",
+    "state": "New York",
+    "abbr": "NY",
+    "intro": "Manhattan's laundromat density is among the highest of any urban area in the United States — a direct function of the borough's towering apartment stock, where in-unit laundry remains a premium feature even in newer buildings. Neighborhoods with the deepest coverage include Washington Heights, Inwood, East Harlem, the Lower East Side, Morningside Heights, and Hell's Kitchen, each supporting dozens of coin laundries within short walking distance. Prices in Manhattan run on the higher end — wash cycles typically cost $3.50–$5.50 — though older neighborhood laundromats in upper Manhattan have historically held lower coin prices for longtime residents. Most Manhattan laundromats open by 6 AM and stay open until 10 PM or later, with late-night options clustered in high-foot-traffic neighborhoods near hospitals and transit hubs. Wash-and-fold drop-off service is ubiquitous across the borough and especially popular in Midtown and the Upper West Side, where busy schedules make self-service impractical. Browse every Manhattan laundromat by neighborhood using the listings below."
+  },
+  "san-diego": {
+    "name": "San Diego",
+    "state": "California",
+    "abbr": "CA",
+    "intro": "San Diego's laundromat network is concentrated in its higher-density rental neighborhoods — City Heights, North Park, Logan Heights, Linda Vista, and the areas surrounding SDSU and UC San Diego are among the most accessible parts of the city for self-service laundry. The coastal neighborhoods of Ocean Beach, Pacific Beach, and Mission Beach also maintain a reasonable supply, serving both year-round renters and short-term visitors. San Diego's mild climate means weather is rarely a factor in laundromat planning, though proximity to the beach makes salt and sand removal a common reason for extra wash cycles. Prices run $3.00–$4.50 per wash cycle, consistent with Southern California broadly. Most San Diego laundromats operate 7 AM to 9 or 10 PM, with fewer 24-hour options than comparably sized cities. Several locations near SDSU and the college area cater specifically to student schedules with late evening hours and card payment options. Find every San Diego laundromat by neighborhood using the full directory below."
+  },
+  "san-antonio": {
+    "name": "San Antonio",
+    "state": "Texas",
+    "abbr": "TX",
+    "intro": "San Antonio is one of the most affordable laundromat cities in Texas, with wash cycle prices typically running $2.00–$3.25 and a strong network of coin laundries spread across its working-class and military-adjacent neighborhoods. The West Side, South Side, and East Side — areas with higher renter density and large multi-generational households — support the greatest concentration of laundromats in the city. Neighborhoods near Joint Base San Antonio installations, including areas around Lackland and Fort Sam Houston, also have solid coverage given the large military population's frequent need for laundry services. Most San Antonio laundromats operate 7 AM to 9 PM, with a handful running later along major commercial corridors like Fredericksburg Road and Zarzamora Street. Bilingual service and Spanish-language signage is standard at most West Side and South Side locations, reflecting the city's predominantly Latino communities in those areas. Drop-off service is available at a growing number of locations. Browse all San Antonio laundromat listings by neighborhood below."
+  },
+  "dallas": {
+    "name": "Dallas",
+    "state": "Texas",
+    "abbr": "TX",
+    "intro": "Dallas has a sprawling, car-dependent layout, which means laundromat access varies significantly by area — density is highest in Oak Cliff, East Dallas, Pleasant Grove, and the neighborhoods south of downtown where apartment living is most common. The Design District, Deep Ellum, and Lower Greenville have seen laundromat options thin out as rents and commercial costs have risen, making some inner neighborhoods underserved relative to their renter population. Major laundromat corridors include Illinois Avenue, Lancaster Road, and Buckner Boulevard. Prices in Dallas run $2.25–$3.75 per wash cycle, among the more affordable in Texas's major metros. Most locations operate 7 AM to 9 or 10 PM, though 24-hour options exist along busier commercial strips serving Dallas's large hospitality and healthcare workforce. Several laundromats in the Vickery Meadow and Farmers Market areas serve the city's large refugee and immigrant communities and offer bilingual service. Browse all Dallas laundromat listings by neighborhood using the directory below."
+  },
+  "memphis": {
+    "name": "Memphis",
+    "state": "Tennessee",
+    "abbr": "TN",
+    "intro": "Memphis has one of the most affordable laundromat markets of any major US city — wash cycles typically run $1.75–$3.00, and the city's network of coin laundries is well-distributed across its predominantly renter-heavy neighborhoods on the north, south, and east sides of the city. Whitehaven, South Memphis, Frayser, Berclair, and Orange Mound are among the areas with the highest laundromat density, each serving communities where in-unit laundry is uncommon in older housing stock. Poplar Avenue, Summer Avenue, and Elvis Presley Boulevard are key laundromat corridors. Most Memphis laundromats open by 6 or 7 AM and run until 9 or 10 PM. The city's hot, humid summers — with heat indexes regularly above 100°F from June through August — make quick access to high-capacity dryers particularly valuable for households managing large loads of summer clothing and bedding. Drop-off service is available at a growing number of locations across the city. Find every Memphis laundromat by neighborhood using the listings below."
+  },
+  "baltimore": {
+    "name": "Baltimore",
+    "state": "Maryland",
+    "abbr": "MD",
+    "intro": "Baltimore's laundromat network reflects its dense rowhouse neighborhoods and high renter population — the city has one of the highest shares of renter-occupied housing of any mid-sized US city, and the demand for coin laundries is spread across nearly every neighborhood. East Baltimore, West Baltimore, Hampden, Pigtown, and Cherry Hill are among the areas with the most accessible laundromat coverage. North Avenue, Edmondson Avenue, and Harford Road are key corridors. Prices in Baltimore run $2.25–$3.75 per wash cycle, reflecting mid-Atlantic pricing broadly. Most laundromats operate 6 AM to 9 or 10 PM, with a smaller number staying open later near hospital and university campuses. Johns Hopkins Hospital and the University of Maryland Medical Center both generate large shift-worker populations in surrounding neighborhoods with strong laundromat demand. Several locations in the Inner Harbor adjacent neighborhoods have added app-based payment and wash-and-fold service as the areas have gentrified. Browse all Baltimore laundromat listings by neighborhood below."
+  },
+  "boston": {
+    "name": "Boston",
+    "state": "Massachusetts",
+    "abbr": "MA",
+    "intro": "Boston's compact geography and enormous student population make it one of the most laundromat-dense cities in the Northeast relative to its size. Allston — home to tens of thousands of students from Boston University, Boston College, and other area schools — is arguably the most laundromat-saturated neighborhood per square mile in the city. Other densely served areas include Jamaica Plain, Roxbury, Dorchester, East Boston, and the areas surrounding Northeastern and Tufts campuses. Commonwealth Avenue, Washington Street, and Centre Street are key corridors. Prices in Boston run $3.50–$5.50 per wash cycle, among the highest in the country outside Manhattan and San Francisco, reflecting the city's overall cost of living. Hours at most locations run 7 AM to 10 PM, with a number of later-closing spots in Allston catering to student schedules. The city's brutal winters make clean, climate-controlled laundromats essential from November through March. Drop-off wash-and-fold service is widely available and popular across the city. Find every Boston laundromat by neighborhood using the directory below."
+  },
+  "denver": {
+    "name": "Denver",
+    "state": "Colorado",
+    "abbr": "CO",
+    "intro": "Denver's laundromat landscape has shifted noticeably over the past decade as rapid gentrification has displaced lower-income renters and some neighborhood laundromats from areas like RiNo, Five Points, and Highland into more peripheral neighborhoods. Today the strongest laundromat coverage is in Federal Boulevard, Westwood, Globeville, Montbello, and the Colfax Avenue corridor — areas with higher renter density and more affordable housing stock. Colfax Avenue remains one of Denver's most consistent laundromat corridors, with multiple options running the length of the city's main east-west artery. Wash cycle prices in Denver run $2.75–$4.25, reflecting the city's rising cost of living. Most laundromats operate 7 AM to 9 or 10 PM. Denver's 300-plus days of sunshine make laundry timing less weather-dependent than in many peer cities, though winter snowstorms periodically compress demand into indoor laundromat visits. Several locations near Aurora have bilingual service serving Denver's large Latinx community. Browse all Denver laundromat listings by neighborhood using the directory below."
+  },
+  "seattle": {
+    "name": "Seattle",
+    "state": "Washington",
+    "abbr": "WA",
+    "intro": "Seattle's laundromat supply is tighter than most cities its size — rapid population growth and commercial rent increases over the past decade have displaced several neighborhood laundromats in areas like Capitol Hill, Fremont, and Ballard, while replacement has been slow. Today the most reliable laundromat coverage is in Rainier Valley, the Central District, Beacon Hill, White Center, and the University District, where denser apartment housing and more stable commercial rents have preserved neighborhood coin laundries. Rainier Avenue and Aurora Avenue are among the strongest laundromat corridors. Prices in Seattle run $3.50–$5.00 per wash cycle, among the higher end for Pacific Northwest cities. Most locations operate 7 AM to 9 or 10 PM. Seattle's frequent rain from October through May makes access to dryers particularly important — air drying indoors in a damp climate takes days, making laundromats a genuine necessity rather than a convenience for many renters. Several newer locations have shifted to card and app-only payment systems. Find every Seattle laundromat by neighborhood using the full directory below."
+  },
+  "portland": {
+    "name": "Portland",
+    "state": "Oregon",
+    "abbr": "OR",
+    "intro": "Portland has a smaller but well-distributed laundromat network, with the highest density in inner east-side neighborhoods like Foster-Powell, Woodstock, Montavilla, and St. Johns — areas with older apartment stock and high renter populations. The close-in west side, including the Pearl District and NW 23rd, has seen laundromat options thin out significantly as commercial rents have climbed, leaving some otherwise dense neighborhoods underserved. Division Street, Powell Boulevard, and 82nd Avenue are Portland's most consistent laundromat corridors. Prices in Portland run $2.75–$4.25 per wash cycle, moderate for a Pacific Northwest city. Most locations operate 7 AM to 9 PM, with fewer late-night options than comparably sized cities. Portland's long rainy season — running roughly October through May — makes reliable dryer access essential, and several laundromats in the outer east side offer large-capacity machines specifically suited to families managing heavy winter loads. The city's strong cycling culture means a number of laundromats are positioned near bike routes and have exterior bike parking. Browse all Portland laundromat listings below."
+  },
+  "atlanta": {
+    "name": "Atlanta",
+    "state": "Georgia",
+    "abbr": "GA",
+    "intro": "Atlanta's laundromat density is highest in the city's southern and western neighborhoods — areas like Mechanicsville, Vine City, Bankhead, Pittsburgh, and East Point where older multi-family housing and higher renter rates sustain a strong network of coin laundries. Buckhead and Midtown, despite their high residential density, have fewer visible street-level laundromats as commercial rents push traditional services out. Metropolitan Parkway, Campbellton Road, and Donald Lee Hollowell Parkway are among the city's most consistent laundromat corridors. Prices in Atlanta run $2.25–$3.75 per wash cycle, among the more affordable for a major southeastern city. Most locations operate 7 AM to 9 or 10 PM. Atlanta's hot, humid summers — with heat indexes regularly above 95°F from June through September — make fast, high-capacity drying a practical necessity, and most local laundromats stock heavy-duty commercial dryers suited to the climate. Several locations in the Clarkston area serve Atlanta's large refugee and immigrant communities with extended hours and bilingual service. Find every Atlanta laundromat by neighborhood using the listings below."
+  },
+  "detroit": {
+    "name": "Detroit",
+    "state": "Michigan",
+    "abbr": "MI",
+    "intro": "Detroit has a laundromat landscape shaped by decades of population shift — the city's lower overall density compared to its peak means laundromats are not as uniformly distributed as in denser peer cities, but the neighborhoods with the strongest renter populations remain well-served. Midtown, Corktown, East English Village, Jefferson-Chalmers, and the neighborhoods north of the New Center area have the most consistent coverage. Michigan Avenue, Gratiot Avenue, and Seven Mile Road are key laundromat corridors. Prices in Detroit are among the lowest in any major US city — wash cycles typically run $1.75–$2.75 — reflecting the city's lower cost of living broadly. Most laundromats operate 7 AM to 9 PM. Detroit's hard winters, with lake-effect snow from Lake Erie and Lake St. Clair making November through March particularly harsh, create strong seasonal demand for laundromats as air drying becomes impractical for months at a time. Several locations in the Hamtramck enclave within the city limits serve the area's large Bangladeshi and Yemeni communities with extended hours. Browse all Detroit laundromat listings below."
+  },
+  "minneapolis": {
+    "name": "Minneapolis",
+    "state": "Minnesota",
+    "abbr": "MN",
+    "intro": "Minneapolis has a compact, walkable core and a laundromat network concentrated in its higher-renter neighborhoods — Phillips, Whittier, Cedar-Riverside, Powderhorn, and Northeast Minneapolis are among the most accessible areas for self-service laundry. The Cedar-Riverside neighborhood, home to one of the largest Somali communities in the United States, has a notably strong laundromat presence catering to large-household laundry needs. Lake Street and Central Avenue are the city's most reliable laundromat corridors. Prices in Minneapolis run $2.25–$3.75 per wash cycle, typical for the upper Midwest. Most laundromats operate 7 AM to 9 or 10 PM. Minneapolis winters are severe — temperatures regularly drop below zero from December through February, and the city averages over 50 inches of snow annually — making access to fast commercial dryers essential for several months of the year. Air drying simply isn't a realistic option from late fall through early spring for most renters. Several locations near the University of Minnesota East Bank campus cater to students with late evening hours and card payment. Browse all Minneapolis laundromat listings by neighborhood below."
+  }
+}

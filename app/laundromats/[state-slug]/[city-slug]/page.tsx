@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound, permanentRedirect } from "next/navigation";
 import { Breadcrumbs, PageShell } from "@/components/site-shell";
-import { cities, cityIntro, getCity } from "@/lib/data";
+import { cities, cityIntro, getCity, getState } from "@/lib/data";
 import { getPopularCity } from "@/lib/popular-cities";
 import { metaDescription } from "@/lib/seo";
 
@@ -16,7 +16,8 @@ export function generateStaticParams() {
 export function generateMetadata({ params }: Props): Metadata {
   const city = getCity(params["state-slug"], params["city-slug"]);
   if (!city) return {};
-  const title = `Laundry Guide for ${city.name}, ${city.state} | Laundromat Near Me`;
+  const stateLabel = getState(city.stateSlug)?.abbr ?? city.state;
+  const title = `Laundromats in ${city.name}, ${stateLabel} | Laundromat Near Me`;
   const description = metaDescription(cityIntro(city));
   const path = `/laundromats/${city.stateSlug}/${city.slug}`;
   return { title, description, alternates: { canonical: path }, openGraph: { title, description, url: path }, twitter: { title, description } };
@@ -27,13 +28,14 @@ export default function CityPage({ params }: Props) {
   if (shortCity && shortCity.state.toLowerCase().replace(/\s+/g, "-") === params["state-slug"]) permanentRedirect(`/${shortCity.slug}`);
   const city = getCity(params["state-slug"], params["city-slug"]);
   if (!city) notFound();
+  const stateLabel = getState(city.stateSlug)?.abbr ?? city.state;
 
   return <PageShell>
     <section className="border-b border-brand-100 bg-brand-50">
       <div className="mx-auto max-w-5xl px-5 py-16">
         <Breadcrumbs items={[{ label: city.name }]}/>
         <p className="text-sm font-bold uppercase tracking-[.18em] text-brand-600">Local laundry guide</p>
-        <h1 className="mt-3 font-display text-4xl font-extrabold tracking-tight sm:text-5xl">Laundry guide for {city.name}, {city.state}</h1>
+        <h1 className="mt-3 font-display text-4xl font-extrabold tracking-tight sm:text-5xl">Laundromats in {city.name}, {stateLabel}</h1>
         <p className="mt-6 text-lg leading-8 text-slate-600">{cityIntro(city)}</p>
       </div>
     </section>
