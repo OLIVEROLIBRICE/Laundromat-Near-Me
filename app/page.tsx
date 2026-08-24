@@ -107,7 +107,7 @@ export default function Home() {
         <div className="relative mx-auto w-full max-w-7xl px-5 lg:px-8">
           <div className="mx-auto max-w-4xl text-center">
             <p className="mb-5 inline-flex items-center gap-2 rounded-full border border-white/25 bg-black/20 px-4 py-2 text-xs font-bold uppercase tracking-[.18em] backdrop-blur-sm"><Sparkles size={14} className="text-[#93c5fd]"/> Laundry day, made easier</p>
-            <h1 className="font-display text-4xl font-extrabold leading-[1.05] tracking-[-.035em] drop-shadow-md sm:text-6xl lg:text-7xl">Find a Laundromat Near Me: Search Local Guides Across the US</h1>
+            <h1 className="font-display text-4xl font-extrabold leading-[1.05] tracking-[-.035em] drop-shadow-md sm:text-6xl lg:text-7xl">Find a laundromat near me. Search local guides in your neighborhood.</h1>
             <p className="mx-auto mt-5 max-w-2xl text-base leading-7 text-white/85 sm:text-lg">Search city guides and available local records by city, neighborhood, business name, street, or ZIP code.</p>
           </div>
 
