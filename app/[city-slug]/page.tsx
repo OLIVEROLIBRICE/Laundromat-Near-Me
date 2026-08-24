@@ -7,6 +7,7 @@ import { Breadcrumbs, PageShell } from "@/components/site-shell";
 import { CityListings, type CityListing } from "@/components/brooklyn-listings";
 import brooklynListings from "@/data/brooklyn-listings.json";
 import bronxListings from "@/data/bronx-listings.json";
+import houstonListings from "@/data/houston-listings.json";
 import { getPopularCity, popularCities } from "@/lib/popular-cities";
 import { cityResources } from "@/lib/city-resources";
 import { absoluteUrl, metaDescription } from "@/lib/seo";
@@ -16,6 +17,7 @@ type Props = { params: { "city-slug": string } };
 function getCityListings(slug: string): CityListing[] {
   if (slug === "brooklyn") return brooklynListings;
   if (slug === "bronx") return bronxListings;
+  if (slug === "houston") return houstonListings;
   return [];
 }
 

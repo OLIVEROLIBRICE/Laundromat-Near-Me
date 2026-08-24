@@ -1,0 +1,1253 @@
+[
+  {
+    "id": 1,
+    "name": "SpinXpress Laundry - Bissonnet - Wash & Fold Services",
+    "address": "9619 Southwest Fwy, Houston, TX 77074",
+    "phone": "(832) 301-8920",
+    "website": "https://gospinxpress.com/houston-tx/bissonnet/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "rating": 4.8,
+    "reviewCount": 681,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Professional laundromat offering reliable washing and drying solutions in in the bustling Houston area. Known for clean facilities and well-maintained equipment."
+  },
+  {
+    "id": 2,
+    "name": "One stop Washateria Q7",
+    "address": "5715 Rampart St a, Houston, TX 77081",
+    "phone": "(281) 520-7038",
+    "website": null,
+    "rating": 3.9,
+    "reviewCount": 49,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Established washing facility offering comprehensive laundry services in in the bustling Houston area. Features modern equipment and convenient location for easy access."
+  },
+  {
+    "id": 3,
+    "name": "24 Hour Washateria",
+    "address": "9216 Richmond Ave., Houston, TX 77063",
+    "phone": "(346) 444-6942",
+    "website": "http://24hourwashateria.com/",
+    "rating": 3.8,
+    "reviewCount": 193,
+    "services": [
+      "Self-Service",
+      "24/7 Operation"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Professional coin laundry providing efficient washing and drying solutions in in the bustling Houston area. Popular choice for reliable laundry services."
+  },
+  {
+    "id": 4,
+    "name": "Speed Queen Laundry",
+    "address": "3500 Little York Rd Suite B3, Houston, TX 77093",
+    "phone": "(832) 962-8774",
+    "website": "https://stores.speedqueenlaundry.com/tx/houston/3500-little-york-rd",
+    "rating": 4.5,
+    "reviewCount": 686,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Community-oriented laundromat providing quality washing and drying services in in the bustling Houston area. Known for clean environment and friendly atmosphere."
+  },
+  {
+    "id": 5,
+    "name": "Oasis Washateria Mangum",
+    "address": "3303 Mangum Rd, Houston, TX 77092",
+    "phone": "(832) 831-8381",
+    "website": "https://www.oasiswashateria.com/",
+    "rating": 4.8,
+    "reviewCount": 584,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Local washing facility providing reliable laundry services in in the bustling Houston area. Popular choice for both quick wash and full-service laundry needs."
+  },
+  {
+    "id": 6,
+    "name": "LaundroLab Houston - Shenandoah",
+    "address": "5718 Bellaire Blvd, Houston, TX 77081",
+    "phone": "(713) 325-2130",
+    "website": "https://www.laundrolabusa.com",
+    "rating": 4.3,
+    "reviewCount": 85,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card",
+      "Mobile App"
+    ],
+    "pricing": "Wash $4.00; dry $2.75; wash-and-fold $1.35/lb",
+    "is24Hours": false,
+    "hasWifi": true,
+    "hasParking": true,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "LaundroLab's Shenandoah location providing quality neighborhood laundry services with modern equipment."
+  },
+  {
+    "id": 7,
+    "name": "Washateria",
+    "address": "9480-A 1 Long Point Rd, Houston, TX 77055",
+    "phone": "(713) 467-2285",
+    "website": "http://washeteria.jany.io/",
+    "rating": 4.5,
+    "reviewCount": 119,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Full-service washing facility offering quality laundry solutions in in the bustling Houston area. Features comfortable environment and well-maintained machines."
+  },
+  {
+    "id": 8,
+    "name": "Breeze Laundry",
+    "address": "13711 Westheimer Rd Suite F, Houston, TX 77077",
+    "phone": "(832) 243-4733",
+    "website": "http://www.breezelaundrytx.net/",
+    "rating": 4.8,
+    "reviewCount": 703,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Local laundromat offering comprehensive washing and drying services in in the bustling Houston area. Features spacious facility with modern equipment and convenient hours."
+  },
+  {
+    "id": 9,
+    "name": "Houstonian Washateria",
+    "address": "7722 Bellfort Ave, Houston, TX 77061",
+    "phone": "(713) 634-0169",
+    "website": null,
+    "rating": 4.4,
+    "reviewCount": 251,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Convenient laundromat providing efficient washing and drying services in in the bustling Houston area. Popular with local residents for its reliable machines and clean environment."
+  },
+  {
+    "id": 10,
+    "name": "Washateria Lavanderia",
+    "address": "8261 Richmond Ave. suite l, Houston, TX 77063",
+    "phone": "(832) 722-1001",
+    "website": null,
+    "rating": 4.3,
+    "reviewCount": 121,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Established laundry facility providing comprehensive washing and drying services in in the bustling Houston area. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 11,
+    "name": "SpinXpress Laundry - Cullen - Wash & Fold Services",
+    "address": "5762 Cullen Blvd, Houston, TX 77021",
+    "phone": "(832) 240-9067",
+    "website": "https://gospinxpress.com/houston-tx/cullen/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "rating": 4.9,
+    "reviewCount": 216,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Community laundromat offering convenient washing and drying services to in the bustling Houston area residents. Features well-maintained machines and comfortable environment."
+  },
+  {
+    "id": 12,
+    "name": "SpinXpress Laundry - Northgate - Wash & Fold Services",
+    "address": "11312 North Fwy a, Houston, TX 77037",
+    "phone": "(832) 301-8920",
+    "website": "https://gospinxpress.com/houston-tx/northgate/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "rating": 4.9,
+    "reviewCount": 727,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Convenient laundromat serving the in the bustling Houston area area with efficient washing and drying services. Popular with residents for reliable equipment."
+  },
+  {
+    "id": 13,
+    "name": "UltraSpin Washateria - Airline - Wash & Fold Services",
+    "address": "8505 Airline Dr #4, Houston, TX 77037",
+    "phone": "(281) 617-7948",
+    "website": "https://ultraspinwash.com/",
+    "rating": 4.9,
+    "reviewCount": 583,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Local washing facility providing reliable laundry services in in the bustling Houston area. Popular choice for both quick wash and full-service laundry needs."
+  },
+  {
+    "id": 14,
+    "name": "Laundry-4U",
+    "address": "803 S Sgt Macario Garcia Dr, Houston, TX 77011",
+    "phone": "(713) 485-5263",
+    "website": "https://www.laundry-4u.com/",
+    "rating": 4.8,
+    "reviewCount": 588,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Convenient laundromat serving the in the bustling Houston area area with efficient washing and drying services. Popular with residents for reliable equipment."
+  },
+  {
+    "id": 15,
+    "name": "Space City Laundry/Lavanderia West Airport",
+    "address": "6403 W Airport Blvd, Houston, TX 77035",
+    "phone": "(865) 657-7081",
+    "website": "http://www.spacecitylaundry.com/",
+    "rating": 4.8,
+    "reviewCount": 298,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Neighborhood coin laundry offering convenient washing and drying solutions in in the bustling Houston area. Features spacious facility and reliable equipment."
+  },
+  {
+    "id": 16,
+    "name": "The Texas Laundry at Harrisburg (Lavanderia)",
+    "address": "5104 Harrisburg Blvd Suite 100, Houston, TX 77011",
+    "phone": "(713) 923-5151",
+    "website": "https://www.thetexaslaundry.com/",
+    "rating": 4.5,
+    "reviewCount": 304,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Convenient coin-operated laundromat serving in the bustling Houston area with efficient washing and drying facilities. Popular with local community members."
+  },
+  {
+    "id": 17,
+    "name": "Griggs Washateria",
+    "address": "4702 Griggs Rd, Houston, TX 77021",
+    "phone": "(281) 845-2189",
+    "website": "https://www.facebook.com/griggswashateria/",
+    "rating": 4.5,
+    "reviewCount": 325,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Family-friendly laundromat serving in the bustling Houston area with convenient washing and drying services. Features comfortable seating and modern laundry equipment."
+  },
+  {
+    "id": 18,
+    "name": "Laundry-4U",
+    "address": "11841 Bissonnet St, Houston, TX 77099",
+    "phone": "(832) 243-5533",
+    "website": "http://laundry-4u.com/",
+    "rating": 4.8,
+    "reviewCount": 383,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Community laundromat providing comprehensive washing and drying solutions in in the bustling Houston area. Well-equipped with modern laundry machines."
+  },
+  {
+    "id": 19,
+    "name": "LaundroLab Laundromat",
+    "address": "5718 Bellaire Blvd, Houston, TX 77081",
+    "phone": "(713) 325-2130",
+    "website": "https://www.laundrolabusa.com/locations/houston-shenandoah",
+    "rating": 4.8,
+    "reviewCount": 213,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Family-friendly laundromat serving in the bustling Houston area with convenient washing and drying services. Features comfortable seating and modern laundry equipment."
+  },
+  {
+    "id": 20,
+    "name": "Oasis Washateria Spears rd",
+    "address": "2843 Spears Rd, Houston, TX 77067",
+    "phone": "(281) 836-5136",
+    "website": "https://www.oasiswashateria.com/",
+    "rating": 4.9,
+    "reviewCount": 330,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Established washing facility offering reliable laundry services in in the bustling Houston area. Features spacious layout and dependable equipment."
+  },
+  {
+    "id": 21,
+    "name": "WaveMAX Laundry Houston",
+    "address": "2611 Fulton St, Houston, TX 77009",
+    "phone": "(713) 485-4726",
+    "website": "https://www.wavemaxlaundry.com/houston-tx/",
+    "rating": 5,
+    "reviewCount": 47,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Local laundry facility offering comprehensive washing and drying services to in the bustling Houston area residents. Features well-maintained equipment and convenient location."
+  },
+  {
+    "id": 22,
+    "name": "Top Wash Laundry",
+    "address": "16940 Ella Blvd Suite 110, Houston, TX 77090",
+    "phone": "(281) 836-5025",
+    "website": "https://topwashlaundry.com/",
+    "rating": 4.9,
+    "reviewCount": 320,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Neighborhood laundromat serving in the bustling Houston area with convenient washing and drying facilities. Known for modern equipment and clean environment."
+  },
+  {
+    "id": 23,
+    "name": "Washlandia Washateria",
+    "address": "7205 Hillcroft Ave, Houston, TX 77081",
+    "phone": "(346) 332-9092",
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 289,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Full-service laundromat offering reliable washing and drying solutions in in the bustling Houston area. Features modern equipment and convenient operating hours."
+  },
+  {
+    "id": 24,
+    "name": "Soap Suds Laundry",
+    "address": "4211 N Main St, Houston, TX 77009",
+    "phone": "(713) 869-7627",
+    "website": "http://www.soapsudslaundry.com/",
+    "rating": 4.4,
+    "reviewCount": 522,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Established laundromat serving the in the bustling Houston area area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry."
+  },
+  {
+    "id": 25,
+    "name": "Nifty Cleaners",
+    "address": "5901 Washington Ave, Houston, TX 77007",
+    "phone": "(713) 868-2210",
+    "website": null,
+    "rating": 4.4,
+    "reviewCount": 34,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Community laundromat featuring emphasis on cleanliness providing comprehensive washing and drying solutions in in the bustling Houston area. Well-equipped with modern laundry machines."
+  },
+  {
+    "id": 26,
+    "name": "Clutch City Laundry - Westheimer Rd",
+    "address": "8615 Westheimer Rd, Houston, TX 77063",
+    "phone": "(346) 204-4111",
+    "website": "https://clutchcitylaundry.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "rating": 4.8,
+    "reviewCount": 864,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Community-oriented laundromat providing quality washing and drying services in in the bustling Houston area. Known for clean environment and friendly atmosphere."
+  },
+  {
+    "id": 27,
+    "name": "Q Washateria",
+    "address": "9355 Long Point Rd Suite# A, Houston, TX 77055",
+    "phone": null,
+    "website": null,
+    "rating": 4.4,
+    "reviewCount": 229,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Full-service washing facility offering quality laundry solutions in in the bustling Houston area. Features comfortable environment and well-maintained machines. This 4.40-star rated facility provides dependable service."
+  },
+  {
+    "id": 28,
+    "name": "Speed Queen Laundry",
+    "address": "2621 S Dairy Ashford Rd, Houston, TX 77082",
+    "phone": "(281) 670-5901",
+    "website": "https://stores.speedqueenlaundry.com/tx/houston/2621-s-dairy-ashford-rd",
+    "rating": 4.6,
+    "reviewCount": 1163,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Convenient coin-operated laundromat serving in the bustling Houston area with efficient washing and drying facilities. Popular with local community members."
+  },
+  {
+    "id": 29,
+    "name": "Speed Queen Laundry",
+    "address": "11334 Chimney Rock Rd, Houston, TX 77035",
+    "phone": "(346) 471-7333",
+    "website": "https://stores.speedqueenlaundry.com/speed-queen-laundry-5f53aefe7843",
+    "rating": 4.7,
+    "reviewCount": 268,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Community laundromat offering convenient washing and drying services to in the bustling Houston area residents. Features well-maintained machines and comfortable environment."
+  },
+  {
+    "id": 30,
+    "name": "Speed Queen Laundry",
+    "address": "900 S Wayside Dr, Houston, TX 77023",
+    "phone": "(832) 831-3656",
+    "website": "https://stores.speedqueenlaundry.com/tx/houston/900-s-wayside-dr",
+    "rating": 4.5,
+    "reviewCount": 680,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Community-focused laundromat providing reliable washing and drying services to residents of in the bustling Houston area. Known for well-maintained machines and friendly service."
+  },
+  {
+    "id": 31,
+    "name": "LaundroLab Laundromat",
+    "address": "920 E Little York Rd Suite A-300, Houston, TX 77076",
+    "phone": "(346) 718-2182",
+    "website": "https://www.laundrolabusa.com/houston-little-york-rd-laundromat",
+    "rating": 4.9,
+    "reviewCount": 103,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Community-focused laundromat providing reliable washing and drying services to residents of in the bustling Houston area. Known for well-maintained machines and friendly service. This 4.90-star rated facility provides dependable service."
+  },
+  {
+    "id": 32,
+    "name": "North Shepherd Laundromat",
+    "address": "4618 N Shepherd Dr, Houston, TX 77018",
+    "phone": "(832) 377-8071",
+    "website": "http://www.northshepherdlaundromat.com/",
+    "rating": 4.9,
+    "reviewCount": 528,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Established washing facility offering reliable laundry services in in the bustling Houston area. Features spacious layout and dependable equipment."
+  },
+  {
+    "id": 33,
+    "name": "Space City Laundry/ Lavanderia Glenmont",
+    "address": "6095 Glenmont Dr, Houston, TX 77081",
+    "phone": "(865) 657-7081",
+    "website": "http://www.spacecitylaundry.com/",
+    "rating": 4.7,
+    "reviewCount": 487,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Local laundromat offering comprehensive washing and drying services in in the bustling Houston area. Features spacious facility with modern equipment and convenient hours."
+  },
+  {
+    "id": 34,
+    "name": "Splash Washateria & Dry Cleaner",
+    "address": "5702 Chimney Rock Rd, Houston, TX 77081",
+    "phone": "(832) 831-5919",
+    "website": null,
+    "rating": 4.3,
+    "reviewCount": 237,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Community laundromat featuring spotless environment offering convenient washing and drying services to in the bustling Houston area residents. Features well-maintained machines and comfortable environment."
+  },
+  {
+    "id": 35,
+    "name": "LaundroLab Laundromat",
+    "address": "14901 Bellaire Blvd, Houston, TX 77083",
+    "phone": "(346) 229-4198",
+    "website": "https://www.laundrolabusa.com/houston-mission-bend-laundromat",
+    "rating": 5,
+    "reviewCount": 573,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Community-focused laundromat providing reliable washing and drying services to residents of in the bustling Houston area. Known for well-maintained machines and friendly service."
+  },
+  {
+    "id": 36,
+    "name": "Laundry by SpinXpress - Jester Village",
+    "address": "1531 W 18th St, Houston, TX 77008",
+    "phone": "(832) 844-6567",
+    "website": "https://gospinxpress.com/houston-tx/jester-village/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "rating": 4.9,
+    "reviewCount": 458,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Established laundry facility providing comprehensive washing and drying services in in the bustling Houston area. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 37,
+    "name": "Express Laundry Center Washateria & Laundromat",
+    "address": "3345 FM 1960, Houston, TX 77014",
+    "phone": "(832) 286-1584",
+    "website": "http://expresslaundrytx.com/",
+    "rating": 4.5,
+    "reviewCount": 663,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Family-friendly laundromat featuring quick-service focused serving in the bustling Houston area with convenient washing and drying services. Features comfortable seating and modern laundry equipment."
+  },
+  {
+    "id": 38,
+    "name": "Brite Touch Cleaners (Couture)",
+    "address": "822 Durham Dr, Houston, TX 77007",
+    "phone": "(713) 538-1182",
+    "website": "https://www.britetouchcleaners.com/",
+    "rating": 4.6,
+    "reviewCount": 194,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Community-oriented laundromat featuring hygiene-focused facility providing quality washing and drying services in in the bustling Houston area. Known for clean environment and friendly atmosphere."
+  },
+  {
+    "id": 39,
+    "name": "Spark Laundry",
+    "address": "6290 Beverly Hill St, Houston, TX 77057",
+    "phone": null,
+    "website": null,
+    "rating": 4.4,
+    "reviewCount": 131,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Full-service laundromat offering convenient washing and drying facilities in in the bustling Houston area. Features modern equipment and a clean environment for all your laundry needs."
+  },
+  {
+    "id": 40,
+    "name": "Speed Queen Laundry",
+    "address": "6604 W Bellfort Ave, Houston, TX 77035",
+    "phone": "(832) 834-5689",
+    "website": "https://stores.speedqueenlaundry.com/tx/houston/6604-w-bellfort-ave",
+    "rating": 4.5,
+    "reviewCount": 695,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Full-service coin laundry providing washing and drying solutions in in the bustling Houston area. Known for clean facilities and dependable laundry equipment."
+  },
+  {
+    "id": 41,
+    "name": "Oasis Washateria Post Oak",
+    "address": "10804 S Post Oak Rd Suite 200, Houston, TX 77035",
+    "phone": "(713) 393-7920",
+    "website": "https://www.oasiswashateria.com/",
+    "rating": 4.7,
+    "reviewCount": 342,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Professional laundromat serving the in the bustling Houston area area with modern washing and drying equipment. Known for efficient service and clean facilities."
+  },
+  {
+    "id": 42,
+    "name": "Clutch City Laundry - Hillcroft",
+    "address": "3330 Hillcroft St, Houston, TX 77057",
+    "phone": "(346) 352-3130",
+    "website": "https://clutchcitylaundry.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "rating": 4.8,
+    "reviewCount": 139,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Neighborhood coin laundry offering convenient washing and drying solutions in in the bustling Houston area. Features spacious facility and reliable equipment."
+  },
+  {
+    "id": 43,
+    "name": "Express Clean Washateria - Wash & Fold Pros",
+    "address": "8510 Hammerly Blvd Ste. A, Houston, TX 77055",
+    "phone": "(713) 464-1068",
+    "website": "https://expresscleanwashateria.com/",
+    "rating": 4.7,
+    "reviewCount": 196,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Family-friendly laundromat featuring speedy laundry solutions serving in the bustling Houston area with convenient washing and drying services. Features comfortable seating and modern laundry equipment."
+  },
+  {
+    "id": 44,
+    "name": "BIG WAVE Washateria",
+    "address": "9920 Windmill Lakes Blvd, Houston, TX 77075",
+    "phone": "(346) 227-2952",
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 302,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Neighborhood laundromat providing quality washing and drying services to the in the bustling Houston area community. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 45,
+    "name": "Truxillo Washateria",
+    "address": "3007 Truxillo St, Houston, TX 77006",
+    "phone": "(713) 533-0355",
+    "website": "http://www.truxillowashateria.com/",
+    "rating": 4.3,
+    "reviewCount": 332,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Neighborhood laundromat providing quality washing and drying services to the in the bustling Houston area community. Well-equipped with commercial-grade machines. This 4.30-star rated facility provides dependable service."
+  },
+  {
+    "id": 46,
+    "name": "Speed Queen Laundry",
+    "address": "5629 Uvalde Rd, Houston, TX 77049",
+    "phone": "(832) 243-1690",
+    "website": "https://stores.speedqueenlaundry.com/tx/houston/5629-uvalde-rd",
+    "rating": 4.5,
+    "reviewCount": 493,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "Local laundry facility offering comprehensive washing and drying services to in the bustling Houston area residents. Features well-maintained equipment and convenient location. This 4.50-star rated facility provides dependable service."
+  },
+  {
+    "id": 47,
+    "name": "LaundroLab Houston - Little York Rd",
+    "address": "920 E Little York Rd, Houston, TX 77076",
+    "phone": "(346) 718-2182",
+    "website": "https://www.laundrolabusa.com",
+    "rating": 4.2,
+    "reviewCount": 94,
+    "services": [
+      "Self-Service",
+      "Large Capacity",
+      "Modern Equipment"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card",
+      "Mobile App"
+    ],
+    "pricing": "Wash $4.00; dry $2.75; wash-and-fold $1.35/lb",
+    "is24Hours": false,
+    "hasWifi": true,
+    "hasParking": true,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "LaundroLab Houston location on Little York Road featuring large capacity machines and modern equipment."
+  },
+  {
+    "id": 48,
+    "name": "LaundroLab Houston - Mission Bend",
+    "address": "14901 Bellaire Blvd, Houston, TX 77083",
+    "phone": "(346) 229-4198",
+    "website": "https://www.laundrolabusa.com",
+    "rating": 4.4,
+    "reviewCount": 108,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card",
+      "Mobile App"
+    ],
+    "pricing": "Wash $4.00; dry $2.75; wash-and-fold $1.35/lb",
+    "is24Hours": false,
+    "hasWifi": true,
+    "hasParking": true,
+    "acceptsCards": false,
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "verified": false,
+    "description": "LaundroLab's Mission Bend location serving the Houston community with modern facilities and reliable service."
+  }
+]

@@ -4,6 +4,7 @@ import { MapPin, Search, Star } from "lucide-react";
 import { PageShell } from "@/components/site-shell";
 import brooklynListings from "@/data/brooklyn-listings.json";
 import bronxListings from "@/data/bronx-listings.json";
+import houstonListings from "@/data/houston-listings.json";
 import { cities } from "@/lib/data";
 import { getPopularCity } from "@/lib/popular-cities";
 import { metaDescription } from "@/lib/seo";
@@ -21,6 +22,7 @@ export default function SearchPage({ searchParams }: { searchParams: { q?: strin
   const directoryListings = [
     ...brooklynListings.map((listing) => ({ ...listing, cityName: "Brooklyn", citySlug: "brooklyn" })),
     ...bronxListings.map((listing) => ({ ...listing, cityName: "Bronx", citySlug: "bronx" })),
+    ...houstonListings.map((listing) => ({ ...listing, cityName: "Houston", citySlug: "houston" })),
   ];
   const listingMatches = q ? directoryListings.filter((listing) => `${listing.name} ${listing.address} ${listing.services.join(" ")}`.toLowerCase().includes(q)).slice(0, 20) : [];
 
