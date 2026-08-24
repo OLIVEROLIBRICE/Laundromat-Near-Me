@@ -19,6 +19,7 @@ import longBeachListings from "@/data/long-beach-listings.json";
 import milwaukeeListings from "@/data/milwaukee-listings.json";
 import statenIslandListings from "@/data/staten-island-listings.json";
 import jerseyCityListings from "@/data/jersey-city-listings.json";
+import lasVegasListings from "@/data/las-vegas-listings.json";
 import { getPopularCity, popularCities } from "@/lib/popular-cities";
 import { cityResources } from "@/lib/city-resources";
 import { absoluteUrl, metaDescription } from "@/lib/seo";
@@ -40,6 +41,7 @@ function getCityListings(slug: string): CityListing[] {
   if (slug === "milwaukee") return milwaukeeListings;
   if (slug === "staten-island") return statenIslandListings;
   if (slug === "jersey-city") return jerseyCityListings;
+  if (slug === "las-vegas") return lasVegasListings;
   return [];
 }
 

@@ -1,0 +1,1092 @@
+[
+  {
+    "id": 1,
+    "name": "Sahara Laundry",
+    "address": "4601 W Sahara Ave STE A, Las Vegas, NV 89102",
+    "phone": "(702) 871-1281",
+    "website": null,
+    "rating": 3.6,
+    "reviewCount": 179,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Family-friendly laundromat serving Las Vegas, NV with convenient washing and drying services. Features comfortable seating and modern laundry equipment."
+  },
+  {
+    "id": 2,
+    "name": "Laundromat Lavanderia",
+    "address": "2560 S Valley View Blvd, Las Vegas, NV 89102",
+    "phone": "(702) 347-7904",
+    "website": null,
+    "rating": 4.2,
+    "reviewCount": 159,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Community laundromat providing comprehensive washing and drying solutions in Las Vegas, NV. Well-equipped with modern laundry machines."
+  },
+  {
+    "id": 3,
+    "name": "Rainbow Laundromat",
+    "address": "2247 S Rainbow Blvd, Las Vegas, NV 89146",
+    "phone": "(702) 827-3730",
+    "website": null,
+    "rating": 4.1,
+    "reviewCount": 382,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Local laundry facility offering comprehensive washing and drying services to Las Vegas, NV residents. Features well-maintained equipment and convenient location."
+  },
+  {
+    "id": 4,
+    "name": "Linen Fresh Laundromat",
+    "address": "1120 S Decatur Blvd, Las Vegas, NV 89102",
+    "phone": "(702) 259-3007",
+    "website": "https://linenfreshlaundry.com/",
+    "rating": 4.2,
+    "reviewCount": 368,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Established laundromat featuring updated facilities serving the Las Vegas, NV area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry."
+  },
+  {
+    "id": 5,
+    "name": "Wizard of suds laundromat",
+    "address": "4275 S Arville St, Las Vegas, NV 89103",
+    "phone": "(702) 873-1453",
+    "website": null,
+    "rating": 3.7,
+    "reviewCount": 353,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Established laundromat serving the Las Vegas, NV area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry."
+  },
+  {
+    "id": 6,
+    "name": "Las Vegas Coin Laundry #1",
+    "address": "3860 S Nellis Blvd #103, Las Vegas, NV 89121",
+    "phone": "(702) 685-4494",
+    "website": "https://lasvegascoinlaundry.com/",
+    "rating": 3.9,
+    "reviewCount": 311,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Community laundromat offering convenient washing and drying services to Las Vegas, NV residents. Features well-maintained machines and comfortable environment."
+  },
+  {
+    "id": 7,
+    "name": "Busy Bubblez Laundromat",
+    "address": "1801 E Tropicana Ave St. 15, Las Vegas, NV 89119",
+    "phone": "(702) 281-3182",
+    "website": "http://busybubblezlaundromat.com/",
+    "rating": 4.5,
+    "reviewCount": 155,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Convenient laundromat providing efficient washing and drying services in Las Vegas, NV. Popular with local residents for its reliable machines and clean environment."
+  },
+  {
+    "id": 8,
+    "name": "Linen Fresh Laundromat",
+    "address": "2448 E Bonanza Rd, Las Vegas, NV 89101",
+    "phone": "(702) 366-1140",
+    "website": "https://linenfreshlaundry.com/",
+    "rating": 4.5,
+    "reviewCount": 281,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Fresh approach to laundry laundromat offering reliable washing and drying solutions in Las Vegas, NV. Features modern equipment and convenient operating hours."
+  },
+  {
+    "id": 9,
+    "name": "Spin Cycle Laundromat",
+    "address": "2421 E Tropicana Ave, Las Vegas, NV 89121",
+    "phone": "(702) 476-8817",
+    "website": "http://spincycle-laundry.com/",
+    "rating": 4.3,
+    "reviewCount": 417,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Local washing facility providing reliable laundry services in Las Vegas, NV. Popular choice for both quick wash and full-service laundry needs."
+  },
+  {
+    "id": 10,
+    "name": "Sunrise Laundromats - Jones",
+    "address": "276 N Jones Blvd A, Las Vegas, NV 89107",
+    "phone": "(702) 870-9815",
+    "website": "http://www.sunriselaundromats.com/",
+    "rating": 4.4,
+    "reviewCount": 187,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Full-service washing facility offering quality laundry solutions in Las Vegas, NV. Features comfortable environment and well-maintained machines."
+  },
+  {
+    "id": 11,
+    "name": "24 Hour Laundromat",
+    "address": "3547 S Maryland Pkwy, Las Vegas, NV 89169",
+    "phone": "(702) 893-2424",
+    "website": "http://www.laundromatslasvegas.com/",
+    "rating": 4.4,
+    "reviewCount": 934,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Neighborhood coin laundry offering convenient washing and drying solutions in Las Vegas, NV. Features spacious facility and reliable equipment."
+  },
+  {
+    "id": 12,
+    "name": "Las Vegas Coin Laundry #6",
+    "address": "1200 W Owens Ave, Las Vegas, NV 89106",
+    "phone": null,
+    "website": "http://www.lasvegascoinlaundry.com/",
+    "rating": 4.3,
+    "reviewCount": 363,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Local laundry facility offering comprehensive washing and drying services to Las Vegas, NV residents. Features well-maintained equipment and convenient location."
+  },
+  {
+    "id": 13,
+    "name": "Laundry Vegas - Laundromat & Cleaners",
+    "address": "1935 N Nellis Blvd, Las Vegas, NV 89115",
+    "phone": "(702) 438-5454",
+    "website": "https://laundryvegas.com/",
+    "rating": 4.6,
+    "reviewCount": 284,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Family-friendly laundromat featuring emphasis on cleanliness serving Las Vegas, NV with convenient washing and drying services. Features comfortable seating and modern laundry equipment."
+  },
+  {
+    "id": 14,
+    "name": "24 Hour Laundromat Las Vegas",
+    "address": "3547 S Maryland Pkwy, Las Vegas, NV 89169",
+    "phone": "(702) 893-2424",
+    "website": "https://www.laundromatslasvegas.com",
+    "rating": 4.3,
+    "reviewCount": 145,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card",
+      "Mobile Payment"
+    ],
+    "pricing": "Wash $3.75; dry $2.75; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": true,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "24/7 operation with pickup and delivery service. Well-maintained facility with security features."
+  },
+  {
+    "id": 15,
+    "name": "LaundroLab Las Vegas",
+    "address": "4550 E Tropicana Ave, Las Vegas, NV 89121",
+    "phone": "(702) 454-8877",
+    "website": "https://www.laundrolabusa.com",
+    "rating": 4.5,
+    "reviewCount": 123,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Mobile App",
+      "Credit Card"
+    ],
+    "pricing": "Wash $4.00; dry $3.00; wash-and-fold $1.30/lb",
+    "is24Hours": false,
+    "hasWifi": true,
+    "hasParking": true,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Modern facility with 35-45 minute wash cycles and mobile payment app for convenience."
+  },
+  {
+    "id": 16,
+    "name": "Oasis Laundromat",
+    "address": "1175 E Charleston Blvd, Las Vegas, NV 89104",
+    "phone": null,
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 39,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Convenient laundromat providing efficient washing and drying services in Las Vegas, NV. Popular with local residents for its reliable machines and clean environment."
+  },
+  {
+    "id": 17,
+    "name": "AJ's Laundry Star",
+    "address": "3050 E Desert Inn Rd #137, Las Vegas, NV 89121",
+    "phone": "(702) 405-6546",
+    "website": "https://www.ajlaundrystar.com/",
+    "rating": 4.6,
+    "reviewCount": 265,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Community-focused laundromat providing reliable washing and drying services to residents of Las Vegas, NV. Known for well-maintained machines and friendly service."
+  },
+  {
+    "id": 18,
+    "name": "24 Hour Laundromat Twain",
+    "address": "525 E Twain Ave, Las Vegas, NV 89169",
+    "phone": "(702) 696-9698",
+    "website": "https://www.facebook.com/LasVegasLaundromat",
+    "rating": 4.2,
+    "reviewCount": 389,
+    "services": [
+      "Self-Service",
+      "24/7 Operation"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Community laundromat providing comprehensive washing and drying solutions in Las Vegas, NV. Well-equipped with modern laundry machines."
+  },
+  {
+    "id": 19,
+    "name": "Launderland Wash & Dry",
+    "address": "860 E Twain Ave Suite 110, Las Vegas, NV 89169",
+    "phone": "(702) 749-7050",
+    "website": "http://launderland-dry.edan.io/",
+    "rating": 3.7,
+    "reviewCount": 59,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Convenient laundromat providing efficient washing and drying services in Las Vegas, NV. Popular with local residents for its reliable machines and clean environment. This 3.70-star rated facility provides dependable service."
+  },
+  {
+    "id": 20,
+    "name": "Lily's Laundry in Las Vegas",
+    "address": "5006 S Maryland Pkwy Ste 10, Las Vegas, NV 89119",
+    "phone": "(702) 444-7515",
+    "website": "http://laundryinlasvegas.com/",
+    "rating": 4.2,
+    "reviewCount": 98,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Professional coin laundry providing efficient washing and drying solutions in Las Vegas, NV. Popular choice for reliable laundry services."
+  },
+  {
+    "id": 21,
+    "name": "Linen Fresh Laundromat",
+    "address": "2991 W Lake Mead Blvd, Las Vegas, NV 89106",
+    "phone": "(702) 346-8100",
+    "website": "http://www.linenfreshlaundromat.com/",
+    "rating": 4.7,
+    "reviewCount": 134,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Neighborhood laundromat featuring fresh approach to laundry providing quality washing and drying services to the Las Vegas, NV community. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 22,
+    "name": "LaundroLab Las Vegas - Nellis Blvd",
+    "address": "2775 S. Nellis Blvd Ste #5, Las Vegas, NV 89121",
+    "phone": "(702) 563-4420",
+    "website": "https://www.laundrolabusa.com",
+    "rating": 4.2,
+    "reviewCount": 91,
+    "services": [
+      "Self-Service",
+      "Shopping Center Location",
+      "Modern Equipment"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card",
+      "Mobile App"
+    ],
+    "pricing": "Wash $4.75; dry $3.50; wash-and-fold $1.50/lb",
+    "is24Hours": false,
+    "hasWifi": true,
+    "hasParking": true,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "LaundroLab's Nellis Boulevard location in a convenient shopping center with modern laundry equipment."
+  },
+  {
+    "id": 23,
+    "name": "Spin City Laundromat",
+    "address": "5950 W Charleston Blvd #140, Las Vegas, NV 89146",
+    "phone": "(702) 880-4344",
+    "website": null,
+    "rating": 4.2,
+    "reviewCount": 218,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Full-service coin laundry providing washing and drying solutions in Las Vegas, NV. Known for clean facilities and dependable laundry equipment."
+  },
+  {
+    "id": 24,
+    "name": "Sin City Suds Laundromat",
+    "address": "2301 S Maryland Pkwy, Las Vegas, NV 89104",
+    "phone": null,
+    "website": null,
+    "rating": 4.3,
+    "reviewCount": 252,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Neighborhood coin laundry offering convenient washing and drying solutions in Las Vegas, NV. Features spacious facility and reliable equipment."
+  },
+  {
+    "id": 25,
+    "name": "Mr. Suds Laundromat",
+    "address": "2303 S Eastern Ave, Las Vegas, NV 89104",
+    "phone": "(702) 670-2936",
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 91,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Convenient laundromat serving the Las Vegas, NV area with efficient washing and drying services. Popular with residents for reliable equipment."
+  },
+  {
+    "id": 26,
+    "name": "Busy Bee Laundromat",
+    "address": "1201 Stewart Ave, Las Vegas, NV 89101",
+    "phone": "(435) 599-8082",
+    "website": "http://www.busybeelaundromat.com/",
+    "rating": 3.8,
+    "reviewCount": 254,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Established washing facility offering reliable laundry services in Las Vegas, NV. Features spacious layout and dependable equipment."
+  },
+  {
+    "id": 27,
+    "name": "Linen Fresh Laundromat",
+    "address": "3750 E Desert Inn Rd, Las Vegas, NV 89121",
+    "phone": "(702) 346-8100",
+    "website": "http://www.linenfreshlaundry.com/",
+    "rating": 4.2,
+    "reviewCount": 252,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Convenient laundromat featuring fresh approach to laundry providing efficient washing and drying services in Las Vegas, NV. Popular with local residents for its reliable machines and clean environment."
+  },
+  {
+    "id": 28,
+    "name": "West Flamingo Fluff & Fold",
+    "address": "6186 W Flamingo Rd, Las Vegas, NV 89103",
+    "phone": "(702) 395-7712",
+    "website": "http://www.westflamingofluffandfold.com/",
+    "rating": 4,
+    "reviewCount": 310,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Full-service washing facility offering quality laundry solutions in Las Vegas, NV. Features comfortable environment and well-maintained machines."
+  },
+  {
+    "id": 29,
+    "name": "Laundromat Express",
+    "address": "5485 W Flamingo Rd, Las Vegas, NV 89103",
+    "phone": "(725) 696-8287",
+    "website": "http://www.laundromatexpresslv.com/",
+    "rating": 3.7,
+    "reviewCount": 170,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Quick-service focused coin laundry providing washing and drying solutions in Las Vegas, NV. Known for clean facilities and dependable laundry equipment."
+  },
+  {
+    "id": 30,
+    "name": "Desert Oasis Laundromat",
+    "address": "3650 S Decatur Blvd #19, Las Vegas, NV 89103",
+    "phone": "(702) 912-1242",
+    "website": null,
+    "rating": 4.4,
+    "reviewCount": 83,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Local laundry facility offering comprehensive washing and drying services to Las Vegas, NV residents. Features well-maintained equipment and convenient location."
+  },
+  {
+    "id": 31,
+    "name": "Super Cleaners",
+    "address": "800 S Las Vegas Blvd, Las Vegas, NV 89101",
+    "phone": "(725) 255-2392",
+    "website": "http://www.lvsupercleaners.com/",
+    "rating": 4.9,
+    "reviewCount": 514,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Family-friendly laundromat featuring extensive equipment selection serving Las Vegas, NV with convenient washing and drying services. Features comfortable seating and modern laundry equipment."
+  },
+  {
+    "id": 32,
+    "name": "Spin Cycle Laundromat, New Management by Lily's Laundry",
+    "address": "1909 N Decatur Blvd, Las Vegas, NV 89108",
+    "phone": "(702) 202-6429",
+    "website": "https://laundryinlasvegas.com/",
+    "rating": 4.3,
+    "reviewCount": 112,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Updated equipment coin laundry providing washing and drying solutions in Las Vegas, NV. Known for clean facilities and dependable laundry equipment."
+  },
+  {
+    "id": 33,
+    "name": "Laundromat",
+    "address": "2885 E Charleston Blvd, Las Vegas, NV 89104",
+    "phone": null,
+    "website": null,
+    "rating": 4.4,
+    "reviewCount": 48,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Neighborhood laundromat serving Las Vegas, NV with convenient washing and drying facilities. Known for modern equipment and clean environment."
+  },
+  {
+    "id": 34,
+    "name": "The Washtub Laundromat",
+    "address": "4821 W Spring Mountain Rd #F, Las Vegas, NV 89102",
+    "phone": "(702) 876-9526",
+    "website": "http://www.washtublv.com/",
+    "rating": 4.3,
+    "reviewCount": 358,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Professional laundromat offering reliable washing and drying solutions in Las Vegas, NV. Known for clean facilities and well-maintained equipment."
+  },
+  {
+    "id": 35,
+    "name": "Laundromat Express Free Dry #1",
+    "address": "3175 S Nellis Blvd, Las Vegas, NV 89121",
+    "phone": "(702) 348-5484",
+    "website": "http://www.laundromatexpresslv.com/",
+    "rating": 4.1,
+    "reviewCount": 168,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Speedy laundry solutions laundromat offering reliable washing and drying solutions in Las Vegas, NV. Features modern equipment and convenient operating hours."
+  },
+  {
+    "id": 36,
+    "name": "Big Bundles Laundromat & Dry Cleaners",
+    "address": "2071 N Jones Blvd, Las Vegas, NV 89108",
+    "phone": "(702) 648-9274",
+    "website": null,
+    "rating": 3.9,
+    "reviewCount": 133,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Professional laundromat featuring spotless environment serving the Las Vegas, NV area with modern washing and drying equipment. Known for efficient service and clean facilities."
+  },
+  {
+    "id": 37,
+    "name": "BOULDER EXPRESS LAUNDRY SERVICES",
+    "address": "5230 Boulder Hwy Ste 150, Las Vegas, NV 89122",
+    "phone": "(657) 251-0337",
+    "website": "https://www.boulderexpressls.com/",
+    "rating": 4.5,
+    "reviewCount": 296,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Professional laundromat featuring speedy laundry solutions offering reliable washing and drying solutions in Las Vegas, NV. Known for clean facilities and well-maintained equipment."
+  },
+  {
+    "id": 38,
+    "name": "LaundroLab Laundromat",
+    "address": "3265 E Tropicana Ave suite c, Las Vegas, NV 89121",
+    "phone": "(702) 589-7500",
+    "website": "https://www.laundrolabusa.com/locations/las-vegas",
+    "rating": 4.8,
+    "reviewCount": 134,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Convenient coin-operated laundromat serving Las Vegas, NV with efficient washing and drying facilities. Popular with local community members."
+  },
+  {
+    "id": 39,
+    "name": "Sunrise Laundromats - Stewart",
+    "address": "4425 Stewart Ave Unit 101-103, Las Vegas, NV 89110",
+    "phone": "(702) 570-5724",
+    "website": "https://www.sunriselaundromats.com/",
+    "rating": 4.6,
+    "reviewCount": 25,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Local washing facility providing reliable laundry services in Las Vegas, NV. Popular choice for both quick wash and full-service laundry needs."
+  },
+  {
+    "id": 40,
+    "name": "Las Vegas Coin Laundry #5",
+    "address": "1748 E Charleston Blvd, Las Vegas, NV 89104",
+    "phone": null,
+    "website": "http://lasvegascoinlaundry.com/store-5-1748-e-charleston/",
+    "rating": 4.1,
+    "reviewCount": 748,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Community laundromat offering convenient washing and drying services to Las Vegas, NV residents. Features well-maintained machines and comfortable environment."
+  },
+  {
+    "id": 41,
+    "name": "Sudz Coin Laundromat",
+    "address": "3149 N Rancho Dr, Las Vegas, NV 89130",
+    "phone": "(702) 415-5785",
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 373,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "Established washing facility offering comprehensive laundry services in Las Vegas, NV. Features modern equipment and convenient location for easy access."
+  },
+  {
+    "id": 42,
+    "name": "LaundroLab Las Vegas - Tropicana and Pecos",
+    "address": "3265 E Tropicana Ave, Las Vegas, NV 89121",
+    "phone": "(702) 589-7500",
+    "website": "https://www.laundrolabusa.com",
+    "rating": 4.5,
+    "reviewCount": 126,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card",
+      "Mobile App"
+    ],
+    "pricing": "Wash $4.75; dry $3.50; wash-and-fold $1.50/lb",
+    "is24Hours": false,
+    "hasWifi": true,
+    "hasParking": true,
+    "acceptsCards": false,
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "verified": false,
+    "description": "LaundroLab's prime Las Vegas location at Tropicana and Pecos with equipment optimized for desert climate conditions."
+  }
+]
