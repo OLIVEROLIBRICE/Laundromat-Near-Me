@@ -4,13 +4,20 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ExternalLink, Landmark, Mail, Search } from "lucide-react";
 import { Breadcrumbs, PageShell } from "@/components/site-shell";
-import { BrooklynListings } from "@/components/brooklyn-listings";
+import { CityListings, type CityListing } from "@/components/brooklyn-listings";
 import brooklynListings from "@/data/brooklyn-listings.json";
+import bronxListings from "@/data/bronx-listings.json";
 import { getPopularCity, popularCities } from "@/lib/popular-cities";
 import { cityResources } from "@/lib/city-resources";
 import { absoluteUrl, metaDescription } from "@/lib/seo";
 
 type Props = { params: { "city-slug": string } };
+
+function getCityListings(slug: string): CityListing[] {
+  if (slug === "brooklyn") return brooklynListings;
+  if (slug === "bronx") return bronxListings;
+  return [];
+}
 
 export function generateStaticParams() {
   return popularCities.map((city) => ({ "city-slug": city.slug }));
@@ -19,9 +26,9 @@ export function generateStaticParams() {
 export function generateMetadata({ params }: Props): Metadata {
   const city = getPopularCity(params["city-slug"]);
   if (!city) return {};
-  const count = city.slug === "brooklyn" ? brooklynListings.length : 0;
+  const count = getCityListings(city.slug).length;
   const title = `${count ? `${count} ` : ""}Laundromats in ${city.name}, ${city.abbr} | Laundromat Near Me`;
-  const description = count ? `Browse ${count} Brooklyn laundromats with supplied addresses, phones, ratings, reviews, services, pricing, and websites. Confirm details directly before visiting.` : metaDescription(city.intro);
+  const description = count ? `Browse ${count} ${city.name} laundromats with supplied addresses, phones, ratings, reviews, services, pricing, and websites. Confirm details directly before visiting.` : metaDescription(city.intro);
   const image = absoluteUrl(`/cities/${city.image}`);
   return {
     title,
@@ -35,7 +42,8 @@ export function generateMetadata({ params }: Props): Metadata {
 export default function PopularCityPage({ params }: Props) {
   const editorial = getPopularCity(params["city-slug"]);
   if (!editorial) notFound();
-  const isBrooklyn = editorial.slug === "brooklyn";
+  const listings = getCityListings(editorial.slug);
+  const hasListings = listings.length > 0;
   const resources = cityResources[editorial.slug] ?? [];
   const schema = {
     "@context": "https://schema.org",
@@ -44,14 +52,14 @@ export default function PopularCityPage({ params }: Props) {
     description: editorial.intro,
     url: absoluteUrl(`/${editorial.slug}`),
     primaryImageOfPage: absoluteUrl(`/cities/${editorial.image}`),
-    ...(isBrooklyn ? { mainEntity: {
+    ...(hasListings ? { mainEntity: {
       "@type": "ItemList",
-      numberOfItems: brooklynListings.length,
-      itemListElement: brooklynListings.map((listing, index) => ({
+      numberOfItems: listings.length,
+      itemListElement: listings.map((listing, index) => ({
         "@type": "ListItem",
         position: index + 1,
         name: listing.name,
-        url: absoluteUrl(`/brooklyn#brooklyn-listing-${listing.id}`),
+        url: absoluteUrl(`/${editorial.slug}#${editorial.slug}-listing-${listing.id}`),
       })),
     }} : {}),
   };
@@ -65,7 +73,7 @@ export default function PopularCityPage({ params }: Props) {
           <p className="text-sm font-bold uppercase tracking-[.18em] text-brand-600">Local laundry guide</p>
           <h1 className="mt-3 font-display text-4xl font-extrabold tracking-tight sm:text-5xl">Laundromats in {editorial.name}, {editorial.abbr}</h1>
           <p className="mt-6 text-lg leading-8 text-slate-600">{editorial.intro}</p>
-          {isBrooklyn ? <Link href="#listings" className="focus-ring mt-7 inline-flex items-center gap-2 rounded-full bg-brand-600 px-6 py-3 font-bold text-white transition hover:bg-brand-700"><Search size={18}/> Browse {brooklynListings.length} Brooklyn listings</Link> : <Link href="/contact" className="focus-ring mt-7 inline-flex items-center gap-2 rounded-full bg-brand-600 px-6 py-3 font-bold text-white transition hover:bg-brand-700"><Mail size={18}/> Suggest a local laundromat</Link>}
+          {hasListings ? <Link href="#listings" className="focus-ring mt-7 inline-flex items-center gap-2 rounded-full bg-brand-600 px-6 py-3 font-bold text-white transition hover:bg-brand-700"><Search size={18}/> Browse {listings.length} {editorial.name} listings</Link> : <Link href="/contact" className="focus-ring mt-7 inline-flex items-center gap-2 rounded-full bg-brand-600 px-6 py-3 font-bold text-white transition hover:bg-brand-700"><Mail size={18}/> Suggest a local laundromat</Link>}
         </div>
         <div className="relative h-72 overflow-hidden rounded-3xl border border-brand-100 bg-slate-200 shadow-soft sm:h-96">
           <Image src={`/cities/${editorial.image}`} alt={editorial.alt} title={`${editorial.name}, ${editorial.state} laundromat guide`} fill priority sizes="(max-width: 1024px) 100vw, 42vw" className="object-cover"/>
@@ -74,13 +82,13 @@ export default function PopularCityPage({ params }: Props) {
       </div>
     </section>
 
-    {isBrooklyn ? <section id="listings" className="mx-auto max-w-7xl scroll-mt-8 px-5 py-16 lg:px-8">
+    {hasListings ? <section id="listings" className="mx-auto max-w-7xl scroll-mt-8 px-5 py-16 lg:px-8">
       <div className="mb-8 max-w-3xl">
-        <p className="text-sm font-bold uppercase tracking-[.18em] text-brand-600">Brooklyn directory</p>
-        <h2 className="mt-2 font-display text-3xl font-extrabold sm:text-4xl">{brooklynListings.length} laundromats in Brooklyn</h2>
+        <p className="text-sm font-bold uppercase tracking-[.18em] text-brand-600">{editorial.name} directory</p>
+        <h2 className="mt-2 font-display text-3xl font-extrabold sm:text-4xl">{listings.length} laundromats in {editorial.name}</h2>
         <p className="mt-4 leading-7 text-slate-600">These records were supplied for this directory and have not been independently verified. Confirm current hours, pricing, services, and availability directly with the business before visiting.</p>
       </div>
-      <BrooklynListings listings={brooklynListings}/>
+      <CityListings listings={listings} cityName={editorial.name} citySlug={editorial.slug}/>
     </section> : <section className="mx-auto max-w-4xl px-5 py-16 text-center lg:px-8">
       <div className="rounded-3xl border border-brand-100 bg-white p-8 shadow-soft sm:p-12">
         <p className="text-sm font-bold uppercase tracking-[.18em] text-brand-600">Directory update</p>
