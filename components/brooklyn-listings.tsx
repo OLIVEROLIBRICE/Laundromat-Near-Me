@@ -1,7 +1,7 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import { Car, CreditCard, ExternalLink, MapPin, Navigation, Phone, Search, ShieldAlert, Star, WashingMachine, Wifi } from "lucide-react";
+import { Car, CreditCard, ExternalLink, MapPin, Navigation, Phone, Search, Star, WashingMachine, Wifi } from "lucide-react";
 
 export type CityListing = {
   id: number;
@@ -118,7 +118,6 @@ export function CityListings({ listings, cityName, citySlug }: { listings: CityL
               {listing.website && <a href={listing.website} target="_blank" rel="nofollow noopener noreferrer" className="focus-ring inline-flex flex-1 items-center justify-center gap-2 rounded-xl border border-brand-200 bg-brand-50 px-4 py-3 text-sm font-extrabold text-brand-700 transition hover:border-brand-300 hover:bg-brand-100">Website<ExternalLink size={17}/></a>}
               {!listing.phone && !listing.website && <a href={directionsUrl} target="_blank" rel="nofollow noopener noreferrer" className="focus-ring inline-flex flex-1 items-center justify-center gap-2 rounded-xl bg-brand-600 px-4 py-3 text-sm font-extrabold text-white transition hover:bg-brand-700"><Navigation size={18}/>Get directions</a>}
             </div>
-            <p className="mt-4 flex items-center gap-2 text-xs font-semibold text-amber-700"><ShieldAlert size={15}/>Not independently verified · confirm details before visiting</p>
           </div>
         </article>;
       })}
