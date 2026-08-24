@@ -164,7 +164,7 @@ export default function Home() {
       <section aria-label="Directory highlights" className="border-b border-brand-100 bg-white">
         <div className="mx-auto grid max-w-7xl grid-cols-2 divide-x divide-y divide-brand-100 px-5 sm:grid-cols-4 sm:divide-y-0 lg:px-8">
           {[
-            ["457", "Supplied listing records"],
+            ["472", "Supplied listing records"],
             ["15", "Featured city guides"],
             ["9", "States represented"],
             ["5", "In-depth laundry guides"],
@@ -183,7 +183,7 @@ export default function Home() {
           </div>
           <div className="space-y-5 text-lg leading-8 text-slate-600">
             <p>Finding a clean, convenient laundromat should not be a guessing game. Laundromat Near Me is a growing directory that combines supplied local business records with practical editorial guides for 15 featured US cities. Search by city, neighborhood, business name, street, or ZIP code to narrow the options before you leave home.</p>
-            <p>The details that matter most can vary from one laundry trip to the next. You may need early opening hours after a night shift, a large-capacity washer for a king comforter, free parking, card payment, or wash-and-fold service near work. Our Brooklyn, Bronx, Houston, Queens, Philadelphia, San Francisco, Tampa, and Newark directories include 457 supplied records with addresses, ratings, services, pricing information, and contact details. Because business information can change, those records are clearly labeled as not independently verified and should be confirmed directly before a visit.</p>
+            <p>The details that matter most can vary from one laundry trip to the next. You may need early opening hours after a night shift, a large-capacity washer for a king comforter, free parking, card payment, or wash-and-fold service near work. Our Brooklyn, Bronx, Houston, Queens, Philadelphia, San Francisco, Tampa, Newark, and Jacksonville directories include 472 supplied records with addresses, ratings, services, pricing information, and contact details. Because business information can change, those records are clearly labeled as not independently verified and should be confirmed directly before a visit.</p>
             <p>Our other featured pages currently provide city-specific guidance on neighborhoods, typical schedules, service options, and local resources while verified business listings are reviewed. Browse the city cards above, explore coverage by state below, or use the search bar to find a relevant city guide in seconds. New locations will be added as dependable information becomes available.</p>
           </div>
         </div>

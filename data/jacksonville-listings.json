@@ -1,0 +1,393 @@
+[
+  {
+    "id": 1,
+    "name": "Wash & Go Laundromat",
+    "address": "9585 Regency Sq Blvd N #8, Jacksonville, FL 32225",
+    "phone": "(904) 619-8880",
+    "website": "https://washngoregency.net/",
+    "rating": 4.6,
+    "reviewCount": 203,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 30.3322,
+    "lng": -81.6557,
+    "verified": false,
+    "description": "Community laundromat providing comprehensive washing and drying solutions in serving Jacksonville residents. Well-equipped with modern laundry machines."
+  },
+  {
+    "id": 2,
+    "name": "LaundroLab Jacksonville",
+    "address": "5243 Normandy Blvd, Jacksonville, FL 32205",
+    "phone": "(904) 555-0123",
+    "website": "https://www.laundrolabusa.com",
+    "rating": 4.1,
+    "reviewCount": 72,
+    "services": [
+      "Self-Service",
+      "Florida Location",
+      "Modern Equipment"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card",
+      "Mobile App"
+    ],
+    "pricing": "Wash $4.25; dry $3.00; wash-and-fold $1.40/lb",
+    "is24Hours": false,
+    "hasWifi": true,
+    "hasParking": true,
+    "acceptsCards": false,
+    "lat": 30.3322,
+    "lng": -81.6557,
+    "verified": false,
+    "description": "LaundroLab's Jacksonville location bringing modern laundry services to Florida residents."
+  },
+  {
+    "id": 3,
+    "name": "WaveMax Jacksonville",
+    "address": "929 McDuff Ave S, Jacksonville, FL 32205",
+    "phone": "(904) 388-1717",
+    "website": "https://www.wavemaxlaundry.com/locations/jacksonville",
+    "rating": 4.6,
+    "reviewCount": 595,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 30.3322,
+    "lng": -81.6557,
+    "verified": false,
+    "description": "Neighborhood laundromat serving serving Jacksonville residents with convenient washing and drying facilities. Known for modern equipment and clean environment."
+  },
+  {
+    "id": 4,
+    "name": "Baymeadows laundromat",
+    "address": "5111 Baymeadows Rd # 11, Jacksonville, FL 32217",
+    "phone": "(904) 730-0830",
+    "website": "http://baymeadows-laundry.edan.io/",
+    "rating": 4.3,
+    "reviewCount": 139,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 30.3322,
+    "lng": -81.6557,
+    "verified": false,
+    "description": "Neighborhood coin laundry offering convenient washing and drying solutions in serving Jacksonville residents. Features spacious facility and reliable equipment."
+  },
+  {
+    "id": 5,
+    "name": "Fresh Wave Laundry",
+    "address": "5655 Timuquana Rd, Jacksonville, FL 32210",
+    "phone": "(904) 772-8792",
+    "website": "http://www.freshwavejax.com/",
+    "rating": 4.5,
+    "reviewCount": 320,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 30.3322,
+    "lng": -81.6557,
+    "verified": false,
+    "description": "Established laundry facility providing comprehensive washing and drying services in serving Jacksonville residents. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 6,
+    "name": "Flo Laundry",
+    "address": "3520 Blanding Blvd Suite 2, Jacksonville, FL 32210",
+    "phone": "(904) 650-7957",
+    "website": "https://www.flolaundry.com/",
+    "rating": 5,
+    "reviewCount": 478,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 30.3322,
+    "lng": -81.6557,
+    "verified": false,
+    "description": "Local laundry facility offering comprehensive washing and drying services to serving Jacksonville residents residents. Features well-maintained equipment and convenient location."
+  },
+  {
+    "id": 7,
+    "name": "Wash & Go Laundromat II - Atlantic Blvd",
+    "address": "5910 Atlantic Blvd, Jacksonville, FL 32207",
+    "phone": "(904) 379-0855",
+    "website": "http://washngoatlantic.net/",
+    "rating": 4.4,
+    "reviewCount": 68,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 30.3322,
+    "lng": -81.6557,
+    "verified": false,
+    "description": "Professional laundromat serving the serving Jacksonville residents area with modern washing and drying equipment. Known for efficient service and clean facilities."
+  },
+  {
+    "id": 8,
+    "name": "Everybuddy's Laundromat-Monument Point Shopping Center",
+    "address": "1531 Monument Rd #5, Jacksonville, FL 32225",
+    "phone": "(904) 873-9280",
+    "website": "https://everybuddyslaundry.com/",
+    "rating": 4.6,
+    "reviewCount": 59,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 30.3322,
+    "lng": -81.6557,
+    "verified": false,
+    "description": "Neighborhood laundromat featuring hub for laundry services serving serving Jacksonville residents with convenient washing and drying facilities. Known for modern equipment and clean environment."
+  },
+  {
+    "id": 9,
+    "name": "Ft Caroline Laundry",
+    "address": "6060 Fort Caroline Rd, Jacksonville, FL 32277",
+    "phone": "(904) 551-4018",
+    "website": null,
+    "rating": 4.4,
+    "reviewCount": 149,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 30.3322,
+    "lng": -81.6557,
+    "verified": false,
+    "description": "Neighborhood laundromat providing quality washing and drying services to the serving Jacksonville residents community. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 10,
+    "name": "The Laundry Station",
+    "address": "8110 Lem Turner Rd, Jacksonville, FL 32208",
+    "phone": "(904) 713-8181",
+    "website": null,
+    "rating": 4,
+    "reviewCount": 147,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 30.3322,
+    "lng": -81.6557,
+    "verified": false,
+    "description": "Established washing facility offering comprehensive laundry services in serving Jacksonville residents. Features modern equipment and convenient location for easy access."
+  },
+  {
+    "id": 11,
+    "name": "Bay Shore Coin Laundry",
+    "address": "10916 Atlantic Blvd, Jacksonville, FL 32225",
+    "phone": "(904) 325-3349",
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 238,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 30.3322,
+    "lng": -81.6557,
+    "verified": false,
+    "description": "Full-service washing facility offering quality laundry solutions in serving Jacksonville residents. Features comfortable environment and well-maintained machines."
+  },
+  {
+    "id": 12,
+    "name": "Patio Laundry Jax",
+    "address": "5675 University Blvd W, Jacksonville, FL 32207",
+    "phone": "(904) 379-2614",
+    "website": "http://patiolaundry.com/",
+    "rating": 4.7,
+    "reviewCount": 132,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 30.3322,
+    "lng": -81.6557,
+    "verified": false,
+    "description": "Full-service laundromat offering convenient washing and drying facilities in serving Jacksonville residents. Features modern equipment and a clean environment for all your laundry needs."
+  },
+  {
+    "id": 13,
+    "name": "ItsWashday.com",
+    "address": "3637 Park St, Jacksonville, FL 32205",
+    "phone": "(904) 910-3678",
+    "website": "http://www.itswashday.com/",
+    "rating": 4.7,
+    "reviewCount": 296,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 30.3322,
+    "lng": -81.6557,
+    "verified": false,
+    "description": "Established washing facility offering reliable laundry services in serving Jacksonville residents. Features spacious layout and dependable equipment."
+  },
+  {
+    "id": 14,
+    "name": "Cedar Bay Coin Laundry",
+    "address": "11565 N Main St #204, Jacksonville, FL 32218",
+    "phone": "(904) 751-9342",
+    "website": null,
+    "rating": 3.7,
+    "reviewCount": 219,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 30.3322,
+    "lng": -81.6557,
+    "verified": false,
+    "description": "Community-focused laundromat providing reliable washing and drying services to residents of serving Jacksonville residents. Known for well-maintained machines and friendly service."
+  },
+  {
+    "id": 15,
+    "name": "Fresh Laundry Supercenter JAX",
+    "address": "5290 Norwood Ave STE 3, Jacksonville, FL 32208",
+    "phone": "(904) 683-7627",
+    "website": "https://freshlaundryjax.com/",
+    "rating": 4.2,
+    "reviewCount": 191,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 30.3322,
+    "lng": -81.6557,
+    "verified": false,
+    "description": "Community laundromat featuring large-capacity facility providing comprehensive washing and drying solutions in serving Jacksonville residents. Well-equipped with modern laundry machines."
+  }
+]
