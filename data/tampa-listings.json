@@ -1,0 +1,1189 @@
+[
+  {
+    "id": 1,
+    "name": "Hillsborough Coin Laundry Express",
+    "address": "3016 W Hillsborough Ave, Tampa, FL 33614",
+    "phone": "(813) 392-1478",
+    "website": null,
+    "rating": 4.4,
+    "reviewCount": 269,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Professional coin laundry providing efficient washing and drying solutions in Tampa, FL. Popular choice for reliable laundry services."
+  },
+  {
+    "id": 2,
+    "name": "BIG LOAD LAUNDRY",
+    "address": "2501 N Tampa St, Tampa, FL 33602",
+    "phone": null,
+    "website": "https://www.bigloadlaundry.com/",
+    "rating": 4.9,
+    "reviewCount": 333,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Community-oriented laundromat providing quality washing and drying services in Tampa, FL. Known for clean environment and friendly atmosphere."
+  },
+  {
+    "id": 3,
+    "name": "E Z Wash",
+    "address": "5563 S 78th St A, Tampa, FL 33619",
+    "phone": "(813) 443-5269",
+    "website": null,
+    "rating": 4.2,
+    "reviewCount": 251,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Family-friendly laundromat serving Tampa, FL with convenient washing and drying services. Features comfortable seating and modern laundry equipment."
+  },
+  {
+    "id": 4,
+    "name": "Hillsborough Coin Laundry",
+    "address": "4606 E Hillsborough Ave, Tampa, FL 33610",
+    "phone": "(813) 570-8022",
+    "website": null,
+    "rating": 4.1,
+    "reviewCount": 123,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Local laundromat offering comprehensive washing and drying services in Tampa, FL. Features spacious facility with modern equipment and convenient hours."
+  },
+  {
+    "id": 5,
+    "name": "Waters Express Laundry Center",
+    "address": "4333 W Waters Ave, Tampa, FL 33614",
+    "phone": "(813) 885-7377",
+    "website": "http://watersexpresslaundry.com/",
+    "rating": 4.5,
+    "reviewCount": 451,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Professional laundromat featuring fast and efficient serving the Tampa, FL area with modern washing and drying equipment. Known for efficient service and clean facilities."
+  },
+  {
+    "id": 6,
+    "name": "Sunny Bubbles Laundry",
+    "address": "4012 W Hillsborough Ave, Tampa, FL 33614",
+    "phone": "(813) 644-4205",
+    "website": "http://westtampalaundry.com/",
+    "rating": 4.7,
+    "reviewCount": 303,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Neighborhood coin laundry offering convenient washing and drying solutions in Tampa, FL. Features spacious facility and reliable equipment."
+  },
+  {
+    "id": 7,
+    "name": "Commercial Laundry Tampa Bay and Laundromat (Speed Wash)",
+    "address": "2525 E Hillsborough Ave ste 105, Tampa, FL 33610",
+    "phone": "(813) 205-0549",
+    "website": "http://www.commerciallaundrytampabay.com/",
+    "rating": 4.6,
+    "reviewCount": 37,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Established washing facility offering reliable laundry services in Tampa, FL. Features spacious layout and dependable equipment."
+  },
+  {
+    "id": 8,
+    "name": "Friendly City Laundry Tampa",
+    "address": "1410 E 17th Ave, Tampa, FL 33605",
+    "phone": "(941) 297-5807",
+    "website": "https://friendlycitylaundry.com/",
+    "rating": 4,
+    "reviewCount": 204,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Community-oriented laundromat providing quality washing and drying services in Tampa, FL. Known for clean environment and friendly atmosphere. This 4.00-star rated facility provides dependable service."
+  },
+  {
+    "id": 9,
+    "name": "Clean Vibes Laundry Company",
+    "address": "1613 E M.L.K. Jr Blvd, Tampa, FL 33610",
+    "phone": "(813) 563-2530",
+    "website": "https://cleanvibeslaundry.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "rating": 4.6,
+    "reviewCount": 307,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Professional coin laundry providing efficient washing and drying solutions in Tampa, FL. Popular choice for reliable laundry services."
+  },
+  {
+    "id": 10,
+    "name": "Memorial Coin Laundry",
+    "address": "4711 Normandy Dr, Tampa, FL 33615",
+    "phone": "(813) 886-5760",
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 94,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Full-service laundromat offering convenient washing and drying facilities in Tampa, FL. Features modern equipment and a clean environment for all your laundry needs."
+  },
+  {
+    "id": 11,
+    "name": "Tampa Express Laundry",
+    "address": "11620 N 22nd St, Tampa, FL 33612",
+    "phone": "(813) 280-9367",
+    "website": null,
+    "rating": 4.4,
+    "reviewCount": 46,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Quick-service focused coin laundry providing washing and drying solutions in Tampa, FL. Known for clean facilities and dependable laundry equipment."
+  },
+  {
+    "id": 12,
+    "name": "Mega Wash Super Center",
+    "address": "1450 Skipper Rd, Tampa, FL 33613",
+    "phone": "(813) 304-2716",
+    "website": "http://mega-wash-super-center.edan.io/",
+    "rating": 4.3,
+    "reviewCount": 213,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Community-oriented laundromat featuring comprehensive services providing quality washing and drying services in Tampa, FL. Known for clean environment and friendly atmosphere."
+  },
+  {
+    "id": 13,
+    "name": "Super Sudz Laundry Center",
+    "address": "7815 Palm River Rd, Tampa, FL 33619",
+    "phone": "(813) 621-5220",
+    "website": "http://www.supersudztampa.com/",
+    "rating": 4.7,
+    "reviewCount": 364,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Extensive equipment selection laundromat offering reliable washing and drying solutions in Tampa, FL. Features modern equipment and convenient operating hours."
+  },
+  {
+    "id": 14,
+    "name": "South 22nd Coin Laundry",
+    "address": "406 S 22nd St, Tampa, FL 33605",
+    "phone": "(813) 442-7003",
+    "website": null,
+    "rating": 4.7,
+    "reviewCount": 12,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Neighborhood laundromat serving Tampa, FL with convenient washing and drying facilities. Known for modern equipment and clean environment."
+  },
+  {
+    "id": 15,
+    "name": "Laundry King",
+    "address": "5814 N 40th St, Tampa, FL 33610",
+    "phone": "(813) 512-7391",
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 151,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Local laundry facility offering comprehensive washing and drying services to Tampa, FL residents. Features well-maintained equipment and convenient location."
+  },
+  {
+    "id": 16,
+    "name": "Fletcher Coin Laundry",
+    "address": "1902 E Fletcher Ave, Tampa, FL 33612",
+    "phone": "(813) 443-5551",
+    "website": null,
+    "rating": 4.2,
+    "reviewCount": 459,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Community laundromat providing comprehensive washing and drying solutions in Tampa, FL. Well-equipped with modern laundry machines."
+  },
+  {
+    "id": 17,
+    "name": "Hanley Coin Laundry",
+    "address": "7000 Hanley Rd, Tampa, FL 33634",
+    "phone": "(813) 888-7555",
+    "website": null,
+    "rating": 4.4,
+    "reviewCount": 192,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Local laundromat offering comprehensive washing and drying services in Tampa, FL. Features spacious facility with modern equipment and convenient hours."
+  },
+  {
+    "id": 18,
+    "name": "Seminole Heights Laundromat",
+    "address": "103 W Osborne Ave, Tampa, FL 33603",
+    "phone": null,
+    "website": "http://www.facebook.com/SeminoleHeightsLaundromat",
+    "rating": 4.2,
+    "reviewCount": 45,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Family-friendly laundromat serving Tampa, FL with convenient washing and drying services. Features comfortable seating and modern laundry equipment."
+  },
+  {
+    "id": 19,
+    "name": "LAUNDROMART - Busch Tampa",
+    "address": "4941 E Busch Blvd STE 340, Tampa, FL 33617",
+    "phone": "(813) 980-2136",
+    "website": "https://sites.google.com/view/laundromart/",
+    "rating": 4.3,
+    "reviewCount": 160,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Community laundromat providing comprehensive washing and drying solutions in Tampa, FL. Well-equipped with modern laundry machines. This 4.30-star rated facility provides dependable service."
+  },
+  {
+    "id": 20,
+    "name": "Coin Laundry",
+    "address": "1903 N Himes Ave, Tampa, FL 33607",
+    "phone": null,
+    "website": null,
+    "rating": 3.8,
+    "reviewCount": 105,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Professional laundromat serving the Tampa, FL area with modern washing and drying equipment. Known for efficient service and clean facilities. This 3.80-star rated facility provides dependable service."
+  },
+  {
+    "id": 21,
+    "name": "Condes Laundromat",
+    "address": "3533 W Waters Ave, Tampa, FL 33614",
+    "phone": "(813) 935-6679",
+    "website": "https://condes.info/",
+    "rating": 4.2,
+    "reviewCount": 119,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Neighborhood laundromat providing quality washing and drying services to the Tampa, FL community. Well-equipped with commercial-grade machines. This 4.20-star rated facility provides dependable service."
+  },
+  {
+    "id": 22,
+    "name": "University Laundromats Corporation",
+    "address": "1917 E Fletcher Ave, Tampa, FL 33612",
+    "phone": "(813) 374-2330",
+    "website": null,
+    "rating": 4.2,
+    "reviewCount": 181,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Established laundry facility providing comprehensive washing and drying services in Tampa, FL. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 23,
+    "name": "Laundromat Fl And Hills",
+    "address": "5510 N Florida Ave, Tampa, FL 33604",
+    "phone": null,
+    "website": "http://laundromat-hills.edan.io/",
+    "rating": 3.6,
+    "reviewCount": 115,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Professional laundromat serving the Tampa, FL area with modern washing and drying equipment. Known for efficient service and clean facilities."
+  },
+  {
+    "id": 24,
+    "name": "Bloom Laundry",
+    "address": "11819 N Armenia Ave, Tampa, FL 33612",
+    "phone": "(813) 467-6266",
+    "website": "http://www.bloomlaundry.net/",
+    "rating": 3.8,
+    "reviewCount": 54,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Convenient laundromat serving the Tampa, FL area with efficient washing and drying services. Popular with residents for reliable equipment."
+  },
+  {
+    "id": 25,
+    "name": "Laundromart On Bearss",
+    "address": "2255 E Bearss Ave, Tampa, FL 33613",
+    "phone": "(813) 849-1015",
+    "website": "http://laundromart-bearss.edan.io/",
+    "rating": 3.8,
+    "reviewCount": 126,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Established washing facility offering comprehensive laundry services in Tampa, FL. Features modern equipment and convenient location for easy access."
+  },
+  {
+    "id": 26,
+    "name": "Spins Laundromat",
+    "address": "2104 N Armenia Ave, Tampa, FL 33607",
+    "phone": "(813) 223-4999",
+    "website": "http://spinslaundromat.com/",
+    "rating": 4.3,
+    "reviewCount": 56,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Full-service coin laundry providing washing and drying solutions in Tampa, FL. Known for clean facilities and dependable laundry equipment. This 4.30-star rated facility provides dependable service."
+  },
+  {
+    "id": 27,
+    "name": "LaundroLab Tampa - Waters Armenia",
+    "address": "8432 N. Armenia Avenue, Tampa, FL 33604",
+    "phone": "(813) 442-5721",
+    "website": "https://www.laundrolabusa.com",
+    "rating": 4.3,
+    "reviewCount": 96,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card",
+      "Mobile App"
+    ],
+    "pricing": "Wash $4.25; dry $3.00; wash-and-fold $1.40/lb",
+    "is24Hours": false,
+    "hasWifi": true,
+    "hasParking": true,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "LaundroLab's Tampa location on Waters Armenia Avenue providing reliable laundry services with modern equipment."
+  },
+  {
+    "id": 28,
+    "name": "Florida Express Laundry",
+    "address": "122 W Bougainvillea Ave, Tampa, FL 33612",
+    "phone": "(813) 704-0703",
+    "website": null,
+    "rating": 4.3,
+    "reviewCount": 225,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Community laundromat featuring quick-service focused providing comprehensive washing and drying solutions in Tampa, FL. Well-equipped with modern laundry machines."
+  },
+  {
+    "id": 29,
+    "name": "LaundroLab Laundromat",
+    "address": "8432 N Armenia Ave, Tampa, FL 33604",
+    "phone": "(813) 442-5721",
+    "website": "https://www.laundrolabusa.com/fl/tampa/waters-armenia/home",
+    "rating": 4.9,
+    "reviewCount": 634,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Established laundromat serving the Tampa, FL area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry."
+  },
+  {
+    "id": 30,
+    "name": "Pure Spin Laundry",
+    "address": "13104 N Florida Ave, Tampa, FL 33612",
+    "phone": "(813) 931-1233",
+    "website": "https://www.purespinlaundry.com/",
+    "rating": 4.9,
+    "reviewCount": 138,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Convenient coin-operated laundromat serving Tampa, FL with efficient washing and drying facilities. Popular with local community members."
+  },
+  {
+    "id": 31,
+    "name": "Laundromart",
+    "address": "2319 W Columbus Dr, Tampa, FL 33607",
+    "phone": "(813) 302-9244",
+    "website": "http://www.laundromart.co/",
+    "rating": 4.6,
+    "reviewCount": 169,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Full-service laundromat offering convenient washing and drying facilities in Tampa, FL. Features modern equipment and a clean environment for all your laundry needs."
+  },
+  {
+    "id": 32,
+    "name": "West Tampa Coin Laundry",
+    "address": "W Kathleen St, Tampa, FL 33607",
+    "phone": "(813) 750-9761",
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 41,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Established washing facility offering reliable laundry services in Tampa, FL. Features spacious layout and dependable equipment."
+  },
+  {
+    "id": 33,
+    "name": "Spins Laundromat",
+    "address": "906 W Dr Martin Luther King Jr Blvd, Tampa, FL 33603",
+    "phone": "(813) 223-4999",
+    "website": "http://spinslaundromat.com/",
+    "rating": 4.4,
+    "reviewCount": 178,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Full-service coin laundry providing washing and drying solutions in Tampa, FL. Known for clean facilities and dependable laundry equipment."
+  },
+  {
+    "id": 34,
+    "name": "CLEAN - Laundry Co",
+    "address": "3020 W Kennedy Blvd, Tampa, FL 33609",
+    "phone": "(813) 310-8409",
+    "website": "http://www.cleanlaundryco.com/",
+    "rating": 4.9,
+    "reviewCount": 22,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Convenient coin-operated laundromat featuring spotless environment serving Tampa, FL with efficient washing and drying facilities. Popular with local community members."
+  },
+  {
+    "id": 35,
+    "name": "Gator Wash",
+    "address": "3316 Henderson Blvd, Tampa, FL 33609",
+    "phone": "(813) 874-7050",
+    "website": "http://www.gatorwashcoinlaundry.com/",
+    "rating": 3.8,
+    "reviewCount": 190,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Neighborhood coin laundry offering convenient washing and drying solutions in Tampa, FL. Features spacious facility and reliable equipment."
+  },
+  {
+    "id": 36,
+    "name": "Express Laundry",
+    "address": "7601 N 56th St, Tampa, FL 33617",
+    "phone": "(813) 443-6972",
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 70,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Community laundromat featuring speedy laundry solutions providing comprehensive washing and drying solutions in Tampa, FL. Well-equipped with modern laundry machines."
+  },
+  {
+    "id": 37,
+    "name": "Laundry Land",
+    "address": "4017 S MacDill Ave, Tampa, FL 33611",
+    "phone": "(850) 341-9434",
+    "website": "http://www.tampalaundryland.com/",
+    "rating": 4.6,
+    "reviewCount": 28,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Convenient laundromat providing efficient washing and drying services in Tampa, FL. Popular with local residents for its reliable machines and clean environment. This 4.60-star rated facility provides dependable service."
+  },
+  {
+    "id": 38,
+    "name": "Coin Laundry Dry Cleaning",
+    "address": "2526 W Tampa Bay Blvd, Tampa, FL 33607",
+    "phone": "(727) 945-2585",
+    "website": null,
+    "rating": 3.4,
+    "reviewCount": 40,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Hygiene-focused facility washing facility offering quality laundry solutions in Tampa, FL. Features comfortable environment and well-maintained machines."
+  },
+  {
+    "id": 39,
+    "name": "Laundry Express",
+    "address": "3817 S Manhattan Ave, Tampa, FL 33611",
+    "phone": "(813) 832-9274",
+    "website": "https://www.laundryexpresstampa.com/",
+    "rating": 4.2,
+    "reviewCount": 120,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Quick-service focused washing facility offering quality laundry solutions in Tampa, FL. Features comfortable environment and well-maintained machines."
+  },
+  {
+    "id": 40,
+    "name": "Carrollwood Laundromat & Ecnmy",
+    "address": "10235 Lake Carroll Way, Tampa, FL 33618",
+    "phone": "(813) 963-7101",
+    "website": null,
+    "rating": 3.6,
+    "reviewCount": 163,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Neighborhood coin laundry offering convenient washing and drying solutions in Tampa, FL. Features spacious facility and reliable equipment. This 3.60-star rated facility provides dependable service."
+  },
+  {
+    "id": 41,
+    "name": "Bay Laundromat",
+    "address": "5030 E 10th Ave, Tampa, FL 33619",
+    "phone": "(813) 304-0570",
+    "website": "http://baylaundromat.com/",
+    "rating": 4,
+    "reviewCount": 85,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Full-service laundromat offering reliable washing and drying solutions in Tampa, FL. Features modern equipment and convenient operating hours. This 4.00-star rated facility provides dependable service."
+  },
+  {
+    "id": 42,
+    "name": "Tampa Laundry Company",
+    "address": "4520 W Gandy Blvd, Tampa, FL 33611",
+    "phone": "(813) 902-1000",
+    "website": "http://tampalaundry.com/",
+    "rating": 4.3,
+    "reviewCount": 363,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Established laundromat serving the Tampa, FL area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry."
+  },
+  {
+    "id": 43,
+    "name": "Laundromart Of Tampa",
+    "address": "8215 N Florida Ave, Tampa, FL 33604",
+    "phone": "(813) 533-6600",
+    "website": "http://mylaundromart.com/",
+    "rating": 4.5,
+    "reviewCount": 329,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Convenient coin-operated laundromat serving Tampa, FL with efficient washing and drying facilities. Popular with local community members."
+  },
+  {
+    "id": 44,
+    "name": "North Tampa Laundry Company",
+    "address": "11502 N Nebraska Ave, Tampa, FL 33612",
+    "phone": "(321) 222-7176",
+    "website": "http://www.northtampalaundry.com/",
+    "rating": 4.3,
+    "reviewCount": 107,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Neighborhood laundromat providing quality washing and drying services to the Tampa, FL community. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 45,
+    "name": "Laundromat",
+    "address": "6817 N Manhattan Ave, Tampa, FL 33614",
+    "phone": "(813) 413-7936",
+    "website": "http://laundromat-tampa.edan.io/",
+    "rating": 4.4,
+    "reviewCount": 95,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Local washing facility providing reliable laundry services in Tampa, FL. Popular choice for both quick wash and full-service laundry needs."
+  },
+  {
+    "id": 46,
+    "name": "Waters Coin Laundry",
+    "address": "7302 W Waters Ave, Tampa, FL 33634",
+    "phone": "(813) 889-9012",
+    "website": null,
+    "rating": 4,
+    "reviewCount": 146,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 27.9506,
+    "lng": -82.4572,
+    "verified": false,
+    "description": "Community-focused laundromat providing reliable washing and drying services to residents of Tampa, FL. Known for well-maintained machines and friendly service."
+  }
+]
