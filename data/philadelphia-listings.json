@@ -1,0 +1,1137 @@
+[
+  {
+    "id": 1,
+    "name": "Revolution Laundromat",
+    "address": "3814 Morrell Ave, Philadelphia, PA 19114",
+    "phone": "(215) 941-1494",
+    "website": null,
+    "rating": 4.7,
+    "reviewCount": 186,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Established laundromat serving the in historic Philadelphia area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry."
+  },
+  {
+    "id": 2,
+    "name": "Laundromat America",
+    "address": "4839 Lancaster Ave, Philadelphia, PA 19131",
+    "phone": "(215) 307-3069",
+    "website": null,
+    "rating": 4.2,
+    "reviewCount": 458,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Community-focused laundromat providing reliable washing and drying services to residents of in historic Philadelphia. Known for well-maintained machines and friendly service."
+  },
+  {
+    "id": 3,
+    "name": "4J Laundromat",
+    "address": "747 Wolf St, Philadelphia, PA 19148",
+    "phone": "(215) 334-2839",
+    "website": "http://4jlaundromat.com/?utm_source=gmb&utm_medium=organic&utm_campaign=wolf_street",
+    "rating": 4.8,
+    "reviewCount": 423,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Full-service coin laundry providing washing and drying solutions in in historic Philadelphia. Known for clean facilities and dependable laundry equipment."
+  },
+  {
+    "id": 4,
+    "name": "Laundry Time Snyder",
+    "address": "60 Snyder Ave, Philadelphia, PA 19148",
+    "phone": "(267) 876-7064",
+    "website": "http://www.laundrytimesnyder.com/",
+    "rating": 4.9,
+    "reviewCount": 218,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Professional laundromat serving the in historic Philadelphia area with modern washing and drying equipment. Known for efficient service and clean facilities."
+  },
+  {
+    "id": 5,
+    "name": "Evergreen Laundromat",
+    "address": "4052 Lancaster Ave, Philadelphia, PA 19104",
+    "phone": null,
+    "website": "https://evergreenlaundroma.wixsite.com/website",
+    "rating": 4.3,
+    "reviewCount": 62,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Community-focused laundromat providing reliable washing and drying services to residents of in historic Philadelphia. Known for well-maintained machines and friendly service. This 4.30-star rated facility provides dependable service."
+  },
+  {
+    "id": 6,
+    "name": "H & Z Laundry",
+    "address": "6597 Roosevelt Blvd, Philadelphia, PA 19149",
+    "phone": "(215) 821-3357",
+    "website": "http://h-z-laundry.poi.place/",
+    "rating": 4.2,
+    "reviewCount": 435,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Local laundry facility offering comprehensive washing and drying services to in historic Philadelphia residents. Features well-maintained equipment and convenient location."
+  },
+  {
+    "id": 7,
+    "name": "Super Laundry Cycle Laundromat",
+    "address": "5018 City Ave, Philadelphia, PA 19131",
+    "phone": "(267) 279-7080",
+    "website": "http://superlaundrycyclelaundromat.cleancloud.site/",
+    "rating": 4.1,
+    "reviewCount": 340,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Extensive equipment selection laundromat offering reliable washing and drying solutions in in historic Philadelphia. Features modern equipment and convenient operating hours."
+  },
+  {
+    "id": 8,
+    "name": "IM Laundromat - Laundry Service",
+    "address": "526 S 5th St, Philadelphia, PA 19147",
+    "phone": "(267) 892-5260",
+    "website": null,
+    "rating": 4.1,
+    "reviewCount": 57,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Established washing facility offering reliable laundry services in in historic Philadelphia. Features spacious layout and dependable equipment. This 4.10-star rated facility provides dependable service."
+  },
+  {
+    "id": 9,
+    "name": "King Laundromat",
+    "address": "6712 Castor Ave, Philadelphia, PA 19149",
+    "phone": "(215) 725-7972",
+    "website": null,
+    "rating": 3.7,
+    "reviewCount": 127,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Convenient laundromat providing efficient washing and drying services in in historic Philadelphia. Popular with local residents for its reliable machines and clean environment."
+  },
+  {
+    "id": 10,
+    "name": "Laundry Time Rising Sun Philadelphia - Laundromat, Wash and Fold Laundry Service",
+    "address": "5921 Rising Sun Ave, Philadelphia, PA 19120",
+    "phone": "(215) 595-2575",
+    "website": "https://laundrytimerisingsun.com/",
+    "rating": 4.7,
+    "reviewCount": 222,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Convenient coin-operated laundromat serving in historic Philadelphia with efficient washing and drying facilities. Popular with local community members."
+  },
+  {
+    "id": 11,
+    "name": "L&Z Laundry",
+    "address": "6825 Frankford Ave, Philadelphia, PA 19135",
+    "phone": "(267) 983-6060",
+    "website": "https://www.facebook.com/LZ-Laundry-1585260601804687/",
+    "rating": 4.2,
+    "reviewCount": 303,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Established laundry facility providing comprehensive washing and drying services in in historic Philadelphia. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 12,
+    "name": "The Laundry Cafe",
+    "address": "400 W Allegheny Ave, Philadelphia, PA 19133",
+    "phone": "(215) 982-1463",
+    "website": "https://www.thelaundrycafe.com/",
+    "rating": 4.3,
+    "reviewCount": 373,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Family-friendly laundromat serving in historic Philadelphia with convenient washing and drying services. Features comfortable seating and modern laundry equipment."
+  },
+  {
+    "id": 13,
+    "name": "U-Do-It Laundry & Dry Cleaning",
+    "address": "1513 Spruce St, Philadelphia, PA 19102",
+    "phone": "(215) 735-1255",
+    "website": "http://udoitlaundry.com/",
+    "rating": 4.2,
+    "reviewCount": 243,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Emphasis on cleanliness laundromat offering reliable washing and drying solutions in in historic Philadelphia. Features modern equipment and convenient operating hours."
+  },
+  {
+    "id": 14,
+    "name": "Philly Coin-Op Laundry",
+    "address": "4201 N 15th St, Philadelphia, PA 19140",
+    "phone": "(215) 457-2991",
+    "website": null,
+    "rating": 3.7,
+    "reviewCount": 107,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Established washing facility offering comprehensive laundry services in in historic Philadelphia. Features modern equipment and convenient location for easy access."
+  },
+  {
+    "id": 15,
+    "name": "Luv Laundry",
+    "address": "113 Wyoming Ave, Philadelphia, PA 19140",
+    "phone": "(215) 398-7744",
+    "website": "https://luvlaundromat.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "rating": 4.9,
+    "reviewCount": 296,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Community laundromat offering convenient washing and drying services to in historic Philadelphia residents. Features well-maintained machines and comfortable environment."
+  },
+  {
+    "id": 16,
+    "name": "Do Your Dirty Laundry Services LLC",
+    "address": "2601 Dickinson St, Philadelphia, PA 19146",
+    "phone": "(215) 995-0555",
+    "website": "http://www.doyourdirty.com/",
+    "rating": 4.9,
+    "reviewCount": 311,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Established washing facility offering reliable laundry services in in historic Philadelphia. Features spacious layout and dependable equipment."
+  },
+  {
+    "id": 17,
+    "name": "Sunda Laundromat",
+    "address": "1200 Federal St, Philadelphia, PA 19147",
+    "phone": null,
+    "website": null,
+    "rating": 5,
+    "reviewCount": 12,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Full-service laundromat offering reliable washing and drying solutions in in historic Philadelphia. Features modern equipment and convenient operating hours. This 5.00-star rated facility provides dependable service."
+  },
+  {
+    "id": 18,
+    "name": "Missing Sock 5934 Laundromat",
+    "address": "5934 Bustleton Ave, Philadelphia, PA 19149",
+    "phone": "(215) 821-2091",
+    "website": "https://www.missingsock5934.com/",
+    "rating": 4.7,
+    "reviewCount": 81,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Full-service laundromat offering convenient washing and drying facilities in in historic Philadelphia. Features modern equipment and a clean environment for all your laundry needs. This 4.70-star rated facility provides dependable service."
+  },
+  {
+    "id": 19,
+    "name": "BetterClean Laundry",
+    "address": "6391 Oxford Ave Suite A3, Philadelphia, PA 19111",
+    "phone": "(215) 821-3143",
+    "website": "http://www.bettercleanlaundry.com/",
+    "rating": 4.6,
+    "reviewCount": 150,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Neighborhood laundromat featuring spotless environment providing quality washing and drying services to the in historic Philadelphia community. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 20,
+    "name": "Solution Laundry",
+    "address": "246 S 60th St, Philadelphia, PA 19139",
+    "phone": "(267) 275-8171",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 154,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Family-friendly laundromat serving in historic Philadelphia with convenient washing and drying services. Features comfortable seating and modern laundry equipment."
+  },
+  {
+    "id": 21,
+    "name": "M Laundry",
+    "address": "649 Foulkrod St, Philadelphia, PA 19120",
+    "phone": "(215) 941-7482",
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 66,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Convenient coin-operated laundromat serving in historic Philadelphia with efficient washing and drying facilities. Popular with local community members."
+  },
+  {
+    "id": 22,
+    "name": "Frankford- Mayfair Laundry Zone",
+    "address": "6410 Frankford Ave, Philadelphia, PA 19135",
+    "phone": "(215) 701-1010",
+    "website": "https://laundryzone.com/",
+    "rating": 4.8,
+    "reviewCount": 169,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Neighborhood laundromat providing quality washing and drying services to the in historic Philadelphia community. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 23,
+    "name": "K Laundry of Snyder Ave",
+    "address": "2710 Snyder Ave, Philadelphia, PA 19145",
+    "phone": "(215) 339-1020",
+    "website": "http://www.facebook.com/KlaundrySnyder/",
+    "rating": 4.6,
+    "reviewCount": 297,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Neighborhood coin laundry offering convenient washing and drying solutions in in historic Philadelphia. Features spacious facility and reliable equipment."
+  },
+  {
+    "id": 24,
+    "name": "Z Laundry",
+    "address": "8001 Ogontz Ave, Philadelphia, PA 19150",
+    "phone": "(267) 335-3873",
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 347,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Local laundromat offering comprehensive washing and drying services in in historic Philadelphia. Features spacious facility with modern equipment and convenient hours."
+  },
+  {
+    "id": 25,
+    "name": "U Do We Do Locust Laundromat",
+    "address": "4303 Locust St, Philadelphia, PA 19104",
+    "phone": "(215) 387-1697",
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 129,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Convenient laundromat serving the in historic Philadelphia area with efficient washing and drying services. Popular with residents for reliable equipment."
+  },
+  {
+    "id": 26,
+    "name": "Sun Laundromat",
+    "address": "2431 Castor Ave, Philadelphia, PA 19134",
+    "phone": "(215) 821-2946",
+    "website": "http://facebook.com/sunlaundromat",
+    "rating": 4.4,
+    "reviewCount": 325,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Local laundry facility offering comprehensive washing and drying services to in historic Philadelphia residents. Features well-maintained equipment and convenient location. This 4.40-star rated facility provides dependable service."
+  },
+  {
+    "id": 27,
+    "name": "BlueWater Wash Laundromat",
+    "address": "2121 W Lehigh Ave #2, Philadelphia, PA 19132",
+    "phone": "(267) 876-8241",
+    "website": "https://bluewaterwashlaundromats.com/",
+    "rating": 4.9,
+    "reviewCount": 192,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Community-oriented laundromat providing quality washing and drying services in in historic Philadelphia. Known for clean environment and friendly atmosphere."
+  },
+  {
+    "id": 28,
+    "name": "K Laundry",
+    "address": "1143 Cobbs Creek Pkwy, Philadelphia, PA 19143",
+    "phone": "(267) 292-2123",
+    "website": "http://k-laundry.poi.place/",
+    "rating": 4.6,
+    "reviewCount": 275,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Full-service washing facility offering quality laundry solutions in in historic Philadelphia. Features comfortable environment and well-maintained machines."
+  },
+  {
+    "id": 29,
+    "name": "The Laundry Café ParkWest",
+    "address": "4040 City Ave, Philadelphia, PA 19131",
+    "phone": "(215) 877-5050",
+    "website": "https://www.thelaundrycafe.com",
+    "rating": 4.7,
+    "reviewCount": 198,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Coinless Payment",
+      "Credit Card",
+      "Mobile App"
+    ],
+    "pricing": "Wash $4.25; dry Free with wash; wash-and-fold $1.35/lb",
+    "is24Hours": true,
+    "hasWifi": true,
+    "hasParking": true,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "24/7 operation with free dryer cycles with wash purchase. Features WiFi, massage chairs, and kid-friendly zones."
+  },
+  {
+    "id": 30,
+    "name": "10th Street Laundromat",
+    "address": "1143 S 10th St, Philadelphia, PA 19147",
+    "phone": "(215) 463-3100",
+    "website": null,
+    "rating": 4.4,
+    "reviewCount": 77,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Community laundromat offering convenient washing and drying services to in historic Philadelphia residents. Features well-maintained machines and comfortable environment."
+  },
+  {
+    "id": 31,
+    "name": "4J Laundromat",
+    "address": "330 Oregon Ave, Philadelphia, PA 19148",
+    "phone": "(267) 687-7491",
+    "website": "http://4jlaundromat.com/?utm_source=gmb&utm_medium=organic&utm_campaign=oregon_ave",
+    "rating": 4.4,
+    "reviewCount": 240,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Neighborhood laundromat serving in historic Philadelphia with convenient washing and drying facilities. Known for modern equipment and clean environment."
+  },
+  {
+    "id": 32,
+    "name": "The Laundry Café",
+    "address": "901 W Girard Ave, Philadelphia, PA 19123",
+    "phone": "(215) 224-9274",
+    "website": "http://www.thelaundrycafe.com/",
+    "rating": 3.8,
+    "reviewCount": 458,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Neighborhood coin laundry offering convenient washing and drying solutions in in historic Philadelphia. Features spacious facility and reliable equipment."
+  },
+  {
+    "id": 33,
+    "name": "The Laundry Cafe",
+    "address": "5675 N Front St, Philadelphia, PA 19140",
+    "phone": "(215) 224-9274",
+    "website": "http://www.thelaundrycafe.com/",
+    "rating": 3.6,
+    "reviewCount": 382,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Professional laundromat offering reliable washing and drying solutions in in historic Philadelphia. Known for clean facilities and well-maintained equipment."
+  },
+  {
+    "id": 34,
+    "name": "K Laundry",
+    "address": "8001 Frankford Ave, Philadelphia, PA 19136",
+    "phone": "(215) 220-6171",
+    "website": "http://www.klaundryfrankford.com/",
+    "rating": 4.7,
+    "reviewCount": 76,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Convenient laundromat serving the in historic Philadelphia area with efficient washing and drying services. Popular with residents for reliable equipment. This 4.70-star rated facility provides dependable service."
+  },
+  {
+    "id": 35,
+    "name": "Super Clean Laundromat Plus",
+    "address": "8799 Frankford Ave, Philadelphia, PA 19136",
+    "phone": "(267) 369-6339",
+    "website": "https://laundromatphiladelphia.com/",
+    "rating": 4.2,
+    "reviewCount": 170,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Local washing facility providing reliable laundry services in in historic Philadelphia. Popular choice for both quick wash and full-service laundry needs."
+  },
+  {
+    "id": 36,
+    "name": "Big G Laundry",
+    "address": "162 W Chelten Ave, Philadelphia, PA 19144",
+    "phone": "(267) 335-3039",
+    "website": "http://bigglaundry.com/",
+    "rating": 4.4,
+    "reviewCount": 517,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Professional laundromat offering reliable washing and drying solutions in in historic Philadelphia. Known for clean facilities and well-maintained equipment."
+  },
+  {
+    "id": 37,
+    "name": "PHLaundry",
+    "address": "2334 S 22nd St, Philadelphia, PA 19145",
+    "phone": "(267) 888-2522",
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 248,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Established washing facility offering comprehensive laundry services in in historic Philadelphia. Features modern equipment and convenient location for easy access."
+  },
+  {
+    "id": 38,
+    "name": "K & M Laundry",
+    "address": "2868 Aramingo Ave, Philadelphia, PA 19134",
+    "phone": "(267) 519-9879",
+    "website": "http://kmlaundry2868.com/",
+    "rating": 4.4,
+    "reviewCount": 298,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Full-service coin laundry providing washing and drying solutions in in historic Philadelphia. Known for clean facilities and dependable laundry equipment."
+  },
+  {
+    "id": 39,
+    "name": "Fresh & Fast Laundry Services",
+    "address": "327 S 60th St, Philadelphia, PA 19143",
+    "phone": "(215) 966-4509",
+    "website": "https://www.freshfastlaundry.com/",
+    "rating": 5,
+    "reviewCount": 9,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Convenient laundromat featuring clean and modern providing efficient washing and drying services in in historic Philadelphia. Popular with local residents for its reliable machines and clean environment."
+  },
+  {
+    "id": 40,
+    "name": "Laundry Time Penrose",
+    "address": "2946 Island Ave, Philadelphia, PA 19153",
+    "phone": "(267) 969-5567",
+    "website": "http://www.laundrytimepenrose.com/",
+    "rating": 4.9,
+    "reviewCount": 331,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Neighborhood laundromat providing quality washing and drying services to the in historic Philadelphia community. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 41,
+    "name": "Hunting Park Laundry Zone",
+    "address": "700 E Hunting Park Ave, Philadelphia, PA 19124",
+    "phone": "(215) 309-8479",
+    "website": "http://laundryzone.com/juniata-philadelphia/",
+    "rating": 4.8,
+    "reviewCount": 466,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Community laundromat providing comprehensive washing and drying solutions in in historic Philadelphia. Well-equipped with modern laundry machines."
+  },
+  {
+    "id": 42,
+    "name": "Bakers Centre Laundry",
+    "address": "2920 Roberts Ave #1110, Philadelphia, PA 19129",
+    "phone": "(215) 227-1454",
+    "website": "http://bakerscentrelaundry.com/?utm_source=gmb&utm_medium=organic&utm_campaign=bakers_centre",
+    "rating": 4.1,
+    "reviewCount": 376,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Local washing facility providing reliable laundry services in in historic Philadelphia. Popular choice for both quick wash and full-service laundry needs."
+  },
+  {
+    "id": 43,
+    "name": "Wissinoming laundromat",
+    "address": "5597 Tulip St Unit E, Philadelphia, PA 19124",
+    "phone": "(215) 904-7792",
+    "website": "http://wlaundromat.com/",
+    "rating": 4.5,
+    "reviewCount": 286,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Full-service laundromat offering reliable washing and drying solutions in in historic Philadelphia. Features modern equipment and convenient operating hours."
+  },
+  {
+    "id": 44,
+    "name": "L and J Laundromat Market",
+    "address": "5734 Old 2nd St, Philadelphia, PA 19120",
+    "phone": "(267) 475-2945",
+    "website": null,
+    "rating": 4.2,
+    "reviewCount": 24,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "verified": false,
+    "description": "Local laundromat offering comprehensive washing and drying services in in historic Philadelphia. Features spacious facility with modern equipment and convenient hours."
+  }
+]
