@@ -1,0 +1,465 @@
+[
+  {
+    "id": 1,
+    "name": "Capitol Quick Wash Laundromat",
+    "address": "7903 W Capitol Dr, Milwaukee, WI 53222",
+    "phone": "(414) 312-8523",
+    "website": "https://capitolquickwash.com/",
+    "rating": 4.8,
+    "reviewCount": 328,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 43.0389,
+    "lng": -87.9065,
+    "verified": false,
+    "description": "Community laundromat featuring fast turnaround times providing comprehensive washing and drying solutions in Milwaukee, WI. Well-equipped with modern laundry machines."
+  },
+  {
+    "id": 2,
+    "name": "Koala-T Coin Laundry",
+    "address": "2227 W National Ave, Milwaukee, WI 53204",
+    "phone": "(414) 207-6656",
+    "website": "http://www.koalatcoinlaundry.com/",
+    "rating": 3.6,
+    "reviewCount": 250,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 43.0389,
+    "lng": -87.9065,
+    "verified": false,
+    "description": "Professional laundromat offering reliable washing and drying solutions in Milwaukee, WI. Known for clean facilities and well-maintained equipment."
+  },
+  {
+    "id": 3,
+    "name": "Bayview Laundromat MKE",
+    "address": "2510 S Kinnickinnic Ave, Milwaukee, WI 53207",
+    "phone": "(414) 350-5697",
+    "website": "https://www.bayviewlaundromatmke.com/",
+    "rating": 4.1,
+    "reviewCount": 198,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 43.0389,
+    "lng": -87.9065,
+    "verified": false,
+    "description": "Convenient laundromat serving the Milwaukee, WI area with efficient washing and drying services. Popular with residents for reliable equipment."
+  },
+  {
+    "id": 4,
+    "name": "Greenfield Quick Wash Laundromat",
+    "address": "6835 W Layton Ave, Milwaukee, WI 53220",
+    "phone": "(414) 727-9205",
+    "website": null,
+    "rating": 3.9,
+    "reviewCount": 102,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 43.0389,
+    "lng": -87.9065,
+    "verified": false,
+    "description": "Speedy cleaning solutions coin laundry providing washing and drying solutions in Milwaukee, WI. Known for clean facilities and dependable laundry equipment."
+  },
+  {
+    "id": 5,
+    "name": "Coin Appliances Inc",
+    "address": "3408 W Forest Home Ave, Milwaukee, WI 53215",
+    "phone": "(414) 383-8170",
+    "website": null,
+    "rating": 4.1,
+    "reviewCount": 98,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 43.0389,
+    "lng": -87.9065,
+    "verified": false,
+    "description": "Established laundromat serving the Milwaukee, WI area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry."
+  },
+  {
+    "id": 6,
+    "name": "Quick Wash Laundromats on Villard",
+    "address": "7613 W Villard Ave, Milwaukee, WI 53218",
+    "phone": "(414) 509-5139",
+    "website": "https://quickwashlaundromats.com/",
+    "rating": 4.9,
+    "reviewCount": 105,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 43.0389,
+    "lng": -87.9065,
+    "verified": false,
+    "description": "Efficient service laundromat providing reliable washing and drying services to residents of Milwaukee, WI. Known for well-maintained machines and friendly service."
+  },
+  {
+    "id": 7,
+    "name": "Laundry World",
+    "address": "6578 W Brown Deer Rd, Milwaukee, WI 53223",
+    "phone": "(414) 815-6711",
+    "website": "http://www.laundry-world.net/",
+    "rating": 3.9,
+    "reviewCount": 122,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 43.0389,
+    "lng": -87.9065,
+    "verified": false,
+    "description": "Established washing facility offering comprehensive laundry services in Milwaukee, WI. Features modern equipment and convenient location for easy access."
+  },
+  {
+    "id": 8,
+    "name": "Milwaukee Laundry",
+    "address": "9151 N 76th St, Milwaukee, WI 53223",
+    "phone": "(414) 355-2400",
+    "website": "https://www.milwaukeelaundry.com/",
+    "rating": 4.2,
+    "reviewCount": 185,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 43.0389,
+    "lng": -87.9065,
+    "verified": false,
+    "description": "Community-oriented laundromat providing quality washing and drying services in Milwaukee, WI. Known for clean environment and friendly atmosphere."
+  },
+  {
+    "id": 9,
+    "name": "Blue Kangaroo Coin Laundry",
+    "address": "2909 W Greenfield Ave, Milwaukee, WI 53215",
+    "phone": "(414) 645-5197",
+    "website": "http://bluekangaroolaundromat.com/",
+    "rating": 4.1,
+    "reviewCount": 276,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 43.0389,
+    "lng": -87.9065,
+    "verified": false,
+    "description": "Community laundromat offering convenient washing and drying services to Milwaukee, WI residents. Features well-maintained machines and comfortable environment."
+  },
+  {
+    "id": 10,
+    "name": "J's Laundry",
+    "address": "5830 W Fond du Lac Ave, Milwaukee, WI 53218",
+    "phone": "(414) 531-5664",
+    "website": "http://www.jslaundrymilwaukee.com/",
+    "rating": 4.5,
+    "reviewCount": 77,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 43.0389,
+    "lng": -87.9065,
+    "verified": false,
+    "description": "Family-friendly laundromat serving Milwaukee, WI with convenient washing and drying services. Features comfortable seating and modern laundry equipment."
+  },
+  {
+    "id": 11,
+    "name": "Your Laundry",
+    "address": "801 E Capitol Dr, Milwaukee, WI 53212",
+    "phone": "(414) 539-4526",
+    "website": "https://yourlaundry.com/",
+    "rating": 4.2,
+    "reviewCount": 296,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 43.0389,
+    "lng": -87.9065,
+    "verified": false,
+    "description": "Professional coin laundry providing efficient washing and drying solutions in Milwaukee, WI. Popular choice for reliable laundry services."
+  },
+  {
+    "id": 12,
+    "name": "The Laundry Room",
+    "address": "8418 W Morgan Ave, Milwaukee, WI 53228",
+    "phone": "(262) 477-9040",
+    "website": "http://www.thelaundryroommke.com/",
+    "rating": 4,
+    "reviewCount": 77,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 43.0389,
+    "lng": -87.9065,
+    "verified": false,
+    "description": "Community-focused laundromat providing reliable washing and drying services to residents of Milwaukee, WI. Known for well-maintained machines and friendly service."
+  },
+  {
+    "id": 13,
+    "name": "Blue Kangaroo Coin Laundry",
+    "address": "1115 W Greenfield Ave, Milwaukee, WI 53204",
+    "phone": "(414) 385-0553",
+    "website": "https://bluekangaroolaundromat.com/",
+    "rating": 4,
+    "reviewCount": 200,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 43.0389,
+    "lng": -87.9065,
+    "verified": false,
+    "description": "Convenient coin-operated laundromat serving Milwaukee, WI with efficient washing and drying facilities. Popular with local community members."
+  },
+  {
+    "id": 14,
+    "name": "Blue Kangaroo Coin Laundry",
+    "address": "3045 South 13th Street, Milwaukee, WI 53215",
+    "phone": "(414) 389-9781",
+    "website": null,
+    "rating": 3.9,
+    "reviewCount": 114,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 43.0389,
+    "lng": -87.9065,
+    "verified": false,
+    "description": "Local laundry facility offering comprehensive washing and drying services to Milwaukee, WI residents. Features well-maintained equipment and convenient location."
+  },
+  {
+    "id": 15,
+    "name": "Blue Kangaroo Laundromat S 13th",
+    "address": "2242 S 13th St, Milwaukee, WI 53215",
+    "phone": "(414) 671-6578",
+    "website": "https://bluekangaroolaundromat.com",
+    "rating": 4.4,
+    "reviewCount": 178,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.75; dry $2.75; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": true,
+    "hasParking": true,
+    "acceptsCards": false,
+    "lat": 43.0389,
+    "lng": -87.9065,
+    "verified": false,
+    "description": "Family-friendly laundromat with extended hours from 5AM-10PM daily. Multiple Milwaukee locations available."
+  },
+  {
+    "id": 16,
+    "name": "Premier Express Laundry",
+    "address": "9116 W Oklahoma Ave, Milwaukee, WI 53227",
+    "phone": "(414) 485-5294",
+    "website": "https://flashlaundry.co/west-allis-1",
+    "rating": 4.2,
+    "reviewCount": 236,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 43.0389,
+    "lng": -87.9065,
+    "verified": false,
+    "description": "Local washing facility providing reliable laundry services in Milwaukee, WI. Popular choice for both quick wash and full-service laundry needs."
+  },
+  {
+    "id": 17,
+    "name": "Clean Laundry",
+    "address": "4328 W Fond du Lac Ave, Milwaukee, WI 53216",
+    "phone": "(414) 635-6947",
+    "website": "https://cleanlaundry.com/locations/wisconsin/milwaukee/4343-w-fond-du-lac-ave-milwaukee-wi/",
+    "rating": 4.9,
+    "reviewCount": 230,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 43.0389,
+    "lng": -87.9065,
+    "verified": false,
+    "description": "Established washing facility offering reliable laundry services in Milwaukee, WI. Features spacious layout and dependable equipment."
+  },
+  {
+    "id": 18,
+    "name": "Suds Your Duds Coin Laundries | Harambee",
+    "address": "636 W Center St, Milwaukee, WI 53212",
+    "phone": null,
+    "website": null,
+    "rating": 4,
+    "reviewCount": 227,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 43.0389,
+    "lng": -87.9065,
+    "verified": false,
+    "description": "Neighborhood laundromat providing quality washing and drying services to the Milwaukee, WI community. Well-equipped with commercial-grade machines."
+  }
+]

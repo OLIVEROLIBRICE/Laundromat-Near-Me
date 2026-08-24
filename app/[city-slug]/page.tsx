@@ -16,6 +16,7 @@ import newarkListings from "@/data/newark-listings.json";
 import jacksonvilleListings from "@/data/jacksonville-listings.json";
 import phoenixListings from "@/data/phoenix-listings.json";
 import longBeachListings from "@/data/long-beach-listings.json";
+import milwaukeeListings from "@/data/milwaukee-listings.json";
 import { getPopularCity, popularCities } from "@/lib/popular-cities";
 import { cityResources } from "@/lib/city-resources";
 import { absoluteUrl, metaDescription } from "@/lib/seo";
@@ -34,6 +35,7 @@ function getCityListings(slug: string): CityListing[] {
   if (slug === "jacksonville") return jacksonvilleListings;
   if (slug === "phoenix") return phoenixListings;
   if (slug === "long-beach") return longBeachListings;
+  if (slug === "milwaukee") return milwaukeeListings;
   return [];
 }
 
