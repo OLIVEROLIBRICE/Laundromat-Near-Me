@@ -1,0 +1,338 @@
+[
+  {
+    "id": 1,
+    "name": "Drop n Go Laundromat",
+    "address": "4554 Orange Ave, Long Beach, CA 90807",
+    "phone": "(562) 912-4338",
+    "website": "https://www.dropngolaundromat.com/",
+    "rating": 4.1,
+    "reviewCount": 89,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.7701,
+    "lng": -118.1937,
+    "verified": false,
+    "description": "Full-service laundromat offering reliable washing and drying solutions in Long Beach, CA. Features modern equipment and convenient operating hours."
+  },
+  {
+    "id": 2,
+    "name": "Laundry 360 On Market",
+    "address": "621 E Market St, Long Beach, CA 90805",
+    "phone": "(562) 423-0131",
+    "website": "http://washing360.com/",
+    "rating": 4.7,
+    "reviewCount": 157,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.7701,
+    "lng": -118.1937,
+    "verified": false,
+    "description": "Neighborhood laundromat providing quality washing and drying services to the Long Beach, CA community. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 3,
+    "name": "Love Laundry Long Beach",
+    "address": "6663 Long Beach Blvd, Long Beach, CA 90805",
+    "phone": "(818) 259-0690",
+    "website": "https://lovelaundrysocal.com/socal/long-beach-blvd",
+    "rating": 4,
+    "reviewCount": 255,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.7701,
+    "lng": -118.1937,
+    "verified": false,
+    "description": "Established laundry facility providing comprehensive washing and drying services in Long Beach, CA. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 4,
+    "name": "4th & Temple Laundromat",
+    "address": "2805 E 4th St, Long Beach, CA 90814",
+    "phone": "(562) 438-5864",
+    "website": "http://4th-temple-laundromat.poi.place/",
+    "rating": 4.4,
+    "reviewCount": 137,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.7701,
+    "lng": -118.1937,
+    "verified": false,
+    "description": "Local washing facility providing reliable laundry services in Long Beach, CA. Popular choice for both quick wash and full-service laundry needs."
+  },
+  {
+    "id": 5,
+    "name": "Circle Coin Laundry & Dry Cleaning",
+    "address": "4752 Pacific Coast Hwy, Long Beach, CA 90804",
+    "phone": "(714) 220-7583",
+    "website": null,
+    "rating": 4,
+    "reviewCount": 160,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.7701,
+    "lng": -118.1937,
+    "verified": false,
+    "description": "Family-friendly laundromat featuring spotless environment serving Long Beach, CA with convenient washing and drying services. Features comfortable seating and modern laundry equipment."
+  },
+  {
+    "id": 6,
+    "name": "Wavemax Laundry Long Beach, CA",
+    "address": "601 E 7th St, Long Beach, CA 90813",
+    "phone": "(562) 269-0509",
+    "website": "https://www.wavemaxlaundry.com/long-beach-ca/",
+    "rating": 4.7,
+    "reviewCount": 123,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.7701,
+    "lng": -118.1937,
+    "verified": false,
+    "description": "Neighborhood laundromat serving Long Beach, CA with convenient washing and drying facilities. Known for modern equipment and clean environment."
+  },
+  {
+    "id": 7,
+    "name": "Speed Queen Laundry",
+    "address": "1526 E 4th St, Long Beach, CA 90802",
+    "phone": "(562) 800-3152",
+    "website": "https://stores.speedqueenlaundry.com/speed-queen-laundry-7e56ec06a808",
+    "rating": 4.9,
+    "reviewCount": 365,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.7701,
+    "lng": -118.1937,
+    "verified": false,
+    "description": "Community-focused laundromat providing reliable washing and drying services to residents of Long Beach, CA. Known for well-maintained machines and friendly service."
+  },
+  {
+    "id": 8,
+    "name": "Light and Bright Laundry Co.",
+    "address": "1920 Ximeno Ave, Long Beach, CA 90815",
+    "phone": "(951) 946-9623",
+    "website": "https://lightandbrightlaundry.com/",
+    "rating": 4.4,
+    "reviewCount": 158,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.7701,
+    "lng": -118.1937,
+    "verified": false,
+    "description": "Convenient coin-operated laundromat featuring bright and welcoming serving Long Beach, CA with efficient washing and drying facilities. Popular with local community members."
+  },
+  {
+    "id": 9,
+    "name": "Highway Laundry",
+    "address": "303 W Anaheim St, Long Beach, CA 90813",
+    "phone": "(562) 669-3799",
+    "website": "http://www.highwaylaundry.com/",
+    "rating": 4.3,
+    "reviewCount": 133,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.7701,
+    "lng": -118.1937,
+    "verified": false,
+    "description": "Community laundromat providing comprehensive washing and drying solutions in Long Beach, CA. Well-equipped with modern laundry machines."
+  },
+  {
+    "id": 10,
+    "name": "Super Good Coin Laundry",
+    "address": "206 W Pacific Coast Hwy, Long Beach, CA 90806",
+    "phone": "(562) 283-5818",
+    "website": null,
+    "rating": 4.2,
+    "reviewCount": 192,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.7701,
+    "lng": -118.1937,
+    "verified": false,
+    "description": "Neighborhood laundromat featuring large-capacity facility providing quality washing and drying services to the Long Beach, CA community. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 11,
+    "name": "COIN Less LAUNDRY",
+    "address": "1994 Atlantic Ave, Long Beach, CA 90806",
+    "phone": "(866) 310-1313",
+    "website": "https://www.coinlesslaundry.com/",
+    "rating": 3.7,
+    "reviewCount": 38,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.7701,
+    "lng": -118.1937,
+    "verified": false,
+    "description": "Full-service washing facility offering quality laundry solutions in Long Beach, CA. Features comfortable environment and well-maintained machines."
+  },
+  {
+    "id": 12,
+    "name": "Super Suds Laundromat & Wash and Fold",
+    "address": "250 Alamitos Ave, Long Beach, CA 90802",
+    "phone": "(562) 436-1859",
+    "website": "https://www.supersuds.com/",
+    "rating": 4.4,
+    "reviewCount": 763,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.7701,
+    "lng": -118.1937,
+    "verified": false,
+    "description": "Community laundromat featuring large-capacity facility providing comprehensive washing and drying solutions in Long Beach, CA. Well-equipped with modern laundry machines."
+  },
+  {
+    "id": 13,
+    "name": "Coco Laundry - Laundromat, Wash & Fold",
+    "address": "4022 E 7th St, Long Beach, CA 90804",
+    "phone": "(562) 676-0209",
+    "website": "https://www.cocolaundry.com/",
+    "rating": 4.8,
+    "reviewCount": 184,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.7701,
+    "lng": -118.1937,
+    "verified": false,
+    "description": "Professional coin laundry providing efficient washing and drying solutions in Long Beach, CA. Popular choice for reliable laundry services."
+  }
+]
