@@ -12,6 +12,7 @@ import queensListings from "@/data/queens-listings.json";
 import philadelphiaListings from "@/data/philadelphia-listings.json";
 import sanFranciscoListings from "@/data/san-francisco-listings.json";
 import tampaListings from "@/data/tampa-listings.json";
+import newarkListings from "@/data/newark-listings.json";
 import { getPopularCity, popularCities } from "@/lib/popular-cities";
 import { cityResources } from "@/lib/city-resources";
 import { absoluteUrl, metaDescription } from "@/lib/seo";
@@ -26,6 +27,7 @@ function getCityListings(slug: string): CityListing[] {
   if (slug === "philadelphia") return philadelphiaListings;
   if (slug === "san-francisco") return sanFranciscoListings;
   if (slug === "tampa") return tampaListings;
+  if (slug === "newark") return newarkListings;
   return [];
 }
 

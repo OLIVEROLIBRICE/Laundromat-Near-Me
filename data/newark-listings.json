@@ -1,0 +1,721 @@
+[
+  {
+    "id": 1,
+    "name": "Water Works Laundromat",
+    "address": "968-970 Bergen St, Newark, NJ 07112",
+    "phone": "(973) 926-3670",
+    "website": "http://waterworkslaundry.com/",
+    "rating": 4.1,
+    "reviewCount": 180,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7357,
+    "lng": -74.1724,
+    "verified": false,
+    "description": "Professional coin laundry providing efficient washing and drying solutions in Newark, NJ. Popular choice for reliable laundry services."
+  },
+  {
+    "id": 2,
+    "name": "EZ Wash Laundromat",
+    "address": "1431 McCarter Hwy, Newark, NJ 07104",
+    "phone": "(973) 481-0673",
+    "website": "https://www.ezwashnewark.com/",
+    "rating": 3.8,
+    "reviewCount": 104,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7357,
+    "lng": -74.1724,
+    "verified": false,
+    "description": "Family-friendly laundromat serving Newark, NJ with convenient washing and drying services. Features comfortable seating and modern laundry equipment."
+  },
+  {
+    "id": 3,
+    "name": "Lightning Laundry | Laundromat | Wash and Fold",
+    "address": "825 Sanford Ave, Newark, NJ 07106",
+    "phone": "(862) 240-1090",
+    "website": "http://newarklaundromat.com/",
+    "rating": 4.1,
+    "reviewCount": 81,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7357,
+    "lng": -74.1724,
+    "verified": false,
+    "description": "Convenient laundromat providing efficient washing and drying services in Newark, NJ. Popular with local residents for its reliable machines and clean environment."
+  },
+  {
+    "id": 4,
+    "name": "Clinton Hill Laundromat",
+    "address": "660 Clinton Ave, Newark, NJ 07108",
+    "phone": "(973) 230-2998",
+    "website": null,
+    "rating": 4.1,
+    "reviewCount": 79,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7357,
+    "lng": -74.1724,
+    "verified": false,
+    "description": "Community laundromat offering convenient washing and drying services to Newark, NJ residents. Features well-maintained machines and comfortable environment."
+  },
+  {
+    "id": 5,
+    "name": "Head to Toe Laundromat & Cleaners",
+    "address": "115 W Market St, Newark, NJ 07103",
+    "phone": "(973) 824-8247",
+    "website": null,
+    "rating": 3.5,
+    "reviewCount": 10,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7357,
+    "lng": -74.1724,
+    "verified": false,
+    "description": "Emphasis on cleanliness laundromat offering reliable washing and drying solutions in Newark, NJ. Features modern equipment and convenient operating hours."
+  },
+  {
+    "id": 6,
+    "name": "SmoothWash Laundromat",
+    "address": "15 Court St, Newark, NJ 07102",
+    "phone": "(973) 368-2832",
+    "website": "https://smoothwashnj.com/",
+    "rating": 4.4,
+    "reviewCount": 62,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7357,
+    "lng": -74.1724,
+    "verified": false,
+    "description": "Community-focused laundromat providing reliable washing and drying services to residents of Newark, NJ. Known for well-maintained machines and friendly service."
+  },
+  {
+    "id": 7,
+    "name": "Tk's Laundromat Wash & Fold",
+    "address": "896 18th Ave, Newark, NJ 07106",
+    "phone": null,
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7357,
+    "lng": -74.1724,
+    "verified": false,
+    "description": "Full-service laundromat offering convenient washing and drying facilities in Newark, NJ. Features modern equipment and a clean environment for all your laundry needs."
+  },
+  {
+    "id": 8,
+    "name": "Davenport Laundromat",
+    "address": "95 Davenport Ave, Newark, NJ 07107",
+    "phone": null,
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 64,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7357,
+    "lng": -74.1724,
+    "verified": false,
+    "description": "Full-service washing facility offering quality laundry solutions in Newark, NJ. Features comfortable environment and well-maintained machines."
+  },
+  {
+    "id": 9,
+    "name": "Clinton Avenue Laundromatt",
+    "address": "139 Clinton Ave, Newark, NJ 07114",
+    "phone": "(973) 639-2266",
+    "website": null,
+    "rating": 3.8,
+    "reviewCount": 49,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7357,
+    "lng": -74.1724,
+    "verified": false,
+    "description": "Community laundromat providing comprehensive washing and drying solutions in Newark, NJ. Well-equipped with modern laundry machines."
+  },
+  {
+    "id": 10,
+    "name": "Ivy Hill Laundromat",
+    "address": "515 Irvington Ave, Newark, NJ 07106",
+    "phone": "(973) 261-9181",
+    "website": "http://ivyhilllaundromat.us/",
+    "rating": 4.3,
+    "reviewCount": 39,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7357,
+    "lng": -74.1724,
+    "verified": false,
+    "description": "Established washing facility offering reliable laundry services in Newark, NJ. Features spacious layout and dependable equipment."
+  },
+  {
+    "id": 11,
+    "name": "Showcase Laundromat",
+    "address": "Chancellor Ave, Newark, NJ 07112",
+    "phone": "(973) 415-6628",
+    "website": null,
+    "rating": 4.2,
+    "reviewCount": 367,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7357,
+    "lng": -74.1724,
+    "verified": false,
+    "description": "Full-service coin laundry providing washing and drying solutions in Newark, NJ. Known for clean facilities and dependable laundry equipment."
+  },
+  {
+    "id": 12,
+    "name": "Super Laundromat",
+    "address": "531 Springfield Ave, Newark, NJ 07103",
+    "phone": "(973) 240-8110",
+    "website": "http://thesuperlaundromat.com/",
+    "rating": 4,
+    "reviewCount": 203,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7357,
+    "lng": -74.1724,
+    "verified": false,
+    "description": "Established washing facility offering comprehensive laundry services in Newark, NJ. Features modern equipment and convenient location for easy access."
+  },
+  {
+    "id": 13,
+    "name": "Wash A Load LLC. Laundromat",
+    "address": "296-298 Renner Ave, Newark, NJ 07112",
+    "phone": "(973) 991-0505",
+    "website": "https://www.washaload.com/",
+    "rating": 4.8,
+    "reviewCount": 259,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7357,
+    "lng": -74.1724,
+    "verified": false,
+    "description": "Full-service coin laundry providing washing and drying solutions in Newark, NJ. Known for clean facilities and dependable laundry equipment."
+  },
+  {
+    "id": 14,
+    "name": "Laundry Fresh Laundromat",
+    "address": "444 Central Ave, Newark, NJ 07107",
+    "phone": "(973) 273-0024",
+    "website": null,
+    "rating": 4,
+    "reviewCount": 296,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7357,
+    "lng": -74.1724,
+    "verified": false,
+    "description": "Established laundromat featuring fresh approach to laundry serving the Newark, NJ area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry."
+  },
+  {
+    "id": 15,
+    "name": "Newark's Great Laundromat",
+    "address": "4th St, Newark, NJ 07107",
+    "phone": null,
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 11,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7357,
+    "lng": -74.1724,
+    "verified": false,
+    "description": "Local laundry facility offering comprehensive washing and drying services to Newark, NJ residents. Features well-maintained equipment and convenient location."
+  },
+  {
+    "id": 16,
+    "name": "Easy Way Laundromat",
+    "address": "60 Grafton Ave, Newark, NJ 07104",
+    "phone": "(973) 497-7773",
+    "website": "http://easy-way-laundromat.poi.place/",
+    "rating": 3.7,
+    "reviewCount": 128,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7357,
+    "lng": -74.1724,
+    "verified": false,
+    "description": "Local washing facility providing reliable laundry services in Newark, NJ. Popular choice for both quick wash and full-service laundry needs."
+  },
+  {
+    "id": 17,
+    "name": "SUPER LAUNDROMAT",
+    "address": "354 Park Ave, Newark, NJ 07107",
+    "phone": null,
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 12,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7357,
+    "lng": -74.1724,
+    "verified": false,
+    "description": "Convenient coin-operated laundromat featuring extensive equipment selection serving Newark, NJ with efficient washing and drying facilities. Popular with local community members."
+  },
+  {
+    "id": 18,
+    "name": "The Laundry Guys",
+    "address": "139 7th Ave, Newark, NJ 07104",
+    "phone": "(973) 484-1111",
+    "website": "https://www.laundryguysnewark.com/",
+    "rating": 4.3,
+    "reviewCount": 123,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7357,
+    "lng": -74.1724,
+    "verified": false,
+    "description": "Community-oriented laundromat providing quality washing and drying services in Newark, NJ. Known for clean environment and friendly atmosphere."
+  },
+  {
+    "id": 19,
+    "name": "Laundromat Center",
+    "address": "125 Fleming Ave, Newark, NJ 07105",
+    "phone": "(973) 344-6563",
+    "website": "http://laundromat-center.poi.place/",
+    "rating": 4.2,
+    "reviewCount": 77,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7357,
+    "lng": -74.1724,
+    "verified": false,
+    "description": "Central community location laundromat offering convenient washing and drying facilities in Newark, NJ. Features modern equipment and a clean environment for all your laundry needs."
+  },
+  {
+    "id": 20,
+    "name": "Avon Laundromat",
+    "address": "125 Avon Ave, Newark, NJ 07108",
+    "phone": "(973) 242-3222",
+    "website": null,
+    "rating": 4.1,
+    "reviewCount": 114,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7357,
+    "lng": -74.1724,
+    "verified": false,
+    "description": "Full-service laundromat offering reliable washing and drying solutions in Newark, NJ. Features modern equipment and convenient operating hours."
+  },
+  {
+    "id": 21,
+    "name": "Park Wash And Dry Laundromat",
+    "address": "280 Park Ave, Newark, NJ 07107",
+    "phone": "(973) 368-4808",
+    "website": null,
+    "rating": 4.8,
+    "reviewCount": 33,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7357,
+    "lng": -74.1724,
+    "verified": false,
+    "description": "Neighborhood laundromat providing quality washing and drying services to the Newark, NJ community. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 22,
+    "name": "Stellar Suds - Free Dry",
+    "address": "319 Osborne Terrace, Newark, NJ 07112",
+    "phone": "(973) 230-8123",
+    "website": "http://www.stellarsudslaundromat.com/",
+    "rating": 4.5,
+    "reviewCount": 24,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7357,
+    "lng": -74.1724,
+    "verified": false,
+    "description": "Local laundromat offering comprehensive washing and drying services in Newark, NJ. Features spacious facility with modern equipment and convenient hours."
+  },
+  {
+    "id": 23,
+    "name": "Smart Sudz",
+    "address": "790 S Orange Ave, Newark, NJ 07106",
+    "phone": "(973) 379-4063",
+    "website": "http://www.smartsudz.com/",
+    "rating": 3.8,
+    "reviewCount": 53,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7357,
+    "lng": -74.1724,
+    "verified": false,
+    "description": "Modern technology features laundromat offering convenient washing and drying facilities in Newark, NJ. Features modern equipment and a clean environment for all your laundry needs."
+  },
+  {
+    "id": 24,
+    "name": "Showcase Laundromat",
+    "address": "556 Central Ave, Newark, NJ 07107",
+    "phone": "(973) 732-5278",
+    "website": null,
+    "rating": 4,
+    "reviewCount": 410,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7357,
+    "lng": -74.1724,
+    "verified": false,
+    "description": "Established laundromat serving the Newark, NJ area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry."
+  },
+  {
+    "id": 25,
+    "name": "Lotus Laundromat",
+    "address": "625 Springfield Ave, Newark, NJ 07103",
+    "phone": "(862) 231-2746",
+    "website": "http://www.lotuslaundryservice.com/",
+    "rating": 4.3,
+    "reviewCount": 68,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7357,
+    "lng": -74.1724,
+    "verified": false,
+    "description": "Professional laundromat offering reliable washing and drying solutions in Newark, NJ. Known for clean facilities and well-maintained equipment."
+  },
+  {
+    "id": 26,
+    "name": "Sonic Suds Laundromat of Newark",
+    "address": "685 Dr Martin Luther King Jr Blvd, Newark, NJ 07102",
+    "phone": "(862) 267-7245",
+    "website": "https://sonicsudsofnewark.com/",
+    "rating": 4.1,
+    "reviewCount": 161,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7357,
+    "lng": -74.1724,
+    "verified": false,
+    "description": "Neighborhood laundromat featuring updated equipment serving Newark, NJ with convenient washing and drying facilities. Known for modern equipment and clean environment."
+  },
+  {
+    "id": 27,
+    "name": "Laundry Warehouse Newark",
+    "address": "156 Wilson Ave, Newark, NJ 07105",
+    "phone": "(973) 344-7081",
+    "website": "http://www.laundrywarehouse.com/newark-location/",
+    "rating": 4.1,
+    "reviewCount": 152,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7357,
+    "lng": -74.1724,
+    "verified": false,
+    "description": "Professional laundromat featuring recently established serving the Newark, NJ area with modern washing and drying equipment. Known for efficient service and clean facilities."
+  },
+  {
+    "id": 28,
+    "name": "Downeck Laundromat",
+    "address": "17 Pacific St, Newark, NJ 07105",
+    "phone": "(973) 856-5042",
+    "website": "https://downecklaundry.com/",
+    "rating": 4.7,
+    "reviewCount": 88,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.7357,
+    "lng": -74.1724,
+    "verified": false,
+    "description": "Full-service washing facility offering quality laundry solutions in Newark, NJ. Features comfortable environment and well-maintained machines."
+  }
+]
