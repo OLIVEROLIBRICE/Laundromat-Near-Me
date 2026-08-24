@@ -1,0 +1,939 @@
+[
+  {
+    "id": 1,
+    "name": "Yo-Yo Coin Laundromat & Drop Off",
+    "address": "1515 W Chicago Ave, Chicago, IL 60642",
+    "phone": "(312) 942-0056",
+    "website": null,
+    "rating": 3.9,
+    "reviewCount": 237,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Neighborhood laundromat serving serving the Chicago community with convenient washing and drying facilities. Known for modern equipment and clean environment."
+  },
+  {
+    "id": 2,
+    "name": "WaveMAX Laundry Chicago, IL",
+    "address": "4830 W Diversey Ave, Chicago, IL 60639",
+    "phone": "(773) 853-0246",
+    "website": "https://www.wavemaxlaundry.com/chicago-il/",
+    "rating": 4.8,
+    "reviewCount": 285,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Established laundry facility providing comprehensive washing and drying services in serving the Chicago community. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 3,
+    "name": "Wash U Coin Laundry",
+    "address": "4552 N Magnolia Ave, Chicago, IL 60640",
+    "phone": "(773) 516-4449",
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 266,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Convenient laundromat serving the serving the Chicago community area with efficient washing and drying services. Popular with residents for reliable equipment."
+  },
+  {
+    "id": 4,
+    "name": "Super Fabricare Laundromat",
+    "address": "7633 S Jeffery Blvd, Chicago, IL 60649",
+    "phone": "(773) 221-6003",
+    "website": null,
+    "rating": 4.3,
+    "reviewCount": 279,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Extensive equipment selection laundromat offering reliable washing and drying solutions in serving the Chicago community. Features modern equipment and convenient operating hours."
+  },
+  {
+    "id": 5,
+    "name": "Super Cycle Laundromat",
+    "address": "1234 E 79th St, Chicago, IL 60619",
+    "phone": "(312) 756-8773",
+    "website": "http://www.supercyclelaundromat.com/",
+    "rating": 4.7,
+    "reviewCount": 86,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Extensive equipment selection laundromat providing reliable washing and drying services to residents of serving the Chicago community. Known for well-maintained machines and friendly service."
+  },
+  {
+    "id": 6,
+    "name": "Daddy's Laundry",
+    "address": "4235 S Wells St, Chicago, IL 60609",
+    "phone": null,
+    "website": null,
+    "rating": 4.9,
+    "reviewCount": 445,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Community-focused laundromat providing reliable washing and drying services to residents of serving the Chicago community. Known for well-maintained machines and friendly service."
+  },
+  {
+    "id": 7,
+    "name": "Tide Laundromat",
+    "address": "7558 N Western Ave, Chicago, IL 60645",
+    "phone": "(773) 681-0306",
+    "website": "https://www.tidelaundromat.com/rogers-park/",
+    "rating": 4.5,
+    "reviewCount": 356,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Established laundromat serving the serving the Chicago community area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry."
+  },
+  {
+    "id": 8,
+    "name": "Spin It Up Laundry",
+    "address": "3710 N Kimball Ave, Chicago, IL 60618",
+    "phone": "(773) 654-1275",
+    "website": "http://www.spinituplaundry.net/",
+    "rating": 4.6,
+    "reviewCount": 127,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Full-service coin laundry providing washing and drying solutions in serving the Chicago community. Known for clean facilities and dependable laundry equipment."
+  },
+  {
+    "id": 9,
+    "name": "Wash and Dry Laundromat",
+    "address": "6136 S Ashland Ave, Chicago, IL 60636",
+    "phone": "(773) 471-9518",
+    "website": null,
+    "rating": 3.9,
+    "reviewCount": 216,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Full-service laundromat offering reliable washing and drying solutions in serving the Chicago community. Features modern equipment and convenient operating hours."
+  },
+  {
+    "id": 10,
+    "name": "Village Laundry",
+    "address": "1055 N Western Ave, Chicago, IL 60622",
+    "phone": "(773) 227-1744",
+    "website": "http://village-laundry-chicago.poi.place/",
+    "rating": 4.5,
+    "reviewCount": 206,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Full-service laundromat offering convenient washing and drying facilities in serving the Chicago community. Features modern equipment and a clean environment for all your laundry needs."
+  },
+  {
+    "id": 11,
+    "name": "Bridgeport Express Laundromat",
+    "address": "1103 W 31st St, Chicago, IL 60608",
+    "phone": "(872) 444-5310",
+    "website": null,
+    "rating": 4.4,
+    "reviewCount": 298,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Community laundromat featuring fast and efficient offering convenient washing and drying services to serving the Chicago community residents. Features well-maintained machines and comfortable environment."
+  },
+  {
+    "id": 12,
+    "name": "Fresh Laundromat",
+    "address": "8105 S Cicero Ave, Chicago, IL 60652",
+    "phone": "(872) 267-7109",
+    "website": "https://myfreshlaundry.com/",
+    "rating": 4.9,
+    "reviewCount": 232,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Clean and modern laundromat offering reliable washing and drying solutions in serving the Chicago community. Features modern equipment and convenient operating hours."
+  },
+  {
+    "id": 13,
+    "name": "Mighty Clean Laundry",
+    "address": "2128 N Western Ave, Chicago, IL 60647",
+    "phone": "(847) 691-8099",
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 144,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Spotless environment coin laundry providing washing and drying solutions in serving the Chicago community. Known for clean facilities and dependable laundry equipment."
+  },
+  {
+    "id": 14,
+    "name": "Speed Queen Laundry",
+    "address": "4059 W North Ave, Chicago, IL 60639",
+    "phone": "(773) 231-6333",
+    "website": "https://stores.speedqueenlaundry.com/speed-queen-laundry-84a351f7a3b3",
+    "rating": 4.8,
+    "reviewCount": 194,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Established washing facility offering reliable laundry services in serving the Chicago community. Features spacious layout and dependable equipment."
+  },
+  {
+    "id": 15,
+    "name": "Busy B Laundromat-53rd & Ashland",
+    "address": "5345 S Ashland Ave, Chicago, IL 60609",
+    "phone": "(773) 207-3368",
+    "website": "https://busybashland.com/",
+    "rating": 4.4,
+    "reviewCount": 185,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Local laundry facility offering comprehensive washing and drying services to serving the Chicago community residents. Features well-maintained equipment and convenient location."
+  },
+  {
+    "id": 16,
+    "name": "SpinXpress Laundry - Little Village",
+    "address": "3107 W 26th St, Chicago, IL 60623",
+    "phone": "(832) 240-9067",
+    "website": "https://gospinxpress.com/chicago-il/little-village/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "rating": 4.9,
+    "reviewCount": 269,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Convenient coin-operated laundromat serving serving the Chicago community with efficient washing and drying facilities. Popular with local community members."
+  },
+  {
+    "id": 17,
+    "name": "Belmont Laundry",
+    "address": "6705 W Belmont Ave, Chicago, IL 60634",
+    "phone": "(708) 600-0353",
+    "website": "https://www.facebook.com/profile.php?id=100090811045606&mibextid=LQQJ4d",
+    "rating": 4.7,
+    "reviewCount": 188,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Professional laundromat serving the serving the Chicago community area with modern washing and drying equipment. Known for efficient service and clean facilities."
+  },
+  {
+    "id": 18,
+    "name": "Wash Smart Lavanderia",
+    "address": "2523 W Cermak Rd, Chicago, IL 60632",
+    "phone": "(773) 884-2181",
+    "website": "https://washsmartlaundry.com/location/2523-w-cermak-road/?utm_source=google&utm_medium=gmb&utm_campaign=2523WCermak",
+    "rating": 4.6,
+    "reviewCount": 532,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Convenient laundromat featuring advanced equipment providing efficient washing and drying services in serving the Chicago community. Popular with local residents for its reliable machines and clean environment."
+  },
+  {
+    "id": 19,
+    "name": "Speed Queen Laundry",
+    "address": "3333 N Milwaukee Ave, Chicago, IL 60641",
+    "phone": "(773) 249-2999",
+    "website": "https://stores.speedqueenlaundry.com/speed-queen-laundry-fb3b88e4abda",
+    "rating": 4.6,
+    "reviewCount": 467,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Professional laundromat serving the serving the Chicago community area with modern washing and drying equipment. Known for efficient service and clean facilities."
+  },
+  {
+    "id": 20,
+    "name": "Fresh Laundromat Chicago",
+    "address": "2445 N Halsted St, Chicago, IL 60614",
+    "phone": "(773) 348-7171",
+    "website": null,
+    "rating": 4.2,
+    "reviewCount": 89,
+    "services": [
+      "Self-Service",
+      "Wash & Fold",
+      "Large Capacity"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.75; dry $2.75; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": true,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Clean facility with new machines. Great for large items like comforters. Staff is friendly and helpful."
+  },
+  {
+    "id": 21,
+    "name": "Fresh Laundromat",
+    "address": "3141 W Cermak Rd, Chicago, IL 60623",
+    "phone": "(773) 475-6967",
+    "website": "http://www.myfreshlaundry.com/",
+    "rating": 4.8,
+    "reviewCount": 393,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Convenient coin-operated laundromat featuring updated facilities serving serving the Chicago community with efficient washing and drying facilities. Popular with local community members."
+  },
+  {
+    "id": 22,
+    "name": "Wash Smart Lavanderia",
+    "address": "4646 S Kedzie Ave, Chicago, IL 60632",
+    "phone": "(773) 884-2181",
+    "website": "https://washsmartlaundry.com/location/4646-s-kedzie-avenue/?utm_source=google&utm_medium=gmb&utm_campaign=4646SKedzie",
+    "rating": 4.7,
+    "reviewCount": 673,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Established laundromat featuring modern technology features serving the serving the Chicago community area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry."
+  },
+  {
+    "id": 23,
+    "name": "Wash Smart Lavanderia",
+    "address": "5926 S Kedzie Ave, Chicago, IL 60629",
+    "phone": "(773) 884-2181",
+    "website": "https://washsmartlaundry.com/location/5926-s-kedzie-ave-chicago/?utm_source=google&utm_medium=gmb&utm_campaign=5926SKedzie",
+    "rating": 5,
+    "reviewCount": 395,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Professional laundromat featuring advanced equipment serving the serving the Chicago community area with modern washing and drying equipment. Known for efficient service and clean facilities."
+  },
+  {
+    "id": 24,
+    "name": "Wash Smart Lavanderia",
+    "address": "4314 W Marquette Rd, Chicago, IL 60629",
+    "phone": "(773) 884-2181",
+    "website": "https://washsmartlaundry.com/location/4314-w-marquette-road/?utm_source=google&utm_medium=gmb&utm_campaign=4314WMarquette",
+    "rating": 4.7,
+    "reviewCount": 612,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Professional laundromat featuring advanced equipment offering reliable washing and drying solutions in serving the Chicago community. Known for clean facilities and well-maintained equipment."
+  },
+  {
+    "id": 25,
+    "name": "Wash Smart Lavanderia",
+    "address": "3319 W 55th St, Chicago, IL 60632",
+    "phone": "(773) 884-2181",
+    "website": "https://washsmartlaundry.com/location/3319-w-55th-street-chicago/?utm_source=google&utm_medium=gmb&utm_campaign=3319W55th",
+    "rating": 4.7,
+    "reviewCount": 759,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Community laundromat featuring innovative laundry solutions offering convenient washing and drying services to serving the Chicago community residents. Features well-maintained machines and comfortable environment."
+  },
+  {
+    "id": 26,
+    "name": "Fluffy White Laundry",
+    "address": "2200 W Devon Ave, Chicago, IL 60659",
+    "phone": "(224) 730-9736",
+    "website": null,
+    "rating": 4.7,
+    "reviewCount": 221,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Professional laundromat offering reliable washing and drying solutions in serving the Chicago community. Known for clean facilities and well-maintained equipment."
+  },
+  {
+    "id": 27,
+    "name": "Wash Smart Lavanderia",
+    "address": "5112 S Kedzie Ave, Chicago, IL 60632",
+    "phone": "(773) 884-2181",
+    "website": "https://washsmartlaundry.com/location/5112-s-kedzie-avenue/?utm_source=google&utm_medium=gmb&utm_campaign=5112SKedzie",
+    "rating": 4.9,
+    "reviewCount": 1156,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Community laundromat featuring modern technology features providing comprehensive washing and drying solutions in serving the Chicago community. Well-equipped with modern laundry machines."
+  },
+  {
+    "id": 28,
+    "name": "Spincycle Laundromat",
+    "address": "6200 N Western Ave, Chicago, IL 60659",
+    "phone": "(773) 961-7354",
+    "website": "http://www.spincyclelaundrychicago.com/",
+    "rating": 4.4,
+    "reviewCount": 451,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Neighborhood coin laundry offering convenient washing and drying solutions in serving the Chicago community. Features spacious facility and reliable equipment."
+  },
+  {
+    "id": 29,
+    "name": "Speed Queen Laundry",
+    "address": "6808 W Grand Ave, Chicago, IL 60707",
+    "phone": "(312) 660-3556",
+    "website": "https://stores.speedqueenlaundry.com/speed-queen-laundry-0fb194b7bc40",
+    "rating": 4.4,
+    "reviewCount": 639,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Local washing facility providing reliable laundry services in serving the Chicago community. Popular choice for both quick wash and full-service laundry needs."
+  },
+  {
+    "id": 30,
+    "name": "Washtub Laundromat",
+    "address": "2200 S Pulaski Rd, Chicago, IL 60623",
+    "phone": "(773) 522-0288",
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 452,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Established washing facility offering comprehensive laundry services in serving the Chicago community. Features modern equipment and convenient location for easy access."
+  },
+  {
+    "id": 31,
+    "name": "COIN LAUNDROMAT",
+    "address": "1304 W 31st St, Chicago, IL 60608",
+    "phone": null,
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 78,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Full-service washing facility offering quality laundry solutions in serving the Chicago community. Features comfortable environment and well-maintained machines."
+  },
+  {
+    "id": 32,
+    "name": "The Family Wash",
+    "address": "5327 W Madison St, Chicago, IL 60644",
+    "phone": null,
+    "website": "http://the-family-wash.poi.place/",
+    "rating": 4.5,
+    "reviewCount": 166,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Neighborhood laundromat providing quality washing and drying services to the serving the Chicago community community. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 33,
+    "name": "Tide Laundromat",
+    "address": "2934 N Ashland Ave, Chicago, IL 60657",
+    "phone": "(312) 448-8582",
+    "website": "https://www.tidelaundromat.com/chicago/lakeview/",
+    "rating": 4.9,
+    "reviewCount": 85,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Community-oriented laundromat providing quality washing and drying services in serving the Chicago community. Known for clean environment and friendly atmosphere."
+  },
+  {
+    "id": 34,
+    "name": "Wash Smart Lavanderia",
+    "address": "4030 S Western Ave, Chicago, IL 60609",
+    "phone": "(773) 884-2181",
+    "website": "https://washsmartlaundry.com/location/4030-s-western-avenue/?utm_source=google&utm_medium=gmb&utm_campaign=4030SWestern",
+    "rating": 4.7,
+    "reviewCount": 886,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Professional coin laundry providing efficient washing and drying solutions in serving the Chicago community. Popular choice for reliable laundry services."
+  },
+  {
+    "id": 35,
+    "name": "La Peña Coin Laundry (Lavanderia)",
+    "address": "2456 S Kedzie Ave, Chicago, IL 60623",
+    "phone": "(708) 747-4990",
+    "website": null,
+    "rating": 4.7,
+    "reviewCount": 290,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Convenient laundromat providing efficient washing and drying services in serving the Chicago community. Popular with local residents for its reliable machines and clean environment."
+  },
+  {
+    "id": 36,
+    "name": "South Chicago Coin Laundry",
+    "address": "9108 S Commercial Ave, Chicago, IL 60617",
+    "phone": "(773) 768-8730",
+    "website": "http://southsidelaundries.com/",
+    "rating": 4.4,
+    "reviewCount": 277,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "verified": false,
+    "description": "Family-friendly laundromat serving serving the Chicago community with convenient washing and drying services. Features comfortable seating and modern laundry equipment."
+  }
+]

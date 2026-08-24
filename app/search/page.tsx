@@ -16,6 +16,8 @@ import longBeachListings from "@/data/long-beach-listings.json";
 import milwaukeeListings from "@/data/milwaukee-listings.json";
 import statenIslandListings from "@/data/staten-island-listings.json";
 import jerseyCityListings from "@/data/jersey-city-listings.json";
+import lasVegasListings from "@/data/las-vegas-listings.json";
+import chicagoListings from "@/data/chicago-listings.json";
 import { cities } from "@/lib/data";
 import { getPopularCity } from "@/lib/popular-cities";
 import { metaDescription } from "@/lib/seo";
@@ -45,6 +47,8 @@ export default function SearchPage({ searchParams }: { searchParams: { q?: strin
     ...milwaukeeListings.map((listing) => ({ ...listing, cityName: "Milwaukee", citySlug: "milwaukee" })),
     ...statenIslandListings.map((listing) => ({ ...listing, cityName: "Staten Island", citySlug: "staten-island" })),
     ...jerseyCityListings.map((listing) => ({ ...listing, cityName: "Jersey City", citySlug: "jersey-city" })),
+    ...lasVegasListings.map((listing) => ({ ...listing, cityName: "Las Vegas", citySlug: "las-vegas" })),
+    ...chicagoListings.map((listing) => ({ ...listing, cityName: "Chicago", citySlug: "chicago" })),
   ];
   const listingMatches = q ? directoryListings.filter((listing) => `${listing.name} ${listing.address} ${listing.services.join(" ")}`.toLowerCase().includes(q)).slice(0, 20) : [];
 
@@ -62,7 +66,7 @@ export default function SearchPage({ searchParams }: { searchParams: { q?: strin
       {!q ? <p className="text-lg text-slate-600">Enter a city, business name, street, or ZIP code to begin.</p> : <>
         <p className="mb-7 text-slate-600">Showing results for <strong className="text-ink">“{searchParams.q}”</strong></p>
         {cityMatches.length > 0 && <div className="mb-10"><h2 className="font-display text-2xl font-extrabold">City guides</h2><div className="mt-4 grid gap-3 sm:grid-cols-2">{cityMatches.map((city) => { const popular = getPopularCity(city.slug); return <Link key={`${city.stateSlug}-${city.slug}`} href={popular ? `/${popular.slug}` : `/laundromats/${city.stateSlug}/${city.slug}`} className="rounded-xl border border-slate-200 bg-white p-5 font-bold hover:border-brand-300">{city.name}, {city.state}</Link>; })}</div></div>}
-        {listingMatches.length > 0 && <div><h2 className="font-display text-2xl font-extrabold">Laundromats</h2><p className="mt-2 text-sm text-slate-500">Supplied records · not independently verified</p><div className="mt-4 grid gap-3">{listingMatches.map((listing) => <Link key={`${listing.citySlug}-${listing.id}`} href={`/${listing.citySlug}#${listing.citySlug}-listing-${listing.id}`} className="rounded-xl border border-slate-200 bg-white p-5 transition hover:border-brand-300"><span className="flex items-start justify-between gap-4"><span className="font-display text-lg font-extrabold">{listing.name}</span><span className="flex shrink-0 items-center gap-1 font-bold"><Star size={16} className="fill-amber-400 text-amber-400"/>{listing.rating.toFixed(1)}</span></span><span className="mt-2 flex items-start gap-2 text-sm text-slate-500"><MapPin size={16} className="mt-0.5 shrink-0"/>{listing.address}</span><span className="mt-2 block text-xs font-bold uppercase tracking-[.14em] text-brand-700">{listing.cityName} directory</span></Link>)}</div></div>}
+        {listingMatches.length > 0 && <div><h2 className="font-display text-2xl font-extrabold">Laundromats</h2><p className="mt-2 text-sm text-slate-500">Supplied records · not independently verified</p><div className="mt-4 grid gap-3">{listingMatches.map((listing) => { const cityPath = listing.citySlug === "chicago" ? "/laundromats/illinois/chicago" : `/${listing.citySlug}`; return <Link key={`${listing.citySlug}-${listing.id}`} href={`${cityPath}#${listing.citySlug}-listing-${listing.id}`} className="rounded-xl border border-slate-200 bg-white p-5 transition hover:border-brand-300"><span className="flex items-start justify-between gap-4"><span className="font-display text-lg font-extrabold">{listing.name}</span><span className="flex shrink-0 items-center gap-1 font-bold"><Star size={16} className="fill-amber-400 text-amber-400"/>{listing.rating.toFixed(1)}</span></span><span className="mt-2 flex items-start gap-2 text-sm text-slate-500"><MapPin size={16} className="mt-0.5 shrink-0"/>{listing.address}</span><span className="mt-2 block text-xs font-bold uppercase tracking-[.14em] text-brand-700">{listing.cityName} directory</span></Link>; })}</div></div>}
         {!cityMatches.length && !listingMatches.length && <div className="rounded-2xl bg-white p-8"><h2 className="font-display text-xl font-extrabold">No matching results</h2><p className="mt-2 text-slate-600">Try a city, business name, street, or ZIP code.</p></div>}
       </>}
     </section>
