@@ -1,0 +1,884 @@
+[
+  {
+    "id": 1,
+    "name": "Super Wash 27",
+    "address": "4812 N 27th Ave, Phoenix, AZ 85017",
+    "phone": "(480) 256-8308",
+    "website": "https://superwash27.com/",
+    "rating": 4.5,
+    "reviewCount": 206,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.4484,
+    "lng": -112.074,
+    "verified": false,
+    "description": "Professional laundromat featuring extensive equipment selection offering reliable washing and drying solutions in in sunny Phoenix. Known for clean facilities and well-maintained equipment."
+  },
+  {
+    "id": 2,
+    "name": "City Laundry-Phoenix",
+    "address": "7132 N 35th Ave, Phoenix, AZ 85051",
+    "phone": "(602) 612-3557",
+    "website": "https://www.citylaundryaz.com/",
+    "rating": 4.8,
+    "reviewCount": 216,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.4484,
+    "lng": -112.074,
+    "verified": false,
+    "description": "Established washing facility offering reliable laundry services in in sunny Phoenix. Features spacious layout and dependable equipment."
+  },
+  {
+    "id": 3,
+    "name": "COIN Less LAUNDRY",
+    "address": "827 W Indian School Rd, Phoenix, AZ 85013",
+    "phone": "(866) 310-1313",
+    "website": "http://www.coinlesslaundry.com/",
+    "rating": 4.1,
+    "reviewCount": 324,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.4484,
+    "lng": -112.074,
+    "verified": false,
+    "description": "Professional laundromat offering reliable washing and drying solutions in in sunny Phoenix. Known for clean facilities and well-maintained equipment."
+  },
+  {
+    "id": 4,
+    "name": "Coin laundry",
+    "address": "3710 W McDowell Rd Suite 3, Phoenix, AZ 85009",
+    "phone": "(602) 206-6406",
+    "website": "http://24hourcoinlaundry.com/",
+    "rating": 4.1,
+    "reviewCount": 90,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.4484,
+    "lng": -112.074,
+    "verified": false,
+    "description": "Established washing facility offering comprehensive laundry services in in sunny Phoenix. Features modern equipment and convenient location for easy access."
+  },
+  {
+    "id": 5,
+    "name": "Sparkles Laundromat City Center",
+    "address": "1025 N 7th St, Phoenix, AZ 85006",
+    "phone": "(602) 469-7336",
+    "website": null,
+    "rating": 3.7,
+    "reviewCount": 123,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.4484,
+    "lng": -112.074,
+    "verified": false,
+    "description": "Community-oriented laundromat featuring hub for laundry services providing quality washing and drying services in in sunny Phoenix. Known for clean environment and friendly atmosphere."
+  },
+  {
+    "id": 6,
+    "name": "COIN Less LAUNDRY",
+    "address": "29 W Baseline Rd, Phoenix, AZ 85041",
+    "phone": "(866) 310-1313",
+    "website": "http://www.coinlesslaundry.com/",
+    "rating": 4.1,
+    "reviewCount": 184,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.4484,
+    "lng": -112.074,
+    "verified": false,
+    "description": "Neighborhood laundromat serving in sunny Phoenix with convenient washing and drying facilities. Known for modern equipment and clean environment."
+  },
+  {
+    "id": 7,
+    "name": "Sudz Laundromat",
+    "address": "3514 W Glendale Ave, Phoenix, AZ 85051",
+    "phone": "(480) 800-8196",
+    "website": "https://www.azfamilylaundries.com/",
+    "rating": 4,
+    "reviewCount": 140,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.4484,
+    "lng": -112.074,
+    "verified": false,
+    "description": "Community laundromat offering convenient washing and drying services to in sunny Phoenix residents. Features well-maintained machines and comfortable environment."
+  },
+  {
+    "id": 8,
+    "name": "Papa's Laundry",
+    "address": "19401 N Cave Creek Rd, Phoenix, AZ 85024",
+    "phone": "(602) 569-0692",
+    "website": null,
+    "rating": 4,
+    "reviewCount": 253,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.4484,
+    "lng": -112.074,
+    "verified": false,
+    "description": "Community-focused laundromat providing reliable washing and drying services to residents of in sunny Phoenix. Known for well-maintained machines and friendly service."
+  },
+  {
+    "id": 9,
+    "name": "ECONO WASH",
+    "address": "1420 W Indian School Rd, Phoenix, AZ 85013",
+    "phone": "(866) 310-1313",
+    "website": "https://www.coinlesslaundry.com/econo-wash.html",
+    "rating": 3.7,
+    "reviewCount": 305,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.4484,
+    "lng": -112.074,
+    "verified": false,
+    "description": "Convenient laundromat providing efficient washing and drying services in in sunny Phoenix. Popular with local residents for its reliable machines and clean environment."
+  },
+  {
+    "id": 10,
+    "name": "Vera's Laundromat",
+    "address": "15420 N 32nd St Ste 6, Phoenix, AZ 85032",
+    "phone": "(602) 867-4195",
+    "website": null,
+    "rating": 4.1,
+    "reviewCount": 143,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.4484,
+    "lng": -112.074,
+    "verified": false,
+    "description": "Established laundry facility providing comprehensive washing and drying services in in sunny Phoenix. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 11,
+    "name": "WaveMAX Laundry Phoenix",
+    "address": "6767 N 35th Ave Suite 35, Phoenix, AZ 85017",
+    "phone": "(602) 246-3352",
+    "website": "https://www.wavemaxlaundry.com/locations/phoenix-north-35th-ave/?utm_source=GMB&utm_medium=organic&utm_campaign=website",
+    "rating": 4.4,
+    "reviewCount": 228,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.4484,
+    "lng": -112.074,
+    "verified": false,
+    "description": "Family-friendly laundromat serving in sunny Phoenix with convenient washing and drying services. Features comfortable seating and modern laundry equipment."
+  },
+  {
+    "id": 12,
+    "name": "Local Laundry",
+    "address": "3424 W Bell Rd, Phoenix, AZ 85053",
+    "phone": "(877) 432-6667",
+    "website": "https://www.locallaundryaz.com/",
+    "rating": 3.5,
+    "reviewCount": 121,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.4484,
+    "lng": -112.074,
+    "verified": false,
+    "description": "Full-service laundromat offering reliable washing and drying solutions in in sunny Phoenix. Features modern equipment and convenient operating hours."
+  },
+  {
+    "id": 13,
+    "name": "LaunderLand",
+    "address": "3001 E Thomas Rd #106, Phoenix, AZ 85016",
+    "phone": "(602) 667-2295",
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 987,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.4484,
+    "lng": -112.074,
+    "verified": false,
+    "description": "Full-service coin laundry providing washing and drying solutions in in sunny Phoenix. Known for clean facilities and dependable laundry equipment."
+  },
+  {
+    "id": 14,
+    "name": "WaveMAX Laundry Phoenix",
+    "address": "6544 W Thomas Rd Suite 23, Phoenix, AZ 85033",
+    "phone": "(623) 302-7226",
+    "website": "https://wavemaxlaundry.com/locations/phoenix-west-thomas-road/",
+    "rating": 4.5,
+    "reviewCount": 156,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.4484,
+    "lng": -112.074,
+    "verified": false,
+    "description": "Full-service washing facility offering quality laundry solutions in in sunny Phoenix. Features comfortable environment and well-maintained machines."
+  },
+  {
+    "id": 15,
+    "name": "Laundry Express",
+    "address": "9402 N Central Ave UNIT 12, Phoenix, AZ 85020",
+    "phone": "(602) 682-7761",
+    "website": null,
+    "rating": 4.3,
+    "reviewCount": 320,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.4484,
+    "lng": -112.074,
+    "verified": false,
+    "description": "Speedy laundry solutions coin laundry providing washing and drying solutions in in sunny Phoenix. Known for clean facilities and dependable laundry equipment."
+  },
+  {
+    "id": 16,
+    "name": "Wavemax Laundry Phoenix AZ",
+    "address": "1615 W Camelback Rd Ste 101, Phoenix, AZ 85015",
+    "phone": "(480) 284-4001",
+    "website": "http://wavemaxlaundry.com/camelback-phoenix-az/",
+    "rating": 5,
+    "reviewCount": 50,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.4484,
+    "lng": -112.074,
+    "verified": false,
+    "description": "Community laundromat providing comprehensive washing and drying solutions in in sunny Phoenix. Well-equipped with modern laundry machines."
+  },
+  {
+    "id": 17,
+    "name": "Sunshine Laundry",
+    "address": "1950 W Indian School Rd #10, Phoenix, AZ 85015",
+    "phone": "(602) 266-0421",
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 406,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.4484,
+    "lng": -112.074,
+    "verified": false,
+    "description": "Convenient coin-operated laundromat serving in sunny Phoenix with efficient washing and drying facilities. Popular with local community members."
+  },
+  {
+    "id": 18,
+    "name": "COIN Less LAUNDRY",
+    "address": "2302 W Bethany Home Rd, Phoenix, AZ 85015",
+    "phone": "(866) 310-1313",
+    "website": "http://www.coinlesslaundry.com/",
+    "rating": 4.4,
+    "reviewCount": 225,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.4484,
+    "lng": -112.074,
+    "verified": false,
+    "description": "Professional laundromat serving the in sunny Phoenix area with modern washing and drying equipment. Known for efficient service and clean facilities."
+  },
+  {
+    "id": 19,
+    "name": "GREENWAY LAUNDRY",
+    "address": "2644 E Greenway Pkwy #102, Phoenix, AZ 85032",
+    "phone": "(602) 361-3374",
+    "website": null,
+    "rating": 4.7,
+    "reviewCount": 212,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.4484,
+    "lng": -112.074,
+    "verified": false,
+    "description": "Convenient laundromat serving the in sunny Phoenix area with efficient washing and drying services. Popular with residents for reliable equipment."
+  },
+  {
+    "id": 20,
+    "name": "Antonio's Laundromat",
+    "address": "10629 N 19th Ave, Phoenix, AZ 85029",
+    "phone": "(602) 943-1779",
+    "website": null,
+    "rating": 4,
+    "reviewCount": 351,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.4484,
+    "lng": -112.074,
+    "verified": false,
+    "description": "Local washing facility providing reliable laundry services in in sunny Phoenix. Popular choice for both quick wash and full-service laundry needs."
+  },
+  {
+    "id": 21,
+    "name": "The Laundry Wheel Phoenix Coin Laundromat & Wash and Fold- Phoenix, AZ",
+    "address": "2211 N 16th St, Phoenix, AZ 85006",
+    "phone": "(602) 877-1299",
+    "website": "https://www.laundrywheelexpress.com/the-laundry-wheel-coin-laundromat-wash-and-fold",
+    "rating": 4.5,
+    "reviewCount": 200,
+    "services": [
+      "Self-Service",
+      "Wash & Fold",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.4484,
+    "lng": -112.074,
+    "verified": false,
+    "description": "Neighborhood laundromat providing quality washing and drying services to the in sunny Phoenix community. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 22,
+    "name": "COIN Less LAUNDRY",
+    "address": "12032 N 32nd St Ste. B4, Phoenix, AZ 85028",
+    "phone": "(866) 310-1313",
+    "website": "http://www.coinlesslaundry.com/",
+    "rating": 4.1,
+    "reviewCount": 291,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.4484,
+    "lng": -112.074,
+    "verified": false,
+    "description": "Community-oriented laundromat providing quality washing and drying services in in sunny Phoenix. Known for clean environment and friendly atmosphere."
+  },
+  {
+    "id": 23,
+    "name": "Clean Laundry",
+    "address": "6044 S 16th St Suite 135, Phoenix, AZ 85042",
+    "phone": "(480) 428-8761",
+    "website": "https://cleanlaundry.com/locations/arizona/phoenix/6044-s-16th-street-phoenix-az/",
+    "rating": 4.4,
+    "reviewCount": 224,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.4484,
+    "lng": -112.074,
+    "verified": false,
+    "description": "Emphasis on cleanliness laundromat providing reliable washing and drying services to residents of in sunny Phoenix. Known for well-maintained machines and friendly service."
+  },
+  {
+    "id": 24,
+    "name": "Coin Laundry",
+    "address": "5108 N 19th Ave, Phoenix, AZ 85015",
+    "phone": null,
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 57,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.4484,
+    "lng": -112.074,
+    "verified": false,
+    "description": "Neighborhood coin laundry offering convenient washing and drying solutions in in sunny Phoenix. Features spacious facility and reliable equipment."
+  },
+  {
+    "id": 25,
+    "name": "Wavemax Laundry Phoenix, AZ",
+    "address": "3202 E Greenway Rd #1307, Phoenix, AZ 85032",
+    "phone": "(480) 788-8246",
+    "website": "https://www.wavemaxlaundry.com/greenway-phoenix-az",
+    "rating": 4.6,
+    "reviewCount": 193,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.4484,
+    "lng": -112.074,
+    "verified": false,
+    "description": "Full-service laundromat offering reliable washing and drying solutions in in sunny Phoenix. Features modern equipment and convenient operating hours."
+  },
+  {
+    "id": 26,
+    "name": "Linen Fresh Laundromat",
+    "address": "1602 E Roosevelt St, Phoenix, AZ 85006",
+    "phone": "(602) 254-1879",
+    "website": "https://linenfreshlaundry.com/laundromat/phoenix/",
+    "rating": 4.3,
+    "reviewCount": 429,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.4484,
+    "lng": -112.074,
+    "verified": false,
+    "description": "Community laundromat featuring fresh approach to laundry providing comprehensive washing and drying solutions in in sunny Phoenix. Well-equipped with modern laundry machines."
+  },
+  {
+    "id": 27,
+    "name": "Quick Laundry",
+    "address": "9413 N Cave Creek Rd, Phoenix, AZ 85020",
+    "phone": "(602) 362-8032",
+    "website": "https://www.azquicklaundry.com/",
+    "rating": 4.6,
+    "reviewCount": 219,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.4484,
+    "lng": -112.074,
+    "verified": false,
+    "description": "Family-friendly laundromat featuring fast turnaround times serving in sunny Phoenix with convenient washing and drying services. Features comfortable seating and modern laundry equipment."
+  },
+  {
+    "id": 28,
+    "name": "Agua Caliente 24 Hour Laundromat",
+    "address": "2538 E McDowell Rd, Phoenix, AZ 85008",
+    "phone": "(602) 237-5073",
+    "website": "https://ac-24hr-laundry.club/",
+    "rating": 4.3,
+    "reviewCount": 761,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.4484,
+    "lng": -112.074,
+    "verified": false,
+    "description": "Neighborhood laundromat providing quality washing and drying services to the in sunny Phoenix community. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 29,
+    "name": "Tiny Bubbles 24 Hour Phoenix Laundromat",
+    "address": "602 N 35th Ave, Phoenix, AZ 85009",
+    "phone": "(480) 553-9448",
+    "website": "https://www.tinybubbleslaundry.com/",
+    "rating": 3.9,
+    "reviewCount": 269,
+    "services": [
+      "Self-Service",
+      "24/7 Operation"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.4484,
+    "lng": -112.074,
+    "verified": false,
+    "description": "Local laundromat offering comprehensive washing and drying services in in sunny Phoenix. Features spacious facility with modern equipment and convenient hours."
+  },
+  {
+    "id": 30,
+    "name": "WaveMAX Laundry Phoenix, AZ",
+    "address": "2825 N 16th St suite A, Phoenix, AZ 85006",
+    "phone": "(602) 314-5706",
+    "website": "https://www.wavemaxlaundry.com/phoenix-az-n-16/",
+    "rating": 4.9,
+    "reviewCount": 114,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.4484,
+    "lng": -112.074,
+    "verified": false,
+    "description": "Professional coin laundry providing efficient washing and drying solutions in in sunny Phoenix. Popular choice for reliable laundry services."
+  },
+  {
+    "id": 31,
+    "name": "Soapy Sudz Laundry",
+    "address": "3620 E Thomas Rd d128, Phoenix, AZ 85018",
+    "phone": "(602) 361-3374",
+    "website": null,
+    "rating": 4.2,
+    "reviewCount": 92,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.4484,
+    "lng": -112.074,
+    "verified": false,
+    "description": "Full-service laundromat offering convenient washing and drying facilities in in sunny Phoenix. Features modern equipment and a clean environment for all your laundry needs."
+  },
+  {
+    "id": 32,
+    "name": "Clean Livin' Laundry",
+    "address": "12454 N 28th Dr, Phoenix, AZ 85029",
+    "phone": "(602) 361-3374",
+    "website": "http://arizona.kudzu.com/controller.jsp?An=0&searchVal=clean+livin+laundry&searchType=name&A=1507013&Au=P_CompanyID",
+    "rating": 3.7,
+    "reviewCount": 367,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.4484,
+    "lng": -112.074,
+    "verified": false,
+    "description": "Neighborhood laundromat featuring spotless environment providing quality washing and drying services to the in sunny Phoenix community. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 33,
+    "name": "Clean Laundry",
+    "address": "6815 N 19th Ave #155, Phoenix, AZ 85015",
+    "phone": "(602) 671-6848",
+    "website": "https://cleanlaundry.com/locations/arizona/phoenix/6815-n-19th-avenue-phoenix-az/",
+    "rating": 4.3,
+    "reviewCount": 311,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 33.4484,
+    "lng": -112.074,
+    "verified": false,
+    "description": "Convenient laundromat featuring hygiene-focused facility providing efficient washing and drying services in in sunny Phoenix. Popular with local residents for its reliable machines and clean environment."
+  },
+  {
+    "id": 34,
+    "name": "Clean Laundry Phoenix",
+    "address": "6815 N 19th Ave, Phoenix, AZ 85015",
+    "phone": "(602) 242-4455",
+    "website": "https://cleanlaundry.com",
+    "rating": 4.6,
+    "reviewCount": 198,
+    "services": [
+      "Self-Service",
+      "Wash & Fold",
+      "Large Capacity"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card",
+      "Mobile Payment"
+    ],
+    "pricing": "Wash $3.75; dry $2.75; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": true,
+    "hasParking": true,
+    "acceptsCards": false,
+    "lat": 33.4484,
+    "lng": -112.074,
+    "verified": false,
+    "description": "Cleanest, nicest well-maintained laundromat with 1-hour wash & dry. Customers drive 20 minutes to use this facility."
+  }
+]

@@ -11,6 +11,7 @@ import sanFranciscoListings from "@/data/san-francisco-listings.json";
 import tampaListings from "@/data/tampa-listings.json";
 import newarkListings from "@/data/newark-listings.json";
 import jacksonvilleListings from "@/data/jacksonville-listings.json";
+import phoenixListings from "@/data/phoenix-listings.json";
 import { cities } from "@/lib/data";
 import { getPopularCity } from "@/lib/popular-cities";
 import { metaDescription } from "@/lib/seo";
@@ -35,6 +36,7 @@ export default function SearchPage({ searchParams }: { searchParams: { q?: strin
     ...tampaListings.map((listing) => ({ ...listing, cityName: "Tampa", citySlug: "tampa" })),
     ...newarkListings.map((listing) => ({ ...listing, cityName: "Newark", citySlug: "newark" })),
     ...jacksonvilleListings.map((listing) => ({ ...listing, cityName: "Jacksonville", citySlug: "jacksonville" })),
+    ...phoenixListings.map((listing) => ({ ...listing, cityName: "Phoenix", citySlug: "phoenix" })),
   ];
   const listingMatches = q ? directoryListings.filter((listing) => `${listing.name} ${listing.address} ${listing.services.join(" ")}`.toLowerCase().includes(q)).slice(0, 20) : [];
 
