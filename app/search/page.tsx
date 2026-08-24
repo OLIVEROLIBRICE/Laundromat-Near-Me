@@ -31,7 +31,8 @@ export const metadata: Metadata = {
 
 export default function SearchPage({ searchParams }: { searchParams: { q?: string } }) {
   const q = (searchParams.q || "").trim().toLowerCase();
-  const cityMatches = q ? cities.filter((city) => `${city.name} ${city.state}`.toLowerCase().includes(q)).slice(0, 12) : [];
+  const is24HourSearch = /^(24[- ]?hour|open 24 hours?)$/.test(q);
+  const cityMatches = q && !is24HourSearch ? cities.filter((city) => `${city.name} ${city.state}`.toLowerCase().includes(q)).slice(0, 12) : [];
   const directoryListings = [
     ...brooklynListings.map((listing) => ({ ...listing, cityName: "Brooklyn", citySlug: "brooklyn" })),
     ...bronxListings.map((listing) => ({ ...listing, cityName: "Bronx", citySlug: "bronx" })),
@@ -50,12 +51,16 @@ export default function SearchPage({ searchParams }: { searchParams: { q?: strin
     ...lasVegasListings.map((listing) => ({ ...listing, cityName: "Las Vegas", citySlug: "las-vegas" })),
     ...chicagoListings.map((listing) => ({ ...listing, cityName: "Chicago", citySlug: "chicago" })),
   ];
-  const listingMatches = q ? directoryListings.filter((listing) => `${listing.name} ${listing.address} ${listing.services.join(" ")}`.toLowerCase().includes(q)).slice(0, 20) : [];
+  const listingMatches = !q ? [] : is24HourSearch
+    ? directoryListings.filter((listing) => listing.is24Hours).sort((a, b) => a.cityName.localeCompare(b.cityName) || b.rating - a.rating || b.reviewCount - a.reviewCount)
+    : directoryListings.filter((listing) => `${listing.name} ${listing.address} ${listing.services.join(" ")}`.toLowerCase().includes(q)).slice(0, 20);
+  const listingCityCount = new Set(listingMatches.map((listing) => listing.citySlug)).size;
 
   return <PageShell>
     <section className="border-b border-brand-100 bg-brand-50">
       <div className="mx-auto max-w-5xl px-5 py-14">
-        <h1 className="font-display text-4xl font-extrabold">Search the directory</h1>
+        <h1 className="font-display text-4xl font-extrabold">{is24HourSearch ? "24-hour laundromats" : "Search the directory"}</h1>
+        {is24HourSearch && <p className="mt-3 max-w-2xl leading-7 text-slate-600">Browse every current directory listing marked as open 24 hours. Confirm overnight access and holiday schedules directly before visiting.</p>}
         <form className="mt-7 flex rounded-2xl bg-white p-2 shadow-soft">
           <input autoFocus name="q" defaultValue={searchParams.q} className="focus-ring min-w-0 flex-1 rounded-xl px-4 py-3" placeholder="City, business, street, or ZIP code"/>
           <button className="rounded-xl bg-coral px-5 font-bold text-white" type="submit" aria-label="Search"><Search/></button>
@@ -64,9 +69,9 @@ export default function SearchPage({ searchParams }: { searchParams: { q?: strin
     </section>
     <section className="mx-auto max-w-5xl px-5 py-14">
       {!q ? <p className="text-lg text-slate-600">Enter a city, business name, street, or ZIP code to begin.</p> : <>
-        <p className="mb-7 text-slate-600">Showing results for <strong className="text-ink">“{searchParams.q}”</strong></p>
+        {is24HourSearch ? <p className="mb-7 text-slate-600">Showing <strong className="text-ink">{listingMatches.length} 24-hour laundromats</strong> across {listingCityCount} city directories.</p> : <p className="mb-7 text-slate-600">Showing results for <strong className="text-ink">“{searchParams.q}”</strong></p>}
         {cityMatches.length > 0 && <div className="mb-10"><h2 className="font-display text-2xl font-extrabold">City guides</h2><div className="mt-4 grid gap-3 sm:grid-cols-2">{cityMatches.map((city) => { const popular = getPopularCity(city.slug); return <Link key={`${city.stateSlug}-${city.slug}`} href={popular ? `/${popular.slug}` : `/laundromats/${city.stateSlug}/${city.slug}`} className="rounded-xl border border-slate-200 bg-white p-5 font-bold hover:border-brand-300">{city.name}, {city.state}</Link>; })}</div></div>}
-        {listingMatches.length > 0 && <div><h2 className="font-display text-2xl font-extrabold">Laundromats</h2><p className="mt-2 text-sm text-slate-500">Supplied records · not independently verified</p><div className="mt-4 grid gap-3">{listingMatches.map((listing) => { const cityPath = listing.citySlug === "chicago" ? "/laundromats/illinois/chicago" : `/${listing.citySlug}`; return <Link key={`${listing.citySlug}-${listing.id}`} href={`${cityPath}#${listing.citySlug}-listing-${listing.id}`} className="rounded-xl border border-slate-200 bg-white p-5 transition hover:border-brand-300"><span className="flex items-start justify-between gap-4"><span className="font-display text-lg font-extrabold">{listing.name}</span><span className="flex shrink-0 items-center gap-1 font-bold"><Star size={16} className="fill-amber-400 text-amber-400"/>{listing.rating.toFixed(1)}</span></span><span className="mt-2 flex items-start gap-2 text-sm text-slate-500"><MapPin size={16} className="mt-0.5 shrink-0"/>{listing.address}</span><span className="mt-2 block text-xs font-bold uppercase tracking-[.14em] text-brand-700">{listing.cityName} directory</span></Link>; })}</div></div>}
+        {listingMatches.length > 0 && <div><h2 className="font-display text-2xl font-extrabold">{is24HourSearch ? "All 24-hour listings" : "Laundromats"}</h2><p className="mt-2 text-sm text-slate-500">Supplied records · confirm current details directly</p><div className="mt-4 grid gap-3">{listingMatches.map((listing) => { const cityPath = listing.citySlug === "chicago" ? "/laundromats/illinois/chicago" : `/${listing.citySlug}`; return <Link key={`${listing.citySlug}-${listing.id}`} href={`${cityPath}#${listing.citySlug}-listing-${listing.id}`} className="rounded-xl border border-slate-200 bg-white p-5 transition hover:border-brand-300"><span className="flex items-start justify-between gap-4"><span className="font-display text-lg font-extrabold">{listing.name}</span><span className="flex shrink-0 items-center gap-1 font-bold"><Star size={16} className="fill-amber-400 text-amber-400"/>{listing.rating.toFixed(1)}</span></span><span className="mt-2 flex items-start gap-2 text-sm text-slate-500"><MapPin size={16} className="mt-0.5 shrink-0"/>{listing.address}</span><span className="mt-3 flex flex-wrap items-center justify-between gap-2"><span className="text-xs font-bold uppercase tracking-[.14em] text-brand-700">{listing.cityName} directory</span>{is24HourSearch && <span className="rounded-full bg-emerald-50 px-3 py-1 text-xs font-extrabold text-emerald-700">Open 24 hours</span>}</span></Link>; })}</div></div>}
         {!cityMatches.length && !listingMatches.length && <div className="rounded-2xl bg-white p-8"><h2 className="font-display text-xl font-extrabold">No matching results</h2><p className="mt-2 text-slate-600">Try a city, business name, street, or ZIP code.</p></div>}
       </>}
     </section>
