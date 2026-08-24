@@ -11,10 +11,8 @@ import {
   Clock3,
   Facebook,
   Instagram,
-  Mail,
   MapPin,
   Menu,
-  Phone,
   Search,
   Sparkles,
   Twitter,
@@ -78,8 +76,6 @@ export default function Home() {
             <a href="#" aria-label="Twitter" className="opacity-90 transition hover:opacity-100"><Twitter size={15}/></a>
           </div>
           <div className="ml-auto flex items-center gap-4 sm:ml-0 lg:gap-6">
-            <a href="tel:+18005550199" className="hidden items-center gap-2 lg:flex"><Phone size={14}/> (800) 555-0199</a>
-            <a href="mailto:hello@laundromatnearme.com" className="hidden items-center gap-2 md:flex"><Mail size={14}/> hello@laundromatnearme.com</a>
             <Link href="/contact" className="rounded-full bg-white px-5 py-2 font-bold text-[#2563eb] shadow-sm transition hover:bg-slate-50">+ Add a laundromat</Link>
           </div>
         </div>
