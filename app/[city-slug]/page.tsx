@@ -132,7 +132,7 @@ export default function PopularCityPage({ params }: Props) {
           <p className="mt-3 leading-7 text-slate-600">Official transportation, education, healthcare, housing, and city-service resources that may help residents plan errands around laundry day.</p>
         </div>
         <div className="mt-8 grid gap-4 md:grid-cols-2">
-          {resources.map((resource) => <a key={resource.url} href={resource.url} target="_blank" rel="noopener noreferrer" className="focus-ring group rounded-2xl border border-slate-200 bg-cream p-6 transition hover:-translate-y-1 hover:border-brand-200 hover:shadow-soft" aria-label={`${resource.name} — opens official website in a new tab`}>
+          {resources.map((resource) => <a key={resource.url} href={resource.url} target="_blank" rel="noopener noreferrer" className="focus-ring group rounded-2xl border border-slate-200 bg-cream p-6 transition hover:-translate-y-1 hover:border-brand-200 hover:shadow-soft" aria-label={`${resource.name}, opens official website in a new tab`}>
             <span className="flex items-start justify-between gap-4"><strong className="font-display text-lg font-extrabold group-hover:text-brand-700">{resource.name}</strong><ExternalLink size={18} className="shrink-0 text-brand-600"/></span>
             <span className="mt-3 block text-sm leading-6 text-slate-600">{resource.description}</span>
             <span className="mt-4 block text-xs font-bold uppercase tracking-[.14em] text-brand-700">Visit official website</span>
