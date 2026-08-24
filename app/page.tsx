@@ -3,6 +3,7 @@ import Image from "next/image";
 import { articles } from "@/lib/articles";
 import { popularCities } from "@/lib/popular-cities";
 import cityEditorialIntros from "@/data/city-editorial-intros-batch-2.json";
+import { SiteLogo } from "@/components/site-logo";
 import {
   ArrowRight,
   BookOpen,
@@ -87,8 +88,7 @@ export default function Home() {
       <div className="border-b border-white/10 bg-[#081018]/88 backdrop-blur-md">
         <div className="mx-auto flex h-[86px] max-w-7xl items-center justify-between px-5 lg:px-8">
           <Link href="/" className="focus-ring flex items-center gap-3 rounded-lg" aria-label="Laundromat Near Me home">
-            <span className="grid h-11 w-11 place-items-center rounded-full border border-[#3b82f6]/70 bg-white/5 text-[#93c5fd]"><WashingMachine size={24}/></span>
-            <span className="font-display text-lg font-extrabold tracking-tight">LAUNDROMAT <span className="text-[#93c5fd]">NEAR ME</span></span>
+            <SiteLogo inverted/>
           </Link>
           <nav className="hidden items-center gap-8 text-sm font-bold lg:flex" aria-label="Main navigation">
             <Link href="/" className="text-[#93c5fd]">Home</Link>
