@@ -2,6 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { articles } from "@/lib/articles";
 import { popularCities } from "@/lib/popular-cities";
+import cityEditorialIntros from "@/data/city-editorial-intros-batch-2.json";
 import {
   ArrowRight,
   BookOpen,
@@ -19,9 +20,19 @@ import {
   WashingMachine,
 } from "lucide-react";
 
-const featuredStates = Array.from(new Set(popularCities.map((city) => city.state))).sort().map((state) => ({
+const slugify = (value: string) => value.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
+const cityGuides = [
+  ...popularCities.map((city) => ({ name: city.name, slug: city.slug, state: city.state, href: `/${city.slug}` })),
+  ...Object.entries(cityEditorialIntros).map(([slug, city]) => ({
+    name: city.name,
+    slug,
+    state: city.state,
+    href: `/laundromats/${slugify(city.state)}/${slug}`,
+  })),
+];
+const featuredStates = Array.from(new Set(cityGuides.map((city) => city.state))).sort().map((state) => ({
   state,
-  cities: popularCities.filter((city) => city.state === state),
+  cities: cityGuides.filter((city) => city.state === state).sort((a, b) => a.name.localeCompare(b.name)),
 }));
 
 const faqItems = [
@@ -182,7 +193,7 @@ export default function Home() {
             <h2 className="mt-3 font-display text-3xl font-extrabold tracking-tight sm:text-4xl">How Laundromat Near Me works</h2>
           </div>
           <div className="space-y-5 text-lg leading-8 text-slate-600">
-            <p>Finding a clean, convenient laundromat should not be a guessing game. Laundromat Near Me is a growing directory that combines supplied local business records with practical editorial guides for 15 featured US cities. Search by city, neighborhood, business name, street, or ZIP code to narrow the options before you leave home.</p>
+            <p>Finding a clean, convenient laundromat should not be a guessing game. Laundromat Near Me is a growing directory that combines supplied local business records with practical editorial guides for 30 featured US cities. Search by city, neighborhood, business name, street, or ZIP code to narrow the options before you leave home.</p>
             <p>The details that matter most can vary from one laundry trip to the next. You may need early opening hours after a night shift, a large-capacity washer for a king comforter, free parking, card payment, or wash-and-fold service near work. Our Brooklyn, Bronx, Houston, Queens, Philadelphia, San Francisco, Tampa, Newark, and Jacksonville directories include 472 supplied records with addresses, ratings, services, pricing information, and contact details. Because business information can change, those records are clearly labeled as not independently verified and should be confirmed directly before a visit.</p>
             <p>Our other featured pages currently provide city-specific guidance on neighborhoods, typical schedules, service options, and local resources while verified business listings are reviewed. Browse the city cards above, explore coverage by state below, or use the search bar to find a relevant city guide in seconds. New locations will be added as dependable information becomes available.</p>
           </div>
@@ -194,13 +205,13 @@ export default function Home() {
           <div className="max-w-3xl">
             <p className="flex items-center gap-2 text-sm font-extrabold uppercase tracking-[.18em] text-brand-600"><Building2 size={18}/>Featured coverage</p>
             <h2 className="mt-3 font-display text-3xl font-extrabold tracking-tight sm:text-4xl">Browse laundromat guides by state</h2>
-            <p className="mt-4 text-lg leading-8 text-slate-600">Explore the states currently represented by our 15 featured city guides. We are expanding coverage carefully as reliable local information becomes available.</p>
+            <p className="mt-4 text-lg leading-8 text-slate-600">Explore the states currently represented by our 30 city guides, including all 15 cities from the second editorial batch. We are expanding coverage carefully as reliable local information becomes available.</p>
           </div>
           <div className="mt-9 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
             {featuredStates.map(({ state, cities }) => <section key={state} className="rounded-2xl border border-slate-200 bg-cream p-6">
               <h3 className="font-display text-xl font-extrabold">{state}</h3>
               <div className="mt-4 flex flex-wrap gap-2">
-                {cities.map((city) => <Link key={city.slug} href={`/${city.slug}`} className="focus-ring rounded-full border border-brand-100 bg-white px-4 py-2 text-sm font-bold text-brand-700 transition hover:border-brand-300 hover:bg-brand-50">{city.name}</Link>)}
+                {cities.map((city) => <Link key={`${city.state}-${city.slug}`} href={city.href} className="focus-ring rounded-full border border-brand-100 bg-white px-4 py-2 text-sm font-bold text-brand-700 transition hover:border-brand-300 hover:bg-brand-50">{city.name}</Link>)}
               </div>
             </section>)}
           </div>
