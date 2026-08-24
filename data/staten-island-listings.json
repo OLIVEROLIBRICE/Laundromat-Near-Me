@@ -1,0 +1,908 @@
+[
+  {
+    "id": 1,
+    "name": "Big B&B Laundromat",
+    "address": "77 Richmond Hill Rd, Staten Island, NY 10314",
+    "phone": "(718) 477-0980",
+    "website": null,
+    "rating": 3.7,
+    "reviewCount": 91,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Local laundromat offering comprehensive washing and drying services in Staten Island, NY. Features spacious facility with modern equipment and convenient hours."
+  },
+  {
+    "id": 2,
+    "name": "5 Star Laundromat",
+    "address": "1450 Hylan Blvd, Staten Island, NY 10305",
+    "phone": "(718) 987-2538",
+    "website": null,
+    "rating": 3.8,
+    "reviewCount": 95,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Full-service washing facility offering quality laundry solutions in Staten Island, NY. Features comfortable environment and well-maintained machines."
+  },
+  {
+    "id": 3,
+    "name": "Laundromat",
+    "address": "1648 Forest Ave, Staten Island, NY 10302",
+    "phone": "(718) 720-2331",
+    "website": null,
+    "rating": 4.2,
+    "reviewCount": 28,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Convenient coin-operated laundromat serving Staten Island, NY with efficient washing and drying facilities. Popular with local community members."
+  },
+  {
+    "id": 4,
+    "name": "Clean Rite Center",
+    "address": "357 Port Richmond Ave, Staten Island, NY 10302",
+    "phone": "(718) 556-2340",
+    "website": "https://www.cleanritecenter.com/stores/clean-rite-center-357portrichmondavenue-statenislandny/",
+    "rating": 4.3,
+    "reviewCount": 350,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Family-friendly laundromat featuring spotless environment serving Staten Island, NY with convenient washing and drying services. Features comfortable seating and modern laundry equipment."
+  },
+  {
+    "id": 5,
+    "name": "Clove Road Laundromat dry cleaning",
+    "address": "1290 Clove Rd, Staten Island, NY 10301",
+    "phone": "(718) 816-6663",
+    "website": null,
+    "rating": 4.5,
+    "reviewCount": 35,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Professional laundromat featuring emphasis on cleanliness offering reliable washing and drying solutions in Staten Island, NY. Known for clean facilities and well-maintained equipment."
+  },
+  {
+    "id": 6,
+    "name": "Cycles Laundromat",
+    "address": "317 Bradley Ave, Staten Island, NY 10314",
+    "phone": "(718) 494-9342",
+    "website": "https://cycles-laundromat.poi.place/",
+    "rating": 4.6,
+    "reviewCount": 90,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Neighborhood laundromat serving Staten Island, NY with convenient washing and drying facilities. Known for modern equipment and clean environment."
+  },
+  {
+    "id": 7,
+    "name": "Cebra Laundromat Inc.",
+    "address": "10 Cebra Ave, Staten Island, NY 10301",
+    "phone": "(347) 500-3311",
+    "website": null,
+    "rating": 4.6,
+    "reviewCount": 43,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Professional coin laundry providing efficient washing and drying solutions in Staten Island, NY. Popular choice for reliable laundry services."
+  },
+  {
+    "id": 8,
+    "name": "Blue Ocean laundromat",
+    "address": "211 Broad St, Staten Island, NY 10304",
+    "phone": "(917) 338-1619",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 3,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Professional laundromat offering reliable washing and drying solutions in Staten Island, NY. Known for clean facilities and well-maintained equipment."
+  },
+  {
+    "id": 9,
+    "name": "Blue Star Laundromat",
+    "address": "55 Gunton Pl, Staten Island, NY 10309",
+    "phone": "(718) 984-4213",
+    "website": null,
+    "rating": 4.3,
+    "reviewCount": 59,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Full-service coin laundry providing washing and drying solutions in Staten Island, NY. Known for clean facilities and dependable laundry equipment."
+  },
+  {
+    "id": 10,
+    "name": "Bayview Laundromat",
+    "address": "519 Bay St, Staten Island, NY 10304",
+    "phone": "(718) 981-6800",
+    "website": null,
+    "rating": 4.3,
+    "reviewCount": 55,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Established laundromat serving the Staten Island, NY area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry."
+  },
+  {
+    "id": 11,
+    "name": "Luxe Laundromat on Lincoln",
+    "address": "132 Lincoln Ave, Staten Island, NY 10306",
+    "phone": "(838) 333-2019",
+    "website": "https://luxe-laundromat.com/",
+    "rating": 4.6,
+    "reviewCount": 45,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Full-service laundromat offering convenient washing and drying facilities in Staten Island, NY. Features modern equipment and a clean environment for all your laundry needs."
+  },
+  {
+    "id": 12,
+    "name": "Laundry Corner Inc",
+    "address": "158 South Ave, Staten Island, NY 10303",
+    "phone": "(718) 981-8196",
+    "website": null,
+    "rating": 4.2,
+    "reviewCount": 46,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Established laundromat featuring corner location convenience serving the Staten Island, NY area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry."
+  },
+  {
+    "id": 13,
+    "name": "A1 Laundry",
+    "address": "150 Greaves Ln # P, Staten Island, NY 10308",
+    "phone": "(718) 967-1314",
+    "website": "https://www.a1laundry.net/",
+    "rating": 4.3,
+    "reviewCount": 72,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Convenient laundromat serving the Staten Island, NY area with efficient washing and drying services. Popular with residents for reliable equipment."
+  },
+  {
+    "id": 14,
+    "name": "Island Laundromat",
+    "address": "4203 Hylan Blvd #3, Staten Island, NY 10308",
+    "phone": "(718) 966-5122",
+    "website": "https://www.island-laundromat.com/",
+    "rating": 4.4,
+    "reviewCount": 74,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Neighborhood coin laundry offering convenient washing and drying solutions in Staten Island, NY. Features spacious facility and reliable equipment."
+  },
+  {
+    "id": 15,
+    "name": "LM laundromat",
+    "address": "529 Targee St, Staten Island, NY 10304",
+    "phone": "(917) 830-0006",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 2,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Community laundromat offering convenient washing and drying services to Staten Island, NY residents. Features well-maintained machines and comfortable environment."
+  },
+  {
+    "id": 16,
+    "name": "O star Laundromat",
+    "address": "164 Morningstar Rd, Staten Island, NY 10303",
+    "phone": "(718) 818-0014",
+    "website": "https://ostarlaundromat.com/",
+    "rating": 4.8,
+    "reviewCount": 55,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Community-focused laundromat providing reliable washing and drying services to residents of Staten Island, NY. Known for well-maintained machines and friendly service."
+  },
+  {
+    "id": 17,
+    "name": "FORT PLACE LAUNDROMAT",
+    "address": "17 Fort Pl, Staten Island, NY 10301",
+    "phone": "(718) 679-7505",
+    "website": null,
+    "rating": 5,
+    "reviewCount": 1,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Community-oriented laundromat providing quality washing and drying services in Staten Island, NY. Known for clean environment and friendly atmosphere."
+  },
+  {
+    "id": 18,
+    "name": "King Laundromat",
+    "address": "2040 Forest Ave, Staten Island, NY 10303",
+    "phone": "(718) 983-9274",
+    "website": null,
+    "rating": 3.7,
+    "reviewCount": 64,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Established laundry facility providing comprehensive washing and drying services in Staten Island, NY. Well-equipped with commercial-grade machines."
+  },
+  {
+    "id": 19,
+    "name": "Star Laundromats",
+    "address": "962 Richmond Ave, Staten Island, NY 10314",
+    "phone": "(718) 698-9100",
+    "website": "http://www.starlaundromats.com/",
+    "rating": 4.3,
+    "reviewCount": 132,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Convenient laundromat providing efficient washing and drying services in Staten Island, NY. Popular with local residents for its reliable machines and clean environment."
+  },
+  {
+    "id": 20,
+    "name": "Clean Rite Center",
+    "address": "1106 Bay St, Staten Island, NY 10305",
+    "phone": "(718) 285-4926",
+    "website": "https://www.cleanritecenter.com/stores/clean-rite-center-1106bayst-statenislandny/",
+    "rating": 4.3,
+    "reviewCount": 238,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Community-oriented laundromat featuring emphasis on cleanliness providing quality washing and drying services in Staten Island, NY. Known for clean environment and friendly atmosphere."
+  },
+  {
+    "id": 21,
+    "name": "Clean Rite Center",
+    "address": "1767 Forest Ave, Staten Island, NY 10303",
+    "phone": "(718) 524-6372",
+    "website": "https://www.cleanritecenter.com/stores/165cr",
+    "rating": 4.7,
+    "reviewCount": 262,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Community laundromat featuring hygiene-focused facility providing comprehensive washing and drying solutions in Staten Island, NY. Well-equipped with modern laundry machines."
+  },
+  {
+    "id": 22,
+    "name": "Clean Rite Center",
+    "address": "438 Port Richmond Ave, Staten Island, NY 10302",
+    "phone": "(718) 981-3950",
+    "website": "https://www.cleanritecenter.com/stores/clean-rite-center-438portrichmondave-statenislandny/?utm_source=extnet&utm_medium=yext",
+    "rating": 4.2,
+    "reviewCount": 179,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Neighborhood laundromat featuring spotless environment serving Staten Island, NY with convenient washing and drying facilities. Known for modern equipment and clean environment."
+  },
+  {
+    "id": 23,
+    "name": "Laundry Express Center",
+    "address": "1360 Forest Ave, Staten Island, NY 10302",
+    "phone": "(718) 981-9274",
+    "website": "http://laundryexpresscenter.com/",
+    "rating": 3.9,
+    "reviewCount": 136,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Local laundromat featuring speedy laundry solutions offering comprehensive washing and drying services in Staten Island, NY. Features spacious facility with modern equipment and convenient hours."
+  },
+  {
+    "id": 24,
+    "name": "Clothesline Laundromat & Dry Cleaners",
+    "address": "23 Giffords Ln, Staten Island, NY 10308",
+    "phone": "(718) 984-8423",
+    "website": "https://www.clotheslinelaundromatny.com/",
+    "rating": 4.1,
+    "reviewCount": 55,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Emphasis on cleanliness washing facility offering quality laundry solutions in Staten Island, NY. Features comfortable environment and well-maintained machines."
+  },
+  {
+    "id": 25,
+    "name": "Staten Island Laundry Company",
+    "address": "2750 Hylan Blvd, Staten Island, NY 10306",
+    "phone": "(718) 980-2258",
+    "website": "http://www.silaundry.com/",
+    "rating": 4.3,
+    "reviewCount": 94,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Convenient laundromat providing efficient washing and drying services in Staten Island, NY. Popular with local residents for its reliable machines and clean environment."
+  },
+  {
+    "id": 26,
+    "name": "White Star Laundromat Inc",
+    "address": "4434 Amboy Rd, Staten Island, NY 10312",
+    "phone": "(718) 984-5441",
+    "website": "http://white-inc.poi.place/",
+    "rating": 4.3,
+    "reviewCount": 93,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Established washing facility offering reliable laundry services in Staten Island, NY. Features spacious layout and dependable equipment."
+  },
+  {
+    "id": 27,
+    "name": "Metro Laundromat & Dry Cleaners",
+    "address": "1281 Arthur Kill Rd, Staten Island, NY 10312",
+    "phone": "(718) 227-5800",
+    "website": null,
+    "rating": 4.2,
+    "reviewCount": 49,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Community-oriented laundromat featuring spotless environment providing quality washing and drying services in Staten Island, NY. Known for clean environment and friendly atmosphere."
+  },
+  {
+    "id": 28,
+    "name": "SUPER CLEAN Laundromat",
+    "address": "2435 Hylan Blvd, Staten Island, NY 10306",
+    "phone": "(718) 667-0609",
+    "website": "https://www.supercleannyc.com/locations",
+    "rating": 4.3,
+    "reviewCount": 96,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Extensive equipment selection coin laundry providing washing and drying solutions in Staten Island, NY. Known for clean facilities and dependable laundry equipment."
+  },
+  {
+    "id": 29,
+    "name": "Clean Power Laundromat",
+    "address": "140 Port Richmond Ave, Staten Island, NY 10302",
+    "phone": "(718) 524-4878",
+    "website": null,
+    "rating": 4.7,
+    "reviewCount": 19,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": false,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Convenient laundromat featuring spotless environment serving the Staten Island, NY area with efficient washing and drying services. Popular with residents for reliable equipment."
+  },
+  {
+    "id": 30,
+    "name": "SUPER CLEAN Laundromat",
+    "address": "319 New Dorp Ln, Staten Island, NY 10306",
+    "phone": "(718) 667-9730",
+    "website": "https://www.supercleannyc.com/services",
+    "rating": 4.1,
+    "reviewCount": 87,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Large-capacity facility laundromat offering reliable washing and drying solutions in Staten Island, NY. Features modern equipment and convenient operating hours."
+  },
+  {
+    "id": 31,
+    "name": "Clean Rite Center",
+    "address": "1287 Castleton Ave, Staten Island, NY 10310",
+    "phone": "(718) 556-0355",
+    "website": "https://www.cleanritecenter.com/stores/clean-rite-center-1287castletonave-statenislandny/?utm_source=extnet&utm_medium=yext",
+    "rating": 4.4,
+    "reviewCount": 397,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Emphasis on cleanliness laundromat offering convenient washing and drying facilities in Staten Island, NY. Features modern equipment and a clean environment for all your laundry needs."
+  },
+  {
+    "id": 32,
+    "name": "US Laundromat and Dry Cleaner",
+    "address": "2333 Hylan Blvd, Staten Island, NY 10306",
+    "phone": "(718) 667-6667",
+    "website": "http://www.neatly.online/",
+    "rating": 4.3,
+    "reviewCount": 297,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Community laundromat featuring emphasis on cleanliness offering convenient washing and drying services to Staten Island, NY residents. Features well-maintained machines and comfortable environment."
+  },
+  {
+    "id": 33,
+    "name": "SUPER CLEAN Laundromat",
+    "address": "1501 Hylan Blvd, Staten Island, NY 10305",
+    "phone": "(718) 667-6100",
+    "website": "http://superclean-24hrs-staten-island.poi.place/",
+    "rating": 4.1,
+    "reviewCount": 135,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Extensive equipment selection laundromat offering convenient washing and drying facilities in Staten Island, NY. Features modern equipment and a clean environment for all your laundry needs."
+  },
+  {
+    "id": 34,
+    "name": "SUPER CLEAN Laundromat",
+    "address": "1169 Bay St, Staten Island, NY 10305",
+    "phone": "(718) 447-4433",
+    "website": null,
+    "rating": 4,
+    "reviewCount": 154,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Convenient laundromat featuring comprehensive services providing efficient washing and drying services in Staten Island, NY. Popular with local residents for its reliable machines and clean environment."
+  },
+  {
+    "id": 35,
+    "name": "Go Easy Laundry",
+    "address": "429 Tompkins Ave., Staten Island, NY 10305",
+    "phone": "(315) 627-8453",
+    "website": null,
+    "rating": 4.2,
+    "reviewCount": 25,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "pricing": "Wash $3.50; dry $2.50; wash-and-fold $1.25/lb",
+    "is24Hours": true,
+    "hasWifi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "lat": 40.5795,
+    "lng": -74.1502,
+    "verified": false,
+    "description": "Established laundromat serving the Staten Island, NY area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry."
+  }
+]
