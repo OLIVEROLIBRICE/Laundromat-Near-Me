@@ -1,0 +1,62 @@
+[
+  {
+    "id": "50035d08-7af6-4ab7-acb3-bd7cdf6c3cf8",
+    "slug": "laundrolab-denver-harvey-park-denver-co",
+    "name": "LaundroLab Denver - Harvey Park",
+    "address": "1997 S Federal Blvd",
+    "city": "Denver",
+    "state": "CO",
+    "zipCode": "80219",
+    "phone": "(720) 769-4009",
+    "website": "https://www.laundrolabusa.com",
+    "hours": {
+      "monday": "7:00 AM - 11:00 PM",
+      "tuesday": "7:00 AM - 11:00 PM",
+      "wednesday": "7:00 AM - 11:00 PM",
+      "thursday": "7:00 AM - 11:00 PM",
+      "friday": "7:00 AM - 11:00 PM",
+      "saturday": "7:00 AM - 11:00 PM",
+      "sunday": "7:00 AM - 11:00 PM"
+    },
+    "rating": 4.2,
+    "reviewCount": 89,
+    "services": [
+      "Self-Service",
+      "Modern Facility",
+      "App Payment"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card",
+      "Mobile App"
+    ],
+    "amenities": [
+      "Harvey Park Location",
+      "Modern Equipment",
+      "Customer Friendly"
+    ],
+    "pricing": {
+      "washPrice": "$4.75",
+      "dryPrice": "$3.50",
+      "washFoldPrice": "$1.50/lb"
+    },
+    "description": "LaundroLab's Denver location in Harvey Park offering modern laundry services with app-based payments.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 39.7392,
+    "longitude": -104.9903,
+    "is24Hours": false,
+    "hasWiFi": true,
+    "hasParking": true,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  }
+]

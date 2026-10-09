@@ -1,0 +1,2790 @@
+[
+  {
+    "id": "c55d6b4e-36c1-4a02-a49d-03eee2efc906",
+    "slug": "maple-super-wash-dry-dallas-tx",
+    "name": "Maple Super Wash & Dry",
+    "address": "4646 Maple Ave",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75219",
+    "phone": "(469) 500-8098",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "6:00 AM – 10:00 PM",
+      "sunday": "6:00 AM – 10:00 PM"
+    },
+    "rating": 4.2,
+    "reviewCount": 380,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional laundromat featuring extensive equipment selection serving the in the dynamic Dallas area area with modern washing and drying equipment. Known for efficient service and clean facilities.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "21e0fc00-043a-420b-8cbe-0f803d411b93",
+    "slug": "dallas-washdry-coin-laundry-lavanderia-dallas-tx",
+    "name": "Dallas Wash&Dry Coin Laundry-Lavanderia",
+    "address": "1130 S Beltline Rd Suite: 200",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75253",
+    "phone": "(469) 677-0987",
+    "website": null,
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 3.8,
+    "reviewCount": 72,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community laundromat providing comprehensive washing and drying solutions in in the dynamic Dallas area. Well-equipped with modern laundry machines. This 3.80-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "4b487fe5-94f1-4f68-80b6-2d28bd3be277",
+    "slug": "wash-dry-lavanderiadry-free-dallas-tx",
+    "name": "WASH & DRY LAVANDERIA(Dry Free)",
+    "address": "4343 W Camp Wisdom Rd",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75237",
+    "phone": null,
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 9:00 PM",
+      "tuesday": "7:00 AM – 9:00 PM",
+      "wednesday": "7:00 AM – 9:00 PM",
+      "thursday": "7:00 AM – 9:00 PM",
+      "friday": "7:00 AM – 9:00 PM",
+      "saturday": "6:00 AM – 9:00 PM",
+      "sunday": "6:00 AM – 9:00 PM"
+    },
+    "rating": 4.2,
+    "reviewCount": 199,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional laundromat offering reliable washing and drying solutions in in the dynamic Dallas area. Known for clean facilities and well-maintained equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "08e80dfb-1598-4d25-9b0d-5589a95aeb93",
+    "slug": "sinfronteras-wash-and-dry-dallas-tx",
+    "name": "sinfronteras wash and dry",
+    "address": "9585 Scyene Rd",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75227",
+    "phone": "(945) 217-1183",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 8:00 PM",
+      "tuesday": "7:00 AM – 8:00 PM",
+      "wednesday": "7:00 AM – 8:00 PM",
+      "thursday": "7:00 AM – 8:00 PM",
+      "friday": "7:00 AM – 8:00 PM",
+      "saturday": "7:00 AM – 8:00 PM",
+      "sunday": "7:00 AM – 8:00 PM"
+    },
+    "rating": 4.7,
+    "reviewCount": 28,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community laundromat offering convenient washing and drying services to in the dynamic Dallas area residents. Features well-maintained machines and comfortable environment.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "b20d910b-d14c-45fc-a326-ac3b143c8afb",
+    "slug": "peavy-wash-dry-dallas-tx",
+    "name": "Peavy Wash & Dry",
+    "address": "1169 Peavy Rd",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75218",
+    "phone": "(817) 909-9648",
+    "website": "http://peavy-wash-dry.edan.io/",
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4.2,
+    "reviewCount": 203,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community-oriented laundromat providing quality washing and drying services in in the dynamic Dallas area. Known for clean environment and friendly atmosphere.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "faca5619-561c-490d-a190-69824db0a413",
+    "slug": "magic-coin-lavanderia-dallas-tx",
+    "name": "Magic Coin Lavanderia",
+    "address": "7020 Fair Oaks Ave Ste 100",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75231",
+    "phone": "(214) 628-3219",
+    "website": "http://magiccoinlaundry.com/",
+    "hours": {
+      "monday": "6:00 AM – 9:00 PM",
+      "tuesday": "6:00 AM – 9:00 PM",
+      "wednesday": "6:00 AM – 9:00 PM",
+      "thursday": "6:00 AM – 9:00 PM",
+      "friday": "6:00 AM – 9:00 PM",
+      "saturday": "6:00 AM – 9:00 PM",
+      "sunday": "6:00 AM – 9:00 PM"
+    },
+    "rating": 3.8,
+    "reviewCount": 103,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community laundromat providing comprehensive washing and drying solutions in in the dynamic Dallas area. Well-equipped with modern laundry machines. This 3.80-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "a769f0da-ffe7-477e-960c-c1248165780a",
+    "slug": "wash-dry-lavanderia-dallas-tx",
+    "name": "Wash Dry Lavanderia",
+    "address": "3017 N Westmoreland Rd # 1204",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75212",
+    "phone": null,
+    "website": null,
+    "hours": {
+      "monday": "6:00 AM – 8:45 PM",
+      "tuesday": "6:00 AM – 8:45 PM",
+      "wednesday": "6:00 AM – 8:45 PM",
+      "thursday": "6:00 AM – 8:45 PM",
+      "friday": "6:00 AM – 8:45 PM",
+      "saturday": "6:00 AM – 8:45 PM",
+      "sunday": "6:00 AM – 8:45 PM"
+    },
+    "rating": 4.2,
+    "reviewCount": 82,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional laundromat offering reliable washing and drying solutions in in the dynamic Dallas area. Known for clean facilities and well-maintained equipment. This 4.20-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "283f2acb-ac35-499d-8529-21d2fbb709f2",
+    "slug": "midway-wash-and-dry-dallas-tx",
+    "name": "Midway Wash And Dry",
+    "address": "4043 E Trinity Mls Rd #116",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75287",
+    "phone": "(214) 704-1725",
+    "website": "https://www.midwaywashanddry.com/",
+    "hours": {
+      "monday": "8:00 AM – 10:00 PM",
+      "tuesday": "8:00 AM – 10:00 PM",
+      "wednesday": "8:00 AM – 10:00 PM",
+      "thursday": "8:00 AM – 10:00 PM",
+      "friday": "8:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4.6,
+    "reviewCount": 347,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Family-friendly laundromat serving in the dynamic Dallas area with convenient washing and drying services. Features comfortable seating and modern laundry equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "44e2c968-bcfc-4a74-a544-d0dbf659d164",
+    "slug": "wonder-wash-coin-laundries-dallas-tx",
+    "name": "Wonder Wash Coin Laundries",
+    "address": "3237 W Northwest Hwy #100",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75220",
+    "phone": "(972) 807-2908",
+    "website": null,
+    "hours": {
+      "monday": "6:00 AM – 10:00 PM",
+      "tuesday": "6:00 AM – 10:00 PM",
+      "wednesday": "6:00 AM – 10:00 PM",
+      "thursday": "6:00 AM – 10:00 PM",
+      "friday": "6:00 AM – 10:00 PM",
+      "saturday": "6:00 AM – 10:00 PM",
+      "sunday": "6:00 AM – 10:00 PM"
+    },
+    "rating": 4.2,
+    "reviewCount": 122,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established laundry facility providing comprehensive washing and drying services in in the dynamic Dallas area. Well-equipped with commercial-grade machines. This 4.20-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "00ba44c8-8252-47ea-8315-ea60b320d135",
+    "slug": "abc-wash-n-dry-dallas-tx",
+    "name": "ABC Wash-n-Dry",
+    "address": "7859 McCallum Blvd",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75252",
+    "phone": null,
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 3.4,
+    "reviewCount": 404,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood coin laundry offering convenient washing and drying solutions in in the dynamic Dallas area. Features spacious facility and reliable equipment. This 3.40-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "549c056c-6a42-42db-a33c-43ed48b2bdfb",
+    "slug": "magic-coin-laundry-and-dry-cleaning-dallas-tx",
+    "name": "Magic Coin Laundry and Dry Cleaning",
+    "address": "7879 Spring Valley Rd #147",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75254",
+    "phone": "(972) 503-7310",
+    "website": null,
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 3.8,
+    "reviewCount": 236,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Spotless environment washing facility offering quality laundry solutions in in the dynamic Dallas area. Features comfortable environment and well-maintained machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "37dc72c9-ec7e-4069-b474-582c8c2a908f",
+    "slug": "wash-and-go-laundry-mat-dallas-tx",
+    "name": "Wash and Go Laundry Mat",
+    "address": "17602 Kelly Blvd #100",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75287",
+    "phone": "(414) 949-0620",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4.4,
+    "reviewCount": 251,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established washing facility offering reliable laundry services in in the dynamic Dallas area. Features spacious layout and dependable equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "3d02519f-7007-4478-a5cb-49a4df3d4c7a",
+    "slug": "sunny-wash-and-dry-dallas-tx",
+    "name": "Sunny Wash and Dry",
+    "address": "2317 Lakeland Dr",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75228",
+    "phone": "(951) 237-2894",
+    "website": null,
+    "hours": {
+      "monday": "6:00 AM – 10:30 PM",
+      "tuesday": "6:00 AM – 10:30 PM",
+      "wednesday": "6:00 AM – 10:30 PM",
+      "thursday": "6:00 AM – 10:30 PM",
+      "friday": "6:00 AM – 10:30 PM",
+      "saturday": "6:00 AM – 10:30 PM",
+      "sunday": "6:00 AM – 10:30 PM"
+    },
+    "rating": 4.2,
+    "reviewCount": 60,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established washing facility offering comprehensive laundry services in in the dynamic Dallas area. Features modern equipment and convenient location for easy access. This 4.20-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "548d1906-2082-4a12-ac22-e3d5447dfaa4",
+    "slug": "xpress-wash-dallas-tx",
+    "name": "Xpress Wash",
+    "address": "4916 Columbia Ave",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75214",
+    "phone": "(214) 887-4932",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 3.8,
+    "reviewCount": 235,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat serving in the dynamic Dallas area with convenient washing and drying facilities. Known for modern equipment and clean environment. This 3.80-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "4fabd8a7-bd72-4a7a-b048-e1162d749845",
+    "slug": "amigo-wash-dry-dallas-tx",
+    "name": "Amigo Wash & Dry",
+    "address": "918 W Page Ave",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75208",
+    "phone": null,
+    "website": "http://amigo-wash-dry-dallas.poi.place/",
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "6:00 AM – 10:00 PM",
+      "sunday": "6:00 AM – 10:00 PM"
+    },
+    "rating": 4.3,
+    "reviewCount": 78,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local laundromat offering comprehensive washing and drying services in in the dynamic Dallas area. Features spacious facility with modern equipment and convenient hours. This 4.30-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "f5b0df54-5780-45a1-b8ed-71089da553ca",
+    "slug": "wash-dry-lavanderia-dallas-tx-2",
+    "name": "Wash & Dry Lavanderia",
+    "address": "4824 Gaston Ave",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75246",
+    "phone": "(214) 887-8508",
+    "website": "http://speed-queen-wash-dry.poi.place/",
+    "hours": {
+      "monday": "7:00 AM – 9:00 PM",
+      "tuesday": "7:00 AM – 9:00 PM",
+      "wednesday": "7:00 AM – 9:00 PM",
+      "thursday": "7:00 AM – 9:00 PM",
+      "friday": "7:00 AM – 9:00 PM",
+      "saturday": "7:00 AM – 9:00 PM",
+      "sunday": "7:00 AM – 9:00 PM"
+    },
+    "rating": 3.9,
+    "reviewCount": 110,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat serving in the dynamic Dallas area with convenient washing and drying facilities. Known for modern equipment and clean environment.",
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "948ecc34-33dd-4f27-af82-70b7b617ff1e",
+    "slug": "tide-laundromat-dallas-tx",
+    "name": "Tide Laundromat",
+    "address": "11255 Garland Rd",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75218",
+    "phone": "(469) 299-0505",
+    "website": "https://www.tidelaundromat.com/dallas/white-rock/",
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "6:30 AM – 11:00 PM",
+      "sunday": "6:30 AM – 11:00 PM"
+    },
+    "rating": 4.9,
+    "reviewCount": 621,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient laundromat providing efficient washing and drying services in in the dynamic Dallas area. Popular with local residents for its reliable machines and clean environment.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "56e6203e-6946-4cb9-8595-eabe4b65b225",
+    "slug": "feather-laundry-dallas-tx",
+    "name": "Feather Laundry",
+    "address": "4819 Ross Ave",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75204",
+    "phone": "(214) 727-2339",
+    "website": "http://www.featherlaundry.com/",
+    "hours": {
+      "monday": "9:00 AM – 8:00 PM",
+      "tuesday": "9:00 AM – 8:00 PM",
+      "wednesday": "9:00 AM – 8:00 PM",
+      "thursday": "9:00 AM – 8:00 PM",
+      "friday": "9:00 AM – 8:00 PM",
+      "saturday": "11:00 AM – 7:00 PM",
+      "sunday": "11:00 AM – 7:00 PM"
+    },
+    "rating": 4.8,
+    "reviewCount": 126,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service washing facility offering quality laundry solutions in in the dynamic Dallas area. Features comfortable environment and well-maintained machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "c909594d-145c-4306-b576-b03fa6f86644",
+    "slug": "wash-m-dry-dallas-tx",
+    "name": "Wash M Dry",
+    "address": "8440 Lake June Rd",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75217",
+    "phone": "(214) 309-3650",
+    "website": "https://www.facebook.com/lakejunewash/",
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4.1,
+    "reviewCount": 86,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service laundromat offering convenient washing and drying facilities in in the dynamic Dallas area. Features modern equipment and a clean environment for all your laundry needs. This 4.10-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "0d74890f-c8d4-4bd3-9c1d-29e9b619a92e",
+    "slug": "laundry-wash-dallas-tx",
+    "name": "Laundry Wash",
+    "address": "5555 Preston Oaks Rd Unit 6",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75254",
+    "phone": null,
+    "website": null,
+    "hours": {
+      "monday": "6:00 AM – 11:00 PM",
+      "tuesday": "6:00 AM – 11:00 PM",
+      "wednesday": "6:00 AM – 11:00 PM",
+      "thursday": "6:00 AM – 11:00 PM",
+      "friday": "6:00 AM – 11:00 PM",
+      "saturday": "6:00 AM – 11:00 PM",
+      "sunday": "6:00 AM – 11:00 PM"
+    },
+    "rating": 3.3,
+    "reviewCount": 132,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established washing facility offering reliable laundry services in in the dynamic Dallas area. Features spacious layout and dependable equipment. This 3.30-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "3c3fcde4-431f-4420-9ea2-69614edcbcaa",
+    "slug": "speed-washfolddry-cleaner-drop-off-125lb-pickupdelivery-155lb-same-day-washfold-dallas-tx",
+    "name": "Speed Wash&Fold/Dry Cleaner, Drop Off 1.25/lb, Pickup/Delivery 1.55/lb, Same Day Wash&Fold",
+    "address": "4828 Columbia Ave #400",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75226",
+    "phone": "(214) 826-6465",
+    "website": "http://www.speedwashndry.com/",
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 3.9,
+    "reviewCount": 245,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established laundromat featuring hygiene-focused facility serving the in the dynamic Dallas area area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "28ff375d-6b67-4fc6-ae01-e18474386ad4",
+    "slug": "scrub-a-duds-laundry-dallas-tx",
+    "name": "Scrub-A-Duds Laundry",
+    "address": "2215 Gus Thomasson Rd",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75228",
+    "phone": "(214) 758-0519",
+    "website": "http://www.scrubaduds.com/",
+    "hours": {
+      "monday": "6:00 AM – 10:00 PM",
+      "tuesday": "6:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "6:00 AM – 10:00 PM",
+      "friday": "6:00 AM – 10:00 PM",
+      "saturday": "6:00 AM – 10:00 PM",
+      "sunday": "6:00 AM – 10:00 PM"
+    },
+    "rating": 4.7,
+    "reviewCount": 49,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local washing facility providing reliable laundry services in in the dynamic Dallas area. Popular choice for both quick wash and full-service laundry needs. This 4.70-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "caeb0a98-6e76-4861-acee-2ffda897a2bc",
+    "slug": "lemon-fresh-wash-dry-dallas-tx",
+    "name": "Lemon Fresh Wash & Dry",
+    "address": "6648 Lemmon Ave",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75209",
+    "phone": "(214) 956-9101",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 7:30 PM",
+      "tuesday": "7:00 AM – 7:30 PM",
+      "wednesday": "7:00 AM – 7:30 PM",
+      "thursday": "7:00 AM – 7:30 PM",
+      "friday": "7:00 AM – 7:30 PM",
+      "saturday": "7:00 AM – 7:30 PM",
+      "sunday": "7:00 AM – 7:30 PM"
+    },
+    "rating": 4.6,
+    "reviewCount": 154,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Updated facilities laundromat offering convenient washing and drying facilities in in the dynamic Dallas area. Features modern equipment and a clean environment for all your laundry needs.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "4d1f7e4e-f62a-4fda-a146-8127c621eb56",
+    "slug": "wavemax-laundry-dallas-dallas-tx-2",
+    "name": "WaveMAX Laundry Dallas",
+    "address": "3220 West Davis St",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75211",
+    "phone": "(214) 941-4555",
+    "website": "https://www.wavemaxlaundry.com",
+    "hours": {
+      "monday": "7:00 AM - 10:00 PM",
+      "tuesday": "7:00 AM - 10:00 PM",
+      "wednesday": "7:00 AM - 10:00 PM",
+      "thursday": "7:00 AM - 10:00 PM",
+      "friday": "7:00 AM - 10:00 PM",
+      "saturday": "7:00 AM - 10:00 PM",
+      "sunday": "7:00 AM - 10:00 PM"
+    },
+    "rating": 4.7,
+    "reviewCount": 178,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card",
+      "Mobile Payment"
+    ],
+    "amenities": [
+      "High-Speed Machines",
+      "Well-Lit",
+      "Drop-off Service"
+    ],
+    "pricing": {
+      "washPrice": "$3.25",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.15/lb"
+    },
+    "description": "Cleanest, fastest, and safest laundromat in Dallas with 26 Electrolux washers (18-80 lbs) and 28 Electrolux dryers.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": true,
+    "hasParking": true,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "14a9a7ab-29c1-46ff-8c43-53df8baaae18",
+    "slug": "speed-queen-laundry-dallas-tx",
+    "name": "Speed Queen Laundry",
+    "address": "2950 Walnut Hill Ln",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75229",
+    "phone": "(469) 382-9222",
+    "website": "https://stores.speedqueenlaundry.com/speed-queen-laundry-0fac5fecc774",
+    "hours": {
+      "monday": "7:00 AM – 11:00 PM",
+      "tuesday": "7:00 AM – 11:00 PM",
+      "wednesday": "7:00 AM – 11:00 PM",
+      "thursday": "7:00 AM – 11:00 PM",
+      "friday": "7:00 AM – 11:00 PM",
+      "saturday": "6:00 AM – 11:00 PM",
+      "sunday": "6:00 AM – 11:00 PM"
+    },
+    "rating": 4.7,
+    "reviewCount": 412,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community laundromat providing comprehensive washing and drying solutions in in the dynamic Dallas area. Well-equipped with modern laundry machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "84d1488e-136e-4069-a68d-a472757bd90d",
+    "slug": "ck-wash-n-dry-lavanderia-dallas-tx",
+    "name": "Ck Wash-N-Dry Lavanderia",
+    "address": "3734 W Clarendon Dr",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75211",
+    "phone": "(214) 854-2221",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "6:00 AM – 10:00 PM",
+      "sunday": "6:00 AM – 10:00 PM"
+    },
+    "rating": 4.6,
+    "reviewCount": 116,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community laundromat offering convenient washing and drying services to in the dynamic Dallas area residents. Features well-maintained machines and comfortable environment. This 4.60-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "9efe0b76-33ba-4f69-b68b-f78cac071767",
+    "slug": "south-side-laundromat-dallas-tx",
+    "name": "South Side Laundromat",
+    "address": "2707 Martin Luther King Jr Blvd",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75215",
+    "phone": "(214) 502-9900",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 7:00 PM",
+      "tuesday": "7:00 AM – 7:00 PM",
+      "wednesday": "7:00 AM – 7:00 PM",
+      "thursday": "7:00 AM – 7:00 PM",
+      "friday": "7:00 AM – 7:00 PM",
+      "saturday": "7:00 AM – 7:00 PM",
+      "sunday": "7:00 AM – 7:00 PM"
+    },
+    "rating": 4.4,
+    "reviewCount": 43,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community laundromat offering convenient washing and drying services to in the dynamic Dallas area residents. Features well-maintained machines and comfortable environment. This 4.40-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "13649eb6-9919-43cc-9b16-6324f7a8df70",
+    "slug": "rapido-lavanderia-dallas-tx",
+    "name": "RAPIDO LAVANDERIA",
+    "address": "102 W Ann Arbor Ave Suite A",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75224",
+    "phone": null,
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4.6,
+    "reviewCount": 57,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local laundromat offering comprehensive washing and drying services in in the dynamic Dallas area. Features spacious facility with modern equipment and convenient hours. This 4.60-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "536c60e8-f1e0-4037-879f-8274cb65e089",
+    "slug": "jj-wash-and-dry-dallas-tx",
+    "name": "J&J Wash and Dry",
+    "address": "11306 Lyndon B Johnson Fwy #150",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75238",
+    "phone": "(214) 503-0200",
+    "website": "http://www.jjwashdry.com/",
+    "hours": {
+      "monday": "8:00 AM – 10:00 PM",
+      "tuesday": "8:00 AM – 10:00 PM",
+      "wednesday": "8:00 AM – 10:00 PM",
+      "thursday": "8:00 AM – 10:00 PM",
+      "friday": "8:00 AM – 10:00 PM",
+      "saturday": "8:00 AM – 10:00 PM",
+      "sunday": "8:00 AM – 10:00 PM"
+    },
+    "rating": 4.6,
+    "reviewCount": 261,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established washing facility offering comprehensive laundry services in in the dynamic Dallas area. Features modern equipment and convenient location for easy access.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "bd56c5b9-8290-4fc9-beea-fa77a0a1bb65",
+    "slug": "sunshine-laundry-dry-cleaner-dallas-tx",
+    "name": "Sunshine Laundry & Dry Cleaner",
+    "address": "4114 Maple Ave",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75219",
+    "phone": "(214) 521-9921",
+    "website": "http://www.sunshinedallas.com/",
+    "hours": {
+      "monday": "6:00 AM – 6:30 PM",
+      "tuesday": "6:00 AM – 6:30 PM",
+      "wednesday": "6:00 AM – 6:30 PM",
+      "thursday": "6:00 AM – 6:30 PM",
+      "friday": "6:00 AM – 6:30 PM",
+      "saturday": "6:00 AM – 3:00 PM",
+      "sunday": "Closed"
+    },
+    "rating": 4.7,
+    "reviewCount": 637,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local laundry facility offering comprehensive washing and drying services to in the dynamic Dallas area residents. Features well-maintained equipment and convenient location.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "b48ded27-fab9-40a3-a96b-176af04a0684",
+    "slug": "spin-cycle-washateria-dallas-tx-2",
+    "name": "Spin cycle Washateria",
+    "address": "6300 Skillman St suite 160",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75231",
+    "phone": null,
+    "website": "http://spincycle-washeteria.poi.place/",
+    "hours": {
+      "monday": "6:00 AM – 2:00 PM",
+      "tuesday": "6:00 AM – 10:00 PM",
+      "wednesday": "6:00 AM – 10:00 PM",
+      "thursday": "6:00 AM – 10:00 PM",
+      "friday": "6:00 AM – 10:00 PM",
+      "saturday": "6:00 AM – 10:00 PM",
+      "sunday": "6:00 AM – 10:00 PM"
+    },
+    "rating": 4.2,
+    "reviewCount": 256,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat providing quality washing and drying services to the in the dynamic Dallas area community. Well-equipped with commercial-grade machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "15fd50b1-8547-4bf7-943f-beaf8d7cd34b",
+    "slug": "speed-queen-laundry-dallas-tx-2",
+    "name": "Speed Queen Laundry",
+    "address": "2520 Gus Thomasson Rd",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75228",
+    "phone": "(972) 777-9491",
+    "website": "https://stores.speedqueenlaundry.com/speed-queen-laundry-324dcb3cde04",
+    "hours": {
+      "monday": "6:00 AM – 12:00 AM",
+      "tuesday": "6:00 AM – 12:00 AM",
+      "wednesday": "6:00 AM – 12:00 AM",
+      "thursday": "6:00 AM – 12:00 AM",
+      "friday": "6:00 AM – 12:00 AM",
+      "saturday": "6:00 AM – 12:00 AM",
+      "sunday": "6:00 AM – 12:00 AM"
+    },
+    "rating": 4,
+    "reviewCount": 122,
+    "services": [
+      "Self-Service",
+      "Modern Equipment"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local laundromat offering comprehensive washing and drying services in in the dynamic Dallas area. Features spacious facility with modern equipment and convenient hours. This 4.00-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "a3856b0a-a689-4580-b2f1-76fe076f2125",
+    "slug": "spin-cycle-washateria-dallas-tx",
+    "name": "Spin Cycle Washateria",
+    "address": "9901 Royal Ln # 110",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75231",
+    "phone": null,
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "6:00 AM – 10:00 PM",
+      "sunday": "6:00 AM – 10:00 PM"
+    },
+    "rating": 4.2,
+    "reviewCount": 294,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional coin laundry providing efficient washing and drying solutions in in the dynamic Dallas area. Popular choice for reliable laundry services.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "5c465532-39ae-4a48-ad8d-9a0eed3651f5",
+    "slug": "fiesta-wash-n-dry-dallas-tx",
+    "name": "Fiesta Wash N Dry",
+    "address": "4470 Jefferson Blvd",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75211",
+    "phone": null,
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "6:00 AM – 10:00 PM"
+    },
+    "rating": 4.2,
+    "reviewCount": 69,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient coin-operated laundromat serving in the dynamic Dallas area with efficient washing and drying facilities. Popular with local community members.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "458394e1-6692-4ec5-8365-c96abfd8a058",
+    "slug": "qwik-wash-dallas-tx",
+    "name": "Qwik Wash",
+    "address": "816 N Fitzhugh Ave",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75246",
+    "phone": "(469) 826-4223",
+    "website": null,
+    "hours": {
+      "monday": "8:00 AM – 9:00 PM",
+      "tuesday": "8:00 AM – 9:00 PM",
+      "wednesday": "8:00 AM – 9:00 PM",
+      "thursday": "8:00 AM – 9:00 PM",
+      "friday": "8:00 AM – 9:00 PM",
+      "saturday": "8:00 AM – 9:00 PM",
+      "sunday": "8:00 AM – 9:00 PM"
+    },
+    "rating": 4,
+    "reviewCount": 52,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local laundromat offering comprehensive washing and drying services in in the dynamic Dallas area. Features spacious facility with modern equipment and convenient hours. This 4.00-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "abdb8b73-8b0b-41f5-a429-4f8f681174c9",
+    "slug": "tide-laundromat-dallas-dallas-tx",
+    "name": "Tide Laundromat Dallas",
+    "address": "9540 Garland Rd",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75218",
+    "phone": "(214) 321-4455",
+    "website": "https://www.tidelaundromat.com",
+    "hours": {
+      "monday": "6:00 AM - 10:00 PM",
+      "tuesday": "6:00 AM - 10:00 PM",
+      "wednesday": "6:00 AM - 10:00 PM",
+      "thursday": "6:00 AM - 10:00 PM",
+      "friday": "6:00 AM - 10:00 PM",
+      "saturday": "6:00 AM - 10:00 PM",
+      "sunday": "7:00 AM - 9:00 PM"
+    },
+    "rating": 4.5,
+    "reviewCount": 134,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Mobile App",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Auto Detergent Dispenser",
+      "Modern Machines",
+      "App Payment"
+    ],
+    "pricing": {
+      "washPrice": "$3.75",
+      "dryPrice": "$2.75",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Modern facility with state-of-the-art machines that automatically dispense detergent and fabric softener. Wash and dry in 35 minutes.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": true,
+    "hasParking": true,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "09f14715-fba2-46f2-8cbd-b9d1b47375a2",
+    "slug": "wavemax-laundry-dallas-dallas-tx",
+    "name": "WaveMax Laundry Dallas",
+    "address": "3220 W Davis St",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75211",
+    "phone": "(469) 726-2320",
+    "website": "https://www.wavemaxlaundry.com/dallas-tx/",
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4.8,
+    "reviewCount": 387,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional laundromat serving the in the dynamic Dallas area area with modern washing and drying equipment. Known for efficient service and clean facilities.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "840b8dc4-1bee-4bd9-8d7b-2202f062ffa7",
+    "slug": "joy-wash-n-dry-dallas-tx",
+    "name": "Joy Wash-N-Dry",
+    "address": "2605 Fort Worth Ave #500",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75211",
+    "phone": "(214) 337-0095",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 11:00 PM",
+      "tuesday": "7:00 AM – 11:00 PM",
+      "wednesday": "7:00 AM – 11:00 PM",
+      "thursday": "7:00 AM – 11:00 PM",
+      "friday": "7:00 AM – 11:00 PM",
+      "saturday": "6:00 AM – 11:00 PM",
+      "sunday": "6:00 AM – 11:00 PM"
+    },
+    "rating": 4.4,
+    "reviewCount": 194,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local laundromat offering comprehensive washing and drying services in in the dynamic Dallas area. Features spacious facility with modern equipment and convenient hours.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "609ab4c4-2c57-4847-adbd-dc79198e1641",
+    "slug": "speed-queen-laundry-dallas-tx-3",
+    "name": "Speed Queen Laundry",
+    "address": "1551 S Buckner Blvd Ste 247",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75217",
+    "phone": "(214) 492-9222",
+    "website": "https://speedqueenbuckner.com/",
+    "hours": {
+      "monday": "7:00 AM – 11:00 PM",
+      "tuesday": "7:00 AM – 11:00 PM",
+      "wednesday": "7:00 AM – 11:00 PM",
+      "thursday": "7:00 AM – 11:00 PM",
+      "friday": "7:00 AM – 11:00 PM",
+      "saturday": "7:00 AM – 11:00 PM",
+      "sunday": "7:00 AM – 11:00 PM"
+    },
+    "rating": 4.9,
+    "reviewCount": 673,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood coin laundry offering convenient washing and drying solutions in in the dynamic Dallas area. Features spacious facility and reliable equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "0d6af92d-1beb-476f-8962-983fb441e9a7",
+    "slug": "pro-wash-dry-dallas-tx",
+    "name": "Pro Wash & Dry",
+    "address": "9115 Forest Ln",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75243",
+    "phone": null,
+    "website": null,
+    "hours": {
+      "monday": "6:00 AM – 9:30 PM",
+      "tuesday": "6:00 AM – 9:30 PM",
+      "wednesday": "6:00 AM – 9:30 PM",
+      "thursday": "6:00 AM – 9:30 PM",
+      "friday": "6:00 AM – 9:30 PM",
+      "saturday": "6:00 AM – 9:30 PM",
+      "sunday": "6:00 AM – 9:30 PM"
+    },
+    "rating": 4.2,
+    "reviewCount": 417,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established laundromat serving the in the dynamic Dallas area area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "ed8379be-66fa-43ff-b180-2e773ee3f71c",
+    "slug": "tornado-express-laundry-dallas-dallas-tx",
+    "name": "Tornado Express Laundry Dallas",
+    "address": "3330 W Kiest Blvd",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75233",
+    "phone": "(469) 677-0227",
+    "website": "https://tornadoexpresslaundry.com/",
+    "hours": {
+      "monday": "7:00 AM – 9:00 PM",
+      "tuesday": "7:00 AM – 9:00 PM",
+      "wednesday": "7:00 AM – 9:00 PM",
+      "thursday": "7:00 AM – 9:00 PM",
+      "friday": "7:00 AM – 9:00 PM",
+      "saturday": "7:00 AM – 9:00 PM",
+      "sunday": "7:00 AM – 9:00 PM"
+    },
+    "rating": 4.8,
+    "reviewCount": 190,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Quick-service focused coin laundry providing washing and drying solutions in in the dynamic Dallas area. Known for clean facilities and dependable laundry equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "f1208c08-4af2-453a-a7f6-5d3514c7c4bb",
+    "slug": "camp-super-wash-dry-dallas-tx",
+    "name": "Camp Super Wash & Dry",
+    "address": "1052 W Camp Wisdom Rd",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75232",
+    "phone": null,
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "6:00 AM – 10:00 PM",
+      "sunday": "6:00 AM – 10:00 PM"
+    },
+    "rating": 4,
+    "reviewCount": 284,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient laundromat featuring large-capacity facility serving the in the dynamic Dallas area area with efficient washing and drying services. Popular with residents for reliable equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "26e04631-181e-4817-8c39-11b6564ad3e7",
+    "slug": "dd-wash-n-dry-dallas-tx",
+    "name": "DD WASH-N-DRY",
+    "address": "18110 Midway Rd APT 140",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75287",
+    "phone": null,
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4,
+    "reviewCount": 345,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient laundromat serving the in the dynamic Dallas area area with efficient washing and drying services. Popular with residents for reliable equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "8ed690c7-3b26-4198-b7e7-59863bcc00a1",
+    "slug": "xl-wash-dry-dallas-tx",
+    "name": "XL Wash & Dry",
+    "address": "9203 Skillman St",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75243",
+    "phone": null,
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "6:30 AM – 10:00 PM",
+      "sunday": "6:30 AM – 10:00 PM"
+    },
+    "rating": 4,
+    "reviewCount": 263,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local laundromat offering comprehensive washing and drying services in in the dynamic Dallas area. Features spacious facility with modern equipment and convenient hours.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "85d0588a-2711-4f7a-8a83-c53432610505",
+    "slug": "lancaster-wash-n-dry-dallas-tx",
+    "name": "Lancaster WASH-N-DRY",
+    "address": "4302 S Lancaster Rd",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75216",
+    "phone": null,
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4,
+    "reviewCount": 221,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community-focused laundromat providing reliable washing and drying services to residents of in the dynamic Dallas area. Known for well-maintained machines and friendly service.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "154bd9c0-234e-44ef-8f28-1a5968f1b39a",
+    "slug": "tide-cleaners-dallas-tx",
+    "name": "Tide Cleaners",
+    "address": "2610 Oak Lawn Ave",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75219",
+    "phone": "(214) 974-4127",
+    "website": "http://tidecleaners.com/",
+    "hours": {
+      "monday": "7:00 AM – 7:00 PM",
+      "tuesday": "7:00 AM – 7:00 PM",
+      "wednesday": "7:00 AM – 7:00 PM",
+      "thursday": "7:00 AM – 7:00 PM",
+      "friday": "7:00 AM – 7:00 PM",
+      "saturday": "8:00 AM – 5:00 PM",
+      "sunday": "Closed"
+    },
+    "rating": 4.8,
+    "reviewCount": 291,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community laundromat featuring emphasis on cleanliness offering convenient washing and drying services to in the dynamic Dallas area residents. Features well-maintained machines and comfortable environment.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "feaef9e7-e6d7-457e-9d08-d9e78b439d9b",
+    "slug": "community-laundries-dallas-tx",
+    "name": "Community Laundries",
+    "address": "7015 Woodwick Dr",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75232",
+    "phone": "(972) 925-0638",
+    "website": "http://www.communitylaundries.com/",
+    "hours": {
+      "monday": "7:00 AM – 9:00 PM",
+      "tuesday": "7:00 AM – 9:00 PM",
+      "wednesday": "7:00 AM – 9:00 PM",
+      "thursday": "7:00 AM – 9:00 PM",
+      "friday": "7:00 AM – 9:00 PM",
+      "saturday": "6:30 AM – 9:00 PM",
+      "sunday": "6:30 AM – 9:00 PM"
+    },
+    "rating": 4.7,
+    "reviewCount": 61,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient coin-operated laundromat serving in the dynamic Dallas area with efficient washing and drying facilities. Popular with local community members. This 4.70-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "12267fe1-f0bf-431a-b799-e0a16cae093f",
+    "slug": "cindys-washateria-dallas-tx",
+    "name": "Cindy's Washateria",
+    "address": "4728 E Grand Ave",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75223",
+    "phone": null,
+    "website": null,
+    "hours": {
+      "monday": "6:00 AM – 9:30 PM",
+      "tuesday": "6:00 AM – 9:30 PM",
+      "wednesday": "6:00 AM – 9:30 PM",
+      "thursday": "6:00 AM – 9:30 PM",
+      "friday": "6:00 AM – 9:30 PM",
+      "saturday": "5:00 AM – 9:30 PM",
+      "sunday": "5:00 AM – 9:30 PM"
+    },
+    "rating": 4.3,
+    "reviewCount": 76,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community-oriented laundromat providing quality washing and drying services in in the dynamic Dallas area. Known for clean environment and friendly atmosphere. This 4.30-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "5bc70cba-e06c-45a6-bf3d-800271159d7a",
+    "slug": "happy-laundry-hub-dallas-tx",
+    "name": "Happy Laundry Hub",
+    "address": "2902 S Buckner Blvd Ste. 400",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75227",
+    "phone": "(469) 996-0428",
+    "website": "http://www.happylaundryhub.com/",
+    "hours": {
+      "monday": "7:30 AM – 8:30 PM",
+      "tuesday": "7:30 AM – 8:30 PM",
+      "wednesday": "7:30 AM – 8:30 PM",
+      "thursday": "7:30 AM – 8:30 PM",
+      "friday": "7:30 AM – 8:30 PM",
+      "saturday": "7:30 AM – 8:30 PM",
+      "sunday": "7:30 AM – 8:30 PM"
+    },
+    "rating": 4.8,
+    "reviewCount": 19,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service laundromat offering reliable washing and drying solutions in in the dynamic Dallas area. Features modern equipment and convenient operating hours. This 4.80-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "e7b23321-97a3-48ef-8423-db169bed8097",
+    "slug": "q-wash-n-dry-dallas-tx",
+    "name": "Q wash n dry",
+    "address": "Hampton @ Clarendon S NS",
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75208",
+    "phone": "(214) 382-8268",
+    "website": null,
+    "hours": {
+      "monday": "6:00 AM – 11:00 PM",
+      "tuesday": "6:00 AM – 11:00 PM",
+      "wednesday": "6:00 AM – 11:00 PM",
+      "thursday": "7:00 AM – 11:00 PM",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.3,
+    "reviewCount": 276,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service laundromat offering convenient washing and drying facilities in in the dynamic Dallas area. Features modern equipment and a clean environment for all your laundry needs.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  }
+]

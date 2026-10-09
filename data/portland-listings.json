@@ -1,0 +1,65 @@
+[
+  {
+    "id": "71ebdb3a-efb5-47b4-9ee7-92024fdfcfca",
+    "slug": "spin-laundry-lounge-portland-portland-or",
+    "name": "Spin Laundry Lounge Portland",
+    "address": "2148 SE Division St",
+    "city": "Portland",
+    "state": "OR",
+    "zipCode": "97202",
+    "phone": "(503) 234-3286",
+    "website": "https://www.spinlaundrylounge.com",
+    "hours": {
+      "monday": "8:00 AM - 12:00 AM",
+      "tuesday": "8:00 AM - 12:00 AM",
+      "wednesday": "8:00 AM - 12:00 AM",
+      "thursday": "8:00 AM - 12:00 AM",
+      "friday": "8:00 AM - 12:00 AM",
+      "saturday": "8:00 AM - 12:00 AM",
+      "sunday": "8:00 AM - 12:00 AM"
+    },
+    "rating": 4.9,
+    "reviewCount": 287,
+    "services": [
+      "Self-Service",
+      "Wash & Fold",
+      "Eco-Friendly",
+      "Bar & Cafe"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card",
+      "Mobile Payment"
+    ],
+    "amenities": [
+      "Bar",
+      "Cafe",
+      "Arcade Games",
+      "WiFi",
+      "Free Detergent"
+    ],
+    "pricing": {
+      "washPrice": "$7.75",
+      "dryPrice": "$3.25",
+      "washFoldPrice": "$1.45/lb"
+    },
+    "description": "This is the cleanest and nicest laundromat I've ever visited! Bar, cafe, arcade games and 17-min quick wash with eco-friendly detergent.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 45.5152,
+    "longitude": -122.6784,
+    "is24Hours": false,
+    "hasWiFi": true,
+    "hasParking": true,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": null
+  }
+]

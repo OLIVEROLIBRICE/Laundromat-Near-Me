@@ -1,0 +1,1565 @@
+[
+  {
+    "id": "98281a7e-2bfd-4cab-b072-4f7e708f7604",
+    "slug": "wash-city-memphis-tn-6",
+    "name": "Wash City",
+    "address": "1243 E Raines Rd",
+    "city": "Memphis",
+    "state": "TN",
+    "zipCode": "38116",
+    "phone": "(901) 203-5673",
+    "website": "http://www.washcitymemphis.com/",
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4.9,
+    "reviewCount": 364,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient coin-operated laundromat serving Memphis, TN with efficient washing and drying facilities. Popular with local community members.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 35.1495,
+    "longitude": -90.049,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "2bede7d5-cd58-42e0-8a48-9971e5e21565",
+    "slug": "ez-laundry-memphis-tn",
+    "name": "EZ Laundry",
+    "address": "1500 S Lauderdale St",
+    "city": "Memphis",
+    "state": "TN",
+    "zipCode": "38106",
+    "phone": null,
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 8:00 PM",
+      "tuesday": "7:00 AM – 8:00 PM",
+      "wednesday": "7:00 AM – 8:00 PM",
+      "thursday": "7:00 AM – 8:00 PM",
+      "friday": "7:00 AM – 8:00 PM",
+      "saturday": "7:00 AM – 8:00 PM",
+      "sunday": "7:00 AM – 8:00 PM"
+    },
+    "rating": 4.8,
+    "reviewCount": 22,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service laundromat offering reliable washing and drying solutions in Memphis, TN. Features modern equipment and convenient operating hours.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 35.1495,
+    "longitude": -90.049,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "26d77054-c9d0-4f5a-a6c6-7951910420e8",
+    "slug": "ellies-laundry-memphis-tn",
+    "name": "Ellie's Laundry",
+    "address": "664 Waring Rd",
+    "city": "Memphis",
+    "state": "TN",
+    "zipCode": "38122",
+    "phone": "(901) 468-4108",
+    "website": "http://www.ellieslaundry.com/",
+    "hours": {
+      "monday": "5:00 AM – 11:00 PM",
+      "tuesday": "5:00 AM – 11:00 PM",
+      "wednesday": "5:00 AM – 11:00 PM",
+      "thursday": "5:00 AM – 11:00 PM",
+      "friday": "5:00 AM – 11:00 PM",
+      "saturday": "5:00 AM – 11:00 PM",
+      "sunday": "5:00 AM – 11:00 PM"
+    },
+    "rating": 4.8,
+    "reviewCount": 503,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community laundromat providing comprehensive washing and drying solutions in Memphis, TN. Well-equipped with modern laundry machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 35.1495,
+    "longitude": -90.049,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "2e794df8-de7d-4fda-b31f-a7e0dd772072",
+    "slug": "wash-city-memphis-tn-3",
+    "name": "Wash City",
+    "address": "4302 Winchester Rd",
+    "city": "Memphis",
+    "state": "TN",
+    "zipCode": "38118",
+    "phone": "(901) 203-5673",
+    "website": "http://www.washcitymemphis.com/",
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4.8,
+    "reviewCount": 535,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community-focused laundromat providing reliable washing and drying services to residents of Memphis, TN. Known for well-maintained machines and friendly service.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 35.1495,
+    "longitude": -90.049,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "b25bb9d5-41dd-4ba5-b19e-2cead54a13a4",
+    "slug": "laundromax-memphis-tn",
+    "name": "Laundromax",
+    "address": "1219 Winchester Rd",
+    "city": "Memphis",
+    "state": "TN",
+    "zipCode": "38116",
+    "phone": "(901) 398-6300",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 11:00 PM",
+      "tuesday": "7:00 AM – 11:00 PM",
+      "wednesday": "7:00 AM – 11:00 PM",
+      "thursday": "7:00 AM – 11:00 PM",
+      "friday": "7:00 AM – 11:00 PM",
+      "saturday": "7:00 AM – 11:00 PM",
+      "sunday": "7:00 AM – 11:00 PM"
+    },
+    "rating": 4.2,
+    "reviewCount": 148,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local laundromat offering comprehensive washing and drying services in Memphis, TN. Features spacious facility with modern equipment and convenient hours.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 35.1495,
+    "longitude": -90.049,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "9fae1f9f-11c5-4f6b-93eb-c684677026a4",
+    "slug": "universal-laundry-memphis-tn",
+    "name": "Universal Laundry",
+    "address": "5877 Summer Ave",
+    "city": "Memphis",
+    "state": "TN",
+    "zipCode": "38134",
+    "phone": "(901) 554-9160",
+    "website": "https://universallaundryllc.com/",
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 5,
+    "reviewCount": 16,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established washing facility offering reliable laundry services in Memphis, TN. Features spacious layout and dependable equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 35.1495,
+    "longitude": -90.049,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "98910d76-eb14-4018-b2d6-c0dcdf137d9f",
+    "slug": "yorkshire-launderette-memphis-tn",
+    "name": "Yorkshire Launderette",
+    "address": "1574 S White Station Rd",
+    "city": "Memphis",
+    "state": "TN",
+    "zipCode": "38117",
+    "phone": "(901) 767-2485",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 8:00 PM",
+      "tuesday": "7:00 AM – 8:00 PM",
+      "wednesday": "7:00 AM – 8:00 PM",
+      "thursday": "7:00 AM – 8:00 PM",
+      "friday": "7:00 AM – 8:00 PM",
+      "saturday": "7:00 AM – 8:00 PM",
+      "sunday": "7:00 AM – 8:00 PM"
+    },
+    "rating": 4.1,
+    "reviewCount": 94,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community-oriented laundromat providing quality washing and drying services in Memphis, TN. Known for clean environment and friendly atmosphere.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 35.1495,
+    "longitude": -90.049,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "8ea7095e-730a-4e49-a524-58c0b9e95c1b",
+    "slug": "sma-social-suds-laundromat-memphis-tn",
+    "name": "SMA Social Suds Laundromat",
+    "address": "1044 S Bellevue Blvd",
+    "city": "Memphis",
+    "state": "TN",
+    "zipCode": "38106",
+    "phone": "(901) 612-9327",
+    "website": null,
+    "hours": {
+      "monday": "6:00 AM – 9:00 PM",
+      "tuesday": "6:00 AM – 9:00 PM",
+      "wednesday": "6:00 AM – 9:00 PM",
+      "thursday": "6:00 AM – 9:00 PM",
+      "friday": "6:00 AM – 9:00 PM",
+      "saturday": "6:00 AM – 9:00 PM",
+      "sunday": "6:00 AM – 9:00 PM"
+    },
+    "rating": 4.6,
+    "reviewCount": 271,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established washing facility offering comprehensive laundry services in Memphis, TN. Features modern equipment and convenient location for easy access.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 35.1495,
+    "longitude": -90.049,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "11246a90-2a29-4205-b2b8-65077ee95b66",
+    "slug": "best-wash-laundromats-memphis-tn",
+    "name": "Best Wash Laundromats",
+    "address": "3558 S Mendenhall Rd",
+    "city": "Memphis",
+    "state": "TN",
+    "zipCode": "38115",
+    "phone": "(866) 797-7738",
+    "website": "https://bestwashlaundromats.com/best-wash-mendenhall-laundromat/",
+    "hours": {
+      "monday": "6:00 AM – 10:30 PM",
+      "tuesday": "6:00 AM – 10:30 PM",
+      "wednesday": "6:00 AM – 10:30 PM",
+      "thursday": "6:00 AM – 10:30 PM",
+      "friday": "6:00 AM – 10:30 PM",
+      "saturday": "6:00 AM – 10:30 PM",
+      "sunday": "6:00 AM – 10:30 PM"
+    },
+    "rating": 5,
+    "reviewCount": 57,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established laundry facility providing comprehensive washing and drying services in Memphis, TN. Well-equipped with commercial-grade machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 35.1495,
+    "longitude": -90.049,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "142a130b-c540-418c-ba13-786de2156830",
+    "slug": "wash-city-memphis-tn-2",
+    "name": "Wash City",
+    "address": "2731 Ketchum Rd",
+    "city": "Memphis",
+    "state": "TN",
+    "zipCode": "38114",
+    "phone": "(901) 203-5673",
+    "website": "http://www.washcitymemphis.com/",
+    "hours": {
+      "monday": "7:00 AM – 8:00 PM",
+      "tuesday": "7:00 AM – 8:00 PM",
+      "wednesday": "7:00 AM – 8:00 PM",
+      "thursday": "7:00 AM – 8:00 PM",
+      "friday": "7:00 AM – 8:00 PM",
+      "saturday": "7:00 AM – 8:00 PM",
+      "sunday": "7:00 AM – 8:00 PM"
+    },
+    "rating": 4.8,
+    "reviewCount": 93,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Family-friendly laundromat serving Memphis, TN with convenient washing and drying services. Features comfortable seating and modern laundry equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 35.1495,
+    "longitude": -90.049,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "e9fa2ac0-b4de-476a-afee-86fccd1a1c4c",
+    "slug": "ellies-laundry-memphis-tn-3",
+    "name": "Ellie’s Laundry",
+    "address": "4430 Winchester Rd",
+    "city": "Memphis",
+    "state": "TN",
+    "zipCode": "38118",
+    "phone": "(901) 633-2061",
+    "website": "http://ellieslaundry.com/",
+    "hours": {
+      "monday": "6:00 AM – 8:00 PM",
+      "tuesday": "6:00 AM – 8:00 PM",
+      "wednesday": "6:00 AM – 8:00 PM",
+      "thursday": "6:00 AM – 8:00 PM",
+      "friday": "6:00 AM – 8:00 PM",
+      "saturday": "6:00 AM – 8:00 PM",
+      "sunday": "6:00 AM – 8:00 PM"
+    },
+    "rating": 4.9,
+    "reviewCount": 429,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local laundry facility offering comprehensive washing and drying services to Memphis, TN residents. Features well-maintained equipment and convenient location.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 35.1495,
+    "longitude": -90.049,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "bcae0156-29a3-4c91-9467-dd6c81d72853",
+    "slug": "best-wash-laundromats-memphis-tn-2",
+    "name": "Best Wash Laundromats",
+    "address": "6045 Shelby Oaks Dr",
+    "city": "Memphis",
+    "state": "TN",
+    "zipCode": "38134",
+    "phone": "(866) 797-7738",
+    "website": "https://bestwashlaundromats.com/memphis-shelby-oaks/",
+    "hours": {
+      "monday": "7:00 AM – 9:00 PM",
+      "tuesday": "7:00 AM – 9:00 PM",
+      "wednesday": "7:00 AM – 9:00 PM",
+      "thursday": "7:00 AM – 9:00 PM",
+      "friday": "7:00 AM – 9:00 PM",
+      "saturday": "7:00 AM – 9:00 PM",
+      "sunday": "7:00 AM – 9:00 PM"
+    },
+    "rating": 5,
+    "reviewCount": 27,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional laundromat featuring premium laundry experience serving the Memphis, TN area with modern washing and drying equipment. Known for efficient service and clean facilities.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 35.1495,
+    "longitude": -90.049,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "0134c044-e4e8-4a65-a645-f52ff565e949",
+    "slug": "901-washateria-memphis-tn",
+    "name": "901 WASHATERIA",
+    "address": "6279 Winchester Rd",
+    "city": "Memphis",
+    "state": "TN",
+    "zipCode": "38115",
+    "phone": "(901) 417-8734",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 11:00 PM",
+      "tuesday": "7:00 AM – 11:00 PM",
+      "wednesday": "7:00 AM – 11:00 PM",
+      "thursday": "7:00 AM – 11:00 PM",
+      "friday": "7:00 AM – 11:00 PM",
+      "saturday": "7:00 AM – 11:00 PM",
+      "sunday": "7:00 AM – 11:00 PM"
+    },
+    "rating": 4.9,
+    "reviewCount": 170,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood coin laundry offering convenient washing and drying solutions in Memphis, TN. Features spacious facility and reliable equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 35.1495,
+    "longitude": -90.049,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "7a789ac3-6263-427f-9969-9e3a6ec64b78",
+    "slug": "laundry-supercenter-memphis-tn",
+    "name": "Laundry Supercenter",
+    "address": "6376 Winchester Rd #1",
+    "city": "Memphis",
+    "state": "TN",
+    "zipCode": "38115",
+    "phone": "(901) 546-8443",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4.2,
+    "reviewCount": 346,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Comprehensive services coin laundry providing washing and drying solutions in Memphis, TN. Known for clean facilities and dependable laundry equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 35.1495,
+    "longitude": -90.049,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "a6016899-e079-49a5-8de8-a5fe1825abb9",
+    "slug": "ellies-laundry-memphis-tn-2",
+    "name": "Ellie’s Laundry",
+    "address": "215 S Pauline St # 104",
+    "city": "Memphis",
+    "state": "TN",
+    "zipCode": "38104",
+    "phone": "(901) 633-0820",
+    "website": "https://ellieslaundry.com/",
+    "hours": {
+      "monday": "7:00 AM – 9:00 PM",
+      "tuesday": "7:00 AM – 9:00 PM",
+      "wednesday": "7:00 AM – 9:00 PM",
+      "thursday": "7:00 AM – 9:00 PM",
+      "friday": "7:00 AM – 9:00 PM",
+      "saturday": "7:00 AM – 9:00 PM",
+      "sunday": "7:00 AM – 9:00 PM"
+    },
+    "rating": 4.8,
+    "reviewCount": 936,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service laundromat offering convenient washing and drying facilities in Memphis, TN. Features modern equipment and a clean environment for all your laundry needs.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 35.1495,
+    "longitude": -90.049,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "140cd5ba-8831-48fb-bbc2-1f8c33241c92",
+    "slug": "laundry-express-memphis-tn",
+    "name": "Laundry Express",
+    "address": "1643 E Shelby Dr",
+    "city": "Memphis",
+    "state": "TN",
+    "zipCode": "38116",
+    "phone": "(901) 590-1955",
+    "website": null,
+    "hours": {
+      "monday": "6:00 AM – 11:00 PM",
+      "tuesday": "6:00 AM – 11:00 PM",
+      "wednesday": "6:00 AM – 11:00 PM",
+      "thursday": "6:00 AM – 11:00 PM",
+      "friday": "6:00 AM – 11:00 PM",
+      "saturday": "6:00 AM – 11:00 PM",
+      "sunday": "6:00 AM – 11:00 PM"
+    },
+    "rating": 4.4,
+    "reviewCount": 148,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient coin-operated laundromat featuring speedy laundry solutions serving Memphis, TN with efficient washing and drying facilities. Popular with local community members.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 35.1495,
+    "longitude": -90.049,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "405c6cde-486d-4265-b95c-36086a94a238",
+    "slug": "wash-city-memphis-tn-4",
+    "name": "Wash City",
+    "address": "5174 Millbranch Rd",
+    "city": "Memphis",
+    "state": "TN",
+    "zipCode": "38116",
+    "phone": "(901) 203-5673",
+    "website": "https://www.washcitymemphis.com/",
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 5,
+    "reviewCount": 218,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local washing facility providing reliable laundry services in Memphis, TN. Popular choice for both quick wash and full-service laundry needs.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 35.1495,
+    "longitude": -90.049,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "4acd1392-5e36-4492-bd87-26f7ea760581",
+    "slug": "winchester-laundry-card-coin-memphis-tn",
+    "name": "Winchester Laundry Card & Coin",
+    "address": "4641 Winchester Rd # 109",
+    "city": "Memphis",
+    "state": "TN",
+    "zipCode": "38118",
+    "phone": "(901) 779-2516",
+    "website": null,
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.1,
+    "reviewCount": 91,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service coin laundry providing washing and drying solutions in Memphis, TN. Known for clean facilities and dependable laundry equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 35.1495,
+    "longitude": -90.049,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "c778d955-4775-4566-97b2-0e23caad65a4",
+    "slug": "best-wash-laundromats-memphis-tn-3",
+    "name": "Best Wash Laundromats",
+    "address": "6819 Winchester Rd",
+    "city": "Memphis",
+    "state": "TN",
+    "zipCode": "38115",
+    "phone": "(866) 797-7738",
+    "website": "https://bestwashlaundromats.com/best-wash-winchester-laundromat/",
+    "hours": {
+      "monday": "5:30 AM – 12:00 AM",
+      "tuesday": "5:30 AM – 12:00 AM",
+      "wednesday": "5:30 AM – 12:00 AM",
+      "thursday": "5:30 AM – 12:00 AM",
+      "friday": "5:30 AM – 12:00 AM",
+      "saturday": "5:30 AM – 12:00 AM",
+      "sunday": "5:30 AM – 12:00 AM"
+    },
+    "rating": 4.8,
+    "reviewCount": 33,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional laundromat featuring quality-focused service offering reliable washing and drying solutions in Memphis, TN. Known for clean facilities and well-maintained equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 35.1495,
+    "longitude": -90.049,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "e356d7a3-bc44-4842-b77c-9b7aa793a0b4",
+    "slug": "kirby-whitten-laundry-memphis-tn",
+    "name": "Kirby Whitten Laundry",
+    "address": "2580 Kirby Whitten Rd",
+    "city": "Memphis",
+    "state": "TN",
+    "zipCode": "38133",
+    "phone": "(901) 382-5103",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 11:00 PM",
+      "tuesday": "7:00 AM – 11:00 PM",
+      "wednesday": "7:00 AM – 11:00 PM",
+      "thursday": "7:00 AM – 11:00 PM",
+      "friday": "7:00 AM – 11:00 PM",
+      "saturday": "7:00 AM – 11:00 PM",
+      "sunday": "7:00 AM – 11:00 PM"
+    },
+    "rating": 4.2,
+    "reviewCount": 252,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient laundromat serving the Memphis, TN area with efficient washing and drying services. Popular with residents for reliable equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 35.1495,
+    "longitude": -90.049,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "c501118f-75de-4787-9d4a-df45ddf31f07",
+    "slug": "river-city-laundromat-memphis-tn",
+    "name": "River City Laundromat",
+    "address": "6685 Quince Rd Ste 101",
+    "city": "Memphis",
+    "state": "TN",
+    "zipCode": "38119",
+    "phone": "(731) 472-1291",
+    "website": "http://rivercitylaundromat.com/",
+    "hours": {
+      "monday": "6:00 AM – 10:00 PM",
+      "tuesday": "6:00 AM – 10:00 PM",
+      "wednesday": "6:00 AM – 10:00 PM",
+      "thursday": "6:00 AM – 10:00 PM",
+      "friday": "6:00 AM – 10:00 PM",
+      "saturday": "6:00 AM – 10:00 PM",
+      "sunday": "6:00 AM – 10:00 PM"
+    },
+    "rating": 5,
+    "reviewCount": 74,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional laundromat offering reliable washing and drying solutions in Memphis, TN. Known for clean facilities and well-maintained equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 35.1495,
+    "longitude": -90.049,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "81748fd2-0e85-4be0-88a0-a32691924265",
+    "slug": "comfort-coin-operated-laundry-memphis-tn",
+    "name": "Comfort Coin-Operated Laundry",
+    "address": "2380 Airways Blvd",
+    "city": "Memphis",
+    "state": "TN",
+    "zipCode": "38114",
+    "phone": "(901) 744-8220",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 9:30 PM",
+      "tuesday": "7:00 AM – 9:30 PM",
+      "wednesday": "7:00 AM – 9:30 PM",
+      "thursday": "7:00 AM – 9:30 PM",
+      "friday": "7:00 AM – 9:30 PM",
+      "saturday": "6:30 AM – 9:30 PM",
+      "sunday": "6:30 AM – 9:30 PM"
+    },
+    "rating": 4.3,
+    "reviewCount": 98,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service washing facility offering quality laundry solutions in Memphis, TN. Features comfortable environment and well-maintained machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 35.1495,
+    "longitude": -90.049,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "f58ad8d9-35ef-4d58-bca7-3342ec395551",
+    "slug": "laundry-depot-memphis-tn",
+    "name": "Laundry Depot",
+    "address": "6232 Knight Arnold Rd",
+    "city": "Memphis",
+    "state": "TN",
+    "zipCode": "38115",
+    "phone": "(901) 590-2260",
+    "website": "https://www.facebook.com/MemphisLaundryDepot/",
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4.5,
+    "reviewCount": 170,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community laundromat offering convenient washing and drying services to Memphis, TN residents. Features well-maintained machines and comfortable environment.",
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 35.1495,
+    "longitude": -90.049,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "bf430425-fb06-4a0b-bce0-524d171f113d",
+    "slug": "midtown-coin-laundry-memphis-tn",
+    "name": "Midtown Coin Laundry",
+    "address": "101 N Alicia Dr",
+    "city": "Memphis",
+    "state": "TN",
+    "zipCode": "38112",
+    "phone": "(901) 327-0482",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 9:00 PM",
+      "tuesday": "7:00 AM – 9:00 PM",
+      "wednesday": "7:00 AM – 9:00 PM",
+      "thursday": "7:00 AM – 9:00 PM",
+      "friday": "7:00 AM – 9:00 PM",
+      "saturday": "7:00 AM – 9:00 PM",
+      "sunday": "7:00 AM – 9:00 PM"
+    },
+    "rating": 4.1,
+    "reviewCount": 184,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat providing quality washing and drying services to the Memphis, TN community. Well-equipped with commercial-grade machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 35.1495,
+    "longitude": -90.049,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "00b4f525-2c25-4303-a83b-c70595d6bcb3",
+    "slug": "wash-city-memphis-tn",
+    "name": "Wash City",
+    "address": "3631 N Watkins St",
+    "city": "Memphis",
+    "state": "TN",
+    "zipCode": "38127",
+    "phone": "(901) 203-5673",
+    "website": "http://www.washcitymemphis.com/",
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4.6,
+    "reviewCount": 336,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established laundromat serving the Memphis, TN area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 35.1495,
+    "longitude": -90.049,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "542b063f-b0e2-4638-be80-b64e1a82639c",
+    "slug": "wash-city-memphis-tn-5",
+    "name": "Wash City",
+    "address": "3523 Walker Ave",
+    "city": "Memphis",
+    "state": "TN",
+    "zipCode": "38111",
+    "phone": "(901) 203-5673",
+    "website": "https://washcitymemphis.com/",
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4.4,
+    "reviewCount": 238,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional coin laundry providing efficient washing and drying solutions in Memphis, TN. Popular choice for reliable laundry services.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 35.1495,
+    "longitude": -90.049,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "c4f1c181-354e-4c90-b6e0-4a9728555216",
+    "slug": "do-duds-coin-laundries-memphis-tn",
+    "name": "Do-Duds Coin Laundries",
+    "address": "1625 Madison Ave",
+    "city": "Memphis",
+    "state": "TN",
+    "zipCode": "38104",
+    "phone": "(901) 725-7552",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 7:00 PM",
+      "tuesday": "7:00 AM – 7:00 PM",
+      "wednesday": "7:00 AM – 7:00 PM",
+      "thursday": "7:00 AM – 7:00 PM",
+      "friday": "7:00 AM – 7:00 PM",
+      "saturday": "7:00 AM – 7:00 PM",
+      "sunday": "Closed"
+    },
+    "rating": 3.7,
+    "reviewCount": 87,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional laundromat serving the Memphis, TN area with modern washing and drying equipment. Known for efficient service and clean facilities.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 35.1495,
+    "longitude": -90.049,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "09cd599a-5468-45e0-8c6d-7d3223e27ea3",
+    "slug": "sycamore-view-laundry-llc-memphis-tn",
+    "name": "Sycamore View Laundry LLC",
+    "address": "2135 Sycamore View Rd",
+    "city": "Memphis",
+    "state": "TN",
+    "zipCode": "38134",
+    "phone": "(901) 216-3505",
+    "website": null,
+    "hours": {
+      "monday": "6:50 AM – 9:30 PM",
+      "tuesday": "6:50 AM – 9:30 PM",
+      "wednesday": "6:50 AM – 9:30 PM",
+      "thursday": "6:50 AM – 9:30 PM",
+      "friday": "6:50 AM – 9:30 PM",
+      "saturday": "6:50 AM – 9:30 PM",
+      "sunday": "6:50 AM – 9:30 PM"
+    },
+    "rating": 4.2,
+    "reviewCount": 138,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat serving Memphis, TN with convenient washing and drying facilities. Known for modern equipment and clean environment.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 35.1495,
+    "longitude": -90.049,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  }
+]

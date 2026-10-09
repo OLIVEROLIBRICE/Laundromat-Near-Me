@@ -55,6 +55,7 @@ model Laundromat {
   isSelfService  Boolean  @default(true) @map("is_self_service")
   hasWifi        Boolean  @default(false) @map("has_wifi")
   hasParking     Boolean  @default(false) @map("has_parking")
+  hasPickupDelivery Boolean @default(false) @map("has_pickup_delivery")
   isClaimed      Boolean  @default(false) @map("is_claimed")
   createdAt      DateTime @default(now()) @map("created_at")
   updatedAt      DateTime @updatedAt @map("updated_at")

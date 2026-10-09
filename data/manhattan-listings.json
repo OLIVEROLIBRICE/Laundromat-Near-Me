@@ -1,0 +1,3403 @@
+[
+  {
+    "id": "4aeee585-f28a-44dc-8496-3a1c5ccb362b",
+    "slug": "washland-new-york-ny",
+    "name": "Washland",
+    "address": "794 9th Ave #1",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10019",
+    "phone": "(212) 664-1829",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 9:30 PM",
+      "tuesday": "7:00 AM – 9:30 PM",
+      "wednesday": "7:00 AM – 9:30 PM",
+      "thursday": "7:00 AM – 9:30 PM",
+      "friday": "7:00 AM – 9:30 PM",
+      "saturday": "7:00 AM – 9:30 PM",
+      "sunday": "7:00 AM – 9:30 PM"
+    },
+    "rating": 3.6,
+    "reviewCount": 177,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient coin-operated laundromat serving in the heart of New York with efficient washing and drying facilities. Popular with local community members. This 3.60-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "22c57223-0e9f-4115-8bac-524608c097b5",
+    "slug": "bubble-bliss-laundromat-best-laundry-service-nyc-new-york-ny",
+    "name": "Bubble Bliss Laundromat - Best Laundry Service NYC",
+    "address": "224 W 104th St",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10025",
+    "phone": "(212) 663-8320",
+    "website": "https://bubbleblisslaundromat.nyc/",
+    "hours": {
+      "monday": "7:00 AM – 11:00 PM",
+      "tuesday": "7:00 AM – 11:00 PM",
+      "wednesday": "7:00 AM – 11:00 PM",
+      "thursday": "7:00 AM – 11:00 PM",
+      "friday": "7:00 AM – 11:00 PM",
+      "saturday": "7:00 AM – 11:00 PM",
+      "sunday": "7:00 AM – 11:00 PM"
+    },
+    "rating": 4.7,
+    "reviewCount": 91,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat featuring top-rated facility serving in the heart of New York with convenient washing and drying facilities. Known for modern equipment and clean environment.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "f72cf469-b9b3-4a62-ad1b-405badf6fbdc",
+    "slug": "suds-buds-new-york-ny",
+    "name": "Suds Buds",
+    "address": "540 E 14th St",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10009",
+    "phone": "(646) 654-6774",
+    "website": "http://www.sudsbuds.com/",
+    "hours": {
+      "monday": "7:00 AM – 8:00 PM",
+      "tuesday": "7:00 AM – 8:00 PM",
+      "wednesday": "7:00 AM – 8:00 PM",
+      "thursday": "7:00 AM – 8:00 PM",
+      "friday": "7:00 AM – 8:00 PM",
+      "saturday": "7:00 AM – 8:00 PM",
+      "sunday": "7:00 AM – 8:00 PM"
+    },
+    "rating": 5,
+    "reviewCount": 121,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service coin laundry providing washing and drying solutions in in the heart of New York. Known for clean facilities and dependable laundry equipment. This 5.00-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "0ee87b79-454c-4100-9e39-580eb88b8ad7",
+    "slug": "grandma-laundromat-new-york-ny",
+    "name": "Grandma Laundromat",
+    "address": "35 Allen St",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10002",
+    "phone": "(212) 966-0285",
+    "website": null,
+    "hours": {
+      "monday": "8:00 AM – 7:00 PM",
+      "tuesday": "8:00 AM – 7:00 PM",
+      "wednesday": "8:00 AM – 7:00 PM",
+      "thursday": "8:00 AM – 7:00 PM",
+      "friday": "8:00 AM – 7:00 PM",
+      "saturday": "8:00 AM – 7:00 PM",
+      "sunday": "7:00 AM – 6:00 PM"
+    },
+    "rating": 4.4,
+    "reviewCount": 13,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established laundromat serving the in the heart of New York area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry. This 4.40-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "8b401de7-dd6b-41ee-8403-12cc297a9611",
+    "slug": "ten-street-laundromat-new-york-ny",
+    "name": "Ten Street Laundromat",
+    "address": "286 E 10th St #1",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10009",
+    "phone": "(212) 228-3525",
+    "website": null,
+    "hours": {
+      "monday": "8:00 AM – 8:00 PM",
+      "tuesday": "8:00 AM – 8:00 PM",
+      "wednesday": "8:00 AM – 8:00 PM",
+      "thursday": "8:00 AM – 8:00 PM",
+      "friday": "8:00 AM – 8:00 PM",
+      "saturday": "8:00 AM – 8:00 PM",
+      "sunday": "9:00 AM – 8:00 PM"
+    },
+    "rating": 3.9,
+    "reviewCount": 27,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service washing facility offering quality laundry solutions in in the heart of New York. Features comfortable environment and well-maintained machines. This 3.90-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "b1a7dee2-3b69-4ea8-994d-52881ce2bf68",
+    "slug": "217-laundromat-new-york-ny",
+    "name": "217 Laundromat",
+    "address": "217 E 26th St #1",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10010",
+    "phone": "(212) 685-4280",
+    "website": null,
+    "hours": {
+      "monday": "8:00 AM – 7:00 PM",
+      "tuesday": "8:00 AM – 7:00 PM",
+      "wednesday": "8:00 AM – 7:00 PM",
+      "thursday": "8:00 AM – 7:00 PM",
+      "friday": "8:00 AM – 7:00 PM",
+      "saturday": "9:00 AM – 7:00 PM",
+      "sunday": "9:00 AM – 7:00 PM"
+    },
+    "rating": 4.8,
+    "reviewCount": 86,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service washing facility offering quality laundry solutions in in the heart of New York. Features comfortable environment and well-maintained machines. This 4.80-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "c8ca3a9c-aa72-4347-a535-5a607f0faae6",
+    "slug": "bkm-laundromat-new-york-ny",
+    "name": "BKM Laundromat",
+    "address": "525 9th Ave",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10018",
+    "phone": "(212) 564-1978",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 8:00 PM",
+      "tuesday": "7:00 AM – 8:00 PM",
+      "wednesday": "7:00 AM – 8:00 PM",
+      "thursday": "7:00 AM – 8:00 PM",
+      "friday": "7:00 AM – 8:00 PM",
+      "saturday": "7:00 AM – 8:00 PM",
+      "sunday": "7:00 AM – 8:00 PM"
+    },
+    "rating": 4.2,
+    "reviewCount": 308,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service laundromat offering reliable washing and drying solutions in in the heart of New York. Features modern equipment and convenient operating hours.",
+    "imageUrl": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?ixlib=rb-4.0.3",
+    "customImageUrl": null,
+    "googlePlaceId": "ChIJAx4OrVJYwokRJJRSoK1FOww",
+    "latitude": 40.7567593,
+    "longitude": -73.9940685,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": null
+  },
+  {
+    "id": "4b4713a4-8ac3-4010-a952-fd44b97ce7b3",
+    "slug": "65th-st-laundromat-new-york-ny",
+    "name": "65th St Laundromat",
+    "address": "335 E 65th St",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10065",
+    "phone": "(212) 288-8843",
+    "website": "https://65thstlaundromat.com/",
+    "hours": {
+      "monday": "7:00 AM – 7:00 PM",
+      "tuesday": "7:00 AM – 7:00 PM",
+      "wednesday": "7:00 AM – 7:00 PM",
+      "thursday": "7:00 AM – 7:00 PM",
+      "friday": "7:00 AM – 7:00 PM",
+      "saturday": "8:00 AM – 5:00 PM",
+      "sunday": "Closed"
+    },
+    "rating": 5,
+    "reviewCount": 20,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat providing quality washing and drying services to the in the heart of New York community. Well-equipped with commercial-grade machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?ixlib=rb-4.0.3",
+    "customImageUrl": null,
+    "googlePlaceId": "ChIJedNSLpFZwokRirfFpudnuV4",
+    "latitude": 40.7639251,
+    "longitude": -73.9600431,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": null
+  },
+  {
+    "id": "beb2533c-6c30-480d-a3ca-2387ecb154e8",
+    "slug": "village-cleaners-laundry-new-york-ny",
+    "name": "Village Cleaners Laundry",
+    "address": "66 Carmine St",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10014",
+    "phone": "(212) 255-5043",
+    "website": null,
+    "hours": {
+      "monday": "7:30 AM – 7:00 PM",
+      "tuesday": "7:30 AM – 7:00 PM",
+      "wednesday": "7:30 AM – 7:00 PM",
+      "thursday": "7:30 AM – 7:00 PM",
+      "friday": "7:30 AM – 7:00 PM",
+      "saturday": "7:30 AM – 7:00 PM",
+      "sunday": "7:30 AM – 6:00 PM"
+    },
+    "rating": 3.4,
+    "reviewCount": 74,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat featuring spotless environment providing quality washing and drying services to the in the heart of New York community. Well-equipped with commercial-grade machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "cd50f003-08f6-457f-ae9f-0c90d83a3613",
+    "slug": "jie-li-laundromat-inc-new-york-ny",
+    "name": "Jie Li Laundromat Inc",
+    "address": "126 Mott St",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10013",
+    "phone": "(646) 530-2784",
+    "website": "https://www.jielilaundromat.com/",
+    "hours": {
+      "monday": "8:30 AM – 6:30 PM",
+      "tuesday": "8:30 AM – 6:30 PM",
+      "wednesday": "8:30 AM – 6:30 PM",
+      "thursday": "8:30 AM – 6:30 PM",
+      "friday": "8:30 AM – 6:30 PM",
+      "saturday": "9:00 AM – 6:00 PM",
+      "sunday": "9:00 AM – 6:00 PM"
+    },
+    "rating": 4.5,
+    "reviewCount": 64,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community laundromat offering convenient washing and drying services to in the heart of New York residents. Features well-maintained machines and comfortable environment. This 4.50-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "17abf84e-5581-4cc0-ac29-701597962897",
+    "slug": "la-la-laundry-plants-new-york-ny",
+    "name": "La La Laundry & plants",
+    "address": "180 Avenue B",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10009",
+    "phone": "(212) 529-8886",
+    "website": "http://www.lalalaundryny.com/",
+    "hours": {
+      "monday": "8:00 AM – 9:00 PM",
+      "tuesday": "8:00 AM – 9:00 PM",
+      "wednesday": "8:00 AM – 9:00 PM",
+      "thursday": "8:00 AM – 9:00 PM",
+      "friday": "8:00 AM – 9:00 PM",
+      "saturday": "8:00 AM – 8:00 PM",
+      "sunday": "8:00 AM – 8:00 PM"
+    },
+    "rating": 4.5,
+    "reviewCount": 165,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Family-friendly laundromat serving in the heart of New York with convenient washing and drying services. Features comfortable seating and modern laundry equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "8b7ed3a4-38ce-44ce-810a-3fdefe44181e",
+    "slug": "gentle-wash-laundromat-manhattan-new-york-ny",
+    "name": "Gentle Wash Laundromat - Manhattan",
+    "address": "97 Avenue A",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10009",
+    "phone": "(212) 673-6886",
+    "website": "http://www.gentlewashlaundry.com/",
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4.7,
+    "reviewCount": 237,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community-oriented laundromat providing quality washing and drying services in in the heart of New York. Known for clean environment and friendly atmosphere.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "e30050bf-22a7-4874-a971-53bc98634d81",
+    "slug": "cornelia-street-laundromat-new-york-ny",
+    "name": "Cornelia Street Laundromat",
+    "address": "30 Cornelia St # 2",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10014",
+    "phone": "(212) 727-3218",
+    "website": null,
+    "hours": {
+      "monday": "8:00 AM – 6:00 PM",
+      "tuesday": "8:00 AM – 6:00 PM",
+      "wednesday": "8:00 AM – 6:00 PM",
+      "thursday": "8:00 AM – 6:00 PM",
+      "friday": "8:00 AM – 6:00 PM",
+      "saturday": "9:00 AM – 3:00 PM",
+      "sunday": "Closed"
+    },
+    "rating": 4.3,
+    "reviewCount": 47,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local laundry facility offering comprehensive washing and drying services to in the heart of New York residents. Features well-maintained equipment and convenient location. This 4.30-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "87ff77af-8dc3-4d49-9999-b7cfcb755a08",
+    "slug": "the-eco-laundry-company-new-york-ny",
+    "name": "The Eco Laundry Company",
+    "address": "249 W 18th St",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10011",
+    "phone": "(646) 649-3806",
+    "website": "http://www.ecolaundrycompany.com/",
+    "hours": {
+      "monday": "8:00 AM – 6:00 PM",
+      "tuesday": "8:00 AM – 6:00 PM",
+      "wednesday": "8:00 AM – 6:00 PM",
+      "thursday": "8:00 AM – 6:00 PM",
+      "friday": "8:00 AM – 6:00 PM",
+      "saturday": "10:00 AM – 3:00 PM",
+      "sunday": "Closed"
+    },
+    "rating": 4.6,
+    "reviewCount": 108,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local laundry facility offering comprehensive washing and drying services to in the heart of New York residents. Features well-maintained equipment and convenient location. This 4.60-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "f79cb377-2e95-4f8d-8702-b7ab64a10d7f",
+    "slug": "supreme-laundromat-new-york-ny",
+    "name": "Supreme Laundromat",
+    "address": "96 Avenue B #2",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10009",
+    "phone": "(212) 388-0211",
+    "website": null,
+    "hours": {
+      "monday": "8:00 AM – 8:00 PM",
+      "tuesday": "8:00 AM – 8:00 PM",
+      "wednesday": "8:00 AM – 8:00 PM",
+      "thursday": "8:00 AM – 8:00 PM",
+      "friday": "8:00 AM – 8:00 PM",
+      "saturday": "8:00 AM – 8:00 PM",
+      "sunday": "9:00 AM – 8:00 PM"
+    },
+    "rating": 4.4,
+    "reviewCount": 32,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient laundromat providing efficient washing and drying services in in the heart of New York. Popular with local residents for its reliable machines and clean environment. This 4.40-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "0f9ce594-cea1-47d1-a5b7-d67a6837eb4d",
+    "slug": "laundromat-new-york-ny",
+    "name": "Laundromat",
+    "address": "750 10th Ave",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10019",
+    "phone": "(646) 351-6518",
+    "website": null,
+    "hours": {
+      "monday": "8:00 AM – 7:30 PM",
+      "tuesday": "8:00 AM – 7:30 PM",
+      "wednesday": "8:00 AM – 7:30 PM",
+      "thursday": "8:00 AM – 7:30 PM",
+      "friday": "8:00 AM – 7:30 PM",
+      "saturday": "8:00 AM – 7:30 PM",
+      "sunday": "8:00 AM – 5:30 PM"
+    },
+    "rating": 5,
+    "reviewCount": 3,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional laundromat serving the in the heart of New York area with modern washing and drying equipment. Known for efficient service and clean facilities. This 5.00-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "72b433ba-06bd-4f79-b5fe-403efae0590e",
+    "slug": "mr-green-laundry-new-york-ny",
+    "name": "Mr. Green Laundry",
+    "address": "670 9th Ave",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10036",
+    "phone": "(212) 664-9056",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 9:00 PM",
+      "tuesday": "7:00 AM – 9:00 PM",
+      "wednesday": "7:00 AM – 9:00 PM",
+      "thursday": "7:00 AM – 9:00 PM",
+      "friday": "7:00 AM – 9:00 PM",
+      "saturday": "7:00 AM – 9:00 PM",
+      "sunday": "7:00 AM – 9:00 PM"
+    },
+    "rating": 4.3,
+    "reviewCount": 294,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional laundromat serving the in the heart of New York area with modern washing and drying equipment. Known for efficient service and clean facilities.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "44f52a41-775c-4d9c-aa0c-0ea474e1c8d7",
+    "slug": "delancey-laundromat-new-york-ny",
+    "name": "Delancey Laundromat",
+    "address": "9-11 Delancey St",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10002",
+    "phone": "(917) 912-9899",
+    "website": null,
+    "hours": {
+      "monday": "7:30 AM – 8:00 PM",
+      "tuesday": "7:30 AM – 8:00 PM",
+      "wednesday": "7:30 AM – 8:00 PM",
+      "thursday": "7:30 AM – 8:00 PM",
+      "friday": "7:30 AM – 8:00 PM",
+      "saturday": "7:30 AM – 8:00 PM",
+      "sunday": "7:30 AM – 8:00 PM"
+    },
+    "rating": 4.7,
+    "reviewCount": 77,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local laundromat offering comprehensive washing and drying services in in the heart of New York. Features spacious facility with modern equipment and convenient hours.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "df929a4b-ae78-4a64-a1b9-4c45b5f993bf",
+    "slug": "lins-laundromat-new-york-ny",
+    "name": "Lin's Laundromat",
+    "address": "194 1st Ave #1",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10009",
+    "phone": "(212) 253-0763",
+    "website": null,
+    "hours": {
+      "monday": "9:00 AM – 7:00 PM",
+      "tuesday": "9:00 AM – 7:00 PM",
+      "wednesday": "9:00 AM – 7:00 PM",
+      "thursday": "9:00 AM – 7:00 PM",
+      "friday": "9:00 AM – 7:00 PM",
+      "saturday": "9:00 AM – 6:00 PM",
+      "sunday": "Closed"
+    },
+    "rating": 4.7,
+    "reviewCount": 45,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local laundromat offering comprehensive washing and drying services in in the heart of New York. Features spacious facility with modern equipment and convenient hours. This 4.70-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "46c325d1-744e-4b40-a1b3-6939f049f6de",
+    "slug": "laundry-to-go-new-york-ny",
+    "name": "Laundry to Go",
+    "address": "196 Mott St",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10012",
+    "phone": "(646) 455-0606",
+    "website": null,
+    "hours": {
+      "monday": "8:00 AM – 10:00 PM",
+      "tuesday": "8:00 AM – 10:00 PM",
+      "wednesday": "8:00 AM – 10:00 PM",
+      "thursday": "8:00 AM – 10:00 PM",
+      "friday": "8:00 AM – 10:00 PM",
+      "saturday": "8:00 AM – 10:00 PM",
+      "sunday": "8:00 AM – 10:00 PM"
+    },
+    "rating": 3.3,
+    "reviewCount": 36,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established laundromat serving the in the heart of New York area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry. This 3.30-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "6cf0089d-96a5-48cb-a655-2156791d057d",
+    "slug": "mrs-bubbles-laundry-new-york-ny",
+    "name": "Mrs. Bubble's Laundry",
+    "address": "202 Rivington St",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10002",
+    "phone": "(212) 475-0110",
+    "website": "https://cleancloudapp.com/s3/22801#/",
+    "hours": {
+      "monday": "7:00 AM – 9:00 PM",
+      "tuesday": "7:00 AM – 9:00 PM",
+      "wednesday": "8:00 AM – 9:00 PM",
+      "thursday": "7:00 AM – 9:00 PM",
+      "friday": "8:00 AM – 9:00 PM",
+      "saturday": "7:00 AM – 9:00 PM",
+      "sunday": "7:30 AM – 9:00 PM"
+    },
+    "rating": 3.7,
+    "reviewCount": 91,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service washing facility offering quality laundry solutions in in the heart of New York. Features comfortable environment and well-maintained machines. This 3.70-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "1fa327ca-b5b8-493e-9e7b-8c7dc4d047ef",
+    "slug": "plan452-laundromat-dry-cleaner-laundry-club-new-york-ny",
+    "name": "Plan452 Laundromat & Dry Cleaner “ Laundry Club “",
+    "address": "452 9th Ave Suite 4",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10018",
+    "phone": "(212) 594-8897",
+    "website": "https://www.laundryclubnyc.com/",
+    "hours": {
+      "monday": "7:00 AM – 9:30 PM",
+      "tuesday": "7:00 AM – 9:30 PM",
+      "wednesday": "7:00 AM – 9:30 PM",
+      "thursday": "7:00 AM – 9:30 PM",
+      "friday": "7:00 AM – 9:30 PM",
+      "saturday": "7:00 AM – 9:30 PM",
+      "sunday": "7:00 AM – 9:30 PM"
+    },
+    "rating": 4.1,
+    "reviewCount": 182,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional laundromat featuring spotless environment offering reliable washing and drying solutions in in the heart of New York. Known for clean facilities and well-maintained equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "2df41106-4a88-4f45-91bb-bd7a5c0ef17b",
+    "slug": "g-m-laundromat-new-york-ny",
+    "name": "G & M Laundromat",
+    "address": "336 E 13th St",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10003",
+    "phone": "(212) 505-7288",
+    "website": null,
+    "hours": {
+      "monday": "8:00 AM – 7:00 PM",
+      "tuesday": "8:00 AM – 7:00 PM",
+      "wednesday": "8:00 AM – 7:00 PM",
+      "thursday": "8:00 AM – 7:00 PM",
+      "friday": "8:00 AM – 7:00 PM",
+      "saturday": "9:00 AM – 6:00 PM",
+      "sunday": "Closed"
+    },
+    "rating": 4.5,
+    "reviewCount": 41,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local washing facility providing reliable laundry services in in the heart of New York. Popular choice for both quick wash and full-service laundry needs. This 4.50-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "7bbdd774-ba50-42b0-a275-18c71d816e83",
+    "slug": "todd-layne-cleaners-and-laundromat-new-york-ny",
+    "name": "Todd Layne Cleaners and Laundromat",
+    "address": "242 E 77th St",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10075",
+    "phone": "(646) 661-4777",
+    "website": "http://www.toddlaynecleaners.com/",
+    "hours": {
+      "monday": "9:00 AM – 8:00 PM",
+      "tuesday": "9:00 AM – 8:00 PM",
+      "wednesday": "9:00 AM – 7:00 PM",
+      "thursday": "9:00 AM – 7:00 PM",
+      "friday": "9:00 AM – 7:00 PM",
+      "saturday": "10:00 AM – 6:00 PM",
+      "sunday": "11:00 AM – 5:00 PM"
+    },
+    "rating": 4.4,
+    "reviewCount": 128,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Hygiene-focused facility laundromat offering reliable washing and drying solutions in in the heart of New York. Features modern equipment and convenient operating hours.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "ed0f084a-706b-4d48-983d-bdc9ad5268b5",
+    "slug": "new-york-laundromat-new-york-ny",
+    "name": "New York Laundromat",
+    "address": "105 W 16th St A",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10011",
+    "phone": "(212) 255-4775",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 7:00 PM",
+      "tuesday": "7:00 AM – 7:00 PM",
+      "wednesday": "7:00 AM – 7:00 PM",
+      "thursday": "7:00 AM – 7:00 PM",
+      "friday": "7:00 AM – 7:00 PM",
+      "saturday": "8:30 AM – 7:00 PM",
+      "sunday": "9:30 AM – 7:00 PM"
+    },
+    "rating": 3.8,
+    "reviewCount": 39,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Recently established washing facility offering quality laundry solutions in in the heart of New York. Features comfortable environment and well-maintained machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "d6944f87-2fd6-4f66-b9be-873f2e39c15c",
+    "slug": "upper-east-side-laundromat-new-york-ny",
+    "name": "Upper East Side Laundromat",
+    "address": "159 E 92nd St",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10128",
+    "phone": "(212) 860-3300",
+    "website": null,
+    "hours": {
+      "monday": "8:00 AM – 8:00 PM",
+      "tuesday": "8:00 AM – 8:00 PM",
+      "wednesday": "8:00 AM – 8:00 PM",
+      "thursday": "8:00 AM – 8:00 PM",
+      "friday": "8:00 AM – 8:00 PM",
+      "saturday": "8:00 AM – 8:00 PM",
+      "sunday": "8:00 AM – 8:00 PM"
+    },
+    "rating": 4.9,
+    "reviewCount": 75,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established laundromat serving the in the heart of New York area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "a86b937e-b913-4b3a-87fc-983fdf7c9782",
+    "slug": "jane-laundromat-new-york-ny",
+    "name": "Jane Laundromat",
+    "address": "50 8th Ave",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10014",
+    "phone": "(212) 675-4435",
+    "website": "https://www.janelaundrynow.com/",
+    "hours": {
+      "monday": "7:30 AM – 7:00 PM",
+      "tuesday": "7:30 AM – 7:00 PM",
+      "wednesday": "7:30 AM – 7:00 PM",
+      "thursday": "7:30 AM – 7:00 PM",
+      "friday": "7:30 AM – 7:00 PM",
+      "saturday": "7:30 AM – 7:00 PM",
+      "sunday": "9:00 AM – 7:00 PM"
+    },
+    "rating": 4.7,
+    "reviewCount": 114,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established washing facility offering comprehensive laundry services in in the heart of New York. Features modern equipment and convenient location for easy access.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "9f643076-44f0-419c-95b5-046cec1c5818",
+    "slug": "vts-laundry-box-new-york-ny",
+    "name": "V&T's Laundry Box",
+    "address": "906 St Nicholas Ave",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10032",
+    "phone": "(212) 234-7333",
+    "website": "http://laundrylikeus.com/",
+    "hours": {
+      "monday": "8:00 AM – 8:30 PM",
+      "tuesday": "8:00 AM – 8:30 PM",
+      "wednesday": "Closed",
+      "thursday": "8:00 AM – 8:30 PM",
+      "friday": "8:00 AM – 8:30 PM",
+      "saturday": "7:00 AM – 8:30 PM",
+      "sunday": "7:00 AM – 8:30 PM"
+    },
+    "rating": 4.8,
+    "reviewCount": 81,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient laundromat serving the in the heart of New York area with efficient washing and drying services. Popular with residents for reliable equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "da77c4eb-2b0f-4298-8e15-f5b53edbc89f",
+    "slug": "102-west-laundromat-new-york-ny",
+    "name": "102 West Laundromat",
+    "address": "102 W 71st St",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10023",
+    "phone": "(212) 877-6821",
+    "website": null,
+    "hours": {
+      "monday": "8:00 AM – 6:30 PM",
+      "tuesday": "8:00 AM – 6:30 PM",
+      "wednesday": "8:00 AM – 6:30 PM",
+      "thursday": "8:00 AM – 6:30 PM",
+      "friday": "8:00 AM – 6:30 PM",
+      "saturday": "8:00 AM – 6:30 PM",
+      "sunday": "8:00 AM – 4:00 PM"
+    },
+    "rating": 4.5,
+    "reviewCount": 98,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat serving in the heart of New York with convenient washing and drying facilities. Known for modern equipment and clean environment.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "a8b9a626-db7e-40a3-ab3a-05a33a7333b0",
+    "slug": "laundry-to-go-new-york-ny-2",
+    "name": "Laundry To GO",
+    "address": "148 E Broadway",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10002",
+    "phone": "(646) 838-5005",
+    "website": "http://mrsbubbleslaundry.com/",
+    "hours": {
+      "monday": "8:00 AM – 9:00 PM",
+      "tuesday": "8:00 AM – 9:00 PM",
+      "wednesday": "8:00 AM – 9:00 PM",
+      "thursday": "8:00 AM – 9:00 PM",
+      "friday": "8:00 AM – 9:00 PM",
+      "saturday": "8:00 AM – 9:00 PM",
+      "sunday": "8:00 AM – 9:00 PM"
+    },
+    "rating": 4.2,
+    "reviewCount": 78,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service laundromat offering reliable washing and drying solutions in in the heart of New York. Features modern equipment and convenient operating hours. This 4.20-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "2775d6b2-28ee-45ca-acfa-dd8d1be2117a",
+    "slug": "load-laundromat-new-york-ny",
+    "name": "Load Laundromat",
+    "address": "602 E 14th St",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10009",
+    "phone": "(917) 265-8226",
+    "website": "https://www.loadlaundromat.com/",
+    "hours": {
+      "monday": "7:00 AM – 11:00 PM",
+      "tuesday": "7:00 AM – 11:00 PM",
+      "wednesday": "7:00 AM – 11:00 PM",
+      "thursday": "7:00 AM – 11:00 PM",
+      "friday": "7:00 AM – 11:00 PM",
+      "saturday": "7:00 AM – 11:00 PM",
+      "sunday": "7:00 AM – 11:00 PM"
+    },
+    "rating": 4.4,
+    "reviewCount": 173,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established laundromat serving the in the heart of New York area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "bf610976-604e-4b0a-855c-b753c294458e",
+    "slug": "31-a-laundromat-new-york-ny",
+    "name": "31-A Laundromat",
+    "address": "31 Avenue A",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10009",
+    "phone": "(212) 401-6276",
+    "website": "http://31alaundromat.com/",
+    "hours": {
+      "monday": "8:00 AM – 10:00 PM",
+      "tuesday": "8:00 AM – 10:00 PM",
+      "wednesday": "8:00 AM – 10:00 PM",
+      "thursday": "8:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4.5,
+    "reviewCount": 58,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service washing facility offering quality laundry solutions in in the heart of New York. Features comfortable environment and well-maintained machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "17934922-754a-4dd9-b39c-899fda6f02f3",
+    "slug": "best-wash-dry-inc-new-york-ny",
+    "name": "Best Wash & Dry Inc",
+    "address": "670 9th Ave #2",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10036",
+    "phone": null,
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 9:00 PM",
+      "tuesday": "7:00 AM – 9:00 PM",
+      "wednesday": "7:00 AM – 9:00 PM",
+      "thursday": "7:00 AM – 9:00 PM",
+      "friday": "7:00 AM – 9:00 PM",
+      "saturday": "7:00 AM – 9:00 PM",
+      "sunday": "7:00 AM – 9:00 PM"
+    },
+    "rating": 3.3,
+    "reviewCount": 63,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Premium laundry experience washing facility offering quality laundry solutions in in the heart of New York. Features comfortable environment and well-maintained machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "2b2e329c-3559-4d5b-baa7-a77c8204b43d",
+    "slug": "crowning-laundromat-new-york-ny",
+    "name": "Crowning Laundromat",
+    "address": "Btw 25th &, 455 2nd Ave, W 26th St, ",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10010",
+    "phone": "(646) 707-3101",
+    "website": null,
+    "hours": {
+      "monday": "8:00 AM – 8:00 PM",
+      "tuesday": "8:00 AM – 8:00 PM",
+      "wednesday": "8:00 AM – 8:00 PM",
+      "thursday": "8:00 AM – 8:00 PM",
+      "friday": "8:00 AM – 8:00 PM",
+      "saturday": "9:00 AM – 7:00 PM",
+      "sunday": "9:00 AM – 8:00 PM"
+    },
+    "rating": 4.6,
+    "reviewCount": 67,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [],
+    "amenities": [],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local laundry facility offering comprehensive washing and drying services to in the heart of New York residents. Features well-maintained equipment and convenient location.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "4adc47b5-bdf4-470b-9ab5-546dae6af17c",
+    "slug": "ludlow-laundromat-new-york-ny",
+    "name": "Ludlow Laundromat",
+    "address": "67 Ludlow St",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10002",
+    "phone": "(347) 599-6514",
+    "website": "http://ludlow-laundromat.jany.io/",
+    "hours": {
+      "monday": "8:00 AM – 8:00 PM",
+      "tuesday": "8:00 AM – 8:00 PM",
+      "wednesday": "8:00 AM – 8:00 PM",
+      "thursday": "8:00 AM – 8:00 PM",
+      "friday": "8:00 AM – 8:00 PM",
+      "saturday": "8:00 AM – 8:00 PM",
+      "sunday": "8:00 AM – 8:00 PM"
+    },
+    "rating": 4.7,
+    "reviewCount": 81,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service laundromat offering convenient washing and drying facilities in in the heart of New York. Features modern equipment and a clean environment for all your laundry needs.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "5f95767f-bbf3-408d-af16-ed64d1577024",
+    "slug": "sun-park-laundromat-new-york-ny",
+    "name": "Sun Park Laundromat",
+    "address": "46 Mulberry St",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10013",
+    "phone": "(212) 608-5307",
+    "website": null,
+    "hours": {
+      "monday": "7:30 AM – 8:30 PM",
+      "tuesday": "7:30 AM – 8:30 PM",
+      "wednesday": "7:30 AM – 8:30 PM",
+      "thursday": "7:30 AM – 8:30 PM",
+      "friday": "7:30 AM – 8:30 PM",
+      "saturday": "7:30 AM – 8:30 PM",
+      "sunday": "7:30 AM – 8:30 PM"
+    },
+    "rating": 4,
+    "reviewCount": 88,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional laundromat serving the in the heart of New York area with modern washing and drying equipment. Known for efficient service and clean facilities. This 4.00-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "eb420c6b-7ffc-4595-86d6-3026bb7addc0",
+    "slug": "madison-supreme-laundromat-new-york-ny",
+    "name": "Madison Supreme Laundromat",
+    "address": "80 Madison St",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10002",
+    "phone": "(212) 732-9168",
+    "website": null,
+    "hours": {
+      "monday": "6:30 AM – 8:00 PM",
+      "tuesday": "6:30 AM – 8:00 PM",
+      "wednesday": "6:30 AM – 8:00 PM",
+      "thursday": "6:30 AM – 8:00 PM",
+      "friday": "6:30 AM – 8:00 PM",
+      "saturday": "6:30 AM – 8:00 PM",
+      "sunday": "6:30 AM – 8:00 PM"
+    },
+    "rating": 4.3,
+    "reviewCount": 155,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service coin laundry providing washing and drying solutions in in the heart of New York. Known for clean facilities and dependable laundry equipment. This 4.30-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "5da4891b-57ec-469a-9182-dc5ff2aa44c5",
+    "slug": "tai-loong-laundromat-new-york-ny",
+    "name": "Tai Loong Laundromat",
+    "address": "299 Broome St B",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10002",
+    "phone": "(212) 941-5830",
+    "website": null,
+    "hours": {
+      "monday": "8:30 AM – 6:00 PM",
+      "tuesday": "8:30 AM – 6:00 PM",
+      "wednesday": "8:30 AM – 6:00 PM",
+      "thursday": "Closed",
+      "friday": "8:30 AM – 6:00 PM",
+      "saturday": "8:30 AM – 6:00 PM",
+      "sunday": "8:30 AM – 6:00 PM"
+    },
+    "rating": 4.9,
+    "reviewCount": 42,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional laundromat serving the in the heart of New York area with modern washing and drying equipment. Known for efficient service and clean facilities.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "a7dfc5c2-aeae-4031-a5b4-8d62ac4afae6",
+    "slug": "new-tian-tian-laundromat-new-york-ny",
+    "name": "NEW Tian Tian Laundromat",
+    "address": "137 Allen St #1",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10002",
+    "phone": "(646) 998-4032",
+    "website": null,
+    "hours": {
+      "monday": "8:00 AM – 9:00 PM",
+      "tuesday": "8:00 AM – 9:00 PM",
+      "wednesday": "8:00 AM – 9:00 PM",
+      "thursday": "8:00 AM – 9:00 PM",
+      "friday": "8:00 AM – 9:00 PM",
+      "saturday": "8:00 AM – 9:00 PM",
+      "sunday": "8:00 AM – 9:00 PM"
+    },
+    "rating": 4.4,
+    "reviewCount": 70,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Recently established coin laundry providing washing and drying solutions in in the heart of New York. Known for clean facilities and dependable laundry equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "5d17c401-5adb-45f4-a9da-c54fa09c64b3",
+    "slug": "united-laundr-new-york-ny",
+    "name": "United Laundré",
+    "address": "2320 Frederick Douglass Blvd",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10027",
+    "phone": "(212) 970-0818",
+    "website": "http://www.unitedlaundre.com/",
+    "hours": {
+      "monday": "6:00 AM – 11:00 PM",
+      "tuesday": "6:00 AM – 11:00 PM",
+      "wednesday": "6:00 AM – 11:00 PM",
+      "thursday": "6:00 AM – 11:00 PM",
+      "friday": "6:00 AM – 11:00 PM",
+      "saturday": "6:00 AM – 1:00 AM",
+      "sunday": "6:00 AM – 1:00 AM"
+    },
+    "rating": 4.7,
+    "reviewCount": 223,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community-oriented laundromat providing quality washing and drying services in in the heart of New York. Known for clean environment and friendly atmosphere. This 4.70-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "41f27ba2-1fd8-4b84-a7af-46769c0173e1",
+    "slug": "new-absolute-laundromat-new-york-ny",
+    "name": "New Absolute Laundromat",
+    "address": "155 E 33rd St",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10016",
+    "phone": "(212) 481-0888",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 9:30 PM",
+      "tuesday": "7:00 AM – 9:30 PM",
+      "wednesday": "7:00 AM – 9:30 PM",
+      "thursday": "7:00 AM – 9:30 PM",
+      "friday": "7:00 AM – 9:30 PM",
+      "saturday": "7:00 AM – 9:30 PM",
+      "sunday": "8:00 AM – 9:30 PM"
+    },
+    "rating": 3.6,
+    "reviewCount": 296,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community laundromat featuring updated equipment providing comprehensive washing and drying solutions in in the heart of New York. Well-equipped with modern laundry machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "bfe8b39b-0896-4e3e-95d2-229a62e5e110",
+    "slug": "quick-coin-one-laundromat-new-york-ny",
+    "name": "Quick Coin One Laundromat",
+    "address": "175 1st Ave",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10003",
+    "phone": "(212) 982-1575",
+    "website": "http://quick-coin-one-laundromat.slue.io/",
+    "hours": {
+      "monday": "7:00 AM – 12:00 AM",
+      "tuesday": "7:00 AM – 12:00 AM",
+      "wednesday": "7:00 AM – 12:00 AM",
+      "thursday": "7:00 AM – 12:00 AM",
+      "friday": "7:00 AM – 12:00 AM",
+      "saturday": "7:00 AM – 12:00 AM",
+      "sunday": "7:00 AM – 12:00 AM"
+    },
+    "rating": 3.4,
+    "reviewCount": 72,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional laundromat featuring speedy cleaning solutions serving the in the heart of New York area with modern washing and drying equipment. Known for efficient service and clean facilities.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "b73525b0-acce-412b-9f0d-2fb920530f32",
+    "slug": "lucky-999-laundromat-new-york-ny",
+    "name": "Lucky 999 Laundromat",
+    "address": "55 2nd Ave",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10003",
+    "phone": "(212) 995-9494",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4.4,
+    "reviewCount": 60,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat serving in the heart of New York with convenient washing and drying facilities. Known for modern equipment and clean environment. This 4.40-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "b26b8ccb-ccf1-4a06-88a0-94192604d428",
+    "slug": "same-day-laundromat-new-york-ny",
+    "name": "Same Day Laundromat",
+    "address": "501 W 135th St",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10031",
+    "phone": "(212) 926-1900",
+    "website": null,
+    "hours": {
+      "monday": "6:30 AM – 10:00 PM",
+      "tuesday": "6:30 AM – 10:00 PM",
+      "wednesday": "6:30 AM – 10:00 PM",
+      "thursday": "6:30 AM – 10:00 PM",
+      "friday": "6:30 AM – 10:00 PM",
+      "saturday": "6:30 AM – 10:00 PM",
+      "sunday": "6:30 AM – 10:00 PM"
+    },
+    "rating": 4.6,
+    "reviewCount": 64,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient laundromat serving the in the heart of New York area with efficient washing and drying services. Popular with residents for reliable equipment. This 4.60-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "760689b7-f7e1-486d-aab2-190401644157",
+    "slug": "bubbles-n-go-laundromat-new-york-ny",
+    "name": "Bubbles N Go Laundromat",
+    "address": "173 E 2nd St",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10009",
+    "phone": "(212) 677-8777",
+    "website": "https://www.bubblesngolaundry.com/",
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4.3,
+    "reviewCount": 88,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community-oriented laundromat providing quality washing and drying services in in the heart of New York. Known for clean environment and friendly atmosphere. This 4.30-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "5ca0db3f-6b72-48a4-81ce-3c00fb5debba",
+    "slug": "laundry-project-23-new-york-ny",
+    "name": "Laundry Project 23",
+    "address": "364 W 23 St",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10011",
+    "phone": "(646) 823-9449",
+    "website": "https://www.laundryproject23.com/",
+    "hours": {
+      "monday": "7:30 AM – 7:00 PM",
+      "tuesday": "7:30 AM – 7:00 PM",
+      "wednesday": "7:30 AM – 7:00 PM",
+      "thursday": "7:30 AM – 7:00 PM",
+      "friday": "7:30 AM – 7:00 PM",
+      "saturday": "9:00 AM – 7:00 PM",
+      "sunday": "9:00 AM – 7:00 PM"
+    },
+    "rating": 4.1,
+    "reviewCount": 110,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional laundromat serving the in the heart of New York area with modern washing and drying equipment. Known for efficient service and clean facilities. This 4.10-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "2191342c-37e2-4978-be83-a4eecd5f4321",
+    "slug": "quick-coin-laundry-new-york-ny",
+    "name": "Quick Coin Laundry",
+    "address": "164 8th Ave #1",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10011",
+    "phone": "(212) 645-0974",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4.2,
+    "reviewCount": 60,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Fast turnaround times laundromat offering convenient washing and drying facilities in in the heart of New York. Features modern equipment and a clean environment for all your laundry needs.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "3a3e292e-677e-4d11-a18d-868cd26991fd",
+    "slug": "one-stop-do-all-laundromat-new-york-ny",
+    "name": "One Stop Do All Laundromat",
+    "address": "318 E 70th St",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10021",
+    "phone": "(212) 517-7861",
+    "website": null,
+    "hours": {
+      "monday": "7:30 AM – 7:00 PM",
+      "tuesday": "7:30 AM – 7:00 PM",
+      "wednesday": "7:30 AM – 7:00 PM",
+      "thursday": "7:30 AM – 7:00 PM",
+      "friday": "7:30 AM – 7:00 PM",
+      "saturday": "7:30 AM – 7:00 PM",
+      "sunday": "Closed"
+    },
+    "rating": 3.4,
+    "reviewCount": 104,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community-oriented laundromat providing quality washing and drying services in in the heart of New York. Known for clean environment and friendly atmosphere. This 3.40-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "df9dc25b-3181-4d42-b4be-5efdf3322be1",
+    "slug": "daily-bubble-laundromat-inc-new-york-ny",
+    "name": "Daily Bubble Laundromat Inc.",
+    "address": "176 Lafayette St",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10013",
+    "phone": "(212) 680-0118",
+    "website": null,
+    "hours": {
+      "monday": "8:30 AM – 7:00 PM",
+      "tuesday": "8:30 AM – 7:00 PM",
+      "wednesday": "8:30 AM – 7:00 PM",
+      "thursday": "8:30 AM – 7:00 PM",
+      "friday": "8:30 AM – 7:00 PM",
+      "saturday": "9:00 AM – 7:00 PM",
+      "sunday": "9:00 AM – 7:00 PM"
+    },
+    "rating": 4.3,
+    "reviewCount": 31,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service laundromat offering reliable washing and drying solutions in in the heart of New York. Features modern equipment and convenient operating hours. This 4.30-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "26650b6d-6107-45ef-a8c9-76daf1e35f75",
+    "slug": "p-k-laundromat-new-york-ny",
+    "name": "P & K Laundromat",
+    "address": "432 Amsterdam Ave",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10024",
+    "phone": "(212) 799-2796",
+    "website": "https://cleanly.com/nyc/laundromats-upper-west-side/",
+    "hours": {
+      "monday": "8:00 AM – 6:30 PM",
+      "tuesday": "8:00 AM – 6:30 PM",
+      "wednesday": "8:00 AM – 6:30 PM",
+      "thursday": "8:00 AM – 6:30 PM",
+      "friday": "8:00 AM – 6:30 PM",
+      "saturday": "8:00 AM – 6:30 PM",
+      "sunday": "9:00 AM – 5:00 PM"
+    },
+    "rating": 4.5,
+    "reviewCount": 96,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat serving in the heart of New York with convenient washing and drying facilities. Known for modern equipment and clean environment. This 4.50-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "e2059a7a-26b2-4411-b479-c10605f2723a",
+    "slug": "my-sunny-laundry-new-york-ny",
+    "name": "My Sunny Laundry",
+    "address": "69 Loisaida Ave",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10009",
+    "phone": "(646) 718-8371",
+    "website": "https://www.mysunnylaundry.com/laundry-east-village-dry-cleaning?utm_source=googlebusinessprofile&utm_medium=gbpinfo&utm_campaign=gmbg",
+    "hours": {
+      "monday": "6:00 AM – 10:00 PM",
+      "tuesday": "6:00 AM – 10:00 PM",
+      "wednesday": "6:00 AM – 10:00 PM",
+      "thursday": "6:00 AM – 10:00 PM",
+      "friday": "6:00 AM – 10:00 PM",
+      "saturday": "6:00 AM – 10:00 PM",
+      "sunday": "6:00 AM – 10:00 PM"
+    },
+    "rating": 4.9,
+    "reviewCount": 313,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community-focused laundromat providing reliable washing and drying services to residents of in the heart of New York. Known for well-maintained machines and friendly service. This 4.90-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "4599b61d-6b94-4490-bea9-847c05ba38c6",
+    "slug": "laundry-to-go-chelsea-new-york-ny",
+    "name": "Laundry to go Chelsea",
+    "address": "171 W 26th St",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10001",
+    "phone": "(212) 255-1733",
+    "website": null,
+    "hours": {
+      "monday": "8:00 AM – 9:00 PM",
+      "tuesday": "8:00 AM – 9:00 PM",
+      "wednesday": "8:00 AM – 9:00 PM",
+      "thursday": "8:00 AM – 9:00 PM",
+      "friday": "8:00 AM – 9:00 PM",
+      "saturday": "8:00 AM – 9:00 PM",
+      "sunday": "8:00 AM – 7:00 PM"
+    },
+    "rating": 4.3,
+    "reviewCount": 214,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient coin-operated laundromat serving in the heart of New York with efficient washing and drying facilities. Popular with local community members. This 4.30-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "54e59540-5866-47d1-b1f8-6243b3676579",
+    "slug": "village-bleachers-new-york-ny",
+    "name": "Village Bleachers",
+    "address": "34 E 11th St",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10003",
+    "phone": "(212) 673-7999",
+    "website": null,
+    "hours": {
+      "monday": "8:00 AM – 6:00 PM",
+      "tuesday": "Closed",
+      "wednesday": "8:00 AM – 6:00 PM",
+      "thursday": "8:00 AM – 6:00 PM",
+      "friday": "8:00 AM – 6:00 PM",
+      "saturday": "8:00 AM – 6:00 PM",
+      "sunday": "8:00 AM – 6:00 PM"
+    },
+    "rating": 4,
+    "reviewCount": 23,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established washing facility offering reliable laundry services in in the heart of New York. Features spacious layout and dependable equipment. This 4.00-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "2fea7dad-c864-4435-aa7a-4f1eb3cc884f",
+    "slug": "sincere-laundry-new-york-ny",
+    "name": "Sincere Laundry",
+    "address": "152 E 22nd St",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10010",
+    "phone": "(212) 253-7284",
+    "website": "https://wzenglan.wixsite.com/sincerelaundryinc",
+    "hours": {
+      "monday": "7:00 AM – 8:00 PM",
+      "tuesday": "7:00 AM – 8:00 PM",
+      "wednesday": "7:00 AM – 8:00 PM",
+      "thursday": "7:00 AM – 8:00 PM",
+      "friday": "7:00 AM – 8:00 PM",
+      "saturday": "8:00 AM – 7:00 PM",
+      "sunday": "Closed"
+    },
+    "rating": 4.1,
+    "reviewCount": 31,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service laundromat offering convenient washing and drying facilities in in the heart of New York. Features modern equipment and a clean environment for all your laundry needs. This 4.10-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "f6c18f83-d2d4-47e3-a146-102b460a29ef",
+    "slug": "bubbles-n-go-laundromat-new-york-ny-2",
+    "name": "Bubbles N Go Laundromat",
+    "address": "1026 St Nicholas Ave",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10032",
+    "phone": "(917) 261-6763",
+    "website": "http://www.bubblesngolaundry.com/",
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.3,
+    "reviewCount": 141,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established washing facility offering reliable laundry services in in the heart of New York. Features spacious layout and dependable equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "82f15505-be0e-4f25-b5cf-73886afc1918",
+    "slug": "cleanfresh-laundromat-new-york-ny",
+    "name": "CleanFresh Laundromat",
+    "address": "4841 Broadway",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10034",
+    "phone": "(212) 942-9520",
+    "website": "https://cleanfreshlaundromat.com/",
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.3,
+    "reviewCount": 93,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established laundromat featuring emphasis on cleanliness serving the in the heart of New York area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "f6d8ca29-dcd1-45de-9d52-530b5a0126a2",
+    "slug": "laundry-basket-of-first-ave-new-york-ny",
+    "name": "Laundry Basket of First Ave",
+    "address": "2295 1st Ave",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10035",
+    "phone": "(212) 410-9475",
+    "website": "https://www.laundromatny.com/",
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4,
+    "reviewCount": 176,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community-oriented laundromat providing quality washing and drying services in in the heart of New York. Known for clean environment and friendly atmosphere.",
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "0e593579-4f81-4249-b397-937b86bd1448",
+    "slug": "green-laundry-new-york-ny",
+    "name": "Green Laundry",
+    "address": "824 St Nicholas Ave",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10031",
+    "phone": "(212) 234-3737",
+    "website": null,
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.2,
+    "reviewCount": 67,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat providing quality washing and drying services to the in the heart of New York community. Well-equipped with commercial-grade machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "7006e88e-8a2f-4421-9d41-4c768bbc1909",
+    "slug": "great-american-wash-new-york-ny",
+    "name": "Great American Wash",
+    "address": "704 9th Ave",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10019",
+    "phone": "(212) 397-6675",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 9:00 PM",
+      "tuesday": "7:00 AM – 9:00 PM",
+      "wednesday": "7:00 AM – 9:00 PM",
+      "thursday": "7:00 AM – 9:00 PM",
+      "friday": "7:00 AM – 9:00 PM",
+      "saturday": "7:00 AM – 9:00 PM",
+      "sunday": "7:00 AM – 9:00 PM"
+    },
+    "rating": 3.9,
+    "reviewCount": 156,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local washing facility providing reliable laundry services in in the heart of New York. Popular choice for both quick wash and full-service laundry needs.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": null,
+    "longitude": null,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "59eeae2e-940a-422e-b767-f39fe577a59f",
+    "slug": "laverie-new-york-ny",
+    "name": "Laverie",
+    "address": "149 Sullivan St",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10012",
+    "phone": "(212) 228-1805",
+    "website": "https://www.laveriesoho.com/",
+    "hours": {
+      "monday": "7:00 AM – 7:00 PM",
+      "tuesday": "7:00 AM – 7:00 PM",
+      "wednesday": "7:00 AM – 7:00 PM",
+      "thursday": "7:00 AM – 7:00 PM",
+      "friday": "7:00 AM – 7:00 PM",
+      "saturday": "8:00 AM – 7:00 PM",
+      "sunday": "8:00 AM – 4:00 PM"
+    },
+    "rating": 4.5,
+    "reviewCount": 329,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service laundromat offering reliable washing and drying solutions in in the heart of New York. Features modern equipment and convenient operating hours.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 40.8075,
+    "longitude": -73.9626,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "e04f9f49-ba66-4086-891c-af5e6ce733a2",
+    "slug": "all-fresh-laundry-dry-cleaners-new-york-ny",
+    "name": "All Fresh Laundry & Dry Cleaners",
+    "address": "300 E 40th St",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10016",
+    "phone": "(212) 695-8282",
+    "website": "https://allfreshlaundrynyc.com",
+    "hours": {
+      "monday": "24 hours",
+      "tuesday": "24 hours",
+      "wednesday": "24 hours",
+      "thursday": "24 hours",
+      "friday": "24 hours",
+      "saturday": "24 hours",
+      "sunday": "24 hours"
+    },
+    "rating": 4.5,
+    "reviewCount": 127,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card",
+      "Mobile Payment"
+    ],
+    "amenities": [
+      "WiFi",
+      "Seating Area",
+      "Folding Tables"
+    ],
+    "pricing": {
+      "washPrice": "$4.50",
+      "dryPrice": "$3.25",
+      "washFoldPrice": "$1.30/lb"
+    },
+    "description": "Very good laundromat in the neighborhood! Tried their wash and fold drop off service and pickup delivery. Both are great and reliable!",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 40.8075,
+    "longitude": -73.9626,
+    "is24Hours": true,
+    "hasWiFi": true,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  }
+]

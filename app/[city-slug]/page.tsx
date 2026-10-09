@@ -5,44 +5,16 @@ import { notFound } from "next/navigation";
 import { ExternalLink, Landmark, Mail, Search } from "lucide-react";
 import { Breadcrumbs, PageShell } from "@/components/site-shell";
 import { CityListings, type CityListing } from "@/components/brooklyn-listings";
-import brooklynListings from "@/data/brooklyn-listings.json";
-import bronxListings from "@/data/bronx-listings.json";
-import houstonListings from "@/data/houston-listings.json";
-import queensListings from "@/data/queens-listings.json";
-import philadelphiaListings from "@/data/philadelphia-listings.json";
-import sanFranciscoListings from "@/data/san-francisco-listings.json";
-import tampaListings from "@/data/tampa-listings.json";
-import newarkListings from "@/data/newark-listings.json";
-import jacksonvilleListings from "@/data/jacksonville-listings.json";
-import phoenixListings from "@/data/phoenix-listings.json";
-import longBeachListings from "@/data/long-beach-listings.json";
-import milwaukeeListings from "@/data/milwaukee-listings.json";
-import statenIslandListings from "@/data/staten-island-listings.json";
-import jerseyCityListings from "@/data/jersey-city-listings.json";
-import lasVegasListings from "@/data/las-vegas-listings.json";
+import { CityServiceLinks } from "@/components/city-service-links";
 import { getPopularCity, popularCities } from "@/lib/popular-cities";
 import { cityResources } from "@/lib/city-resources";
+import { getDirectoryCity } from "@/lib/directory-listings";
 import { absoluteUrl, metaDescription } from "@/lib/seo";
 
 type Props = { params: { "city-slug": string } };
 
 function getCityListings(slug: string): CityListing[] {
-  if (slug === "brooklyn") return brooklynListings;
-  if (slug === "bronx") return bronxListings;
-  if (slug === "houston") return houstonListings;
-  if (slug === "queens") return queensListings;
-  if (slug === "philadelphia") return philadelphiaListings;
-  if (slug === "san-francisco") return sanFranciscoListings;
-  if (slug === "tampa") return tampaListings;
-  if (slug === "newark") return newarkListings;
-  if (slug === "jacksonville") return jacksonvilleListings;
-  if (slug === "phoenix") return phoenixListings;
-  if (slug === "long-beach") return longBeachListings;
-  if (slug === "milwaukee") return milwaukeeListings;
-  if (slug === "staten-island") return statenIslandListings;
-  if (slug === "jersey-city") return jerseyCityListings;
-  if (slug === "las-vegas") return lasVegasListings;
-  return [];
+  return getDirectoryCity(slug)?.listings ?? [];
 }
 
 export function generateStaticParams() {
@@ -107,6 +79,8 @@ export default function PopularCityPage({ params }: Props) {
         </div>
       </div>
     </section>
+
+    <CityServiceLinks citySlug={editorial.slug} cityName={editorial.name}/>
 
     {hasListings ? <section id="listings" className="mx-auto max-w-7xl scroll-mt-8 px-5 py-16 lg:px-8">
       <div className="mb-8 max-w-3xl">

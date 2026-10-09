@@ -1,0 +1,1400 @@
+[
+  {
+    "id": "622edebf-20d7-4fe8-a527-59baafc230d6",
+    "slug": "west-seattle-laundry-seattle-wa",
+    "name": "West Seattle Laundry",
+    "address": "2338 California Ave SW",
+    "city": "Seattle",
+    "state": "WA",
+    "zipCode": "98116",
+    "phone": "(425) 200-5518",
+    "website": "http://www.scrubbslaundry.com/",
+    "hours": {
+      "monday": "6:30 AM – 10:00 PM",
+      "tuesday": "6:30 AM – 10:00 PM",
+      "wednesday": "6:30 AM – 10:00 PM",
+      "thursday": "6:30 AM – 10:00 PM",
+      "friday": "6:30 AM – 10:00 PM",
+      "saturday": "6:30 AM – 10:00 PM",
+      "sunday": "6:30 AM – 10:00 PM"
+    },
+    "rating": 3.8,
+    "reviewCount": 125,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established washing facility offering reliable laundry services in in the Pacific Northwest. Features spacious layout and dependable equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 47.6062,
+    "longitude": -122.3321,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "310f5ac5-609f-4e61-9464-2d95b2846006",
+    "slug": "azteca-lavanderia-seattle-wa",
+    "name": "Azteca Lavanderia",
+    "address": "12818 Ambaum Blvd SW",
+    "city": "Seattle",
+    "state": "WA",
+    "zipCode": "98146",
+    "phone": "(415) 952-0324",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "6:30 AM – 10:00 PM",
+      "sunday": "6:30 AM – 10:00 PM"
+    },
+    "rating": 4.3,
+    "reviewCount": 67,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat providing quality washing and drying services to the in the Pacific Northwest community. Well-equipped with commercial-grade machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 47.6062,
+    "longitude": -122.3321,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "b3dc3b7f-70f0-46e3-ac0b-6a4452ddb472",
+    "slug": "salmon-creek-laundromat-seattle-wa",
+    "name": "Salmon Creek Laundromat",
+    "address": "11616 Ambaum Blvd SW",
+    "city": "Seattle",
+    "state": "WA",
+    "zipCode": "98146",
+    "phone": "(206) 383-1799",
+    "website": null,
+    "hours": {
+      "monday": "6:00 AM – 9:00 PM",
+      "tuesday": "6:00 AM – 9:00 PM",
+      "wednesday": "6:00 AM – 9:00 PM",
+      "thursday": "6:00 AM – 9:00 PM",
+      "friday": "6:00 AM – 9:00 PM",
+      "saturday": "6:00 AM – 9:00 PM",
+      "sunday": "6:00 AM – 9:00 PM"
+    },
+    "rating": 4.5,
+    "reviewCount": 24,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established laundry facility providing comprehensive washing and drying services in in the Pacific Northwest. Well-equipped with commercial-grade machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 47.6062,
+    "longitude": -122.3321,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "b90d3690-db4e-433c-89b0-a2cd8206990d",
+    "slug": "seattle-laundry-service-seattle-wa",
+    "name": "Seattle Laundry Service",
+    "address": "4522 Brooklyn Ave NE",
+    "city": "Seattle",
+    "state": "WA",
+    "zipCode": "98105",
+    "phone": "(206) 548-1321",
+    "website": "http://www.seattlelaundryservice.com/",
+    "hours": {
+      "monday": "9:00 AM – 4:45 PM",
+      "tuesday": "9:00 AM – 4:45 PM",
+      "wednesday": "9:00 AM – 4:45 PM",
+      "thursday": "9:00 AM – 4:45 PM",
+      "friday": "9:00 AM – 4:45 PM",
+      "saturday": "9:00 AM – 4:45 PM",
+      "sunday": "9:00 AM – 4:45 PM"
+    },
+    "rating": 3.4,
+    "reviewCount": 59,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community laundromat providing comprehensive washing and drying solutions in in the Pacific Northwest. Well-equipped with modern laundry machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 47.6062,
+    "longitude": -122.3321,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "65700011-9682-4b72-a0b2-07b969a2c08e",
+    "slug": "rinse-laundry-dry-cleaning-delivery-seattle-wa",
+    "name": "Rinse - Laundry & Dry Cleaning Delivery",
+    "address": "2454 Occidental Ave S Suite 3D",
+    "city": "Seattle",
+    "state": "WA",
+    "zipCode": "98134",
+    "phone": "(888) 850-2444",
+    "website": "https://www.rinse.com/",
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.3,
+    "reviewCount": 40,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Hygiene-focused facility laundromat offering convenient washing and drying facilities in in the Pacific Northwest. Features modern equipment and a clean environment for all your laundry needs.",
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 47.6062,
+    "longitude": -122.3321,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "34f2473c-b886-4487-8b57-e5721fbb0ff1",
+    "slug": "ab-laundromat-seattle-wa",
+    "name": "A&B Laundromat",
+    "address": "9644 14th Ave SW",
+    "city": "Seattle",
+    "state": "WA",
+    "zipCode": "98106",
+    "phone": "(206) 762-7146",
+    "website": null,
+    "hours": {
+      "monday": "8:00 AM – 10:00 PM",
+      "tuesday": "8:00 AM – 10:00 PM",
+      "wednesday": "8:00 AM – 10:00 PM",
+      "thursday": "8:00 AM – 10:00 PM",
+      "friday": "8:00 AM – 10:00 PM",
+      "saturday": "7:30 AM – 10:00 PM",
+      "sunday": "7:30 AM – 10:00 PM"
+    },
+    "rating": 4.6,
+    "reviewCount": 159,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional laundromat serving the in the Pacific Northwest area with modern washing and drying equipment. Known for efficient service and clean facilities.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 47.6062,
+    "longitude": -122.3321,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "e140b0d8-4ca6-4dc2-8a9c-3b420c683d5d",
+    "slug": "flos-wash-n-fold-laundry-service-seattle-wa",
+    "name": "Flo's Wash N Fold Laundry Service",
+    "address": "5501 25th Ave NE",
+    "city": "Seattle",
+    "state": "WA",
+    "zipCode": "98105",
+    "phone": "(206) 526-9754",
+    "website": "https://floswashnfold.com/",
+    "hours": {
+      "monday": "7:30 AM – 8:30 PM",
+      "tuesday": "7:30 AM – 8:30 PM",
+      "wednesday": "7:30 AM – 8:30 PM",
+      "thursday": "7:30 AM – 8:30 PM",
+      "friday": "7:30 AM – 8:30 PM",
+      "saturday": "7:30 AM – 8:30 PM",
+      "sunday": "7:30 AM – 8:30 PM"
+    },
+    "rating": 5,
+    "reviewCount": 5,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service laundromat offering convenient washing and drying facilities in in the Pacific Northwest. Features modern equipment and a clean environment for all your laundry needs.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 47.6062,
+    "longitude": -122.3321,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "1996902d-2ac9-4311-9dc8-1aee954cac14",
+    "slug": "lumin-laundry-seattle-wa",
+    "name": "Lumin Laundry",
+    "address": "20154 Ballinger Way NE",
+    "city": "Seattle",
+    "state": "WA",
+    "zipCode": "98155",
+    "phone": "(206) 913-2003",
+    "website": "https://luminlaundry.com/",
+    "hours": {
+      "monday": "9:00 AM – 9:00 PM",
+      "tuesday": "9:00 AM – 9:00 PM",
+      "wednesday": "9:00 AM – 9:00 PM",
+      "thursday": "9:00 AM – 9:00 PM",
+      "friday": "9:00 AM – 9:00 PM",
+      "saturday": "8:00 AM – 9:00 PM",
+      "sunday": "8:00 AM – 9:00 PM"
+    },
+    "rating": 4.9,
+    "reviewCount": 244,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service washing facility offering quality laundry solutions in in the Pacific Northwest. Features comfortable environment and well-maintained machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 47.6062,
+    "longitude": -122.3321,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "ef1cfe9b-4a21-4b72-aeb4-e154249d2c2b",
+    "slug": "laundry-day-laundromat-seattle-wa",
+    "name": "Laundry Day Laundromat",
+    "address": "3121 Rainier Ave S",
+    "city": "Seattle",
+    "state": "WA",
+    "zipCode": "98144",
+    "phone": "(206) 914-2993",
+    "website": "https://laundryday.us/locations/seattle/",
+    "hours": {
+      "monday": "8:00 AM – 7:30 PM",
+      "tuesday": "8:00 AM – 7:30 PM",
+      "wednesday": "8:00 AM – 7:30 PM",
+      "thursday": "8:00 AM – 7:30 PM",
+      "friday": "8:00 AM – 7:30 PM",
+      "saturday": "8:00 AM – 7:30 PM",
+      "sunday": "8:00 AM – 7:30 PM"
+    },
+    "rating": 4.6,
+    "reviewCount": 372,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient laundromat serving the in the Pacific Northwest area with efficient washing and drying services. Popular with residents for reliable equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 47.6062,
+    "longitude": -122.3321,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "559a8cfb-ae25-42e4-b742-1471e4f95768",
+    "slug": "southwest-laundry-llc-seattle-wa",
+    "name": "Southwest Laundry LLC",
+    "address": "11445 Des Moines Memorial Dr S",
+    "city": "Seattle",
+    "state": "WA",
+    "zipCode": "98168",
+    "phone": "(206) 650-7088",
+    "website": "https://www.southwestlaundryservices.com/",
+    "hours": {
+      "monday": "8:00 AM – 9:00 PM",
+      "tuesday": "8:00 AM – 9:00 PM",
+      "wednesday": "8:00 AM – 9:00 PM",
+      "thursday": "8:00 AM – 9:00 PM",
+      "friday": "8:00 AM – 9:00 PM",
+      "saturday": "8:00 AM – 9:00 PM",
+      "sunday": "8:00 AM – 9:00 PM"
+    },
+    "rating": 4.5,
+    "reviewCount": 24,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient laundromat providing efficient washing and drying services in in the Pacific Northwest. Popular with local residents for its reliable machines and clean environment.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 47.6062,
+    "longitude": -122.3321,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "07418d64-bb03-4ddf-b0d1-20d20b1a5333",
+    "slug": "skyway-laundromat-seattle-wa",
+    "name": "Skyway Laundromat",
+    "address": "12629 Renton Ave S unit c",
+    "city": "Seattle",
+    "state": "WA",
+    "zipCode": "98178",
+    "phone": "(206) 451-9290",
+    "website": "http://www.skywaylaundromat.com/",
+    "hours": {
+      "monday": "6:00 AM – 9:00 PM",
+      "tuesday": "6:00 AM – 9:00 PM",
+      "wednesday": "6:00 AM – 9:00 PM",
+      "thursday": "6:00 AM – 9:00 PM",
+      "friday": "6:00 AM – 9:00 PM",
+      "saturday": "6:00 AM – 9:00 PM",
+      "sunday": "6:00 AM – 9:00 PM"
+    },
+    "rating": 4.5,
+    "reviewCount": 67,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community-focused laundromat providing reliable washing and drying services to residents of in the Pacific Northwest. Known for well-maintained machines and friendly service.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 47.6062,
+    "longitude": -122.3321,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "c901dee1-2cf9-4a30-84fb-0b3ba1ccb40f",
+    "slug": "sea-tacs-best-laundromat-seattle-wa",
+    "name": "Sea Tac's Best Laundromat",
+    "address": "17730 Ambaum Blvd S STE A",
+    "city": "Seattle",
+    "state": "WA",
+    "zipCode": "98148",
+    "phone": "(206) 243-4556",
+    "website": null,
+    "hours": {
+      "monday": "8:00 AM – 9:00 PM",
+      "tuesday": "8:00 AM – 9:00 PM",
+      "wednesday": "8:00 AM – 9:00 PM",
+      "thursday": "8:00 AM – 9:00 PM",
+      "friday": "8:00 AM – 8:45 PM",
+      "saturday": "8:00 AM – 8:45 PM",
+      "sunday": "8:00 AM – 8:45 PM"
+    },
+    "rating": 4.3,
+    "reviewCount": 125,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Premium laundry experience laundromat offering convenient washing and drying facilities in in the Pacific Northwest. Features modern equipment and a clean environment for all your laundry needs.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 47.6062,
+    "longitude": -122.3321,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "4547acc0-1367-4b34-9aef-af18fe843f26",
+    "slug": "seatacs-best-laundromat-seattle-wa",
+    "name": "Seatac's Best Laundromat",
+    "address": "17730 Ambaum Blvd S",
+    "city": "Seattle",
+    "state": "WA",
+    "zipCode": "98148",
+    "phone": "(206) 243-4556",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM - 9:00 PM",
+      "tuesday": "7:00 AM - 9:00 PM",
+      "wednesday": "7:00 AM - 9:00 PM",
+      "thursday": "7:00 AM - 9:00 PM",
+      "friday": "7:00 AM - 9:00 PM",
+      "saturday": "7:00 AM - 9:00 PM",
+      "sunday": "7:00 AM - 9:00 PM"
+    },
+    "rating": 4.8,
+    "reviewCount": 126,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "All Machine Sizes",
+      "Large Dryers",
+      "Friendly Staff"
+    ],
+    "pricing": {
+      "washPrice": "$3.25",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.20/lb"
+    },
+    "description": "SO clean, so friendly. Not a single machine out of order. Credit card capabilities on a lot of the machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 47.6062,
+    "longitude": -122.3321,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": true,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "cb3afb98-67e7-47d7-8a29-5edb89474e8f",
+    "slug": "super-clean-laundromat-seattle-wa",
+    "name": "Super Clean Laundromat",
+    "address": "10401 16th Ave SW",
+    "city": "Seattle",
+    "state": "WA",
+    "zipCode": "98146",
+    "phone": "(415) 952-0324",
+    "website": null,
+    "hours": {
+      "monday": "8:00 AM – 10:00 PM",
+      "tuesday": "8:00 AM – 10:00 PM",
+      "wednesday": "8:00 AM – 10:00 PM",
+      "thursday": "8:00 AM – 10:00 PM",
+      "friday": "8:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4.5,
+    "reviewCount": 145,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Comprehensive services laundromat offering reliable washing and drying solutions in in the Pacific Northwest. Features modern equipment and convenient operating hours.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 47.6062,
+    "longitude": -122.3321,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "adc44a50-b79f-4a09-986f-dfe76589c1c8",
+    "slug": "fremont-clean-express-laundromat-seattle-wa",
+    "name": "Fremont Clean Express Laundromat",
+    "address": "3409 Stone Way N",
+    "city": "Seattle",
+    "state": "WA",
+    "zipCode": "98103",
+    "phone": "(206) 545-4018",
+    "website": "http://www.cleanexpress.us/",
+    "hours": {
+      "monday": "11:00 AM – 7:00 PM",
+      "tuesday": "11:00 AM – 7:00 PM",
+      "wednesday": "11:00 AM – 7:00 PM",
+      "thursday": "11:00 AM – 7:00 PM",
+      "friday": "11:00 AM – 7:00 PM",
+      "saturday": "9:00 AM – 9:00 PM",
+      "sunday": "9:00 AM – 9:00 PM"
+    },
+    "rating": 3.9,
+    "reviewCount": 288,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established laundromat featuring speedy laundry solutions serving the in the Pacific Northwest area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 47.6062,
+    "longitude": -122.3321,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "d69af12c-a9d5-4fa4-b324-c9f519df50b4",
+    "slug": "white-center-laundromat-seattle-wa",
+    "name": "White Center Laundromat",
+    "address": "9823 15th Ave SW",
+    "city": "Seattle",
+    "state": "WA",
+    "zipCode": "98106",
+    "phone": null,
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 9:00 PM",
+      "tuesday": "7:00 AM – 9:00 PM",
+      "wednesday": "7:00 AM – 9:00 PM",
+      "thursday": "7:00 AM – 9:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 3.9,
+    "reviewCount": 58,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established laundromat featuring central community location serving the in the Pacific Northwest area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 47.6062,
+    "longitude": -122.3321,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "e6a4e5ba-acb3-40c3-bc87-d4b14b0c3798",
+    "slug": "fremont-laundry-center-seattle-wa",
+    "name": "Fremont Laundry Center",
+    "address": "4237 Fremont Ave N",
+    "city": "Seattle",
+    "state": "WA",
+    "zipCode": "98103",
+    "phone": "(206) 548-1321",
+    "website": "http://www.seattlelaundryservice.com/",
+    "hours": {
+      "monday": "9:00 AM – 5:00 PM",
+      "tuesday": "9:00 AM – 5:00 PM",
+      "wednesday": "9:00 AM – 5:00 PM",
+      "thursday": "9:00 AM – 5:00 PM",
+      "friday": "9:00 AM – 5:00 PM",
+      "saturday": "9:00 AM – 5:00 PM",
+      "sunday": "9:00 AM – 5:00 PM"
+    },
+    "rating": 3.3,
+    "reviewCount": 32,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional laundromat featuring centrally located facility offering reliable washing and drying solutions in in the Pacific Northwest. Known for clean facilities and well-maintained equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 47.6062,
+    "longitude": -122.3321,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "ca753c24-8e06-44c9-96d9-7666d023cb94",
+    "slug": "burien-super-coin-laundry-seattle-wa",
+    "name": "Burien Super Coin Laundry",
+    "address": "13607 Ambaum Blvd SW",
+    "city": "Seattle",
+    "state": "WA",
+    "zipCode": "98166",
+    "phone": null,
+    "website": null,
+    "hours": {
+      "monday": "5:00 AM – 11:00 PM",
+      "tuesday": "5:00 AM – 11:00 PM",
+      "wednesday": "5:00 AM – 11:00 PM",
+      "thursday": "5:00 AM – 11:00 PM",
+      "friday": "5:00 AM – 11:00 PM",
+      "saturday": "5:00 AM – 11:00 PM",
+      "sunday": "5:00 AM – 11:00 PM"
+    },
+    "rating": 3.5,
+    "reviewCount": 24,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat featuring large-capacity facility providing quality washing and drying services to the in the Pacific Northwest community. Well-equipped with commercial-grade machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 47.6062,
+    "longitude": -122.3321,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "c6a43604-11a3-4d73-a576-0405afc2b09a",
+    "slug": "seattle-laundry-service-seattle-wa-2",
+    "name": "Seattle Laundry Service",
+    "address": "2511 N 50th St",
+    "city": "Seattle",
+    "state": "WA",
+    "zipCode": "98103",
+    "phone": "(206) 548-1321",
+    "website": "http://www.seattlelaundryservice.com/",
+    "hours": {
+      "monday": "9:00 AM – 5:00 PM",
+      "tuesday": "9:00 AM – 5:00 PM",
+      "wednesday": "9:00 AM – 5:00 PM",
+      "thursday": "9:00 AM – 5:00 PM",
+      "friday": "9:00 AM – 5:00 PM",
+      "saturday": "10:00 AM – 5:00 PM",
+      "sunday": "10:00 AM – 5:00 PM"
+    },
+    "rating": 4.1,
+    "reviewCount": 9,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community-oriented laundromat providing quality washing and drying services in in the Pacific Northwest. Known for clean environment and friendly atmosphere.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 47.6062,
+    "longitude": -122.3321,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "085dca24-54f3-49af-809d-050f39b7db3d",
+    "slug": "lunar-laundry-seattle-wa",
+    "name": "Lunar Laundry",
+    "address": "700 NW 65th St",
+    "city": "Seattle",
+    "state": "WA",
+    "zipCode": "98117",
+    "phone": "(206) 491-3150",
+    "website": "https://lunarlaundry.com/",
+    "hours": {
+      "monday": "6:00 AM – 10:00 PM",
+      "tuesday": "6:00 AM – 10:00 PM",
+      "wednesday": "6:00 AM – 10:00 PM",
+      "thursday": "6:00 AM – 10:00 PM",
+      "friday": "6:00 AM – 10:00 PM",
+      "saturday": "6:00 AM – 10:00 PM",
+      "sunday": "6:00 AM – 10:00 PM"
+    },
+    "rating": 4.6,
+    "reviewCount": 500,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service coin laundry providing washing and drying solutions in in the Pacific Northwest. Known for clean facilities and dependable laundry equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 47.6062,
+    "longitude": -122.3321,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "f63d76f4-0b3e-4190-bdac-a04ecab8e0fb",
+    "slug": "empire-speed-wash-laundromat-seattle-wa",
+    "name": "Empire Speed Wash Laundromat",
+    "address": "7136 Martin Luther King Jr Way S UNIT 101",
+    "city": "Seattle",
+    "state": "WA",
+    "zipCode": "98118",
+    "phone": "(206) 723-6863",
+    "website": null,
+    "hours": {
+      "monday": "8:00 AM – 8:00 PM",
+      "tuesday": "8:00 AM – 8:00 PM",
+      "wednesday": "Closed",
+      "thursday": "8:00 AM – 8:00 PM",
+      "friday": "8:00 AM – 8:00 PM",
+      "saturday": "6:30 AM – 8:00 PM",
+      "sunday": "7:00 AM – 8:00 PM"
+    },
+    "rating": 4.6,
+    "reviewCount": 49,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood coin laundry offering convenient washing and drying solutions in in the Pacific Northwest. Features spacious facility and reliable equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 47.6062,
+    "longitude": -122.3321,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "1e8575b6-3c6b-439b-a42d-c363a1fc5441",
+    "slug": "king-plaza-laundry-seattle-wa",
+    "name": "King Plaza Laundry",
+    "address": "7101 Martin Luther King Jr Way S #115",
+    "city": "Seattle",
+    "state": "WA",
+    "zipCode": "98118",
+    "phone": "(206) 723-8242",
+    "website": null,
+    "hours": {
+      "monday": "7:30 AM – 6:00 PM",
+      "tuesday": "7:30 AM – 6:00 PM",
+      "wednesday": "7:30 AM – 6:00 PM",
+      "thursday": "7:30 AM – 6:00 PM",
+      "friday": "7:30 AM – 6:00 PM",
+      "saturday": "7:30 AM – 6:00 PM",
+      "sunday": "7:30 AM – 6:00 PM"
+    },
+    "rating": 4.4,
+    "reviewCount": 37,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Shopping center location coin laundry providing washing and drying solutions in in the Pacific Northwest. Known for clean facilities and dependable laundry equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 47.6062,
+    "longitude": -122.3321,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "9a5a412a-5f04-4dcf-b47e-fd6de9e980d0",
+    "slug": "revolution-laundry-seattle-wa",
+    "name": "Revolution Laundry",
+    "address": "9840 16th Ave SW",
+    "city": "Seattle",
+    "state": "WA",
+    "zipCode": "98106",
+    "phone": "(206) 681-2032",
+    "website": "https://revlaundry.com/",
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "6:00 AM – 10:00 PM",
+      "sunday": "6:00 AM – 10:00 PM"
+    },
+    "rating": 4.9,
+    "reviewCount": 150,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient coin-operated laundromat serving in the Pacific Northwest with efficient washing and drying facilities. Popular with local community members.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 47.6062,
+    "longitude": -122.3321,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "7a072737-21bc-4a5c-953e-fbfd24906f22",
+    "slug": "the-clean-machine-laundromat-seattle-wa",
+    "name": "The Clean Machine Laundromat",
+    "address": "6010 Martin Luther King Jr Way S",
+    "city": "Seattle",
+    "state": "WA",
+    "zipCode": "98118",
+    "phone": "(206) 331-8154",
+    "website": null,
+    "hours": {
+      "monday": "6:00 AM – 9:00 PM",
+      "tuesday": "6:00 AM – 9:00 PM",
+      "wednesday": "6:00 AM – 9:00 PM",
+      "thursday": "6:00 AM – 9:00 PM",
+      "friday": "6:00 AM – 9:00 PM",
+      "saturday": "6:00 AM – 9:00 PM",
+      "sunday": "6:00 AM – 9:00 PM"
+    },
+    "rating": 3.8,
+    "reviewCount": 64,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient coin-operated laundromat featuring spotless environment serving in the Pacific Northwest with efficient washing and drying facilities. Popular with local community members.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 47.6062,
+    "longitude": -122.3321,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "db194e2b-1b41-4366-8678-76b72891a5d4",
+    "slug": "transformation-surprise-seattle-wa",
+    "name": "Transformation-Surprise",
+    "address": "5505 8th Ave NW",
+    "city": "Seattle",
+    "state": "WA",
+    "zipCode": "98107",
+    "phone": "(206) 789-5004",
+    "website": "http://www.transformation-surprise.com/",
+    "hours": {
+      "monday": "6:30 AM – 7:00 PM",
+      "tuesday": "7:00 AM – 7:00 PM",
+      "wednesday": "7:00 AM – 6:00 PM",
+      "thursday": "7:00 AM – 7:00 PM",
+      "friday": "7:00 AM – 7:00 PM",
+      "saturday": "7:00 AM – 7:00 PM",
+      "sunday": "7:00 AM – 6:00 PM"
+    },
+    "rating": 4.6,
+    "reviewCount": 110,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional coin laundry providing efficient washing and drying solutions in in the Pacific Northwest. Popular choice for reliable laundry services.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 47.6062,
+    "longitude": -122.3321,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  }
+]

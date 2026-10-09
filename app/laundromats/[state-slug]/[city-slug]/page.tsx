@@ -3,16 +3,17 @@ import Link from "next/link";
 import { notFound, permanentRedirect } from "next/navigation";
 import { Breadcrumbs, PageShell } from "@/components/site-shell";
 import { CityListings, type CityListing } from "@/components/brooklyn-listings";
-import chicagoListings from "@/data/chicago-listings.json";
+import { CityServiceLinks } from "@/components/city-service-links";
 import { cities, cityIntro, getCity, getState } from "@/lib/data";
+import { getDirectoryCity } from "@/lib/directory-listings";
 import { getPopularCity } from "@/lib/popular-cities";
-import { metaDescription } from "@/lib/seo";
+import { absoluteUrl, metaDescription } from "@/lib/seo";
 
 type Props = { params: { "state-slug": string; "city-slug": string } };
 
 function getCityListings(stateSlug: string, citySlug: string): CityListing[] {
-  if (stateSlug === "illinois" && citySlug === "chicago") return chicagoListings;
-  return [];
+  const directoryCity = getDirectoryCity(citySlug);
+  return directoryCity?.canonicalPath === `/laundromats/${stateSlug}/${citySlug}` ? directoryCity.listings : [];
 }
 
 export const dynamicParams = false;
@@ -39,8 +40,27 @@ export default function CityPage({ params }: Props) {
   const stateLabel = getState(city.stateSlug)?.abbr ?? city.state;
   const listings = getCityListings(city.stateSlug, city.slug);
   const hasListings = listings.length > 0;
+  const path = `/laundromats/${city.stateSlug}/${city.slug}`;
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name: `Laundromats in ${city.name}, ${stateLabel}`,
+    description: cityIntro(city),
+    url: absoluteUrl(path),
+    ...(hasListings ? { mainEntity: {
+      "@type": "ItemList",
+      numberOfItems: listings.length,
+      itemListElement: listings.map((listing, index) => ({
+        "@type": "ListItem",
+        position: index + 1,
+        name: listing.name,
+        url: absoluteUrl(`${path}#${city.slug}-listing-${listing.id}`),
+      })),
+    }} : {}),
+  };
 
   return <PageShell>
+    <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}/>
     <section className="border-b border-brand-100 bg-brand-50">
       <div className="mx-auto max-w-5xl px-5 py-16">
         <Breadcrumbs items={[{ label: city.name }]}/>
@@ -49,6 +69,7 @@ export default function CityPage({ params }: Props) {
         <p className="mt-6 text-lg leading-8 text-slate-600">{cityIntro(city)}</p>
       </div>
     </section>
+    <CityServiceLinks citySlug={city.slug} cityName={city.name}/>
     {hasListings ? <section id="listings" className="mx-auto max-w-7xl scroll-mt-8 px-5 py-16 lg:px-8">
       <div className="mb-8 max-w-3xl">
         <p className="text-sm font-bold uppercase tracking-[.18em] text-brand-600">{city.name} directory</p>

@@ -1,0 +1,2913 @@
+[
+  {
+    "id": "bcf84417-0821-4001-a306-d0f8c385b915",
+    "slug": "sunset-laundromat-los-angeles-ca",
+    "name": "Sunset Laundromat",
+    "address": "4301 Sunset Blvd",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90029",
+    "phone": "(323) 660-5865",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM - 10:00 PM",
+      "tuesday": "7:00 AM - 10:00 PM",
+      "wednesday": "7:00 AM - 10:00 PM",
+      "thursday": "7:00 AM - 10:00 PM",
+      "friday": "7:00 AM - 10:00 PM",
+      "saturday": "7:00 AM - 10:00 PM",
+      "sunday": "7:00 AM - 10:00 PM"
+    },
+    "rating": 4.1,
+    "reviewCount": 156,
+    "services": [
+      "Self-Service",
+      "Wash & Fold",
+      "Dry Cleaning"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card",
+      "Mobile Payment"
+    ],
+    "amenities": [
+      "WiFi",
+      "TV",
+      "Seating Area"
+    ],
+    "pricing": {
+      "washPrice": "$4.25",
+      "dryPrice": "$3.50",
+      "washFoldPrice": "$1.40/lb"
+    },
+    "description": "Reliable neighborhood laundromat with good machines and fair prices. Clean environment with helpful attendants.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": false,
+    "hasWiFi": true,
+    "hasParking": true,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "0985cf06-f50b-487e-a0ce-aa91b3a28e02",
+    "slug": "community-coin-wash-los-angeles-ca",
+    "name": "Community Coin Wash",
+    "address": "3724 W Olympic Blvd",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90019",
+    "phone": "(424) 522-3344",
+    "website": null,
+    "hours": {
+      "monday": "6:00 AM – 9:00 PM",
+      "tuesday": "6:00 AM – 9:00 PM",
+      "wednesday": "6:00 AM – 9:00 PM",
+      "thursday": "6:00 AM – 9:00 PM",
+      "friday": "6:00 AM – 9:00 PM",
+      "saturday": "6:00 AM – 9:00 PM",
+      "sunday": "6:00 AM – 9:00 PM"
+    },
+    "rating": 4.1,
+    "reviewCount": 83,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood coin laundry offering convenient washing and drying solutions in in the vibrant Los Angeles area. Features spacious facility and reliable equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "87bba8d4-8771-4aac-a0d8-f1965f57ea90",
+    "slug": "rosie-wash-express-laundry-los-angeles-ca",
+    "name": "Rosie Wash Express Laundry",
+    "address": "4700 Normandie Ave",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90037",
+    "phone": "(323) 639-7272",
+    "website": "https://rosiewashandfold.com/",
+    "hours": {
+      "monday": "7:00 AM – 8:00 PM",
+      "tuesday": "7:00 AM – 8:00 PM",
+      "wednesday": "7:00 AM – 8:00 PM",
+      "thursday": "7:00 AM – 8:00 PM",
+      "friday": "7:00 AM – 8:00 PM",
+      "saturday": "6:00 AM – 8:00 PM",
+      "sunday": "6:00 AM – 8:00 PM"
+    },
+    "rating": 4.3,
+    "reviewCount": 94,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat featuring quick-service focused serving in the vibrant Los Angeles area with convenient washing and drying facilities. Known for modern equipment and clean environment.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "eb4ef76f-6881-4380-bbce-d91ed036d2b6",
+    "slug": "los-lavaderos-coin-laundries-los-angeles-ca-3",
+    "name": "Los Lavaderos Coin Laundries",
+    "address": "110 S Vermont Ave",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90004",
+    "phone": "(213) 413-6890",
+    "website": null,
+    "hours": {
+      "monday": "5:00 AM – 9:00 PM",
+      "tuesday": "5:00 AM – 10:00 PM",
+      "wednesday": "5:00 AM – 10:00 PM",
+      "thursday": "5:00 AM – 10:00 PM",
+      "friday": "5:00 AM – 10:00 PM",
+      "saturday": "5:00 AM – 10:00 PM",
+      "sunday": "5:00 AM – 10:00 PM"
+    },
+    "rating": 4.1,
+    "reviewCount": 61,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat providing quality washing and drying services to the in the vibrant Los Angeles area community. Well-equipped with commercial-grade machines. This 4.10-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "299f225a-2ae9-4161-9567-71bb467e8bf1",
+    "slug": "occidental-laundromat-los-angeles-ca",
+    "name": "Occidental Laundromat",
+    "address": "1600 6th Ave",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90019",
+    "phone": "(323) 998-0499",
+    "website": "https://calendly.com/occidentallaundromat",
+    "hours": {
+      "monday": "6:00 AM – 10:00 PM",
+      "tuesday": "6:00 AM – 10:00 PM",
+      "wednesday": "6:00 AM – 10:00 PM",
+      "thursday": "6:00 AM – 10:00 PM",
+      "friday": "6:00 AM – 10:00 PM",
+      "saturday": "5:00 AM – 10:00 PM",
+      "sunday": "5:00 AM – 10:00 PM"
+    },
+    "rating": 4.2,
+    "reviewCount": 51,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Family-friendly laundromat serving in the vibrant Los Angeles area with convenient washing and drying services. Features comfortable seating and modern laundry equipment. This 4.20-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "1508ab51-4d15-46b1-8b49-938c626469c7",
+    "slug": "24-horas-lavanderia-24-hours-laundromat-los-angeles-ca",
+    "name": "24 HORAS LAVANDERIA. 24 HOURS LAUNDROMAT",
+    "address": "8301 Compton Ave",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90001",
+    "phone": null,
+    "website": null,
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.3,
+    "reviewCount": 132,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat serving in the vibrant Los Angeles area with convenient washing and drying facilities. Known for modern equipment and clean environment.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "b48020b4-2a01-4747-aa73-f11054d92dda",
+    "slug": "vermont-free-dry-coin-laundry-car-wash-los-angeles-ca",
+    "name": "Vermont Free Dry Coin Laundry & Car Wash",
+    "address": "10601 S Vermont Ave",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90044",
+    "phone": "(323) 920-7847",
+    "website": null,
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.5,
+    "reviewCount": 386,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional laundromat offering reliable washing and drying solutions in in the vibrant Los Angeles area. Known for clean facilities and well-maintained equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "dc0cc036-506e-419c-b453-260971cf6cb1",
+    "slug": "laundry-pop-los-angeles-ca",
+    "name": "Laundry Pop",
+    "address": "5609 W Sunset Blvd Suite A",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90028",
+    "phone": "(323) 963-5283",
+    "website": "https://www.laundrypop.com/",
+    "hours": {
+      "monday": "6:00 AM – 10:00 PM",
+      "tuesday": "6:00 AM – 10:00 PM",
+      "wednesday": "6:00 AM – 10:00 PM",
+      "thursday": "6:00 AM – 10:00 PM",
+      "friday": "6:00 AM – 10:00 PM",
+      "saturday": "6:00 AM – 10:00 PM",
+      "sunday": "6:00 AM – 10:00 PM"
+    },
+    "rating": 4.4,
+    "reviewCount": 181,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional coin laundry providing efficient washing and drying solutions in in the vibrant Los Angeles area. Popular choice for reliable laundry services.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "bc0f9c50-bd91-40ca-a8c2-aa769e7ee271",
+    "slug": "denker-coin-laundry-los-angeles-ca",
+    "name": "Denker Coin Laundry",
+    "address": "1601 W Florence Ave",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90047",
+    "phone": "(323) 920-4231",
+    "website": null,
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.3,
+    "reviewCount": 249,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient coin-operated laundromat serving in the vibrant Los Angeles area with efficient washing and drying facilities. Popular with local community members.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "9832cb82-2a61-4d7e-859d-b60efa9086d5",
+    "slug": "the-washing-machine-laundromat-los-angeles-ca",
+    "name": "The Washing Machine Laundromat",
+    "address": "8247 W 3rd St",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90048",
+    "phone": "(213) 619-4017",
+    "website": null,
+    "hours": {
+      "monday": "6:00 AM – 12:00 AM",
+      "tuesday": "6:00 AM – 12:00 AM",
+      "wednesday": "6:00 AM – 12:00 AM",
+      "thursday": "6:00 AM – 12:00 AM",
+      "friday": "6:00 AM – 12:00 AM",
+      "saturday": "6:00 AM – 12:00 AM",
+      "sunday": "6:00 AM – 12:00 AM"
+    },
+    "rating": 4.1,
+    "reviewCount": 150,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat serving in the vibrant Los Angeles area with convenient washing and drying facilities. Known for modern equipment and clean environment. This 4.10-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "13b4c2b1-09e9-4f68-819d-d9bf6abd58dd",
+    "slug": "the-laundry-basket-los-angeles-ca",
+    "name": "The Laundry Basket",
+    "address": "6707 Santa Monica Blvd",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90038",
+    "phone": "(323) 380-5871",
+    "website": "http://www.laundrybasketla.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=17420746699004269260",
+    "hours": {
+      "monday": "6:00 AM – 10:00 PM",
+      "tuesday": "6:00 AM – 10:00 PM",
+      "wednesday": "6:00 AM – 10:00 PM",
+      "thursday": "6:00 AM – 10:00 PM",
+      "friday": "6:00 AM – 10:00 PM",
+      "saturday": "6:00 AM – 10:00 PM",
+      "sunday": "6:00 AM – 10:00 PM"
+    },
+    "rating": 4.7,
+    "reviewCount": 38,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Family-friendly laundromat serving in the vibrant Los Angeles area with convenient washing and drying services. Features comfortable seating and modern laundry equipment. This 4.70-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "5fe1365f-6c3b-4527-8806-6018a2cb713f",
+    "slug": "king-coin-laundry-lavandera-los-angeles-ca",
+    "name": "King Coin Laundry Lavandería",
+    "address": "2032 W Pico Blvd",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90006",
+    "phone": "(213) 900-1012",
+    "website": "http://www.kingcoinlaundry.com/",
+    "hours": {
+      "monday": "6:00 AM – 9:00 PM",
+      "tuesday": "6:00 AM – 9:00 PM",
+      "wednesday": "6:00 AM – 9:00 PM",
+      "thursday": "6:00 AM – 9:00 PM",
+      "friday": "6:00 AM – 11:00 PM",
+      "saturday": "6:00 AM – 11:00 PM",
+      "sunday": "6:00 AM – 9:00 PM"
+    },
+    "rating": 4.8,
+    "reviewCount": 117,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient laundromat providing efficient washing and drying services in in the vibrant Los Angeles area. Popular with local residents for its reliable machines and clean environment. This 4.80-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "9fcae6ba-48a6-4426-abca-5c7bd22a63ae",
+    "slug": "los-lavaderos-coin-laundries-los-angeles-ca-2",
+    "name": "Los Lavaderos Coin Laundries",
+    "address": "2625 W Sunset Blvd",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90026",
+    "phone": "(213) 484-0250",
+    "website": null,
+    "hours": {
+      "monday": "5:00 AM – 12:00 AM",
+      "tuesday": "5:00 AM – 12:00 AM",
+      "wednesday": "5:00 AM – 12:00 AM",
+      "thursday": "5:00 AM – 12:00 AM",
+      "friday": "5:00 AM – 12:00 AM",
+      "saturday": "5:00 AM – 12:00 AM",
+      "sunday": "5:00 AM – 12:00 AM"
+    },
+    "rating": 4.5,
+    "reviewCount": 155,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service laundromat offering convenient washing and drying facilities in in the vibrant Los Angeles area. Features modern equipment and a clean environment for all your laundry needs.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "3d873ff3-47d2-4b00-85ce-01ce50cfb78a",
+    "slug": "heavenly-laundromat-los-angeles-ca",
+    "name": "Heavenly Laundromat",
+    "address": "3135 N San Fernando Rd",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90065",
+    "phone": "(323) 982-9038",
+    "website": null,
+    "hours": {
+      "monday": "6:00 AM – 9:00 PM",
+      "tuesday": "6:00 AM – 9:00 PM",
+      "wednesday": "6:00 AM – 9:00 PM",
+      "thursday": "6:00 AM – 9:00 PM",
+      "friday": "6:00 AM – 9:00 PM",
+      "saturday": "6:00 AM – 9:00 PM",
+      "sunday": "6:00 AM – 9:00 PM"
+    },
+    "rating": 4.4,
+    "reviewCount": 204,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service coin laundry providing washing and drying solutions in in the vibrant Los Angeles area. Known for clean facilities and dependable laundry equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "91d84278-5fe6-417f-a7c5-dcaadc2bd75a",
+    "slug": "the-laundry-room-of-palms-los-angeles-ca",
+    "name": "The Laundry Room of Palms",
+    "address": "10413 Tabor St",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90034",
+    "phone": "(760) 560-3870",
+    "website": "http://www.laundryroompalms.com/",
+    "hours": {
+      "monday": "6:00 AM – 9:30 PM",
+      "tuesday": "6:00 AM – 9:30 PM",
+      "wednesday": "6:00 AM – 9:30 PM",
+      "thursday": "6:00 AM – 9:30 PM",
+      "friday": "6:00 AM – 9:30 PM",
+      "saturday": "6:00 AM – 9:30 PM",
+      "sunday": "6:00 AM – 9:30 PM"
+    },
+    "rating": 3.9,
+    "reviewCount": 186,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established laundromat serving the in the vibrant Los Angeles area area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "26b86fcf-4213-4586-807f-5bc5aa0a833d",
+    "slug": "laundry-4-season-laundromat-los-angeles-ca",
+    "name": "Laundry | 4 Season Laundromat",
+    "address": "5173 Santa Monica Blvd",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90029",
+    "phone": "(323) 662-1528",
+    "website": null,
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.5,
+    "reviewCount": 108,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service laundromat offering reliable washing and drying solutions in in the vibrant Los Angeles area. Features modern equipment and convenient operating hours.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "87e58dcd-f609-4195-93d5-e96490a08441",
+    "slug": "wash-and-fold-laundromat-los-angeles-ca",
+    "name": "Wash and Fold Laundromat",
+    "address": "1410 W 6th St",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90017",
+    "phone": "(213) 640-9274",
+    "website": "https://washandfoldlaundromat.com/",
+    "hours": {
+      "monday": "5:30 AM – 9:00 PM",
+      "tuesday": "5:30 AM – 9:00 PM",
+      "wednesday": "5:30 AM – 9:00 PM",
+      "thursday": "5:30 AM – 9:00 PM",
+      "friday": "5:30 AM – 9:00 PM",
+      "saturday": "4:30 AM – 9:00 PM",
+      "sunday": "4:30 AM – 9:00 PM"
+    },
+    "rating": 4.1,
+    "reviewCount": 176,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service washing facility offering quality laundry solutions in in the vibrant Los Angeles area. Features comfortable environment and well-maintained machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "650b297d-1a66-470f-9e23-9ff39dba093e",
+    "slug": "oasis-laundry-los-angeles-ca",
+    "name": "Oasis Laundry",
+    "address": "2815 W Jefferson Blvd",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90018",
+    "phone": "(323) 733-0074",
+    "website": "http://www.oasislaundry.la/",
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.1,
+    "reviewCount": 195,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service laundromat offering reliable washing and drying solutions in in the vibrant Los Angeles area. Features modern equipment and convenient operating hours. This 4.10-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "ef88cfc4-1a84-4eaf-8843-57e0946d4606",
+    "slug": "24-hr-coin-laundry-los-angeles-ca",
+    "name": "24 HR coin laundry",
+    "address": "8854 Main St",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90003",
+    "phone": null,
+    "website": "http://24hr-laundromat-la.jany.io/",
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.5,
+    "reviewCount": 141,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service washing facility offering quality laundry solutions in in the vibrant Los Angeles area. Features comfortable environment and well-maintained machines. This 4.50-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "7e4e2988-3f38-4991-ac79-3d7a33794b08",
+    "slug": "figueroa-coin-laundry-los-angeles-ca",
+    "name": "Figueroa Coin Laundry",
+    "address": "8401 S Figueroa St",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90003",
+    "phone": null,
+    "website": null,
+    "hours": {
+      "monday": "Closed",
+      "tuesday": "Closed",
+      "wednesday": "Closed",
+      "thursday": "Closed",
+      "friday": "Closed",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "rating": 4.1,
+    "reviewCount": 222,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local washing facility providing reliable laundry services in in the vibrant Los Angeles area. Popular choice for both quick wash and full-service laundry needs. This 4.10-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "db0c4e52-e8db-40cc-99ee-b118021e2c0f",
+    "slug": "launderland-los-angeles-ca",
+    "name": "Launderland",
+    "address": "4216 N Eagle Rock Blvd",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90065",
+    "phone": "(323) 254-1992",
+    "website": null,
+    "hours": {
+      "monday": "6:00 AM – 9:00 PM",
+      "tuesday": "6:00 AM – 9:00 PM",
+      "wednesday": "6:00 AM – 9:00 PM",
+      "thursday": "6:00 AM – 9:00 PM",
+      "friday": "6:00 AM – 9:00 PM",
+      "saturday": "6:00 AM – 9:00 PM",
+      "sunday": "6:00 AM – 9:00 PM"
+    },
+    "rating": 4.3,
+    "reviewCount": 53,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community laundromat providing comprehensive washing and drying solutions in in the vibrant Los Angeles area. Well-equipped with modern laundry machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "2546801d-143d-4d16-b821-a594bc51a0fb",
+    "slug": "pico-2-coin-laundry-los-angeles-ca",
+    "name": "Pico 2 Coin Laundry",
+    "address": "2462 W Pico Blvd",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90006",
+    "phone": null,
+    "website": "https://www.facebook.com/Pico-24hr-Coin-Laundry-2090625134508655",
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.5,
+    "reviewCount": 333,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat providing quality washing and drying services to the in the vibrant Los Angeles area community. Well-equipped with commercial-grade machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "775cde0a-a25a-49ca-be47-8ad840e7c8dc",
+    "slug": "los-lavaderos-coin-laundries-los-angeles-ca",
+    "name": "Los Lavaderos Coin Laundries",
+    "address": "954 Virgil Ave",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90029",
+    "phone": "(323) 660-7331",
+    "website": null,
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.3,
+    "reviewCount": 94,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient laundromat serving the in the vibrant Los Angeles area area with efficient washing and drying services. Popular with residents for reliable equipment. This 4.30-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "d5f7ee47-b8f0-4612-a5cb-c0dcceb62dc5",
+    "slug": "luxe-laundries-western-ave-los-angeles-ca",
+    "name": "Luxe Laundries- Western Ave",
+    "address": "1548 N Western Ave",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90027",
+    "phone": "(323) 480-1232",
+    "website": "http://www.luxelaundries.com/",
+    "hours": {
+      "monday": "7:00 AM – 9:00 PM",
+      "tuesday": "7:00 AM – 9:00 PM",
+      "wednesday": "7:00 AM – 9:00 PM",
+      "thursday": "7:00 AM – 9:00 PM",
+      "friday": "7:00 AM – 9:00 PM",
+      "saturday": "7:00 AM – 9:00 PM",
+      "sunday": "7:00 AM – 9:00 PM"
+    },
+    "rating": 4.7,
+    "reviewCount": 630,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community laundromat providing comprehensive washing and drying solutions in in the vibrant Los Angeles area. Well-equipped with modern laundry machines. This 4.70-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "cc16a17b-c027-4c3c-8af6-ddd9b1aa363f",
+    "slug": "luxe-laundries-echo-park-los-angeles-ca",
+    "name": "Luxe Laundries - Echo Park",
+    "address": "1448 N Alvarado St",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90026",
+    "phone": "(323) 480-1232",
+    "website": "http://luxelaundries.com/",
+    "hours": {
+      "monday": "7:00 AM – 9:00 PM",
+      "tuesday": "7:00 AM – 9:00 PM",
+      "wednesday": "7:00 AM – 9:00 PM",
+      "thursday": "7:00 AM – 9:00 PM",
+      "friday": "7:00 AM – 9:00 PM",
+      "saturday": "7:00 AM – 9:00 PM",
+      "sunday": "7:00 AM – 9:00 PM"
+    },
+    "rating": 4.4,
+    "reviewCount": 186,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community-focused laundromat providing reliable washing and drying services to residents of in the vibrant Los Angeles area. Known for well-maintained machines and friendly service. This 4.40-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "980e7716-86a9-4cfe-bcef-f0436bda7af9",
+    "slug": "junes-laundry-los-angeles-ca",
+    "name": "June's Laundry",
+    "address": "2720 W Vernon Ave",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90008",
+    "phone": "(323) 250-2128",
+    "website": "http://juneslaundry.com/",
+    "hours": {
+      "monday": "7:00 AM – 8:00 PM",
+      "tuesday": "7:00 AM – 8:00 PM",
+      "wednesday": "7:00 AM – 8:00 PM",
+      "thursday": "7:00 AM – 8:00 PM",
+      "friday": "7:00 AM – 8:00 PM",
+      "saturday": "7:00 AM – 8:00 PM",
+      "sunday": "7:00 AM – 8:00 PM"
+    },
+    "rating": 4.7,
+    "reviewCount": 75,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient laundromat providing efficient washing and drying services in in the vibrant Los Angeles area. Popular with local residents for its reliable machines and clean environment.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "2a2d1d9f-f9ad-4104-8bbe-5f0d8d400950",
+    "slug": "king-laundry-24-hour-drop-off-self-serve-los-angeles-ca",
+    "name": "King Laundry - 24 Hour Drop Off & Self Serve",
+    "address": "1980 Maple Ave",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90011",
+    "phone": "(323) 708-4000",
+    "website": "http://www.kinglaundry.com/",
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.3,
+    "reviewCount": 136,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local laundromat offering comprehensive washing and drying services in in the vibrant Los Angeles area. Features spacious facility with modern equipment and convenient hours. This 4.30-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "ef9dccd0-429a-4cd8-b4dc-af94e9a2c397",
+    "slug": "lavanderia-laundromat-los-angeles-ca",
+    "name": "Lavanderia Laundromat",
+    "address": "3480 E Cesar E Chavez Ave",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90063",
+    "phone": "(323) 723-2194",
+    "website": "http://www.luxelaundries.com/",
+    "hours": {
+      "monday": "6:00 AM – 8:00 PM",
+      "tuesday": "6:00 AM – 8:00 PM",
+      "wednesday": "6:00 AM – 8:00 PM",
+      "thursday": "6:00 AM – 8:00 PM",
+      "friday": "6:00 AM – 8:00 PM",
+      "saturday": "6:00 AM – 8:00 PM",
+      "sunday": "6:00 AM – 8:00 PM"
+    },
+    "rating": 4.8,
+    "reviewCount": 85,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established laundry facility providing comprehensive washing and drying services in in the vibrant Los Angeles area. Well-equipped with commercial-grade machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "f894e426-7d5f-434d-bd7f-650b66152ff1",
+    "slug": "laundromat-los-angeles-ca",
+    "name": "Laundromat",
+    "address": "5103 S Figueroa St",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90037",
+    "phone": "(323) 232-3000",
+    "website": null,
+    "hours": {
+      "monday": "6:30 AM – 9:00 PM",
+      "tuesday": "6:30 AM – 9:00 PM",
+      "wednesday": "6:30 AM – 9:00 PM",
+      "thursday": "6:30 AM – 9:00 PM",
+      "friday": "6:30 AM – 9:00 PM",
+      "saturday": "6:00 AM – 9:00 PM",
+      "sunday": "6:00 AM – 9:00 PM"
+    },
+    "rating": 4.2,
+    "reviewCount": 48,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Family-friendly laundromat serving in the vibrant Los Angeles area with convenient washing and drying services. Features comfortable seating and modern laundry equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "518e793a-8513-4d6f-a834-d821b40db47d",
+    "slug": "launderland-laundromat-wash-and-fold-los-angeles-ca",
+    "name": "Launderland Laundromat & Wash and Fold",
+    "address": "1119 N Western Ave C",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90029",
+    "phone": "(818) 429-5637",
+    "website": "http://www.launderlandlaundryservices.com/",
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.3,
+    "reviewCount": 261,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established washing facility offering comprehensive laundry services in in the vibrant Los Angeles area. Features modern equipment and convenient location for easy access.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "e460e5a9-010b-43c7-9524-b6b106bb89ef",
+    "slug": "our-beautiful-launderette-los-angeles-ca",
+    "name": "Our Beautiful Launderette",
+    "address": "8105 Beverly Blvd",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90048",
+    "phone": "(424) 325-9929",
+    "website": "https://www.laundryiscool.com/",
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.4,
+    "reviewCount": 233,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community laundromat offering convenient washing and drying services to in the vibrant Los Angeles area residents. Features well-maintained machines and comfortable environment.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "1f9266ec-a635-4fa8-bce4-0521e56e163e",
+    "slug": "l3-turbo-wash-laundromat-los-angeles-ca",
+    "name": "L3 Turbo Wash Laundromat",
+    "address": "689 S Hoover St",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90005",
+    "phone": "(213) 973-8040",
+    "website": "https://l3turbowash.com/",
+    "hours": {
+      "monday": "5:00 AM – 10:00 PM",
+      "tuesday": "5:00 AM – 10:00 PM",
+      "wednesday": "5:00 AM – 10:00 PM",
+      "thursday": "5:00 AM – 10:00 PM",
+      "friday": "5:00 AM – 10:00 PM",
+      "saturday": "5:00 AM – 10:00 PM",
+      "sunday": "5:00 AM – 10:00 PM"
+    },
+    "rating": 4.8,
+    "reviewCount": 71,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service coin laundry providing washing and drying solutions in in the vibrant Los Angeles area. Known for clean facilities and dependable laundry equipment. This 4.80-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "12400450-899d-4239-bf1d-907efee82a89",
+    "slug": "western-24-coin-laundry-los-angeles-ca",
+    "name": "Western 24 Coin Laundry",
+    "address": "347 N Western Ave",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90004",
+    "phone": "(323) 467-3680",
+    "website": null,
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 3.8,
+    "reviewCount": 254,
+    "services": [
+      "Self-Service",
+      "24/7 Operation",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Family-friendly laundromat serving in the vibrant Los Angeles area with convenient washing and drying services. Features comfortable seating and modern laundry equipment. This 3.80-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "9ae370df-449a-4d0a-9fcf-a21e718ef1ad",
+    "slug": "clean-king-laundry-los-angeles-ca-2",
+    "name": "Clean King Laundry",
+    "address": "5323 S Western Ave",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90062",
+    "phone": "(818) 363-5500",
+    "website": "http://cleankinglaundry.com/",
+    "hours": {
+      "monday": "6:00 AM – 1:00 AM",
+      "tuesday": "6:00 AM – 1:00 AM",
+      "wednesday": "6:00 AM – 1:00 AM",
+      "thursday": "6:00 AM – 1:00 AM",
+      "friday": "6:00 AM – 1:00 AM",
+      "saturday": "6:00 AM – 1:00 AM",
+      "sunday": "6:00 AM – 1:00 AM"
+    },
+    "rating": 4.7,
+    "reviewCount": 425,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat featuring spotless environment providing quality washing and drying services to the in the vibrant Los Angeles area community. Well-equipped with commercial-grade machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "cb30dc08-9161-45cd-a3b6-cd984bb7afb1",
+    "slug": "socal-wash-and-fold-adams-los-angeles-ca",
+    "name": "SoCal Wash and Fold - Adams",
+    "address": "401 E Adams Blvd",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90011",
+    "phone": "(818) 429-3407",
+    "website": "http://socalwashandfold.com/",
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4,
+    "reviewCount": 154,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service laundromat offering reliable washing and drying solutions in in the vibrant Los Angeles area. Features modern equipment and convenient operating hours.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "4902c998-da58-40bc-a853-0e8e74a3e4bb",
+    "slug": "big-waves-laundromat-mar-vista-los-angeles-ca",
+    "name": "Big Waves Laundromat - Mar Vista",
+    "address": "3839 Grand View Blvd",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90066",
+    "phone": "(310) 829-9378",
+    "website": "https://www.bigwaveslaundromat.com/",
+    "hours": {
+      "monday": "5:00 AM – 11:00 PM",
+      "tuesday": "5:00 AM – 11:00 PM",
+      "wednesday": "5:00 AM – 11:00 PM",
+      "thursday": "5:00 AM – 11:00 PM",
+      "friday": "5:00 AM – 11:00 PM",
+      "saturday": "5:00 AM – 11:00 PM",
+      "sunday": "5:00 AM – 11:00 PM"
+    },
+    "rating": 4.4,
+    "reviewCount": 154,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional coin laundry providing efficient washing and drying solutions in in the vibrant Los Angeles area. Popular choice for reliable laundry services.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "1b707ca9-64d0-456b-8728-4d3e6d31abac",
+    "slug": "clean-king-laundry-los-angeles-ca",
+    "name": "Clean King Laundry",
+    "address": "3601 Crenshaw Blvd",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90016",
+    "phone": "(818) 363-5500",
+    "website": "http://cleankinglaundry.com/",
+    "hours": {
+      "monday": "5:00 AM – 1:00 AM",
+      "tuesday": "5:00 AM – 1:00 AM",
+      "wednesday": "5:00 AM – 1:00 AM",
+      "thursday": "5:00 AM – 1:00 AM",
+      "friday": "5:00 AM – 1:00 AM",
+      "saturday": "5:00 AM – 1:00 AM",
+      "sunday": "5:00 AM – 1:00 AM"
+    },
+    "rating": 4.7,
+    "reviewCount": 832,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Spotless environment laundromat providing reliable washing and drying services to residents of in the vibrant Los Angeles area. Known for well-maintained machines and friendly service.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "cd02a8dd-dad9-4615-852e-c1c0e95c8e2f",
+    "slug": "24-hrs-lavanderia-los-angeles-ca",
+    "name": "24 Hrs Lavanderia",
+    "address": "1275 W Jefferson Blvd",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90007",
+    "phone": null,
+    "website": "https://247lavanderia.com/",
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.3,
+    "reviewCount": 143,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional laundromat serving the in the vibrant Los Angeles area area with modern washing and drying equipment. Known for efficient service and clean facilities.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "df73926c-7225-438a-a701-52ad4d07b766",
+    "slug": "24-hour-coin-laundry-los-angeles-ca",
+    "name": "24 Hour Coin Laundry",
+    "address": "764 S Mariposa Ave",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90005",
+    "phone": null,
+    "website": null,
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.3,
+    "reviewCount": 385,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service laundromat offering convenient washing and drying facilities in in the vibrant Los Angeles area. Features modern equipment and a clean environment for all your laundry needs.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "b45f4874-66f6-42e1-ab77-db1067237a89",
+    "slug": "luxe-laundries-hyperion-ave-los-angeles-ca",
+    "name": "Luxe Laundries - Hyperion Ave",
+    "address": "2902 Hyperion Ave",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90027",
+    "phone": "(323) 480-1232",
+    "website": "http://www.luxelaundries.com/",
+    "hours": {
+      "monday": "6:00 AM – 11:00 PM",
+      "tuesday": "6:00 AM – 11:00 PM",
+      "wednesday": "6:00 AM – 11:00 PM",
+      "thursday": "6:00 AM – 11:00 PM",
+      "friday": "6:00 AM – 11:00 PM",
+      "saturday": "6:00 AM – 11:00 PM",
+      "sunday": "6:00 AM – 11:00 PM"
+    },
+    "rating": 4.5,
+    "reviewCount": 131,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Family-friendly laundromat serving in the vibrant Los Angeles area with convenient washing and drying services. Features comfortable seating and modern laundry equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "458a13c6-6207-4024-a335-b2fb0945811e",
+    "slug": "caffe-laundry-24-los-angeles-ca",
+    "name": "Caffe Laundry 24",
+    "address": "443 Vermont Ave",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90020",
+    "phone": "(213) 568-3799",
+    "website": null,
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 3.7,
+    "reviewCount": 432,
+    "services": [
+      "Self-Service",
+      "24/7 Operation"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat providing quality washing and drying services to the in the vibrant Los Angeles area community. Well-equipped with commercial-grade machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "720dd98f-35ba-40f8-a2b9-f23f0742bbba",
+    "slug": "reina-lavanderia-los-angeles-ca",
+    "name": "Reina Lavanderia",
+    "address": "807 S Alvarado St",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90057",
+    "phone": "(213) 800-4911",
+    "website": "https://reinalavanderia.com/",
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "6:00 AM – 10:00 PM",
+      "sunday": "6:00 AM – 10:00 PM"
+    },
+    "rating": 5,
+    "reviewCount": 196,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional laundromat offering reliable washing and drying solutions in in the vibrant Los Angeles area. Known for clean facilities and well-maintained equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "9aefd5da-6f10-4f94-9842-460fcb266b0a",
+    "slug": "socal-wash-and-fold-6th-st-los-angeles-ca",
+    "name": "SoCal Wash and Fold - 6th St.",
+    "address": "1800 W 6th St",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90057",
+    "phone": "(818) 429-3407",
+    "website": "https://www.socalwashandfold.com/",
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4,
+    "reviewCount": 80,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service laundromat offering convenient washing and drying facilities in in the vibrant Los Angeles area. Features modern equipment and a clean environment for all your laundry needs. This 4.00-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "e7774ec8-df0f-43d1-a2b2-6effc57a1b4e",
+    "slug": "luxe-laundries-east-la-3-los-angeles-ca",
+    "name": "Luxe Laundries East LA #3",
+    "address": "4110 E Cesar E Chavez Ave",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90063",
+    "phone": "(323) 480-1232",
+    "website": "https://luxelaundries.com/location/east-la-3/",
+    "hours": {
+      "monday": "6:00 AM – 9:00 PM",
+      "tuesday": "6:00 AM – 9:00 PM",
+      "wednesday": "6:00 AM – 9:00 PM",
+      "thursday": "6:00 AM – 9:00 PM",
+      "friday": "6:00 AM – 9:00 PM",
+      "saturday": "6:00 AM – 9:00 PM",
+      "sunday": "6:00 AM – 9:00 PM"
+    },
+    "rating": 4.6,
+    "reviewCount": 126,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community laundromat providing comprehensive washing and drying solutions in in the vibrant Los Angeles area. Well-equipped with modern laundry machines. This 4.60-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "78f7930b-44dc-4e1b-822f-046eeb83a481",
+    "slug": "310-laundromat-los-angeles-ca",
+    "name": "310 Laundromat",
+    "address": "12131 Washington Pl Ste G",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90066",
+    "phone": "(310) 398-8890",
+    "website": "http://www.310laundromat.com/",
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.2,
+    "reviewCount": 193,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional coin laundry providing efficient washing and drying solutions in in the vibrant Los Angeles area. Popular choice for reliable laundry services. This 4.20-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "3d1b21b2-3e79-45f4-910a-3303fa38b109",
+    "slug": "love-laundry-w-pico-la-los-angeles-ca",
+    "name": "Love Laundry W Pico, LA",
+    "address": "5960 W Pico Blvd",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90035",
+    "phone": "(818) 259-0690",
+    "website": "https://lovelaundrysocal.com/socal/west-pico",
+    "hours": {
+      "monday": "5:00 AM – 12:00 AM",
+      "tuesday": "5:00 AM – 12:00 AM",
+      "wednesday": "5:00 AM – 12:00 AM",
+      "thursday": "5:00 AM – 12:00 AM",
+      "friday": "5:00 AM – 12:00 AM",
+      "saturday": "5:00 AM – 12:00 AM",
+      "sunday": "5:00 AM – 12:00 AM"
+    },
+    "rating": 4.1,
+    "reviewCount": 288,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient laundromat serving the in the vibrant Los Angeles area area with efficient washing and drying services. Popular with residents for reliable equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "ede22b76-f3ce-4263-9efe-e025f710bea9",
+    "slug": "the-hollywood-laundry-los-angeles-ca",
+    "name": "The Hollywood Laundry",
+    "address": "7359 W Sunset Blvd",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90046",
+    "phone": "(323) 599-1200",
+    "website": "http://www.thehollywoodlaundry.com/",
+    "hours": {
+      "monday": "8:00 AM – 10:00 PM",
+      "tuesday": "8:00 AM – 10:00 PM",
+      "wednesday": "8:00 AM – 10:00 PM",
+      "thursday": "8:00 AM – 10:00 PM",
+      "friday": "8:00 AM – 10:00 PM",
+      "saturday": "8:00 AM – 8:00 PM",
+      "sunday": "8:00 AM – 8:00 PM"
+    },
+    "rating": 3.7,
+    "reviewCount": 206,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service washing facility offering quality laundry solutions in in the vibrant Los Angeles area. Features comfortable environment and well-maintained machines. This 3.70-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "931ed45d-2fc4-427f-8d9e-8ac90fa59708",
+    "slug": "desis-coin-laundry-los-angeles-ca",
+    "name": "Desi's Coin Laundry",
+    "address": "2377 W Pico Blvd",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90006",
+    "phone": "(213) 529-4331",
+    "website": null,
+    "hours": {
+      "monday": "6:00 AM – 12:00 AM",
+      "tuesday": "6:00 AM – 12:00 AM",
+      "wednesday": "6:00 AM – 12:00 AM",
+      "thursday": "6:00 AM – 12:00 AM",
+      "friday": "6:00 AM – 12:00 AM",
+      "saturday": "6:00 AM – 12:00 AM",
+      "sunday": "6:00 AM – 12:00 AM"
+    },
+    "rating": 4.1,
+    "reviewCount": 324,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat serving in the vibrant Los Angeles area with convenient washing and drying facilities. Known for modern equipment and clean environment.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "999bf5fa-09d6-44a5-8533-aaafb1a3f142",
+    "slug": "verdugo-coin-laundry-los-angeles-ca",
+    "name": "VERDUGO COIN LAUNDRY",
+    "address": "3330 Verdugo Rd",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90065",
+    "phone": "(323) 313-9736",
+    "website": "http://www.genielaundryservice.com/",
+    "hours": {
+      "monday": "6:00 AM – 10:00 PM",
+      "tuesday": "6:00 AM – 10:00 PM",
+      "wednesday": "6:00 AM – 10:00 PM",
+      "thursday": "6:00 AM – 10:00 PM",
+      "friday": "6:00 AM – 10:00 PM",
+      "saturday": "5:30 AM – 10:00 PM",
+      "sunday": "5:30 AM – 10:00 PM"
+    },
+    "rating": 4.2,
+    "reviewCount": 140,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Family-friendly laundromat serving in the vibrant Los Angeles area with convenient washing and drying services. Features comfortable seating and modern laundry equipment. This 4.20-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "620eaef6-d07f-43a9-818a-28fc612f1726",
+    "slug": "top-laundromat-los-angeles-ca",
+    "name": "Top Laundromat",
+    "address": "2189 Whittier Blvd C",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90023",
+    "phone": "(323) 685-2685",
+    "website": "http://top-laundromat.com/",
+    "hours": {
+      "monday": "5:00 AM – 11:00 PM",
+      "tuesday": "5:00 AM – 11:00 PM",
+      "wednesday": "5:00 AM – 11:00 PM",
+      "thursday": "5:00 AM – 11:00 PM",
+      "friday": "5:00 AM – 11:00 PM",
+      "saturday": "5:00 AM – 11:00 PM",
+      "sunday": "5:00 AM – 11:00 PM"
+    },
+    "rating": 4.2,
+    "reviewCount": 157,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient laundromat serving the in the vibrant Los Angeles area area with efficient washing and drying services. Popular with residents for reliable equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "5ed727c9-a75f-4b09-9359-23ed0dfc1115",
+    "slug": "express-laundry-los-angeles-ca",
+    "name": "Express Laundry",
+    "address": "4671 Melrose Ave",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90029",
+    "phone": "(323) 712-9310",
+    "website": null,
+    "hours": {
+      "monday": "6:00 AM – 8:30 PM",
+      "tuesday": "6:00 AM – 8:30 PM",
+      "wednesday": "6:00 AM – 8:30 PM",
+      "thursday": "6:00 AM – 8:00 PM",
+      "friday": "6:00 AM – 8:30 PM",
+      "saturday": "6:00 AM – 8:30 PM",
+      "sunday": "6:00 AM – 8:30 PM"
+    },
+    "rating": 5,
+    "reviewCount": 1,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional laundromat featuring speedy laundry solutions offering reliable washing and drying solutions in in the vibrant Los Angeles area. Known for clean facilities and well-maintained equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "9bd765d1-c7ab-4a50-b87e-f2c292f39150",
+    "slug": "laundry-breeze-los-angeles-ca",
+    "name": "Laundry Breeze",
+    "address": "1661 S Robertson Blvd",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90035",
+    "phone": "(323) 316-0383",
+    "website": "https://www.laundrybreeze.com/",
+    "hours": {
+      "monday": "6:00 AM – 9:00 PM",
+      "tuesday": "6:00 AM – 9:00 PM",
+      "wednesday": "6:00 AM – 9:00 PM",
+      "thursday": "6:00 AM – 9:00 PM",
+      "friday": "6:00 AM – 9:00 PM",
+      "saturday": "6:00 AM – 9:00 PM",
+      "sunday": "6:00 AM – 9:00 PM"
+    },
+    "rating": 4.6,
+    "reviewCount": 213,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community-focused laundromat providing reliable washing and drying services to residents of in the vibrant Los Angeles area. Known for well-maintained machines and friendly service.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  }
+]

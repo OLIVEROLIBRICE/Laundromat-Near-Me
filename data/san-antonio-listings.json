@@ -1,0 +1,2130 @@
+[
+  {
+    "id": "c2b99f87-22b3-4a5a-8be5-4dc1a6a68591",
+    "slug": "spinxpress-laundry-se-military-dr-wash-fold-services-san-antonio-tx",
+    "name": "SpinXpress Laundry - SE. Military Dr. - Wash & Fold Services",
+    "address": "1139 SE Military Dr STE: 103",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78214",
+    "phone": "(210) 900-6063",
+    "website": "https://gospinxpress.com/",
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.4,
+    "reviewCount": 1035,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community-oriented laundromat providing quality washing and drying services in serving San Antonio residents. Known for clean environment and friendly atmosphere.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "9162eeba-d817-4059-a6e7-1ca32c8928df",
+    "slug": "olmos-park-wash-fold-san-antonio-tx",
+    "name": "Olmos Park Wash & Fold",
+    "address": "4611 McCullough Ave",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78212",
+    "phone": "(210) 804-1710",
+    "website": null,
+    "hours": {
+      "monday": "Closed",
+      "tuesday": "7:00 AM – 9:00 PM",
+      "wednesday": "7:00 AM – 9:00 PM",
+      "thursday": "7:00 AM – 9:00 PM",
+      "friday": "7:00 AM – 9:00 PM",
+      "saturday": "7:00 AM – 9:00 PM",
+      "sunday": "7:00 AM – 9:00 PM"
+    },
+    "rating": 4.4,
+    "reviewCount": 315,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Family-friendly laundromat serving serving San Antonio residents with convenient washing and drying services. Features comfortable seating and modern laundry equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "3084c905-aed5-4200-b8c9-6277b2488a4c",
+    "slug": "e-z-wash-san-antonio-tx",
+    "name": "E-Z Wash",
+    "address": "5220 Blanco Rd",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78216",
+    "phone": "(210) 359-9274",
+    "website": "http://www.e-zwashlaundries.com/",
+    "hours": {
+      "monday": "6:00 AM – 12:00 AM",
+      "tuesday": "6:00 AM – 12:00 AM",
+      "wednesday": "6:00 AM – 12:00 AM",
+      "thursday": "6:00 AM – 12:00 AM",
+      "friday": "6:00 AM – 12:00 AM",
+      "saturday": "6:00 AM – 12:00 AM",
+      "sunday": "6:00 AM – 12:00 AM"
+    },
+    "rating": 3.7,
+    "reviewCount": 91,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient laundromat providing efficient washing and drying services in serving San Antonio residents. Popular with local residents for its reliable machines and clean environment. This 3.70-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "4f276ea6-53d0-4ee2-ab95-868f65d3d818",
+    "slug": "the-laundry-express-medical-wash-fold-service-san-antonio-tx",
+    "name": "The Laundry Express - Medical - Wash & Fold Service",
+    "address": "4057 Medical Dr",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78229",
+    "phone": "(210) 617-7020",
+    "website": "http://www.thelaundryexpress.com/",
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.2,
+    "reviewCount": 299,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established laundry facility providing comprehensive washing and drying services in serving San Antonio residents. Well-equipped with commercial-grade machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "b5465275-f601-48b4-a479-d09573ba0b15",
+    "slug": "wavemax-laundry-san-antonio-tx-san-antonio-tx",
+    "name": "Wavemax Laundry San Antonio, TX",
+    "address": "1552 Babcock Rd",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78229",
+    "phone": "(210) 236-5035",
+    "website": "https://www.wavemaxlaundry.com/san-antonio-tx",
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4.8,
+    "reviewCount": 287,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient laundromat providing efficient washing and drying services in serving San Antonio residents. Popular with local residents for its reliable machines and clean environment.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "cbaf4aa5-9fa5-4e45-9454-79ec9c75c4b8",
+    "slug": "spinxpress-laundry-thousand-oaks-wash-fold-services-san-antonio-tx",
+    "name": "SpinXpress Laundry - Thousand Oaks - Wash & Fold Services",
+    "address": "2235 Thousand Oaks Dr Suite #114",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78232",
+    "phone": "(210) 263-3926",
+    "website": "https://gospinxpress.com/",
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.8,
+    "reviewCount": 332,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community-focused laundromat providing reliable washing and drying services to residents of serving San Antonio residents. Known for well-maintained machines and friendly service.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "7c8c6ca4-1a65-4acb-8275-1bca1f840b8e",
+    "slug": "neighborhood-laundry-laundromat-washateria-lavanderia-san-antonio-tx",
+    "name": "Neighborhood Laundry - Laundromat- Washateria-Lavanderia",
+    "address": "2911 E Southcross Suite 105",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78223",
+    "phone": "(210) 332-5056",
+    "website": "https://laundrychicks.com/",
+    "hours": {
+      "monday": "8:00 AM – 10:00 PM",
+      "tuesday": "8:00 AM – 10:00 PM",
+      "wednesday": "8:00 AM – 10:00 PM",
+      "thursday": "8:00 AM – 10:00 PM",
+      "friday": "8:00 AM – 10:00 PM",
+      "saturday": "8:00 AM – 10:00 PM",
+      "sunday": "7:30 AM – 10:00 PM"
+    },
+    "rating": 4.9,
+    "reviewCount": 353,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local laundromat offering comprehensive washing and drying services in serving San Antonio residents. Features spacious facility with modern equipment and convenient hours.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "158eecdb-7891-4992-93f8-1fdb36e4cef0",
+    "slug": "speed-queen-laundry-san-antonio-tx",
+    "name": "Speed Queen Laundry",
+    "address": "3118 W Woodlawn Ave",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78228",
+    "phone": "(210) 538-5054",
+    "website": "https://stores.speedqueenlaundry.com/tx/san-antonio/3118-w-woodlawn-ave",
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.4,
+    "reviewCount": 508,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood coin laundry offering convenient washing and drying solutions in serving San Antonio residents. Features spacious facility and reliable equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "c307fc92-a979-452f-a915-5aaa163bb63a",
+    "slug": "spinxpress-laundry-ww-white-wash-fold-services-san-antonio-tx",
+    "name": "SpinXpress Laundry - WW White - Wash & Fold Services",
+    "address": "1721 S WW White Rd",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78220",
+    "phone": "(210) 910-8798",
+    "website": "https://gospinxpress.com/",
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.5,
+    "reviewCount": 860,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient laundromat serving the serving San Antonio residents area with efficient washing and drying services. Popular with residents for reliable equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "3c38565b-0c53-466f-b38f-13c23d404f34",
+    "slug": "lone-star-laundry-san-antonio-tx-2",
+    "name": "Lone Star Laundry",
+    "address": "7022 S New Braunfels Ave Suite 105",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78223",
+    "phone": null,
+    "website": "http://lone-star-laundry-san-antonio.poi.place/",
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 3.7,
+    "reviewCount": 534,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient coin-operated laundromat serving serving San Antonio residents with efficient washing and drying facilities. Popular with local community members.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "c8b688f9-692d-4050-ac6d-203a1989e9a3",
+    "slug": "spinxpress-laundry-nacogdoches-wash-fold-services-san-antonio-tx",
+    "name": "SpinXpress Laundry - Nacogdoches- Wash & Fold Services",
+    "address": "12311 Nacogdoches Rd #109",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78217",
+    "phone": "(210) 802-6422",
+    "website": "https://gospinxpress.com/",
+    "hours": {
+      "monday": "7:00 AM – 11:00 PM",
+      "tuesday": "7:00 AM – 11:00 PM",
+      "wednesday": "7:00 AM – 11:00 PM",
+      "thursday": "7:00 AM – 11:00 PM",
+      "friday": "7:00 AM – 11:00 PM",
+      "saturday": "7:00 AM – 11:00 PM",
+      "sunday": "7:00 AM – 11:00 PM"
+    },
+    "rating": 4.6,
+    "reviewCount": 215,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community laundromat offering convenient washing and drying services to serving San Antonio residents residents. Features well-maintained machines and comfortable environment. This 4.60-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "aa697177-5b7c-4a15-83de-a3b8150407f4",
+    "slug": "quick-wash-laundry-san-antonio-tx",
+    "name": "Quick Wash Laundry",
+    "address": "5402 Glen Ridge Dr",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78229",
+    "phone": "(210) 521-7366",
+    "website": "http://quick-wash-laundry.edan.io/",
+    "hours": {
+      "monday": "7:30 AM – 10:00 PM",
+      "tuesday": "7:30 AM – 10:00 PM",
+      "wednesday": "7:30 AM – 10:00 PM",
+      "thursday": "7:30 AM – 10:00 PM",
+      "friday": "7:30 AM – 10:00 PM",
+      "saturday": "7:30 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4.2,
+    "reviewCount": 164,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community laundromat featuring fast turnaround times providing comprehensive washing and drying solutions in serving San Antonio residents. Well-equipped with modern laundry machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "c131d11c-2771-4020-bf16-a0f0c16726b0",
+    "slug": "cnc-laundry-san-antonio-tx",
+    "name": "CnC Laundry",
+    "address": "2602 S Presa St",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78210",
+    "phone": "(210) 600-3311",
+    "website": "http://www.cnclaundry.com/",
+    "hours": {
+      "monday": "6:00 AM – 10:00 PM",
+      "tuesday": "6:00 AM – 10:00 PM",
+      "wednesday": "6:00 AM – 10:00 PM",
+      "thursday": "6:00 AM – 10:00 PM",
+      "friday": "6:00 AM – 10:00 PM",
+      "saturday": "6:00 AM – 10:00 PM",
+      "sunday": "6:00 AM – 10:00 PM"
+    },
+    "rating": 4.4,
+    "reviewCount": 85,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional coin laundry providing efficient washing and drying solutions in serving San Antonio residents. Popular choice for reliable laundry services. This 4.40-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "35bd6c62-7076-44d4-9afa-5252f9d2ef32",
+    "slug": "suds-lagoon-san-antonio-tx",
+    "name": "Suds Lagoon",
+    "address": "2704 Hillcrest Dr",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78228",
+    "phone": "(210) 233-8870",
+    "website": "https://www.sudslagoon.com/",
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4.7,
+    "reviewCount": 55,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community laundromat offering convenient washing and drying services to serving San Antonio residents residents. Features well-maintained machines and comfortable environment. This 4.70-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "7a800905-b0c2-4c1a-9810-4c1d1dd23711",
+    "slug": "laundry-r-us-san-antonio-tx",
+    "name": "Laundry R Us",
+    "address": "3941 Eisenhauer Rd",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78218",
+    "phone": "(210) 771-0615",
+    "website": "https://www.salaundryrus.com/",
+    "hours": {
+      "monday": "7:00 AM – 12:00 AM",
+      "tuesday": "7:00 AM – 12:00 AM",
+      "wednesday": "7:00 AM – 12:00 AM",
+      "thursday": "7:00 AM – 12:00 AM",
+      "friday": "7:00 AM – 12:00 AM",
+      "saturday": "7:00 AM – 12:00 AM",
+      "sunday": "7:00 AM – 12:00 AM"
+    },
+    "rating": 4.7,
+    "reviewCount": 86,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local washing facility providing reliable laundry services in serving San Antonio residents. Popular choice for both quick wash and full-service laundry needs.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "f3063481-36f1-4acb-a235-4ccf012b7358",
+    "slug": "spinxpress-laundry-w-commerce-st-wash-fold-services-san-antonio-tx",
+    "name": "SpinXpress Laundry - W. Commerce St - Wash & Fold Services",
+    "address": "4941 W Commerce St",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78237",
+    "phone": "(210) 692-4735",
+    "website": "https://gospinxpress.com/",
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.5,
+    "reviewCount": 655,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service laundromat offering reliable washing and drying solutions in serving San Antonio residents. Features modern equipment and convenient operating hours.",
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "55cc731a-ffd1-45d4-b6ba-9ecd0a600def",
+    "slug": "lavandera-laundromat-san-antonio-tx",
+    "name": "Lavandería Laundromat",
+    "address": "5500 Babcock Rd #121",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78240",
+    "phone": "(210) 277-8885",
+    "website": "https://www.lavanderialaundromatsa.com/",
+    "hours": {
+      "monday": "7:00 AM – 11:00 PM",
+      "tuesday": "7:00 AM – 11:00 PM",
+      "wednesday": "7:00 AM – 11:00 PM",
+      "thursday": "7:00 AM – 11:00 PM",
+      "friday": "7:00 AM – 11:00 PM",
+      "saturday": "7:00 AM – 11:00 PM",
+      "sunday": "7:00 AM – 11:00 PM"
+    },
+    "rating": 4.5,
+    "reviewCount": 693,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service laundromat offering convenient washing and drying facilities in serving San Antonio residents. Features modern equipment and a clean environment for all your laundry needs.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "83981b60-2afe-48f4-bcd8-c6450ecb5c57",
+    "slug": "spin-city-washeteria-san-antonio-tx",
+    "name": "Spin city Washeteria",
+    "address": "4452 W Commerce St",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78237",
+    "phone": "(210) 725-0711",
+    "website": "http://spin-city-washeteria.poi.place/",
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.2,
+    "reviewCount": 211,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service washing facility offering quality laundry solutions in serving San Antonio residents. Features comfortable environment and well-maintained machines. This 4.20-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "0a8aac0d-5afb-4673-a521-91a549a3e940",
+    "slug": "wavemax-laundry-san-antonio-san-antonio-tx",
+    "name": "WaveMAX Laundry - San Antonio",
+    "address": "7519 Marbach Rd Suite 102",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78227",
+    "phone": "(210) 967-3050",
+    "website": "https://www.facebook.com/wavemaxmarbach",
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4.7,
+    "reviewCount": 355,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service coin laundry providing washing and drying solutions in serving San Antonio residents. Known for clean facilities and dependable laundry equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "393de59d-5de9-42e5-8e18-da9e535af456",
+    "slug": "spinxpress-laundry-general-mcmullen-wash-fold-services-san-antonio-tx",
+    "name": "SpinXpress Laundry - General McMullen - Wash & Fold Services",
+    "address": "1107 S General McMullen Dr",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78237",
+    "phone": "(210) 692-4735",
+    "website": "https://gospinxpress.com/",
+    "hours": {
+      "monday": "7:00 AM – 11:00 PM",
+      "tuesday": "7:00 AM – 11:00 PM",
+      "wednesday": "7:00 AM – 11:00 PM",
+      "thursday": "7:00 AM – 11:00 PM",
+      "friday": "7:00 AM – 11:00 PM",
+      "saturday": "7:00 AM – 11:00 PM",
+      "sunday": "7:00 AM – 11:00 PM"
+    },
+    "rating": 4.6,
+    "reviewCount": 891,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service washing facility offering quality laundry solutions in serving San Antonio residents. Features comfortable environment and well-maintained machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "3822b8b3-1991-4696-8cbc-fe9a5196a48b",
+    "slug": "laundry-house-san-antonio-tx",
+    "name": "Laundry House",
+    "address": "10235 Ironside Dr",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78230",
+    "phone": "(210) 343-8080",
+    "website": "https://www.laundry-house.com/",
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4.5,
+    "reviewCount": 188,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community laundromat offering convenient washing and drying services to serving San Antonio residents residents. Features well-maintained machines and comfortable environment. This 4.50-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "12b6747a-f430-4d0f-bcd4-6b9c83f4166b",
+    "slug": "laundryrus-san-antonio-tx",
+    "name": "Laundry’R’Us",
+    "address": "5427 Charles Windham",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78218",
+    "phone": "(210) 969-6005",
+    "website": "https://www.salaundryrus.com/",
+    "hours": {
+      "monday": "7:00 AM – 11:00 PM",
+      "tuesday": "7:00 AM – 11:00 PM",
+      "wednesday": "7:00 AM – 11:00 PM",
+      "thursday": "7:00 AM – 11:00 PM",
+      "friday": "7:00 AM – 11:00 PM",
+      "saturday": "7:00 AM – 11:00 PM",
+      "sunday": "7:00 AM – 11:00 PM"
+    },
+    "rating": 4.5,
+    "reviewCount": 152,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional coin laundry providing efficient washing and drying solutions in serving San Antonio residents. Popular choice for reliable laundry services.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "fd35fccb-0e69-4a56-bc90-d6449bb1a82f",
+    "slug": "speedy-wash-san-antonio-tx",
+    "name": "Speedy wash",
+    "address": "12254 Nacogdoches Rd",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78217",
+    "phone": "(210) 616-2147",
+    "website": null,
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.2,
+    "reviewCount": 325,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established laundromat serving the serving San Antonio residents area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry.",
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "bab785e6-18a4-4d46-a5ca-9f2dc435e9ca",
+    "slug": "the-laundry-express-thousand-oaks-wash-fold-service-san-antonio-tx",
+    "name": "The Laundry Express - Thousand Oaks - Wash & Fold Service",
+    "address": "16624 San Pedro Ave",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78232",
+    "phone": "(210) 267-2477",
+    "website": "http://www.thelaundryexpress.com/",
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.7,
+    "reviewCount": 263,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established washing facility offering reliable laundry services in serving San Antonio residents. Features spacious layout and dependable equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "04668082-ce34-44f1-a070-513e2191a106",
+    "slug": "the-laundry-express-san-antonio-tx",
+    "name": "The Laundry Express",
+    "address": "2118 S Zarzamora St #446",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78207",
+    "phone": "(210) 290-9020",
+    "website": "https://www.thelaundryexpress.com/",
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.1,
+    "reviewCount": 41,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient laundromat featuring fast and efficient serving the serving San Antonio residents area with efficient washing and drying services. Popular with residents for reliable equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "2dd0fe4d-a27a-4937-9b26-3324656eb3a8",
+    "slug": "fiesta-laundry-san-antonio-tx",
+    "name": "Fiesta Laundry",
+    "address": "9626 Potranco Rd",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78251",
+    "phone": "(210) 267-1412",
+    "website": "https://www.safiestalaundry.com/",
+    "hours": {
+      "monday": "8:00 AM – 9:00 PM",
+      "tuesday": "8:00 AM – 9:00 PM",
+      "wednesday": "8:00 AM – 9:00 PM",
+      "thursday": "8:00 AM – 9:00 PM",
+      "friday": "8:00 AM – 9:00 PM",
+      "saturday": "8:00 AM – 9:00 PM",
+      "sunday": "8:00 AM – 9:00 PM"
+    },
+    "rating": 4.8,
+    "reviewCount": 160,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional laundromat offering reliable washing and drying solutions in serving San Antonio residents. Known for clean facilities and well-maintained equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "052d96fd-2eec-4487-ba19-9ba5f35964de",
+    "slug": "lone-star-laundry-san-antonio-tx",
+    "name": "Lone Star Laundry",
+    "address": "2444 Babcock Rd",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78229",
+    "phone": "(726) 888-2440",
+    "website": null,
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 3.6,
+    "reviewCount": 139,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat serving serving San Antonio residents with convenient washing and drying facilities. Known for modern equipment and clean environment. This 3.60-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "c32bef45-62b4-42af-a49a-7d6b46f64c1a",
+    "slug": "pennys-laundromat-san-antonio-tx",
+    "name": "Penny's Laundromat",
+    "address": "754 Old Hwy 90 W",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78237",
+    "phone": "(210) 757-3834",
+    "website": "http://pennyslaundromat.com/",
+    "hours": {
+      "monday": "6:00 AM – 10:00 PM",
+      "tuesday": "6:00 AM – 10:00 PM",
+      "wednesday": "6:00 AM – 10:00 PM",
+      "thursday": "6:00 AM – 10:00 PM",
+      "friday": "6:00 AM – 12:00 AM",
+      "saturday": "6:00 AM – 12:00 AM",
+      "sunday": "6:00 AM – 12:00 AM"
+    },
+    "rating": 4.9,
+    "reviewCount": 24,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service washing facility offering quality laundry solutions in serving San Antonio residents. Features comfortable environment and well-maintained machines. This 4.90-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "a5a27c6e-9432-40d9-9418-a3c4a6122eb5",
+    "slug": "the-laundry-express-fredericksburg-wash-fold-service-san-antonio-tx",
+    "name": "The Laundry Express - Fredericksburg - Wash & Fold Service",
+    "address": "1110 Fredericksburg Rd",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78201",
+    "phone": "(210) 384-9108",
+    "website": "http://www.thelaundryexpress.com/",
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.4,
+    "reviewCount": 489,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Speedy laundry solutions washing facility offering quality laundry solutions in serving San Antonio residents. Features comfortable environment and well-maintained machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "fcb4ca37-af91-4f5e-83df-70bef84d884a",
+    "slug": "rapido-wash-laundromat-wash-n-fold-san-antonio-tx",
+    "name": "Rapido Wash Laundromat - Wash N Fold",
+    "address": "96 Lanark Dr",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78218",
+    "phone": "(210) 791-9274",
+    "website": "https://www.rapidowash.com/",
+    "hours": {
+      "monday": "7:00 AM – 11:00 PM",
+      "tuesday": "7:00 AM – 11:00 PM",
+      "wednesday": "7:00 AM – 11:00 PM",
+      "thursday": "7:00 AM – 11:00 PM",
+      "friday": "7:00 AM – 11:00 PM",
+      "saturday": "7:00 AM – 11:00 PM",
+      "sunday": "8:00 AM – 11:00 PM"
+    },
+    "rating": 4.5,
+    "reviewCount": 246,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community laundromat providing comprehensive washing and drying solutions in serving San Antonio residents. Well-equipped with modern laundry machines. This 4.50-star rated facility provides dependable service.",
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "a6015469-8a06-4d64-8829-b9c0e7becadf",
+    "slug": "speed-queen-laundry-san-antonio-tx-2",
+    "name": "Speed Queen Laundry",
+    "address": "3319 West Ave",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78213",
+    "phone": "(210) 314-1086",
+    "website": "https://stores.speedqueenlaundry.com/tx/san-antonio/3319-west-ave",
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.4,
+    "reviewCount": 551,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community laundromat offering convenient washing and drying services to serving San Antonio residents residents. Features well-maintained machines and comfortable environment.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "d36831a1-15ea-4886-8eaf-6b4aefac1e02",
+    "slug": "laundrolab-san-antonio-mccreless-san-antonio-tx",
+    "name": "LaundroLab San Antonio - McCreless",
+    "address": "2368 E Southcross Blvd",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78223",
+    "phone": "(210) 233-6165",
+    "website": "https://www.laundrolabusa.com",
+    "hours": {
+      "monday": "7:00 AM - 11:00 PM",
+      "tuesday": "7:00 AM - 11:00 PM",
+      "wednesday": "7:00 AM - 11:00 PM",
+      "thursday": "7:00 AM - 11:00 PM",
+      "friday": "7:00 AM - 11:00 PM",
+      "saturday": "7:00 AM - 11:00 PM",
+      "sunday": "7:00 AM - 11:00 PM"
+    },
+    "rating": 4.4,
+    "reviewCount": 105,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card",
+      "Mobile App"
+    ],
+    "amenities": [
+      "McCreless Location",
+      "Extended Hours",
+      "Modern Equipment"
+    ],
+    "pricing": {
+      "washPrice": "$4.00",
+      "dryPrice": "$2.75",
+      "washFoldPrice": "$1.35/lb"
+    },
+    "description": "LaundroLab's McCreless location in San Antonio offering extended hours and modern laundry facilities.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": false,
+    "hasWiFi": true,
+    "hasParking": true,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "e6b8094d-2a4d-4835-9c4f-51e11c571f98",
+    "slug": "san-antonio-green-laundry-san-antonio-tx",
+    "name": "San Antonio Green Laundry",
+    "address": "5525 Blanco Rd Ste#101",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78216",
+    "phone": "(210) 979-7245",
+    "website": "https://www.sanantoniogreenlaundry.com/",
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4.4,
+    "reviewCount": 469,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional laundromat serving the serving San Antonio residents area with modern washing and drying equipment. Known for efficient service and clean facilities.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "19be4abb-dcb2-4a69-965a-af5d0e301d15",
+    "slug": "laundry-bliss-washateria-san-antonio-tx",
+    "name": "Laundry Bliss Washateria",
+    "address": "5608 S Flores St",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78214",
+    "phone": "(210) 236-9044",
+    "website": "http://www.laundowell.com/",
+    "hours": {
+      "monday": "6:00 AM – 10:00 PM",
+      "tuesday": "6:00 AM – 10:00 PM",
+      "wednesday": "6:00 AM – 10:00 PM",
+      "thursday": "6:00 AM – 10:00 PM",
+      "friday": "6:00 AM – 10:00 PM",
+      "saturday": "6:00 AM – 10:00 PM",
+      "sunday": "6:00 AM – 10:00 PM"
+    },
+    "rating": 4.9,
+    "reviewCount": 255,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat providing quality washing and drying services to the serving San Antonio residents community. Well-equipped with commercial-grade machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "16418569-1019-4387-835a-b4c238af92ae",
+    "slug": "laundrolab-laundromat-san-antonio-tx",
+    "name": "LaundroLab Laundromat",
+    "address": "2368 E Southcross",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78223",
+    "phone": "(210) 233-6165",
+    "website": "https://www.laundrolabusa.com/tx/san-antonio/mccreless/home",
+    "hours": {
+      "monday": "7:00 AM – 11:00 PM",
+      "tuesday": "7:00 AM – 11:00 PM",
+      "wednesday": "7:00 AM – 11:00 PM",
+      "thursday": "7:00 AM – 11:00 PM",
+      "friday": "7:00 AM – 11:00 PM",
+      "saturday": "7:00 AM – 11:00 PM",
+      "sunday": "7:00 AM – 11:00 PM"
+    },
+    "rating": 4.8,
+    "reviewCount": 198,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local laundry facility offering comprehensive washing and drying services to serving San Antonio residents residents. Features well-maintained equipment and convenient location.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "3052a1f8-ac89-4295-bf24-f96ed5eacb26",
+    "slug": "spinxpress-laundry-walzem-wash-fold-services-san-antonio-tx",
+    "name": "SpinXpress Laundry - Walzem - Wash & Fold Services",
+    "address": "5239 Walzem Rd",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78218",
+    "phone": "(210) 263-3926",
+    "website": "https://gospinxpress.com/",
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.7,
+    "reviewCount": 265,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established washing facility offering comprehensive laundry services in serving San Antonio residents. Features modern equipment and convenient location for easy access.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "6d818071-6534-41d2-810d-3292303edda3",
+    "slug": "spinxpress-laundry-blanco-west-ave-wash-fold-services-san-antonio-tx",
+    "name": "SpinXpress Laundry - Blanco / West Ave - Wash & Fold Services",
+    "address": "8535 Blanco Rd #101",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78216",
+    "phone": "(210) 802-6422",
+    "website": "https://gospinxpress.com/",
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.6,
+    "reviewCount": 997,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community laundromat providing comprehensive washing and drying solutions in serving San Antonio residents. Well-equipped with modern laundry machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "6d356e0e-c490-4fee-a9e4-25763a006769",
+    "slug": "laundrolab-laundromat-san-antonio-tx-2",
+    "name": "LaundroLab Laundromat",
+    "address": "6915 Bandera Rd Suite 100",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78238",
+    "phone": "(210) 277-8077",
+    "website": "https://www.laundrolabusa.com/tx/san-antonio/leon-valley/home",
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4.8,
+    "reviewCount": 307,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat serving serving San Antonio residents with convenient washing and drying facilities. Known for modern equipment and clean environment.",
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 29.4241,
+    "longitude": -98.4936,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  }
+]

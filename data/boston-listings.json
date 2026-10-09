@@ -1,0 +1,1013 @@
+[
+  {
+    "id": "c6ec0dcf-d538-4071-8585-2394f2d4ddc3",
+    "slug": "laundromax-boston-ma",
+    "name": "Laundromax",
+    "address": "611 Hyde Park Ave",
+    "city": "Boston",
+    "state": "MA",
+    "zipCode": "02131",
+    "phone": "(617) 327-5050",
+    "website": "https://laundromax.com/stores/laundromax-611hydeparkavenue-bostonma/?utm_source=extnet&utm_medium=yext",
+    "hours": {
+      "monday": "6:00 AM – 12:30 AM",
+      "tuesday": "6:00 AM – 12:30 AM",
+      "wednesday": "6:00 AM – 12:30 AM",
+      "thursday": "6:00 AM – 12:30 AM",
+      "friday": "6:00 AM – 12:30 AM",
+      "saturday": "6:00 AM – 12:30 AM",
+      "sunday": "6:00 AM – 12:30 AM"
+    },
+    "rating": 3.9,
+    "reviewCount": 202,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional coin laundry providing efficient washing and drying solutions in in historic Boston. Popular choice for reliable laundry services.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3601,
+    "longitude": -71.0589,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "da1dd9b4-2dbd-4b3e-b236-2c73f2bdd7cd",
+    "slug": "pt-systas-broadway-laundromat-boston-ma",
+    "name": "P&T SYSTAS Broadway Laundromat",
+    "address": "360 W Broadway",
+    "city": "Boston",
+    "state": "MA",
+    "zipCode": "02127",
+    "phone": "(617) 691-0772",
+    "website": null,
+    "hours": {
+      "monday": "8:00 AM – 7:00 PM",
+      "tuesday": "8:00 AM – 7:00 PM",
+      "wednesday": "8:00 AM – 7:00 PM",
+      "thursday": "8:00 AM – 7:00 PM",
+      "friday": "8:00 AM – 7:00 PM",
+      "saturday": "9:00 AM – 7:00 PM",
+      "sunday": "9:00 AM – 7:00 PM"
+    },
+    "rating": 4.6,
+    "reviewCount": 47,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local washing facility providing reliable laundry services in in historic Boston. Popular choice for both quick wash and full-service laundry needs.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3601,
+    "longitude": -71.0589,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "e48dc0cf-7865-4daf-923d-3e7f031e96c5",
+    "slug": "maytag-homestyle-laundromat-boston-ma",
+    "name": "Maytag Homestyle Laundromat",
+    "address": "481 E Broadway",
+    "city": "Boston",
+    "state": "MA",
+    "zipCode": "02127",
+    "phone": "(617) 269-9274",
+    "website": null,
+    "hours": {
+      "monday": "6:00 AM - 10:00 PM",
+      "tuesday": "6:00 AM - 10:00 PM",
+      "wednesday": "6:00 AM - 10:00 PM",
+      "thursday": "6:00 AM - 10:00 PM",
+      "friday": "6:00 AM - 10:00 PM",
+      "saturday": "6:00 AM - 10:00 PM",
+      "sunday": "7:00 AM - 9:00 PM"
+    },
+    "rating": 4.3,
+    "reviewCount": 118,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Reliable Machines",
+      "South Boston Location",
+      "Clean Facility"
+    ],
+    "pricing": {
+      "washPrice": "$4.25",
+      "dryPrice": "$3.25",
+      "washFoldPrice": "$1.40/lb"
+    },
+    "description": "Reliable South Boston neighborhood laundromat with consistent service and well-maintained Maytag equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3601,
+    "longitude": -71.0942,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": true,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "74620e84-4334-4aa5-8270-4d33a6a03bbf",
+    "slug": "quick-wash-laundromat-boston-ma",
+    "name": "Quick Wash Laundromat",
+    "address": "220 Belgrade Ave",
+    "city": "Boston",
+    "state": "MA",
+    "zipCode": "02131",
+    "phone": "(617) 477-8672",
+    "website": "http://quickwash-roslindale.com/",
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 8:00 PM",
+      "sunday": "7:00 AM – 8:00 PM"
+    },
+    "rating": 3.5,
+    "reviewCount": 102,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local laundromat featuring fast turnaround times offering comprehensive washing and drying services in in historic Boston. Features spacious facility with modern equipment and convenient hours.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3601,
+    "longitude": -71.0589,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "1f518652-b7db-4b6b-a03d-8e98a51e1d0b",
+    "slug": "star-drycleaner-and-laundromat-boston-ma",
+    "name": "Star Drycleaner and Laundromat",
+    "address": "1439A Commonwealth Ave",
+    "city": "Boston",
+    "state": "MA",
+    "zipCode": "02135",
+    "phone": "(617) 254-8830",
+    "website": "https://starcleanlaundromat.com/",
+    "hours": {
+      "monday": "8:00 AM – 8:00 PM",
+      "tuesday": "8:00 AM – 8:00 PM",
+      "wednesday": "8:00 AM – 8:00 PM",
+      "thursday": "8:00 AM – 8:00 PM",
+      "friday": "8:00 AM – 8:00 PM",
+      "saturday": "8:00 AM – 8:00 PM",
+      "sunday": "8:00 AM – 8:00 PM"
+    },
+    "rating": 4.6,
+    "reviewCount": 165,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established washing facility offering reliable laundry services in in historic Boston. Features spacious layout and dependable equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3601,
+    "longitude": -71.0589,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "a5c1a4a5-57e4-471e-9197-8309ba678b32",
+    "slug": "mannys-laundrette-boston-ma",
+    "name": "Manny's Laundrette",
+    "address": "388 Bowdoin St",
+    "city": "Boston",
+    "state": "MA",
+    "zipCode": "02122",
+    "phone": "(617) 436-2658",
+    "website": "https://mannyslaunderette.com/",
+    "hours": {
+      "monday": "8:00 AM – 8:00 PM",
+      "tuesday": "8:00 AM – 8:00 PM",
+      "wednesday": "8:00 AM – 8:00 PM",
+      "thursday": "8:00 AM – 8:00 PM",
+      "friday": "8:00 AM – 8:00 PM",
+      "saturday": "7:00 AM – 7:00 PM",
+      "sunday": "7:00 AM – 7:00 PM"
+    },
+    "rating": 4.1,
+    "reviewCount": 59,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service washing facility offering quality laundry solutions in in historic Boston. Features comfortable environment and well-maintained machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3601,
+    "longitude": -71.0589,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "f13aa563-c541-4e52-83ec-ae7d00d347d9",
+    "slug": "waterfront-laundry-and-dry-cleaner-boston-ma",
+    "name": "Waterfront Laundry and Dry Cleaner",
+    "address": "418 Hanover St",
+    "city": "Boston",
+    "state": "MA",
+    "zipCode": "02113",
+    "phone": "(617) 523-7570",
+    "website": null,
+    "hours": {
+      "monday": "9:00 AM – 7:00 PM",
+      "tuesday": "9:00 AM – 7:00 PM",
+      "wednesday": "9:00 AM – 7:00 PM",
+      "thursday": "9:00 AM – 7:00 PM",
+      "friday": "9:00 AM – 6:00 PM",
+      "saturday": "9:00 AM – 6:00 PM",
+      "sunday": "9:00 AM – 6:00 PM"
+    },
+    "rating": 4,
+    "reviewCount": 31,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat featuring emphasis on cleanliness providing quality washing and drying services to the in historic Boston community. Well-equipped with commercial-grade machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3601,
+    "longitude": -71.0589,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "23e70b4d-4a7a-4e6b-9801-77f96ae8d3d8",
+    "slug": "maytag-homestyle-laundromat-boston-boston-ma",
+    "name": "Maytag Homestyle Laundromat Boston",
+    "address": "143 Dorchester St",
+    "city": "Boston",
+    "state": "MA",
+    "zipCode": "02127",
+    "phone": "(617) 766-8490",
+    "website": null,
+    "hours": {
+      "monday": "Closed",
+      "tuesday": "8:30 AM – 7:00 PM",
+      "wednesday": "8:30 AM – 7:00 PM",
+      "thursday": "8:30 AM – 7:00 PM",
+      "friday": "8:30 AM – 7:00 PM",
+      "saturday": "8:30 AM – 7:00 PM",
+      "sunday": "8:30 AM – 6:00 PM"
+    },
+    "rating": 4.8,
+    "reviewCount": 27,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat serving in historic Boston with convenient washing and drying facilities. Known for modern equipment and clean environment.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3601,
+    "longitude": -71.0589,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "2d21f571-392c-4127-9cd9-0df26a6159e3",
+    "slug": "lans-laundry-boston-ma",
+    "name": "Lan's Laundry",
+    "address": "256 North St",
+    "city": "Boston",
+    "state": "MA",
+    "zipCode": "02113",
+    "phone": "(617) 227-1925",
+    "website": null,
+    "hours": {
+      "monday": "8:00 AM – 7:00 PM",
+      "tuesday": "8:00 AM – 7:00 PM",
+      "wednesday": "8:00 AM – 7:00 PM",
+      "thursday": "8:00 AM – 7:00 PM",
+      "friday": "8:00 AM – 6:00 PM",
+      "saturday": "8:00 AM – 6:00 PM",
+      "sunday": "Closed"
+    },
+    "rating": 4.8,
+    "reviewCount": 20,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional laundromat serving the in historic Boston area with modern washing and drying equipment. Known for efficient service and clean facilities.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3601,
+    "longitude": -71.0589,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "c3b92116-0afe-4b63-8d02-a8d75a8371b3",
+    "slug": "ninos-laundromat-boston-ma",
+    "name": "Nino's Laundromat",
+    "address": "90b Westland Ave",
+    "city": "Boston",
+    "state": "MA",
+    "zipCode": "02115",
+    "phone": "(617) 421-9500",
+    "website": "http://www.ninoslaundry.com/",
+    "hours": {
+      "monday": "7:00 AM – 12:00 AM",
+      "tuesday": "7:00 AM – 12:00 AM",
+      "wednesday": "7:00 AM – 12:00 AM",
+      "thursday": "7:00 AM – 12:00 AM",
+      "friday": "7:00 AM – 12:00 AM",
+      "saturday": "7:00 AM – 12:00 AM",
+      "sunday": "7:00 AM – 12:00 AM"
+    },
+    "rating": 4.4,
+    "reviewCount": 45,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat serving in historic Boston with convenient washing and drying facilities. Known for modern equipment and clean environment.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3601,
+    "longitude": -71.0589,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "6f17bf0e-35b2-432c-b243-ba8af86c934d",
+    "slug": "breezes-laundromat-boston-ma",
+    "name": "Breezes Laundromat",
+    "address": "345 Blue Hill Ave",
+    "city": "Boston",
+    "state": "MA",
+    "zipCode": "02121",
+    "phone": "(617) 708-0114",
+    "website": "https://www.breezeslaundromat.com/",
+    "hours": {
+      "monday": "7:00 AM – 6:30 PM",
+      "tuesday": "7:00 AM – 6:30 PM",
+      "wednesday": "7:00 AM – 6:30 PM",
+      "thursday": "7:00 AM – 6:30 PM",
+      "friday": "7:00 AM – 6:30 PM",
+      "saturday": "7:00 AM – 6:30 PM",
+      "sunday": "7:00 AM – 6:30 PM"
+    },
+    "rating": 4.4,
+    "reviewCount": 97,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established laundromat serving the in historic Boston area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry.",
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3601,
+    "longitude": -71.0589,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "424cce12-31bd-45b6-9822-e3821b54ea4d",
+    "slug": "south-end-laundry-boston-ma",
+    "name": "South End Laundry",
+    "address": "565 Columbus Ave",
+    "city": "Boston",
+    "state": "MA",
+    "zipCode": "02118",
+    "phone": "(617) 536-7572",
+    "website": null,
+    "hours": {
+      "monday": "8:00 AM – 8:00 PM",
+      "tuesday": "8:00 AM – 8:00 PM",
+      "wednesday": "8:00 AM – 8:00 PM",
+      "thursday": "8:00 AM – 8:00 PM",
+      "friday": "8:00 AM – 8:00 PM",
+      "saturday": "8:00 AM – 8:00 PM",
+      "sunday": "8:00 AM – 8:00 PM"
+    },
+    "rating": 3.8,
+    "reviewCount": 68,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient laundromat providing efficient washing and drying services in in historic Boston. Popular with local residents for its reliable machines and clean environment.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3601,
+    "longitude": -71.0589,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "16b1bc8d-c166-4e6d-8bc6-bed89a35a8cc",
+    "slug": "suds-duds-laundry-boston-ma",
+    "name": "Suds & Duds Laundry",
+    "address": "64 Anderson St",
+    "city": "Boston",
+    "state": "MA",
+    "zipCode": "02114",
+    "phone": "(617) 227-2842",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 5:00 PM",
+      "tuesday": "7:00 AM – 5:00 PM",
+      "wednesday": "7:00 AM – 5:00 PM",
+      "thursday": "7:00 AM – 5:00 PM",
+      "friday": "7:00 AM – 5:00 PM",
+      "saturday": "8:00 AM – 4:30 PM",
+      "sunday": "Closed"
+    },
+    "rating": 4.3,
+    "reviewCount": 21,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local laundromat offering comprehensive washing and drying services in in historic Boston. Features spacious facility with modern equipment and convenient hours.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3601,
+    "longitude": -71.0589,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "13cbf72e-664c-46ae-80d0-537a0131dda5",
+    "slug": "top-wash-laundromats-wash-and-fold-boston-ma",
+    "name": "Top Wash Laundromats & Wash and fold",
+    "address": "1712 Dorchester Ave",
+    "city": "Boston",
+    "state": "MA",
+    "zipCode": "02124",
+    "phone": "(617) 651-4555",
+    "website": "http://www.topwashlaundromats.com/",
+    "hours": {
+      "monday": "8:00 AM – 8:00 PM",
+      "tuesday": "8:00 AM – 8:00 PM",
+      "wednesday": "8:00 AM – 8:00 PM",
+      "thursday": "8:00 AM – 8:00 PM",
+      "friday": "8:00 AM – 8:00 PM",
+      "saturday": "8:00 AM – 8:00 PM",
+      "sunday": "8:00 AM – 8:00 PM"
+    },
+    "rating": 4.7,
+    "reviewCount": 118,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service washing facility offering quality laundry solutions in in historic Boston. Features comfortable environment and well-maintained machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3601,
+    "longitude": -71.0589,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "b289cd78-3308-4c66-8db5-cc354701f9af",
+    "slug": "prince-street-laundry-boston-ma",
+    "name": "Prince Street Laundry",
+    "address": "22 Prince St",
+    "city": "Boston",
+    "state": "MA",
+    "zipCode": "02113",
+    "phone": "(617) 227-0510",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 6:00 PM",
+      "tuesday": "7:00 AM – 6:00 PM",
+      "wednesday": "7:00 AM – 6:00 PM",
+      "thursday": "7:00 AM – 6:00 PM",
+      "friday": "7:00 AM – 6:00 PM",
+      "saturday": "7:00 AM – 6:00 PM",
+      "sunday": "8:00 AM – 4:00 PM"
+    },
+    "rating": 4.9,
+    "reviewCount": 79,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat providing quality washing and drying services to the in historic Boston community. Well-equipped with commercial-grade machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3601,
+    "longitude": -71.0589,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "bbaa9f99-d4d8-4858-a59d-324df55bc164",
+    "slug": "wicked-clean-laundry-boston-ma",
+    "name": "Wicked Clean Laundry",
+    "address": "889 Dorchester Ave # B",
+    "city": "Boston",
+    "state": "MA",
+    "zipCode": "02125",
+    "phone": "(617) 286-9119",
+    "website": "https://wickedcleanlaundry.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "hours": {
+      "monday": "8:00 AM – 8:00 PM",
+      "tuesday": "8:00 AM – 8:00 PM",
+      "wednesday": "8:00 AM – 8:00 PM",
+      "thursday": "8:00 AM – 8:00 PM",
+      "friday": "8:00 AM – 8:00 PM",
+      "saturday": "8:00 AM – 8:00 PM",
+      "sunday": "8:00 AM – 5:00 PM"
+    },
+    "rating": 5,
+    "reviewCount": 102,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional coin laundry providing efficient washing and drying solutions in in historic Boston. Popular choice for reliable laundry services.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3601,
+    "longitude": -71.0589,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "7d4ca2be-66a5-4b04-a314-08d9c8f1a17b",
+    "slug": "burbujas-laundry-boston-ma",
+    "name": "Burbujas Laundry",
+    "address": "115 Maverick St",
+    "city": "Boston",
+    "state": "MA",
+    "zipCode": "02128",
+    "phone": "(617) 569-7345",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 9:00 PM",
+      "tuesday": "7:00 AM – 9:00 PM",
+      "wednesday": "7:00 AM – 9:00 PM",
+      "thursday": "7:00 AM – 9:00 PM",
+      "friday": "7:00 AM – 9:00 PM",
+      "saturday": "7:00 AM – 9:00 PM",
+      "sunday": "7:00 AM – 8:00 PM"
+    },
+    "rating": 4.4,
+    "reviewCount": 50,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service laundromat offering convenient washing and drying facilities in in historic Boston. Features modern equipment and a clean environment for all your laundry needs.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3601,
+    "longitude": -71.0589,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "4390822c-039a-4f9c-9656-caa436c6ac05",
+    "slug": "soak-laundry-center-boston-ma",
+    "name": "SOAK Laundry Center",
+    "address": "2238 Dorchester Ave",
+    "city": "Boston",
+    "state": "MA",
+    "zipCode": "02124",
+    "phone": "(617) 298-7625",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM - 10:00 PM",
+      "tuesday": "7:00 AM - 10:00 PM",
+      "wednesday": "7:00 AM - 10:00 PM",
+      "thursday": "7:00 AM - 10:00 PM",
+      "friday": "7:00 AM - 10:00 PM",
+      "saturday": "7:00 AM - 10:00 PM",
+      "sunday": "7:00 AM - 10:00 PM"
+    },
+    "rating": 4.5,
+    "reviewCount": 167,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "WiFi",
+      "Cable TV",
+      "State-of-the-Art Facility",
+      "Historic Location"
+    ],
+    "pricing": {
+      "washPrice": "$4.50",
+      "dryPrice": "$3.50",
+      "washFoldPrice": "$1.45/lb"
+    },
+    "description": "State-of-the-art facility in historic Lower Mills neighborhood with free WiFi and cable TV for customer comfort.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3601,
+    "longitude": -71.0942,
+    "is24Hours": false,
+    "hasWiFi": true,
+    "hasParking": true,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  }
+]

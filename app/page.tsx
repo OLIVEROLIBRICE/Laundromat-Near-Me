@@ -4,6 +4,8 @@ import { articles } from "@/lib/articles";
 import { popularCities } from "@/lib/popular-cities";
 import cityEditorialIntros from "@/data/city-editorial-intros-batch-2.json";
 import { SiteLogo } from "@/components/site-logo";
+import { directoryCities, directoryListings } from "@/lib/directory-listings";
+import { getNationalServiceEligibility, type CityServiceKey } from "@/lib/city-service-directories";
 import {
   ArrowRight,
   BookOpen,
@@ -33,6 +35,17 @@ const featuredStates = Array.from(new Set(cityGuides.map((city) => city.state)))
   state,
   cities: cityGuides.filter((city) => city.state === state).sort((a, b) => a.name.localeCompare(b.name)),
 }));
+const directoryStateCount = new Set(directoryCities.map((city) => city.state)).size;
+
+const serviceGuides = [
+  { key: "24-hour", title: "24 Hour Laundromats Near Me", href: "/24-hour-laundromats-near-me/", description: "Browse directory listings identified as operating 24 hours." },
+  { key: "wash-and-fold", title: "Wash and Fold Near Me", href: "/wash-and-fold-near-me/", description: "Find laundromats explicitly listed with drop-off wash-and-fold service." },
+  { key: "coin-laundry", title: "Coin Laundry Near Me", href: "/coin-laundry-near-me/", description: "Explore locations with structured coin-operated service data." },
+  { key: "self-service", title: "Self-Service Laundromats Near Me", href: "/self-service-laundromats-near-me/", description: "Find locations where you can wash and dry your own clothes." },
+  { key: "large-washers", title: "Laundromats With Large Washers Near Me", href: "/laundromats-with-large-washers-near-me/", description: "Browse locations explicitly tagged for large-capacity laundry loads." },
+  { key: "card-payment", title: "Laundromats That Take Cards Near Me", href: "/laundromats-that-take-cards-near-me/", description: "Compare laundry locations with structured card-payment details." },
+  { key: "mobile-payment", title: "Laundromats With Mobile Payment Near Me", href: "/laundromats-with-mobile-payment-near-me/", description: "View the available locations tagged for mobile or app-based payment." },
+].filter((service) => getNationalServiceEligibility(service.key as CityServiceKey).indexable);
 
 const faqItems = [
   {
@@ -86,9 +99,10 @@ export default function Home() {
           <Link href="/" className="focus-ring flex items-center gap-3 rounded-lg" aria-label="Laundromat Near Me home">
             <SiteLogo inverted/>
           </Link>
-          <nav className="hidden items-center gap-8 text-sm font-bold lg:flex" aria-label="Main navigation">
+          <nav className="hidden items-center gap-5 text-xs font-bold lg:flex xl:gap-7 xl:text-sm" aria-label="Main navigation">
             <Link href="#popular-cities" className="transition hover:text-[#93c5fd]">Browse locations</Link>
-            <Link href="/search?q=24-hour" className="transition hover:text-[#93c5fd]">24-hour laundry</Link>
+            <Link href="/24-hour-laundromats-near-me/" className="transition hover:text-[#93c5fd]">24 Hour Laundromats Near Me</Link>
+            <Link href="/wash-and-fold-near-me/" className="transition hover:text-[#93c5fd]">Wash and Fold Near Me</Link>
             <Link href="/blog" className="transition hover:text-[#93c5fd]">Laundry guides</Link>
             <Link href="/about" className="transition hover:text-[#93c5fd]">About us</Link>
             <Link href="/contact" className="transition hover:text-[#93c5fd]">Contact</Link>
@@ -170,14 +184,33 @@ export default function Home() {
       <section aria-label="Directory highlights" className="border-b border-brand-100 bg-white">
         <div className="mx-auto grid max-w-7xl grid-cols-2 divide-x divide-y divide-brand-100 px-5 sm:grid-cols-4 sm:divide-y-0 lg:px-8">
           {[
-            ["587", "Supplied listing records"],
-            ["15", "Featured city guides"],
-            ["9", "States represented"],
+            [directoryListings.length.toLocaleString(), "Supplied listing records"],
+            [directoryCities.length.toLocaleString(), "Populated city guides"],
+            [directoryStateCount.toLocaleString(), "States represented"],
             ["5", "In-depth laundry guides"],
           ].map(([value, label]) => <div key={label} className="px-3 py-7 text-center sm:px-5">
             <strong className="font-display text-3xl font-extrabold text-brand-700 sm:text-4xl">{value}</strong>
             <span className="mt-1 block text-xs font-bold uppercase tracking-[.13em] text-slate-500">{label}</span>
           </div>)}
+        </div>
+      </section>
+
+      <section className="border-b border-brand-100 bg-white" aria-labelledby="service-guides-heading">
+        <div className="mx-auto max-w-7xl px-5 py-16 lg:px-8 lg:py-20">
+          <div className="max-w-3xl">
+            <p className="text-sm font-extrabold uppercase tracking-[.18em] text-brand-600">Search by laundry need</p>
+            <h2 id="service-guides-heading" className="mt-3 font-display text-3xl font-extrabold tracking-tight sm:text-4xl">Find a Laundromat by Service</h2>
+            <p className="mt-4 text-lg leading-8 text-slate-600">Choose a service guide to compare qualifying locations by city. Each guide uses only the structured service or payment details supplied with the directory records.</p>
+          </div>
+          <div className="mt-9 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {serviceGuides.map((service) => <Link key={service.href} href={service.href} className="focus-ring group rounded-2xl border border-slate-200 bg-cream p-6 transition hover:-translate-y-0.5 hover:border-brand-300 hover:shadow-soft">
+              <span className="flex items-start justify-between gap-4">
+                <strong className="font-display text-xl font-extrabold leading-tight text-ink">{service.title}</strong>
+                <ArrowRight size={20} className="mt-1 shrink-0 text-brand-600 transition group-hover:translate-x-1"/>
+              </span>
+              <span className="mt-3 block leading-7 text-slate-600">{service.description}</span>
+            </Link>)}
+          </div>
         </div>
       </section>
 
@@ -189,8 +222,8 @@ export default function Home() {
           </div>
           <div className="space-y-5 text-lg leading-8 text-slate-600">
             <p>Finding a clean, convenient laundromat should not be a guessing game. Laundromat Near Me is a growing directory that combines supplied local business records with practical editorial guides for 30 featured US cities. Search by city, neighborhood, business name, street, or ZIP code to narrow the options before you leave home.</p>
-            <p>The details that matter most can vary from one laundry trip to the next. You may need early opening hours after a night shift, a large-capacity washer for a king comforter, free parking, card payment, or wash-and-fold service near work. Our Brooklyn, Bronx, Houston, Queens, Philadelphia, San Francisco, Tampa, Newark, Jacksonville, Phoenix, Long Beach, Milwaukee, Staten Island, and Jersey City directories include 587 supplied records with addresses, ratings, services, pricing information, and contact details. Because business information can change, those records are clearly labeled as not independently verified and should be confirmed directly before a visit.</p>
-            <p>Our other featured pages currently provide city-specific guidance on neighborhoods, typical schedules, service options, and local resources while verified business listings are reviewed. Browse the city cards above, explore coverage by state below, or use the search bar to find a relevant city guide in seconds. New locations will be added as dependable information becomes available.</p>
+            <p>The details that matter most can vary from one laundry trip to the next. You may need early opening hours after a night shift, a large-capacity washer for a king comforter, free parking, card payment, or wash-and-fold service near work. Our {directoryCities.length} populated city directories include {directoryListings.length.toLocaleString()} supplied records with addresses, ratings, services, pricing information, and contact details. Because business information can change, those records should be confirmed directly before a visit.</p>
+            <p>Browse the city cards above, explore populated coverage by state below, or use the search bar to find a relevant city guide in seconds. New locations will be added as dependable structured information becomes available.</p>
           </div>
         </div>
       </section>
@@ -249,6 +282,6 @@ export default function Home() {
       </section>
     </main>
 
-    <footer className="bg-[#081018] text-white"><div className="mx-auto flex max-w-7xl flex-col justify-between gap-8 px-5 py-10 sm:flex-row sm:items-center lg:px-8"><div><p className="font-display text-lg font-extrabold">Laundromat <span className="text-[#93c5fd]">Near Me</span></p><p className="mt-1 text-sm text-slate-300">Laundry day starts with a better local search.</p></div><div className="flex gap-6 text-sm text-slate-300"><Link href="/about">About</Link><Link href="/blog">Guides</Link><Link href="/contact">Contact</Link></div></div></footer>
+    <footer className="bg-[#081018] text-white"><div className="mx-auto flex max-w-7xl flex-col justify-between gap-8 px-5 py-10 lg:px-8"><div><p className="font-display text-lg font-extrabold">Laundromat <span className="text-[#93c5fd]">Near Me</span></p><p className="mt-1 text-sm text-slate-300">Laundry day starts with a better local search.</p></div><div className="flex flex-wrap gap-x-6 gap-y-3 text-sm text-slate-300">{serviceGuides.map((service) => <Link key={service.href} href={service.href}>{service.title}</Link>)}<Link href="/about">About</Link><Link href="/blog">Guides</Link><Link href="/contact">Contact</Link></div></div></footer>
   </>;
 }

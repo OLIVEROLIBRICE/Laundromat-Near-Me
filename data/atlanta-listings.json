@@ -1,0 +1,1454 @@
+[
+  {
+    "id": "3412112e-8806-44e4-b01d-9427c04c3749",
+    "slug": "speed-queen-laundry-atlanta-ga",
+    "name": "Speed Queen Laundry",
+    "address": "855 Oak St SW",
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30310",
+    "phone": "(404) 343-6950",
+    "website": "https://stores.speedqueenlaundry.com/ga/atlanta/855-oak-st-sw",
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.2,
+    "reviewCount": 800,
+    "services": [
+      "Self-Service",
+      "Modern Equipment"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community laundromat providing comprehensive washing and drying solutions in Atlanta, GA. Well-equipped with modern laundry machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 33.749,
+    "longitude": -84.388,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "8b072238-17df-4687-a608-f8b7bf48b058",
+    "slug": "skyline-laundromats-moreland-ave-atlanta-ga",
+    "name": "Skyline Laundromats - Moreland Ave",
+    "address": "1175 Moreland Ave SE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30316",
+    "phone": "(470) 312-2198",
+    "website": "http://skylinelaundromats.com/",
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.1,
+    "reviewCount": 130,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local laundromat offering comprehensive washing and drying services in Atlanta, GA. Features spacious facility with modern equipment and convenient hours.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 33.749,
+    "longitude": -84.388,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "89dfe26f-d640-4e94-9c87-56fce5f9433b",
+    "slug": "wash-club-washluxe-laundromat-atlanta-ga",
+    "name": "Wash Club | WashLuXe Laundromat",
+    "address": "5539 Old National Hwy Suite A",
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30349",
+    "phone": "(404) 410-0775",
+    "website": "https://washluxelaundry.com/",
+    "hours": {
+      "monday": "7:00 AM – 2:00 AM",
+      "tuesday": "7:00 AM – 2:00 AM",
+      "wednesday": "7:00 AM – 2:00 AM",
+      "thursday": "7:00 AM – 2:00 AM",
+      "friday": "7:00 AM – 2:00 AM",
+      "saturday": "7:00 AM – 2:00 AM",
+      "sunday": "7:00 AM – 2:00 AM"
+    },
+    "rating": 4.8,
+    "reviewCount": 460,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community-focused laundromat providing reliable washing and drying services to residents of Atlanta, GA. Known for well-maintained machines and friendly service.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 33.749,
+    "longitude": -84.388,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "d0be8fb8-2cf3-4007-bc70-525889398289",
+    "slug": "skyline-laundromats-metropolitan-pkwy-atlanta-ga",
+    "name": "Skyline Laundromats - Metropolitan Pkwy",
+    "address": "1907 Metropolitan Pkwy SW",
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30315",
+    "phone": "(404) 761-2878",
+    "website": "http://www.skylinelaundromats.com/",
+    "hours": {
+      "monday": "7:00 AM – 11:00 PM",
+      "tuesday": "7:00 AM – 11:00 PM",
+      "wednesday": "7:00 AM – 11:00 PM",
+      "thursday": "7:00 AM – 11:00 PM",
+      "friday": "7:00 AM – 11:00 PM",
+      "saturday": "7:00 AM – 11:00 PM",
+      "sunday": "7:00 AM – 11:00 PM"
+    },
+    "rating": 4.6,
+    "reviewCount": 690,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat providing quality washing and drying services to the Atlanta, GA community. Well-equipped with commercial-grade machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 33.749,
+    "longitude": -84.388,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "c5be29c4-a699-4119-a02b-b703de634e75",
+    "slug": "our-best-laundry-atlanta-ga",
+    "name": "Our Best Laundry",
+    "address": "3202 M.L.K. Jr Dr SW",
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30311",
+    "phone": "(470) 236-1403",
+    "website": "https://ourbestlaundry.com/",
+    "hours": {
+      "monday": "7:00 AM – 9:00 PM",
+      "tuesday": "7:00 AM – 9:00 PM",
+      "wednesday": "7:00 AM – 9:00 PM",
+      "thursday": "7:00 AM – 9:00 PM",
+      "friday": "7:00 AM – 9:00 PM",
+      "saturday": "7:00 AM – 9:00 PM",
+      "sunday": "7:00 AM – 9:00 PM"
+    },
+    "rating": 5,
+    "reviewCount": 40,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Family-friendly laundromat featuring quality-focused service serving Atlanta, GA with convenient washing and drying services. Features comfortable seating and modern laundry equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 33.749,
+    "longitude": -84.388,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "798fd0df-55eb-4407-b64f-6f007f9afabf",
+    "slug": "wash-spin-coin-laundry-atlanta-ga",
+    "name": "Wash & Spin Coin Laundry",
+    "address": "2020 Campbellton Rd SW Suite A",
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30311",
+    "phone": "(404) 756-1666",
+    "website": "http://www.ourbestlaundry.com/",
+    "hours": {
+      "monday": "7:00 AM – 9:00 PM",
+      "tuesday": "7:00 AM – 9:00 PM",
+      "wednesday": "7:00 AM – 9:00 PM",
+      "thursday": "7:00 AM – 9:00 PM",
+      "friday": "7:00 AM – 9:00 PM",
+      "saturday": "7:00 AM – 9:00 PM",
+      "sunday": "7:00 AM – 9:00 PM"
+    },
+    "rating": 4.4,
+    "reviewCount": 432,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community laundromat offering convenient washing and drying services to Atlanta, GA residents. Features well-maintained machines and comfortable environment.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 33.749,
+    "longitude": -84.388,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "403ff7d8-b1e0-4a74-b228-105cb82f68b4",
+    "slug": "patio-laundry-atlanta-ga",
+    "name": "Patio Laundry",
+    "address": "3904 Buford Hwy NE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30329",
+    "phone": "(470) 664-5780",
+    "website": "http://patiolaundry.com/",
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.5,
+    "reviewCount": 269,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service washing facility offering quality laundry solutions in Atlanta, GA. Features comfortable environment and well-maintained machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 33.749,
+    "longitude": -84.388,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "467bb497-ed8e-43fc-a83e-f97d64d407d4",
+    "slug": "brookhaven-laundry-coin-wash-n-fold-atlanta-ga",
+    "name": "Brookhaven Laundry (Coin & Wash-n-Fold)",
+    "address": "2987 Buford Hwy NE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30329",
+    "phone": "(404) 982-4090",
+    "website": "http://www.brookhavenlaundry.com/",
+    "hours": {
+      "monday": "8:15 AM – 8:00 PM",
+      "tuesday": "8:15 AM – 8:00 PM",
+      "wednesday": "8:15 AM – 8:00 PM",
+      "thursday": "8:15 AM – 8:00 PM",
+      "friday": "8:15 AM – 8:00 PM",
+      "saturday": "8:15 AM – 8:00 PM",
+      "sunday": "8:15 AM – 8:00 PM"
+    },
+    "rating": 4.1,
+    "reviewCount": 186,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established laundromat serving the Atlanta, GA area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 33.749,
+    "longitude": -84.388,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "36300e52-dc94-443f-bcec-628d4da3de23",
+    "slug": "coin-laundry-atlanta-ga",
+    "name": "Coin Laundry",
+    "address": "850 James Jackson Pkwy NW",
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30318",
+    "phone": null,
+    "website": null,
+    "hours": {
+      "monday": "6:00 AM – 12:00 AM",
+      "tuesday": "6:00 AM – 12:00 AM",
+      "wednesday": "6:00 AM – 12:00 AM",
+      "thursday": "6:00 AM – 12:00 AM",
+      "friday": "6:00 AM – 12:00 AM",
+      "saturday": "6:00 AM – 12:00 AM",
+      "sunday": "6:00 AM – 12:00 AM"
+    },
+    "rating": 4.2,
+    "reviewCount": 57,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service coin laundry providing washing and drying solutions in Atlanta, GA. Known for clean facilities and dependable laundry equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 33.749,
+    "longitude": -84.388,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "4097d46a-0ee3-44ae-a4de-e0f7f0fb348c",
+    "slug": "clean-wave-atl-coin-laundry-atlanta-ga",
+    "name": "Clean Wave ATL Coin Laundry",
+    "address": "5620 Riverdale Rd",
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30349",
+    "phone": "(678) 834-5134",
+    "website": "http://www.cleanwaveatl.com/",
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.4,
+    "reviewCount": 214,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Hygiene-focused facility washing facility offering quality laundry solutions in Atlanta, GA. Features comfortable environment and well-maintained machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 33.749,
+    "longitude": -84.388,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "c803472c-2aaa-479d-b468-3d5515a0ec5d",
+    "slug": "midtown-cleaners-laundry-atlanta-ga",
+    "name": "Midtown Cleaners & Laundry",
+    "address": "599 North Highland Avenue Northeast",
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30307",
+    "phone": "(404) 223-3622",
+    "website": null,
+    "hours": {
+      "monday": "7:30 AM – 7:00 PM",
+      "tuesday": "7:30 AM – 7:00 PM",
+      "wednesday": "Closed",
+      "thursday": "7:30 AM – 7:00 PM",
+      "friday": "7:30 AM – 7:00 PM",
+      "saturday": "7:30 AM – 7:00 PM",
+      "sunday": "7:30 AM – 7:00 PM"
+    },
+    "rating": 4.7,
+    "reviewCount": 202,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Emphasis on cleanliness coin laundry providing washing and drying solutions in Atlanta, GA. Known for clean facilities and dependable laundry equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 33.749,
+    "longitude": -84.388,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "4570365b-e945-4504-b70c-e3381d41ed2e",
+    "slug": "the-laundry-centers-west-hollowell-pkwy-atlanta-ga",
+    "name": "The Laundry Centers - West Hollowell Pkwy",
+    "address": "2707 Donald Lee Hollowell Pkwy NW",
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30318",
+    "phone": "(678) 705-8519",
+    "website": "https://thelaundrycenters.com/?utm_source=omg-gbp&utm_medium=webclick",
+    "hours": {
+      "monday": "9:00 AM – 10:00 PM",
+      "tuesday": "9:00 AM – 10:00 PM",
+      "wednesday": "9:00 AM – 10:00 PM",
+      "thursday": "9:00 AM – 10:00 PM",
+      "friday": "9:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4.7,
+    "reviewCount": 325,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Hub for laundry services washing facility offering quality laundry solutions in Atlanta, GA. Features comfortable environment and well-maintained machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 33.749,
+    "longitude": -84.388,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "dbb3e57b-25ab-4764-a070-c07b287a7e44",
+    "slug": "ruby-coin-laundry-atlanta-ga",
+    "name": "Ruby Coin Laundry",
+    "address": "3799 Buford Hwy NE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30329",
+    "phone": "(404) 325-5230",
+    "website": null,
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 3.8,
+    "reviewCount": 79,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established laundry facility providing comprehensive washing and drying services in Atlanta, GA. Well-equipped with commercial-grade machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 33.749,
+    "longitude": -84.388,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "de6037d3-486c-472b-9daf-ba20c87cf2d5",
+    "slug": "brite-bubbles-laundry-services-atlanta-ga",
+    "name": "Brite Bubbles Laundry Services",
+    "address": "590 McDonough Blvd SE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30315",
+    "phone": "(678) 732-0598",
+    "website": "http://www.britebubbles.com/",
+    "hours": {
+      "monday": "7:00 AM – 8:00 PM",
+      "tuesday": "7:00 AM – 8:00 PM",
+      "wednesday": "7:00 AM – 8:00 PM",
+      "thursday": "7:00 AM – 8:00 PM",
+      "friday": "7:00 AM – 8:00 PM",
+      "saturday": "7:00 AM – 8:00 PM",
+      "sunday": "7:00 AM – 8:00 PM"
+    },
+    "rating": 4.6,
+    "reviewCount": 152,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional laundromat serving the Atlanta, GA area with modern washing and drying equipment. Known for efficient service and clean facilities.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 33.749,
+    "longitude": -84.388,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "c8825864-4962-4d11-9763-0283b1875b2b",
+    "slug": "atl-coin-laundry-free-dry-atlanta-ga",
+    "name": "ATL Coin Laundry Free Dry",
+    "address": "3050 M.L.K. Jr Dr SW Suite R",
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30311",
+    "phone": "(678) 732-9997",
+    "website": null,
+    "hours": {
+      "monday": "7:30 AM – 9:00 PM",
+      "tuesday": "7:30 AM – 9:00 PM",
+      "wednesday": "7:30 AM – 9:00 PM",
+      "thursday": "7:30 AM – 9:00 PM",
+      "friday": "7:30 AM – 9:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4.6,
+    "reviewCount": 81,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local laundry facility offering comprehensive washing and drying services to Atlanta, GA residents. Features well-maintained equipment and convenient location.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 33.749,
+    "longitude": -84.388,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "c874665f-c5e3-4afa-90f9-b2285f6324fd",
+    "slug": "skyline-laundromats-cleveland-ave-atlanta-ga",
+    "name": "Skyline Laundromats - Cleveland Ave",
+    "address": "126 Cleveland Ave SW",
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30315",
+    "phone": "(404) 669-8899",
+    "website": "http://www.skylinelaundromats.com/",
+    "hours": {
+      "monday": "8:00 AM – 10:00 PM",
+      "tuesday": "8:00 AM – 10:00 PM",
+      "wednesday": "8:00 AM – 10:00 PM",
+      "thursday": "8:00 AM – 10:00 PM",
+      "friday": "8:00 AM – 10:00 PM",
+      "saturday": "7:30 AM – 10:00 PM",
+      "sunday": "7:30 AM – 11:00 PM"
+    },
+    "rating": 4.5,
+    "reviewCount": 80,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient laundromat serving the Atlanta, GA area with efficient washing and drying services. Popular with residents for reliable equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 33.749,
+    "longitude": -84.388,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "b3d42128-6212-429d-a1f8-615ba4149db0",
+    "slug": "atlanta-laundry-company-atlanta-ga",
+    "name": "Atlanta Laundry Company",
+    "address": "2100 Cheshire Bridge Rd NE Suite B",
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30324",
+    "phone": "(404) 500-7672",
+    "website": "https://www.atlantalaundry.com/",
+    "hours": {
+      "monday": "8:00 AM – 8:00 PM",
+      "tuesday": "8:00 AM – 8:00 PM",
+      "wednesday": "8:00 AM – 8:00 PM",
+      "thursday": "8:00 AM – 8:00 PM",
+      "friday": "8:00 AM – 8:00 PM",
+      "saturday": "8:00 AM – 8:00 PM",
+      "sunday": "8:00 AM – 8:00 PM"
+    },
+    "rating": 5,
+    "reviewCount": 129,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient laundromat providing efficient washing and drying services in Atlanta, GA. Popular with local residents for its reliable machines and clean environment.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 33.749,
+    "longitude": -84.388,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "9ca47b74-a8d4-4b47-a4d1-dce44d49d02b",
+    "slug": "davis-bros-laundromat-atlanta-ga",
+    "name": "Davis Bros Laundromat",
+    "address": "2292 Fairburn Rd SW",
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30331",
+    "phone": "(404) 549-7337",
+    "website": "http://www.davisbroslaundromat.com/",
+    "hours": {
+      "monday": "8:00 AM – 9:00 PM",
+      "tuesday": "8:00 AM – 9:00 PM",
+      "wednesday": "8:00 AM – 9:00 PM",
+      "thursday": "8:00 AM – 9:00 PM",
+      "friday": "8:00 AM – 9:00 PM",
+      "saturday": "8:00 AM – 9:00 PM",
+      "sunday": "8:00 AM – 9:00 PM"
+    },
+    "rating": 5,
+    "reviewCount": 34,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established washing facility offering reliable laundry services in Atlanta, GA. Features spacious layout and dependable equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 33.749,
+    "longitude": -84.388,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "b461a34f-e644-4fe0-8c2b-57ba505c3737",
+    "slug": "speed-queen-laundry-atlanta-ga-2",
+    "name": "Speed Queen Laundry",
+    "address": "3065 Headland Dr SW",
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30311",
+    "phone": "(678) 949-9565",
+    "website": "https://stores.speedqueenlaundry.com/ga/atlanta/3065-headland-dr-sw",
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.1,
+    "reviewCount": 515,
+    "services": [
+      "Self-Service",
+      "Modern Equipment"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient laundromat providing efficient washing and drying services in Atlanta, GA. Popular with local residents for its reliable machines and clean environment.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 33.749,
+    "longitude": -84.388,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "2a443e96-f5a4-4235-afa1-c515f4c00855",
+    "slug": "atlanta-laundry-atlanta-ga",
+    "name": "Atlanta Laundry ",
+    "address": "2100 Cheshire Bridge Rd NE Ste C",
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30324",
+    "phone": "(404) 876-3517",
+    "website": "https://www.atlantalaundry.com/",
+    "hours": {
+      "monday": "8:00 AM – 8:00 PM",
+      "tuesday": "8:00 AM – 8:00 PM",
+      "wednesday": "8:00 AM – 8:00 PM",
+      "thursday": "8:00 AM – 8:00 PM",
+      "friday": "8:00 AM – 8:00 PM",
+      "saturday": "8:00 AM – 8:00 PM",
+      "sunday": "8:00 AM – 8:00 PM"
+    },
+    "rating": 4.9,
+    "reviewCount": 632,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [],
+    "amenities": [],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional laundromat serving the Atlanta, GA area with modern washing and drying equipment. Known for efficient service and clean facilities.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 33.749,
+    "longitude": -84.388,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "ef4c017f-057b-4142-9edb-5cebf585dc7f",
+    "slug": "smart-laundry-atlanta-ga",
+    "name": "Smart Laundry",
+    "address": "3198 Washington Rd",
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30344",
+    "phone": null,
+    "website": null,
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.9,
+    "reviewCount": 317,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community laundromat featuring modern technology features providing comprehensive washing and drying solutions in Atlanta, GA. Well-equipped with modern laundry machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 33.749,
+    "longitude": -84.388,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "964d211d-fd95-48f0-ae11-9c721a2c9ee9",
+    "slug": "midtown-wash-atlanta-ga",
+    "name": "Midtown Wash",
+    "address": "307 6th St NE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30308",
+    "phone": "(404) 733-1633",
+    "website": "http://www.midtownwash.com/",
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4.5,
+    "reviewCount": 295,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient coin-operated laundromat serving Atlanta, GA with efficient washing and drying facilities. Popular with local community members.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 33.749,
+    "longitude": -84.388,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "97cff368-eeb1-4462-b492-ed288fa11847",
+    "slug": "atomic-laundry-dry-cleaning-atlanta-ga",
+    "name": "Atomic Laundry & Dry Cleaning",
+    "address": "3103 Briarcliff Rd NE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30329",
+    "phone": "(404) 325-4459",
+    "website": "https://www.atomiclaundry.net/",
+    "hours": {
+      "monday": "8:00 AM – 6:00 PM",
+      "tuesday": "8:00 AM – 6:00 PM",
+      "wednesday": "8:00 AM – 6:00 PM",
+      "thursday": "8:00 AM – 6:00 PM",
+      "friday": "8:00 AM – 6:00 PM",
+      "saturday": "9:00 AM – 6:00 PM",
+      "sunday": "10:00 AM – 6:00 PM"
+    },
+    "rating": 4.5,
+    "reviewCount": 132,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established washing facility offering comprehensive laundry services in Atlanta, GA. Features modern equipment and convenient location for easy access.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 33.749,
+    "longitude": -84.388,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "ba848647-a9a9-44b4-b995-a8df59fb3631",
+    "slug": "sunshine-coin-laundry-atlanta-ga",
+    "name": "Sunshine Coin Laundry",
+    "address": "3045 Buford Hwy NE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30329",
+    "phone": "(404) 343-8042",
+    "website": "https://www.facebook.com/SunshineLaundromatBrookahaven/",
+    "hours": {
+      "monday": "8:00 AM – 10:00 PM",
+      "tuesday": "8:00 AM – 10:00 PM",
+      "wednesday": "8:00 AM – 10:00 PM",
+      "thursday": "8:00 AM – 10:00 PM",
+      "friday": "8:00 AM – 10:00 PM",
+      "saturday": "7:45 AM – 10:00 PM",
+      "sunday": "7:45 AM – 10:00 PM"
+    },
+    "rating": 4.3,
+    "reviewCount": 64,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community laundromat providing comprehensive washing and drying solutions in Atlanta, GA. Well-equipped with modern laundry machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 33.749,
+    "longitude": -84.388,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "0a600952-f54f-4baa-aa02-0bbe5c902085",
+    "slug": "the-laundry-centers-east-hollowell-pkwy-atlanta-ga",
+    "name": "The Laundry Centers - East Hollowell Pkwy",
+    "address": "902 Donald Lee Hollowell Pkwy NW",
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30318",
+    "phone": "(404) 872-7552",
+    "website": "https://thelaundrycenters.com/?utm_source=omg-gbp&utm_medium=webclick",
+    "hours": {
+      "monday": "8:00 AM – 8:00 PM",
+      "tuesday": "8:00 AM – 8:00 PM",
+      "wednesday": "8:00 AM – 8:00 PM",
+      "thursday": "8:00 AM – 8:00 PM",
+      "friday": "8:00 AM – 8:00 PM",
+      "saturday": "8:00 AM – 8:00 PM",
+      "sunday": "8:00 AM – 8:00 PM"
+    },
+    "rating": 4.1,
+    "reviewCount": 70,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional laundromat featuring centrally located facility offering reliable washing and drying solutions in Atlanta, GA. Known for clean facilities and well-maintained equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 33.749,
+    "longitude": -84.388,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "307820dd-c46a-41d1-bd89-f08b7c98523d",
+    "slug": "the-laundry-lounge-atlanta-ga",
+    "name": "The Laundry Lounge",
+    "address": "2441 Cheshire Bridge Rd NE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30324",
+    "phone": "(404) 321-7765",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM - 10:00 PM",
+      "tuesday": "7:00 AM - 10:00 PM",
+      "wednesday": "7:00 AM - 10:00 PM",
+      "thursday": "7:00 AM - 10:00 PM",
+      "friday": "7:00 AM - 10:00 PM",
+      "saturday": "7:00 AM - 10:00 PM",
+      "sunday": "7:00 AM - 10:00 PM"
+    },
+    "rating": 4.8,
+    "reviewCount": 203,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Mobile App",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Modern",
+      "Bright",
+      "Clean",
+      "App-based Payment"
+    ],
+    "pricing": {
+      "washPrice": "$4.00",
+      "dryPrice": "$3.00",
+      "washFoldPrice": "$1.35/lb"
+    },
+    "description": "Amazing new location with modern, bright and clean facilities. App-based payment system for convenience.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 33.749,
+    "longitude": -84.388,
+    "is24Hours": false,
+    "hasWiFi": true,
+    "hasParking": true,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  }
+]

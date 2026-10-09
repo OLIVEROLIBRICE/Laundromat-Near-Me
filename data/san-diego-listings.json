@@ -1,0 +1,1229 @@
+[
+  {
+    "id": "04545946-c153-4817-a312-b81a508a4da9",
+    "slug": "wash-n-go-laundry-san-diego-ca",
+    "name": "Wash N Go Laundry",
+    "address": "6931 El Cajon Blvd",
+    "city": "San Diego",
+    "state": "CA",
+    "zipCode": "92115",
+    "phone": "(619) 713-5658",
+    "website": "http://www.washngolaundrysd.com/",
+    "hours": {
+      "monday": "6:00 AM – 10:00 PM",
+      "tuesday": "6:00 AM – 10:00 PM",
+      "wednesday": "6:00 AM – 10:00 PM",
+      "thursday": "6:00 AM – 10:00 PM",
+      "friday": "6:00 AM – 10:00 PM",
+      "saturday": "6:00 AM – 10:00 PM",
+      "sunday": "6:00 AM – 10:00 PM"
+    },
+    "rating": 4,
+    "reviewCount": 240,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat providing quality washing and drying services to the in beautiful San Diego community. Well-equipped with commercial-grade machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7157,
+    "longitude": -117.1611,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "ec0788b9-3249-4635-84af-b0124c3cc4bd",
+    "slug": "corner-wash-san-diego-ca",
+    "name": "Corner Wash",
+    "address": "3501 Adams Ave",
+    "city": "San Diego",
+    "state": "CA",
+    "zipCode": "92116",
+    "phone": "(619) 284-6741",
+    "website": "http://cornerwashlaundry.com/",
+    "hours": {
+      "monday": "7:00 AM – 9:00 PM",
+      "tuesday": "7:00 AM – 9:00 PM",
+      "wednesday": "7:00 AM – 9:00 PM",
+      "thursday": "7:00 AM – 9:00 PM",
+      "friday": "7:00 AM – 9:00 PM",
+      "saturday": "7:00 AM – 9:00 PM",
+      "sunday": "7:00 AM – 9:00 PM"
+    },
+    "rating": 4,
+    "reviewCount": 164,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Family-friendly laundromat featuring neighborhood corner spot serving in beautiful San Diego with convenient washing and drying services. Features comfortable seating and modern laundry equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7157,
+    "longitude": -117.1611,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "04cb8366-d861-4025-afa4-1bac19b5148b",
+    "slug": "point-loma-coin-laundry-san-diego-ca",
+    "name": "Point Loma Coin Laundry",
+    "address": "2926 Adrian St",
+    "city": "San Diego",
+    "state": "CA",
+    "zipCode": "92110",
+    "phone": "(619) 549-3296",
+    "website": "https://pointlomacoinlaundry.com/",
+    "hours": {
+      "monday": "6:00 AM – 11:00 PM",
+      "tuesday": "6:00 AM – 11:00 PM",
+      "wednesday": "6:00 AM – 11:00 PM",
+      "thursday": "6:00 AM – 11:00 PM",
+      "friday": "6:00 AM – 11:00 PM",
+      "saturday": "6:00 AM – 11:00 PM",
+      "sunday": "6:00 AM – 11:00 PM"
+    },
+    "rating": 4.2,
+    "reviewCount": 163,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established washing facility offering reliable laundry services in in beautiful San Diego. Features spacious layout and dependable equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7157,
+    "longitude": -117.1611,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "47c1f567-c66b-451f-856b-0a51a8624c1f",
+    "slug": "posh-wash-south-park-san-diego-ca",
+    "name": "Posh Wash South Park",
+    "address": "1525 Fern St",
+    "city": "San Diego",
+    "state": "CA",
+    "zipCode": "92102",
+    "phone": "(619) 239-1778",
+    "website": "http://www.poshwashsouthpark.com/",
+    "hours": {
+      "monday": "6:00 AM – 10:00 PM",
+      "tuesday": "6:00 AM – 10:00 PM",
+      "wednesday": "6:00 AM – 10:00 PM",
+      "thursday": "6:00 AM – 10:00 PM",
+      "friday": "6:00 AM – 10:00 PM",
+      "saturday": "6:00 AM – 10:00 PM",
+      "sunday": "6:00 AM – 10:00 PM"
+    },
+    "rating": 4.3,
+    "reviewCount": 97,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood coin laundry offering convenient washing and drying solutions in in beautiful San Diego. Features spacious facility and reliable equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7157,
+    "longitude": -117.1611,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "9fd747fa-9439-4053-9141-fb87200362a4",
+    "slug": "turquoise-bubbles-formerly-turquoise-st-laundry-san-diego-ca",
+    "name": "Turquoise Bubbles (formerly Turquoise St. Laundry)",
+    "address": "929 Turquoise St",
+    "city": "San Diego",
+    "state": "CA",
+    "zipCode": "92109",
+    "phone": "(619) 535-9653",
+    "website": "http://www.bubbleslaundryservice.com/",
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4.6,
+    "reviewCount": 105,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient laundromat serving the in beautiful San Diego area with efficient washing and drying services. Popular with residents for reliable equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7157,
+    "longitude": -117.1611,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "20fb4f08-e2ee-4fb1-a778-88f80cafbcda",
+    "slug": "blue-moon-coin-laundry-last-wash-dry-800-pm-coin-op-6am-to-930pm-san-diego-ca",
+    "name": "Blue Moon Coin Laundry--- Last wash & Dry 8:00 PM - coin op 6AM to 930PM",
+    "address": "5425 Linda Vista Rd",
+    "city": "San Diego",
+    "state": "CA",
+    "zipCode": "92110",
+    "phone": "(858) 583-4095",
+    "website": null,
+    "hours": {
+      "monday": "6:00 AM – 9:30 PM",
+      "tuesday": "6:00 AM – 9:30 PM",
+      "wednesday": "6:00 AM – 9:30 PM",
+      "thursday": "6:00 AM – 9:30 PM",
+      "friday": "6:00 AM – 9:30 PM",
+      "saturday": "6:00 AM – 9:30 PM",
+      "sunday": "6:00 AM – 9:30 PM"
+    },
+    "rating": 4.1,
+    "reviewCount": 183,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Family-friendly laundromat serving in beautiful San Diego with convenient washing and drying services. Features comfortable seating and modern laundry equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7157,
+    "longitude": -117.1611,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "2fe012bc-94ca-4ec8-be7a-639dd036a3b5",
+    "slug": "mission-village-laundry-san-diego-ca",
+    "name": "Mission Village Laundry",
+    "address": "2693 Mission Village Dr",
+    "city": "San Diego",
+    "state": "CA",
+    "zipCode": "92123",
+    "phone": "(619) 202-7581",
+    "website": null,
+    "hours": {
+      "monday": "5:00 AM – 9:30 PM",
+      "tuesday": "5:00 AM – 9:30 PM",
+      "wednesday": "5:00 AM – 9:30 PM",
+      "thursday": "5:00 AM – 9:30 PM",
+      "friday": "5:00 AM – 9:30 PM",
+      "saturday": "5:00 AM – 9:30 PM",
+      "sunday": "5:00 AM – 9:30 PM"
+    },
+    "rating": 4.1,
+    "reviewCount": 98,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional laundromat serving the in beautiful San Diego area with modern washing and drying equipment. Known for efficient service and clean facilities.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7157,
+    "longitude": -117.1611,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "e182fb06-8aaf-49cc-9d0e-2290979b8c6c",
+    "slug": "duds-in-the-suds-coin-laundry-san-diego-ca",
+    "name": "Duds In The Suds Coin Laundry",
+    "address": "5171 Clairemont Mesa Blvd",
+    "city": "San Diego",
+    "state": "CA",
+    "zipCode": "92117",
+    "phone": "(619) 202-7581",
+    "website": null,
+    "hours": {
+      "monday": "6:00 AM – 11:00 PM",
+      "tuesday": "6:00 AM – 11:00 PM",
+      "wednesday": "6:00 AM – 11:00 PM",
+      "thursday": "6:00 AM – 11:00 PM",
+      "friday": "6:00 AM – 11:00 PM",
+      "saturday": "6:00 AM – 11:00 PM",
+      "sunday": "6:00 AM – 11:00 PM"
+    },
+    "rating": 4,
+    "reviewCount": 101,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service laundromat offering convenient washing and drying facilities in in beautiful San Diego. Features modern equipment and a clean environment for all your laundry needs.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7157,
+    "longitude": -117.1611,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "9f1f2a71-de87-4839-b017-66dc1b350ac8",
+    "slug": "clean-express-lavanderia-san-diego-ca",
+    "name": "Clean Express Lavanderia",
+    "address": "3309 Palm Ave",
+    "city": "San Diego",
+    "state": "CA",
+    "zipCode": "92154",
+    "phone": "(619) 566-6053",
+    "website": "http://clean-express-san-diego.poi.place/",
+    "hours": {
+      "monday": "6:00 AM – 11:00 PM",
+      "tuesday": "6:00 AM – 11:00 PM",
+      "wednesday": "6:00 AM – 11:00 PM",
+      "thursday": "6:00 AM – 11:00 PM",
+      "friday": "6:00 AM – 11:00 PM",
+      "saturday": "6:00 AM – 11:00 PM",
+      "sunday": "6:00 AM – 11:00 PM"
+    },
+    "rating": 4.5,
+    "reviewCount": 101,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local washing facility providing reliable laundry services in in beautiful San Diego. Popular choice for both quick wash and full-service laundry needs.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7157,
+    "longitude": -117.1611,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "1a790956-9659-45c5-867a-d6a4f425e6b1",
+    "slug": "4th-ave-cleaners-san-diego-ca",
+    "name": "4th Ave Cleaners",
+    "address": "724 Fourth Ave",
+    "city": "San Diego",
+    "state": "CA",
+    "zipCode": "92101",
+    "phone": "(619) 487-9766",
+    "website": "http://www.4thavecleaners.com/",
+    "hours": {
+      "monday": "8:00 AM – 2:00 AM",
+      "tuesday": "8:00 AM – 2:00 AM",
+      "wednesday": "8:00 AM – 2:00 AM",
+      "thursday": "8:00 AM – 2:00 AM",
+      "friday": "8:00 AM – 2:00 AM",
+      "saturday": "8:00 AM – 2:00 AM",
+      "sunday": "8:00 AM – 2:00 AM"
+    },
+    "rating": 3.9,
+    "reviewCount": 231,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local laundry facility offering comprehensive washing and drying services to in beautiful San Diego residents. Features well-maintained equipment and convenient location.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7157,
+    "longitude": -117.1611,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "381bf879-5c45-4a26-b99e-84609f3075e8",
+    "slug": "national-laundry-and-dry-cleaning-san-diego-ca",
+    "name": "National Laundry and Dry Cleaning",
+    "address": "1985 National Ave #1127",
+    "city": "San Diego",
+    "state": "CA",
+    "zipCode": "92113",
+    "phone": "(619) 238-0665",
+    "website": null,
+    "hours": {
+      "monday": "6:00 AM – 10:00 PM",
+      "tuesday": "6:00 AM – 10:00 PM",
+      "wednesday": "6:00 AM – 10:00 PM",
+      "thursday": "6:00 AM – 10:00 PM",
+      "friday": "6:00 AM – 10:00 PM",
+      "saturday": "6:00 AM – 10:00 PM",
+      "sunday": "6:00 AM – 10:00 PM"
+    },
+    "rating": 4.5,
+    "reviewCount": 180,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional coin laundry providing efficient washing and drying solutions in in beautiful San Diego. Popular choice for reliable laundry services.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7157,
+    "longitude": -117.1611,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "b842f862-f710-47a3-b0d6-0e25a195c525",
+    "slug": "u-city-coin-wash-san-diego-ca",
+    "name": "U-City Coin Wash",
+    "address": "4027 Governor Dr",
+    "city": "San Diego",
+    "state": "CA",
+    "zipCode": "92122",
+    "phone": "(858) 404-0657",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4.2,
+    "reviewCount": 214,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local laundromat offering comprehensive washing and drying services in in beautiful San Diego. Features spacious facility with modern equipment and convenient hours.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7157,
+    "longitude": -117.1611,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "87ec398c-1489-44db-8abc-0808ee318d71",
+    "slug": "spin-spa-laundry-san-diego-ca",
+    "name": "Spin Spa Laundry",
+    "address": "5010 Cass St E",
+    "city": "San Diego",
+    "state": "CA",
+    "zipCode": "92109",
+    "phone": "(858) 272-7746",
+    "website": "https://spinspalaundry.com/",
+    "hours": {
+      "monday": "6:30 AM – 10:00 PM",
+      "tuesday": "6:30 AM – 10:00 PM",
+      "wednesday": "6:30 AM – 10:00 PM",
+      "thursday": "6:30 AM – 10:00 PM",
+      "friday": "6:30 AM – 10:00 PM",
+      "saturday": "6:30 AM – 10:00 PM",
+      "sunday": "6:30 AM – 10:00 PM"
+    },
+    "rating": 4.3,
+    "reviewCount": 52,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community-focused laundromat providing reliable washing and drying services to residents of in beautiful San Diego. Known for well-maintained machines and friendly service.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7157,
+    "longitude": -117.1611,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "3ac87371-11d5-45ca-9efc-7c161dd7d9c6",
+    "slug": "sunshine-center-laundry-san-diego-ca",
+    "name": "Sunshine Center Laundry",
+    "address": "2235 1st Ave.",
+    "city": "San Diego",
+    "state": "CA",
+    "zipCode": "92101",
+    "phone": "(619) 408-6119",
+    "website": "http://sunshine-laundry-san-diego.poi.place/",
+    "hours": {
+      "monday": "6:00 AM – 9:00 PM",
+      "tuesday": "6:00 AM – 9:00 PM",
+      "wednesday": "6:00 AM – 9:00 PM",
+      "thursday": "6:00 AM – 9:00 PM",
+      "friday": "6:00 AM – 9:00 PM",
+      "saturday": "6:00 AM – 9:00 PM",
+      "sunday": "6:00 AM – 9:00 PM"
+    },
+    "rating": 4.2,
+    "reviewCount": 201,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat featuring central community location serving in beautiful San Diego with convenient washing and drying facilities. Known for modern equipment and clean environment.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7157,
+    "longitude": -117.1611,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "afe67d5d-06dd-4590-9c91-f0a7dbab8baa",
+    "slug": "wash-n-go-laundry-san-diego-ca-4",
+    "name": "Wash N Go Laundry",
+    "address": "220 Euclid Ave #150",
+    "city": "San Diego",
+    "state": "CA",
+    "zipCode": "92114",
+    "phone": "(619) 263-1669",
+    "website": "http://www.washngolaundrysd.com/",
+    "hours": {
+      "monday": "6:00 AM – 10:00 PM",
+      "tuesday": "6:00 AM – 10:00 PM",
+      "wednesday": "6:00 AM – 10:00 PM",
+      "thursday": "6:00 AM – 10:00 PM",
+      "friday": "6:00 AM – 10:00 PM",
+      "saturday": "6:00 AM – 10:00 PM",
+      "sunday": "6:00 AM – 10:00 PM"
+    },
+    "rating": 4.1,
+    "reviewCount": 196,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat serving in beautiful San Diego with convenient washing and drying facilities. Known for modern equipment and clean environment.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7157,
+    "longitude": -117.1611,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "15925952-3eea-491e-a67d-4597a2b06cf6",
+    "slug": "one-planet-laundry-san-diego-ca",
+    "name": "One Planet Laundry",
+    "address": "6145 El Cajon Blvd",
+    "city": "San Diego",
+    "state": "CA",
+    "zipCode": "92115",
+    "phone": "(619) 228-9442",
+    "website": "http://oneplanetlaundry.com/",
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4.3,
+    "reviewCount": 177,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional laundromat offering reliable washing and drying solutions in in beautiful San Diego. Known for clean facilities and well-maintained equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7157,
+    "longitude": -117.1611,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "cb064985-c293-4b34-95d9-9258f807a72d",
+    "slug": "get-it-clean-laundromat-san-diego-ca",
+    "name": "Get It Clean Laundromat",
+    "address": "3985 30th St",
+    "city": "San Diego",
+    "state": "CA",
+    "zipCode": "92104",
+    "phone": "(619) 269-3973",
+    "website": "https://www.getitcleanlaundry.com/",
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4.3,
+    "reviewCount": 99,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established laundromat featuring emphasis on cleanliness serving the in beautiful San Diego area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7157,
+    "longitude": -117.1611,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "04df721c-15b8-4be5-82f4-526ed5e11cac",
+    "slug": "wash-n-go-laundry-san-diego-ca-2",
+    "name": "Wash N Go Laundry",
+    "address": "2885 El Cajon Blvd",
+    "city": "San Diego",
+    "state": "CA",
+    "zipCode": "92104",
+    "phone": "(619) 326-8976",
+    "website": "http://www.washngolaundrysd.com/",
+    "hours": {
+      "monday": "6:00 AM – 10:00 PM",
+      "tuesday": "6:00 AM – 10:00 PM",
+      "wednesday": "6:00 AM – 10:00 PM",
+      "thursday": "6:00 AM – 10:00 PM",
+      "friday": "6:00 AM – 10:00 PM",
+      "saturday": "6:00 AM – 10:00 PM",
+      "sunday": "6:00 AM – 10:00 PM"
+    },
+    "rating": 4.3,
+    "reviewCount": 296,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established washing facility offering comprehensive laundry services in in beautiful San Diego. Features modern equipment and convenient location for easy access.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7157,
+    "longitude": -117.1611,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "63eb00a6-14c2-428a-905d-a2c4b4f541ce",
+    "slug": "the-soapy-ferret-san-diego-ca",
+    "name": "The Soapy Ferret",
+    "address": "7033 Linda Vista Rd",
+    "city": "San Diego",
+    "state": "CA",
+    "zipCode": "92111",
+    "phone": "(858) 547-8812",
+    "website": "https://www.soapyferret.com/",
+    "hours": {
+      "monday": "5:00 AM – 10:00 PM",
+      "tuesday": "5:00 AM – 10:00 PM",
+      "wednesday": "5:00 AM – 10:00 PM",
+      "thursday": "5:00 AM – 12:00 AM",
+      "friday": "5:00 AM – 10:00 PM",
+      "saturday": "5:00 AM – 10:00 PM",
+      "sunday": "5:00 AM – 12:00 AM"
+    },
+    "rating": 4.6,
+    "reviewCount": 104,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community laundromat providing comprehensive washing and drying solutions in in beautiful San Diego. Well-equipped with modern laundry machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7157,
+    "longitude": -117.1611,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "72f76089-6f95-48dc-907a-f62e584fdfa3",
+    "slug": "wash-n-go-laundry-san-diego-ca-3",
+    "name": "Wash N Go Laundry",
+    "address": "4712 El Cajon Blvd",
+    "city": "San Diego",
+    "state": "CA",
+    "zipCode": "92115",
+    "phone": "(619) 269-5717",
+    "website": "http://www.washngolaundrysd.com/",
+    "hours": {
+      "monday": "6:00 AM – 10:00 PM",
+      "tuesday": "6:00 AM – 10:00 PM",
+      "wednesday": "6:00 AM – 10:00 PM",
+      "thursday": "6:00 AM – 10:00 PM",
+      "friday": "6:00 AM – 10:00 PM",
+      "saturday": "6:00 AM – 10:00 PM",
+      "sunday": "6:00 AM – 10:00 PM"
+    },
+    "rating": 4.4,
+    "reviewCount": 150,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service laundromat offering reliable washing and drying solutions in in beautiful San Diego. Features modern equipment and convenient operating hours.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7157,
+    "longitude": -117.1611,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "621269fc-0e49-42f4-aa08-3b7536c29be3",
+    "slug": "the-laundry-room-san-diego-ca",
+    "name": "The Laundry Room",
+    "address": "1955 El Cajon Blvd",
+    "city": "San Diego",
+    "state": "CA",
+    "zipCode": "92104",
+    "phone": "(619) 795-9588",
+    "website": "http://www.sdlaundryroom.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "hours": {
+      "monday": "6:30 AM – 11:00 PM",
+      "tuesday": "6:30 AM – 11:00 PM",
+      "wednesday": "6:30 AM – 11:00 PM",
+      "thursday": "6:30 AM – 11:00 PM",
+      "friday": "6:30 AM – 11:00 PM",
+      "saturday": "6:30 AM – 11:00 PM",
+      "sunday": "6:30 AM – 11:00 PM"
+    },
+    "rating": 4.3,
+    "reviewCount": 331,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service washing facility offering quality laundry solutions in in beautiful San Diego. Features comfortable environment and well-maintained machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7157,
+    "longitude": -117.1611,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "73cceba6-72e9-4d8a-87c0-2eefcabd0696",
+    "slug": "fresh-clean-laundry-san-diego-san-diego-ca",
+    "name": "Fresh & Clean Laundry San Diego",
+    "address": "3363 El Cajon Blvd",
+    "city": "San Diego",
+    "state": "CA",
+    "zipCode": "92104",
+    "phone": "(619) 546-9274",
+    "website": "https://www.freshcleanlaundromat.com/",
+    "hours": {
+      "monday": "6:00 AM – 11:00 PM",
+      "tuesday": "6:00 AM – 11:00 PM",
+      "wednesday": "6:00 AM – 11:00 PM",
+      "thursday": "6:00 AM – 11:00 PM",
+      "friday": "6:00 AM – 11:00 PM",
+      "saturday": "6:00 AM – 11:00 PM",
+      "sunday": "6:00 AM – 11:00 PM"
+    },
+    "rating": 4.6,
+    "reviewCount": 505,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Emphasis on cleanliness coin laundry providing washing and drying solutions in in beautiful San Diego. Known for clean facilities and dependable laundry equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 32.7157,
+    "longitude": -117.1611,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  }
+]

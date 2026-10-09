@@ -1,0 +1,843 @@
+[
+  {
+    "id": "a4c01492-fc44-49c3-9dac-85c538132152",
+    "slug": "lake-street-laundromat-with-big-washers-fresh-hamburgers-and-chicken-sandwiches-minneapolis-mn",
+    "name": "Lake Street Laundromat, with big washers & fresh hamburgers, and chicken sandwiches",
+    "address": "1401 E Lake St",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zipCode": "55407",
+    "phone": "(612) 491-3939",
+    "website": null,
+    "hours": {
+      "monday": "5:30 AM – 12:00 AM",
+      "tuesday": "5:30 AM – 12:00 AM",
+      "wednesday": "5:30 AM – 12:00 AM",
+      "thursday": "5:30 AM – 12:00 AM",
+      "friday": "5:30 AM – 12:00 AM",
+      "saturday": "5:30 AM – 12:00 AM",
+      "sunday": "5:30 AM – 12:00 AM"
+    },
+    "rating": 3.9,
+    "reviewCount": 99,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat featuring updated facilities providing quality washing and drying services to the Minneapolis, MN community. Well-equipped with commercial-grade machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 44.9778,
+    "longitude": -93.265,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "f6e8dcfc-865f-4eb3-baf9-0141f757f327",
+    "slug": "giant-wash-coin-laundry-lyndale-minneapolis-mn",
+    "name": "Giant Wash Coin Laundry - Lyndale",
+    "address": "2325 Lyndale Ave S",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zipCode": "55405",
+    "phone": "(612) 389-8880",
+    "website": "http://www.facebook.com/GiantWashLyndale",
+    "hours": {
+      "monday": "6:00 AM – 9:30 PM",
+      "tuesday": "6:00 AM – 9:30 PM",
+      "wednesday": "6:00 AM – 9:30 PM",
+      "thursday": "6:00 AM – 9:30 PM",
+      "friday": "6:00 AM – 9:30 PM",
+      "saturday": "6:00 AM – 9:30 PM",
+      "sunday": "6:00 AM – 9:30 PM"
+    },
+    "rating": 3.6,
+    "reviewCount": 274,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established laundry facility providing comprehensive washing and drying services in Minneapolis, MN. Well-equipped with commercial-grade machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 44.9778,
+    "longitude": -93.265,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "a624167c-9658-4eba-90a5-cb59025ec08a",
+    "slug": "rainbow-laundry-minneapolis-mn",
+    "name": "Rainbow Laundry",
+    "address": "2540 Hennepin Ave",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zipCode": "55405",
+    "phone": "(612) 377-3365",
+    "website": "https://www.rainbowlaundrympls.com/",
+    "hours": {
+      "monday": "8:30 AM – 9:30 PM",
+      "tuesday": "8:30 AM – 9:30 PM",
+      "wednesday": "8:30 AM – 9:30 PM",
+      "thursday": "8:30 AM – 9:30 PM",
+      "friday": "8:30 AM – 9:30 PM",
+      "saturday": "8:30 AM – 9:30 PM",
+      "sunday": "8:30 AM – 9:30 PM"
+    },
+    "rating": 4.2,
+    "reviewCount": 171,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established washing facility offering comprehensive laundry services in Minneapolis, MN. Features modern equipment and convenient location for easy access.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 44.9778,
+    "longitude": -93.265,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "1cbdc0ad-d9f4-4686-a263-0a11c7dba8f5",
+    "slug": "24-hour-laundromat-minneapolis-mn",
+    "name": "24 Hour Laundromat",
+    "address": "3011 Nicollet Ave",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zipCode": "55408",
+    "phone": null,
+    "website": null,
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 3.3,
+    "reviewCount": 106,
+    "services": [
+      "Self-Service",
+      "24/7 Operation"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional coin laundry providing efficient washing and drying solutions in Minneapolis, MN. Popular choice for reliable laundry services.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 44.9778,
+    "longitude": -93.265,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "5ebdf213-5f2e-46e3-90e1-fcb71ff090af",
+    "slug": "giant-laundromax-minneapolis-mn",
+    "name": "Giant Laundromax",
+    "address": "1922 Clinton Ave",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zipCode": "55404",
+    "phone": null,
+    "website": null,
+    "hours": {
+      "monday": "8:00 AM – 10:00 PM",
+      "tuesday": "8:00 AM – 10:00 PM",
+      "wednesday": "8:00 AM – 10:00 PM",
+      "thursday": "8:00 AM – 10:00 PM",
+      "friday": "8:00 AM – 10:00 PM",
+      "saturday": "8:00 AM – 10:00 PM",
+      "sunday": "10:00 AM – 10:00 PM"
+    },
+    "rating": 3.5,
+    "reviewCount": 201,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient coin-operated laundromat serving Minneapolis, MN with efficient washing and drying facilities. Popular with local community members.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 44.9778,
+    "longitude": -93.265,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "1574923a-9207-4eb4-952b-931de5b02d92",
+    "slug": "all-washed-up-minneapolis-mn",
+    "name": "All Washed Up",
+    "address": "3008 N Penn Ave",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zipCode": "55411",
+    "phone": "(612) 354-7505",
+    "website": "http://www.allwashedupmpls.com/",
+    "hours": {
+      "monday": "7:00 AM – 8:00 PM",
+      "tuesday": "7:00 AM – 8:00 PM",
+      "wednesday": "7:00 AM – 8:00 PM",
+      "thursday": "7:00 AM – 8:00 PM",
+      "friday": "7:00 AM – 8:00 PM",
+      "saturday": "7:00 AM – 8:00 PM",
+      "sunday": "7:00 AM – 8:00 PM"
+    },
+    "rating": 4,
+    "reviewCount": 117,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service laundromat offering reliable washing and drying solutions in Minneapolis, MN. Features modern equipment and convenient operating hours.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 44.9778,
+    "longitude": -93.265,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "b6ebd63f-4b61-47dd-bc80-7ce8bcec97c3",
+    "slug": "viking-cleaners-minneapolis-mn",
+    "name": "Viking Cleaners",
+    "address": "3627 E Lake St",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zipCode": "55406",
+    "phone": "(612) 724-6485",
+    "website": "https://www.facebook.com/VikingVillageCleaners/",
+    "hours": {
+      "monday": "8:00 AM – 10:00 PM",
+      "tuesday": "8:00 AM – 10:00 PM",
+      "wednesday": "8:00 AM – 10:00 PM",
+      "thursday": "8:00 AM – 10:00 PM",
+      "friday": "8:00 AM – 11:00 PM",
+      "saturday": "8:00 AM – 11:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4.4,
+    "reviewCount": 195,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community laundromat featuring emphasis on cleanliness providing comprehensive washing and drying solutions in Minneapolis, MN. Well-equipped with modern laundry machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 44.9778,
+    "longitude": -93.265,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "b4104f02-8591-4d2b-9833-e7bec7451060",
+    "slug": "mei-hua-laundry-minneapolis-mn",
+    "name": "Mei Hua Laundry",
+    "address": "3652 Cedar Ave S",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zipCode": "55407",
+    "phone": "(612) 806-6710",
+    "website": null,
+    "hours": {
+      "monday": "6:00 AM – 12:00 AM",
+      "tuesday": "6:00 AM – 12:00 AM",
+      "wednesday": "6:00 AM – 12:00 AM",
+      "thursday": "6:00 AM – 12:00 AM",
+      "friday": "6:00 AM – 12:00 AM",
+      "saturday": "6:00 AM – 12:00 AM",
+      "sunday": "6:00 AM – 12:00 AM"
+    },
+    "rating": 4.5,
+    "reviewCount": 120,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood coin laundry offering convenient washing and drying solutions in Minneapolis, MN. Features spacious facility and reliable equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 44.9778,
+    "longitude": -93.265,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "21a70ed7-fa24-42c9-b2d6-32a3906679a5",
+    "slug": "chicago-lake-coin-laundry-minneapolis-mn",
+    "name": "Chicago Lake Coin Laundry",
+    "address": "3015 Chicago Ave",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zipCode": "55407",
+    "phone": "(612) 824-2232",
+    "website": "http://www.chicagolakecoinlaundry.com/",
+    "hours": {
+      "monday": "8:00 AM – 8:00 PM",
+      "tuesday": "8:00 AM – 8:00 PM",
+      "wednesday": "8:00 AM – 8:00 PM",
+      "thursday": "8:00 AM – 8:00 PM",
+      "friday": "8:00 AM – 8:00 PM",
+      "saturday": "8:00 AM – 8:00 PM",
+      "sunday": "8:00 AM – 8:00 PM"
+    },
+    "rating": 4.4,
+    "reviewCount": 176,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established washing facility offering reliable laundry services in Minneapolis, MN. Features spacious layout and dependable equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 44.9778,
+    "longitude": -93.265,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "06b19cab-3cfe-4664-9d53-51a4f9afa4e0",
+    "slug": "como-laundry-lavandera-minneapolis-mn",
+    "name": "Como Laundry / Lavandería",
+    "address": "1820 Como Ave SE",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zipCode": "55414",
+    "phone": "(651) 492-8090",
+    "website": null,
+    "hours": {
+      "monday": "8:00 AM – 8:00 PM",
+      "tuesday": "8:00 AM – 8:00 PM",
+      "wednesday": "8:00 AM – 8:00 PM",
+      "thursday": "8:00 AM – 8:00 PM",
+      "friday": "8:00 AM – 8:00 PM",
+      "saturday": "8:00 AM – 8:00 PM",
+      "sunday": "8:00 AM – 8:00 PM"
+    },
+    "rating": 4,
+    "reviewCount": 110,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Family-friendly laundromat serving Minneapolis, MN with convenient washing and drying services. Features comfortable seating and modern laundry equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 44.9778,
+    "longitude": -93.265,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "d3f33fbf-fa63-4322-a93e-4725af667060",
+    "slug": "coin-clean-laundry-minneapolis-mn",
+    "name": "Coin Clean Laundry",
+    "address": "315 Cedar Lake Rd N",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zipCode": "55405",
+    "phone": "(612) 895-1888",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 3.4,
+    "reviewCount": 89,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established laundromat featuring hygiene-focused facility serving the Minneapolis, MN area with efficient washing and drying solutions. Popular choice for both self-service and drop-off laundry.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 44.9778,
+    "longitude": -93.265,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "89ebef3a-a587-45cd-aac7-b1447f3fd256",
+    "slug": "kings-coin-laundry-minneapolis-mn",
+    "name": "King's Coin Laundry",
+    "address": "2701 E Franklin Ave",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zipCode": "55406",
+    "phone": "(612) 226-4058",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 11:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 11:00 PM",
+      "thursday": "7:00 AM – 11:00 PM",
+      "friday": "7:00 AM – 11:00 PM",
+      "saturday": "7:00 AM – 11:00 PM",
+      "sunday": "7:00 AM – 11:00 PM"
+    },
+    "rating": 3.8,
+    "reviewCount": 117,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local laundromat offering comprehensive washing and drying services in Minneapolis, MN. Features spacious facility with modern equipment and convenient hours.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 44.9778,
+    "longitude": -93.265,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "4e85f2c3-a841-4ff0-aa94-e40435a7b7e0",
+    "slug": "giant-express-laundromat-50-drying-wash-fold-drop-off-pickup-minneapolis-mn",
+    "name": "Giant Express Laundromat ($.50 Drying) (Wash & Fold) (Drop off & pickup)",
+    "address": "3725 Chicago Ave",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zipCode": "55407",
+    "phone": "(612) 501-4000",
+    "website": "https://www.facebook.com/giantexpresslaundromat/",
+    "hours": {
+      "monday": "6:00 AM – 11:00 PM",
+      "tuesday": "6:00 AM – 11:00 PM",
+      "wednesday": "6:00 AM – 11:00 PM",
+      "thursday": "6:00 AM – 11:00 PM",
+      "friday": "6:00 AM – 11:00 PM",
+      "saturday": "6:00 AM – 11:00 PM",
+      "sunday": "6:00 AM – 11:00 PM"
+    },
+    "rating": 4.3,
+    "reviewCount": 200,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient coin-operated laundromat featuring speedy laundry solutions serving Minneapolis, MN with efficient washing and drying facilities. Popular with local community members.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 44.9778,
+    "longitude": -93.265,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "308a2053-20e7-4ccf-b1f3-7a9bc7bde043",
+    "slug": "giant-wash-laundry-minneapolis-minneapolis-mn",
+    "name": "Giant Wash Laundry Minneapolis",
+    "address": "1420 University Ave SE",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zipCode": "55414",
+    "phone": "(612) 379-9900",
+    "website": "https://giantwashlaundry.com",
+    "hours": {
+      "monday": "6:00 AM - 10:00 PM",
+      "tuesday": "6:00 AM - 10:00 PM",
+      "wednesday": "6:00 AM - 10:00 PM",
+      "thursday": "6:00 AM - 10:00 PM",
+      "friday": "6:00 AM - 10:00 PM",
+      "saturday": "6:00 AM - 10:00 PM",
+      "sunday": "7:00 AM - 9:00 PM"
+    },
+    "rating": 4.4,
+    "reviewCount": 189,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Mobile App",
+      "Debit Card",
+      "Credit Card",
+      "Coin"
+    ],
+    "amenities": [
+      "LUX UV Laundry",
+      "Energy-Efficient",
+      "Multiple Locations"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.20/lb"
+    },
+    "description": "LUX UV Laundry Systems with energy-efficient washers/dryers and mobile app payment. Multiple MN locations.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 44.9778,
+    "longitude": -93.265,
+    "is24Hours": false,
+    "hasWiFi": true,
+    "hasParking": true,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "1e6ae539-4182-4c66-a304-147037902fef",
+    "slug": "hd-laundry-minneapolis-mn",
+    "name": "HD Laundry",
+    "address": "2112 E Lake St",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zipCode": "55407",
+    "phone": "(612) 353-5381",
+    "website": "http://hdlaundry.com/",
+    "hours": {
+      "monday": "6:00 AM – 10:30 PM",
+      "tuesday": "6:00 AM – 10:30 PM",
+      "wednesday": "6:00 AM – 10:30 PM",
+      "thursday": "6:00 AM – 10:30 PM",
+      "friday": "6:00 AM – 10:30 PM",
+      "saturday": "6:00 AM – 10:30 PM",
+      "sunday": "6:00 AM – 10:30 PM"
+    },
+    "rating": 3.5,
+    "reviewCount": 93,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service coin laundry providing washing and drying solutions in Minneapolis, MN. Known for clean facilities and dependable laundry equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 44.9778,
+    "longitude": -93.265,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  }
+]

@@ -1,0 +1,1011 @@
+[
+  {
+    "id": "626f119d-769d-4522-aaad-351fda2bb811",
+    "slug": "prowash-coin-laundry-detroit-mi",
+    "name": "Prowash Coin Laundry",
+    "address": "12400 Morang Ave",
+    "city": "Detroit",
+    "state": "MI",
+    "zipCode": "48224",
+    "phone": null,
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 10:00 PM",
+      "tuesday": "7:00 AM – 10:00 PM",
+      "wednesday": "7:00 AM – 10:00 PM",
+      "thursday": "7:00 AM – 10:00 PM",
+      "friday": "7:00 AM – 10:00 PM",
+      "saturday": "7:00 AM – 10:00 PM",
+      "sunday": "7:00 AM – 10:00 PM"
+    },
+    "rating": 4.2,
+    "reviewCount": 202,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Family-friendly laundromat serving Detroit, MI with convenient washing and drying services. Features comfortable seating and modern laundry equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3314,
+    "longitude": -83.0458,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "3eb6a25b-f593-4741-9710-aaa333d1ef3c",
+    "slug": "laundry-in-the-d-detroit-mi",
+    "name": "Laundry In The D",
+    "address": "16300 E Warren Ave",
+    "city": "Detroit",
+    "state": "MI",
+    "zipCode": "48224",
+    "phone": "(313) 884-9690",
+    "website": null,
+    "hours": {
+      "monday": "8:00 AM – 7:00 PM",
+      "tuesday": "8:00 AM – 7:00 PM",
+      "wednesday": "8:00 AM – 7:00 PM",
+      "thursday": "8:00 AM – 7:00 PM",
+      "friday": "8:00 AM – 7:00 PM",
+      "saturday": "8:00 AM – 7:00 PM",
+      "sunday": "9:00 AM – 5:00 PM"
+    },
+    "rating": 4.3,
+    "reviewCount": 99,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient laundromat serving the Detroit, MI area with efficient washing and drying services. Popular with residents for reliable equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3314,
+    "longitude": -83.0458,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "96f23469-704a-411f-a66b-2746b9055eba",
+    "slug": "coin-omatic-laundromat-detroit-mi",
+    "name": "Coin-Omatic LAUNDROMAT",
+    "address": "11711 Woodward Ave",
+    "city": "Detroit",
+    "state": "MI",
+    "zipCode": "48202",
+    "phone": null,
+    "website": null,
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 3.2,
+    "reviewCount": 15,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community-focused laundromat providing reliable washing and drying services to residents of Detroit, MI. Known for well-maintained machines and friendly service.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3314,
+    "longitude": -83.0458,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "4f7fcc4b-ed07-488f-9faf-6260a15ffd22",
+    "slug": "burbujas-laundromat-detroit-mi",
+    "name": "Burbujas Laundromat",
+    "address": "6835 Michigan Ave",
+    "city": "Detroit",
+    "state": "MI",
+    "zipCode": "48210",
+    "phone": "(586) 662-0050",
+    "website": "http://www.burbujaslaundromat.com/",
+    "hours": {
+      "monday": "8:00 AM – 9:00 PM",
+      "tuesday": "8:00 AM – 9:00 PM",
+      "wednesday": "8:00 AM – 9:00 PM",
+      "thursday": "8:00 AM – 9:00 PM",
+      "friday": "8:00 AM – 9:00 PM",
+      "saturday": "8:00 AM – 9:00 PM",
+      "sunday": "8:00 AM – 9:00 PM"
+    },
+    "rating": 4.2,
+    "reviewCount": 23,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional laundromat serving the Detroit, MI area with modern washing and drying equipment. Known for efficient service and clean facilities.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3314,
+    "longitude": -83.0458,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "ec95bb7c-d0b8-4341-800b-3f93ce494b94",
+    "slug": "the-laundry-place-detroit-mi",
+    "name": "The Laundry Place",
+    "address": "11220 E Jefferson Ave",
+    "city": "Detroit",
+    "state": "MI",
+    "zipCode": "48214",
+    "phone": "(313) 499-8577",
+    "website": "http://thelaundryplacedetroit.com/",
+    "hours": {
+      "monday": "8:00 AM – 8:00 PM",
+      "tuesday": "8:00 AM – 8:00 PM",
+      "wednesday": "8:00 AM – 8:00 PM",
+      "thursday": "8:00 AM – 8:00 PM",
+      "friday": "8:00 AM – 8:00 PM",
+      "saturday": "8:00 AM – 8:00 PM",
+      "sunday": "8:00 AM – 8:00 PM"
+    },
+    "rating": 5,
+    "reviewCount": 30,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local laundry facility offering comprehensive washing and drying services to Detroit, MI residents. Features well-maintained equipment and convenient location.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3314,
+    "longitude": -83.0458,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "ec23ea05-3ff6-48f7-83a8-a4d00fdba5b5",
+    "slug": "conner-spin-cycle-24-hours-laundromat-1-per-lb-dropoff-detroit-mi",
+    "name": "Conner Spin Cycle 24 hours laundromat $1 per lb dropoff",
+    "address": "4700 Conner St",
+    "city": "Detroit",
+    "state": "MI",
+    "zipCode": "48215",
+    "phone": "(313) 824-2751",
+    "website": null,
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 3.6,
+    "reviewCount": 188,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service laundromat offering convenient washing and drying facilities in Detroit, MI. Features modern equipment and a clean environment for all your laundry needs.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3314,
+    "longitude": -83.0458,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "dbef1c74-6303-440c-8c33-cf9a2e1f3103",
+    "slug": "our-community-laundromat-detroit-mi",
+    "name": "OUR COMMUNITY LAUNDROMAT",
+    "address": "15429 Schaefer Hwy",
+    "city": "Detroit",
+    "state": "MI",
+    "zipCode": "48227",
+    "phone": "(313) 340-9440",
+    "website": "http://www.ocldetroit.com/",
+    "hours": {
+      "monday": "7:00 AM – 7:00 PM",
+      "tuesday": "7:00 AM – 7:00 PM",
+      "wednesday": "7:00 AM – 7:00 PM",
+      "thursday": "7:00 AM – 7:00 PM",
+      "friday": "7:00 AM – 7:00 PM",
+      "saturday": "7:00 AM – 7:00 PM",
+      "sunday": "7:00 AM – 7:00 PM"
+    },
+    "rating": 4.6,
+    "reviewCount": 41,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local washing facility providing reliable laundry services in Detroit, MI. Popular choice for both quick wash and full-service laundry needs.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3314,
+    "longitude": -83.0458,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "5cfaa50e-2ffa-4f71-8faf-da80c4811485",
+    "slug": "coin-o-matic-detroit-mi",
+    "name": "Coin-O-Matic",
+    "address": "3613 Michigan Ave",
+    "city": "Detroit",
+    "state": "MI",
+    "zipCode": "48216",
+    "phone": null,
+    "website": null,
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 4.3,
+    "reviewCount": 19,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established washing facility offering comprehensive laundry services in Detroit, MI. Features modern equipment and convenient location for easy access.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3314,
+    "longitude": -83.0458,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "c79d7d82-7cda-436d-acc0-b4cbfbd507db",
+    "slug": "heights-laundry-detroit-mi",
+    "name": "Heights Laundry",
+    "address": "19200 W 8 Mile Rd",
+    "city": "Detroit",
+    "state": "MI",
+    "zipCode": "48219",
+    "phone": "(313) 537-7100",
+    "website": null,
+    "hours": {
+      "monday": "6:00 AM - 10:00 PM",
+      "tuesday": "6:00 AM - 10:00 PM",
+      "wednesday": "6:00 AM - 10:00 PM",
+      "thursday": "6:00 AM - 10:00 PM",
+      "friday": "6:00 AM - 10:00 PM",
+      "saturday": "6:00 AM - 10:00 PM",
+      "sunday": "7:00 AM - 9:00 PM"
+    },
+    "rating": 4.3,
+    "reviewCount": 142,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Credit Card",
+      "Cash"
+    ],
+    "amenities": [
+      "Free Dryers",
+      "Arcade",
+      "Family-Friendly",
+      "Card System"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "Free",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Card payments, free dryers, and family-friendly environment with arcade games for entertainment.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3314,
+    "longitude": -83.0458,
+    "is24Hours": false,
+    "hasWiFi": true,
+    "hasParking": true,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "6302ecfd-bd34-4051-9f64-b412b6aa41e8",
+    "slug": "heights-laundry-3-detroit-mi",
+    "name": "Heights Laundry 3",
+    "address": "13541 Eight Mile W",
+    "city": "Detroit",
+    "state": "MI",
+    "zipCode": "48235",
+    "phone": "(313) 397-6425",
+    "website": "https://heights.lakesidelaundry.com/heights-laundry-3",
+    "hours": {
+      "monday": "8:00 AM – 8:00 PM",
+      "tuesday": "8:00 AM – 6:00 PM",
+      "wednesday": "8:00 AM – 6:00 PM",
+      "thursday": "8:00 AM – 6:00 PM",
+      "friday": "8:00 AM – 8:00 PM",
+      "saturday": "7:00 AM – 8:00 PM",
+      "sunday": "7:00 AM – 8:00 PM"
+    },
+    "rating": 4.6,
+    "reviewCount": 180,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Local laundromat offering comprehensive washing and drying services in Detroit, MI. Features spacious facility with modern equipment and convenient hours.",
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3314,
+    "longitude": -83.0458,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "5698e9df-dfea-4959-99c4-c3a987b148fb",
+    "slug": "fit-fold-laundromat-detroit-mi",
+    "name": "Fit & Fold Laundromat",
+    "address": "8735 2nd Ave",
+    "city": "Detroit",
+    "state": "MI",
+    "zipCode": "48202",
+    "phone": "(313) 871-2667",
+    "website": null,
+    "hours": {
+      "monday": "10:00 AM – 8:00 PM",
+      "tuesday": "Closed",
+      "wednesday": "Closed",
+      "thursday": "10:00 AM – 8:00 PM",
+      "friday": "10:00 AM – 5:00 PM",
+      "saturday": "10:00 AM – 8:00 PM",
+      "sunday": "10:00 AM – 8:00 PM"
+    },
+    "rating": 4.5,
+    "reviewCount": 122,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service laundromat offering reliable washing and drying solutions in Detroit, MI. Features modern equipment and convenient operating hours.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3314,
+    "longitude": -83.0458,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "eab9011c-31a6-408e-87d4-d401c0a2e71a",
+    "slug": "woodward-coin-laundry-24-hours-1-per-lb-dropoff-detroit-mi",
+    "name": "Woodward Coin Laundry 24 hours $1 per lb dropoff",
+    "address": "17626 Woodward Ave",
+    "city": "Detroit",
+    "state": "MI",
+    "zipCode": "48203",
+    "phone": "(313) 305-7160",
+    "website": null,
+    "hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "rating": 3.8,
+    "reviewCount": 310,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Full-service coin laundry providing washing and drying solutions in Detroit, MI. Known for clean facilities and dependable laundry equipment.",
+    "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3314,
+    "longitude": -83.0458,
+    "is24Hours": true,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "dda3379d-b9d4-4571-b659-bccd1a8a026e",
+    "slug": "coin-laundry-9465-gr-river-detroit-mi",
+    "name": "Coin Laundry 9465 Gr River",
+    "address": "9465 Grand River Ave",
+    "city": "Detroit",
+    "state": "MI",
+    "zipCode": "48204",
+    "phone": "(313) 535-0044",
+    "website": null,
+    "hours": {
+      "monday": "8:00 AM – 2:00 AM",
+      "tuesday": "8:00 AM – 11:00 PM",
+      "wednesday": "8:00 AM – 11:00 PM",
+      "thursday": "8:00 AM – 2:00 AM",
+      "friday": "8:00 AM – 2:00 AM",
+      "saturday": "8:00 AM – 2:00 AM",
+      "sunday": "8:00 AM – 2:00 AM"
+    },
+    "rating": 4.2,
+    "reviewCount": 305,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community laundromat offering convenient washing and drying services to Detroit, MI residents. Features well-maintained machines and comfortable environment.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3314,
+    "longitude": -83.0458,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "0e99d55f-3ee9-44fc-858c-02aa6781188e",
+    "slug": "coin-laundry-detroit-mi",
+    "name": "Coin Laundry",
+    "address": "13589 Greenfield Rd",
+    "city": "Detroit",
+    "state": "MI",
+    "zipCode": "48227",
+    "phone": null,
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 12:00 AM",
+      "tuesday": "7:00 AM – 11:00 PM",
+      "wednesday": "7:00 AM – 11:00 PM",
+      "thursday": "7:00 AM – 12:00 AM",
+      "friday": "7:00 AM – 12:00 AM",
+      "saturday": "7:00 AM – 12:00 AM",
+      "sunday": "7:00 AM – 12:00 AM"
+    },
+    "rating": 4.2,
+    "reviewCount": 137,
+    "services": [
+      "Self-Service",
+      "Coin-Operated"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Neighborhood laundromat providing quality washing and drying services to the Detroit, MI community. Well-equipped with commercial-grade machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3314,
+    "longitude": -83.0458,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "cf638d4a-d0b7-4804-b638-3d1d6d2c4041",
+    "slug": "ewald-laundromat-detroit-mi",
+    "name": "Ewald Laundromat",
+    "address": "3624 Ewald Cir",
+    "city": "Detroit",
+    "state": "MI",
+    "zipCode": "48204",
+    "phone": "(313) 397-8294",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 9:00 PM",
+      "tuesday": "7:00 AM – 9:00 PM",
+      "wednesday": "7:00 AM – 9:00 PM",
+      "thursday": "Closed",
+      "friday": "7:00 AM – 9:00 PM",
+      "saturday": "7:00 AM – 9:00 PM",
+      "sunday": "7:00 AM – 9:00 PM"
+    },
+    "rating": 4.7,
+    "reviewCount": 133,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Community-oriented laundromat providing quality washing and drying services in Detroit, MI. Known for clean environment and friendly atmosphere.",
+    "imageUrl": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a0?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3314,
+    "longitude": -83.0458,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "9e5417eb-a6e3-4715-be81-8447992348be",
+    "slug": "discount-laundromat-detroit-mi",
+    "name": "Discount Laundromat",
+    "address": "18220 W Warren Ave",
+    "city": "Detroit",
+    "state": "MI",
+    "zipCode": "48228",
+    "phone": "(313) 436-4455",
+    "website": null,
+    "hours": {
+      "monday": "7:00 AM – 8:00 PM",
+      "tuesday": "7:00 AM – 8:00 PM",
+      "wednesday": "7:00 AM – 8:00 PM",
+      "thursday": "7:00 AM – 8:00 PM",
+      "friday": "7:00 AM – 8:00 PM",
+      "saturday": "7:00 AM – 8:00 PM",
+      "sunday": "7:00 AM – 8:00 PM"
+    },
+    "rating": 4.3,
+    "reviewCount": 210,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Convenient coin-operated laundromat serving Detroit, MI with efficient washing and drying facilities. Popular with local community members.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3314,
+    "longitude": -83.0458,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "1c50df91-6f0f-4f2d-befc-b21e00fe5a8b",
+    "slug": "detroit-laundry-detroit-mi",
+    "name": "Detroit Laundry",
+    "address": "12950 Gratiot Ave",
+    "city": "Detroit",
+    "state": "MI",
+    "zipCode": "48205",
+    "phone": "(313) 469-6876",
+    "website": null,
+    "hours": {
+      "monday": "8:00 AM – 11:00 PM",
+      "tuesday": "8:00 AM – 9:00 PM",
+      "wednesday": "8:00 AM – 11:00 PM",
+      "thursday": "8:00 AM – 11:00 PM",
+      "friday": "8:00 AM – 11:00 PM",
+      "saturday": "8:00 AM – 11:00 PM",
+      "sunday": "8:00 AM – 11:00 PM"
+    },
+    "rating": 4.4,
+    "reviewCount": 181,
+    "services": [
+      "Self-Service",
+      "Wash & Fold"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Professional coin laundry providing efficient washing and drying solutions in Detroit, MI. Popular choice for reliable laundry services.",
+    "imageUrl": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3314,
+    "longitude": -83.0458,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  },
+  {
+    "id": "d722ed90-a56e-4977-bef1-7a2620788a7b",
+    "slug": "7-van-laundromat-detroit-mi",
+    "name": "7 -Van Laundromat",
+    "address": "Seven Mile E",
+    "city": "Detroit",
+    "state": "MI",
+    "zipCode": "48234",
+    "phone": null,
+    "website": null,
+    "hours": {
+      "monday": "8:00 AM – 10:00 PM",
+      "tuesday": "8:00 AM – 10:00 PM",
+      "wednesday": "8:00 AM – 10:00 PM",
+      "thursday": "8:00 AM – 10:00 PM",
+      "friday": "8:00 AM – 10:00 PM",
+      "saturday": "8:00 AM – 10:00 PM",
+      "sunday": "8:00 AM – 10:00 PM"
+    },
+    "rating": 3.8,
+    "reviewCount": 98,
+    "services": [
+      "Self-Service"
+    ],
+    "paymentMethods": [
+      "Cash",
+      "Credit Card"
+    ],
+    "amenities": [
+      "Standard Amenities"
+    ],
+    "pricing": {
+      "washPrice": "$3.50",
+      "dryPrice": "$2.50",
+      "washFoldPrice": "$1.25/lb"
+    },
+    "description": "Established laundry facility providing comprehensive washing and drying services in Detroit, MI. Well-equipped with commercial-grade machines.",
+    "imageUrl": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=300&fit=crop&auto=format&q=80",
+    "customImageUrl": null,
+    "googlePlaceId": null,
+    "latitude": 42.3314,
+    "longitude": -83.0458,
+    "is24Hours": false,
+    "hasWiFi": false,
+    "hasParking": false,
+    "acceptsCards": false,
+    "hasMobilePay": false,
+    "hasVendingMachines": false,
+    "hasAttendant": false,
+    "hasRestroom": false,
+    "isVerified": false,
+    "verifiedAt": null,
+    "claimedBy": null,
+    "verificationBadge": "none"
+  }
+]
