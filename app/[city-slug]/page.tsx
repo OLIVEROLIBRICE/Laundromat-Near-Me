@@ -43,23 +43,40 @@ export default function PopularCityPage({ params }: Props) {
   const listings = getCityListings(editorial.slug);
   const hasListings = listings.length > 0;
   const resources = cityResources[editorial.slug] ?? [];
+  const path = `/${editorial.slug}`;
   const schema = {
     "@context": "https://schema.org",
-    "@type": "CollectionPage",
-    name: `Laundromats in ${editorial.name}, ${editorial.abbr}`,
-    description: editorial.intro,
-    url: absoluteUrl(`/${editorial.slug}`),
-    primaryImageOfPage: absoluteUrl(`/cities/${editorial.image}`),
-    ...(hasListings ? { mainEntity: {
-      "@type": "ItemList",
-      numberOfItems: listings.length,
-      itemListElement: listings.map((listing, index) => ({
-        "@type": "ListItem",
-        position: index + 1,
-        name: listing.name,
-        url: absoluteUrl(`/${editorial.slug}#${editorial.slug}-listing-${listing.id}`),
-      })),
-    }} : {}),
+    "@graph": [
+      {
+        "@type": "CollectionPage",
+        "@id": `${absoluteUrl(path)}#page`,
+        name: `Laundromats in ${editorial.name}, ${editorial.abbr}`,
+        description: editorial.intro,
+        url: absoluteUrl(path),
+        primaryImageOfPage: absoluteUrl(`/cities/${editorial.image}`),
+        breadcrumb: { "@id": `${absoluteUrl(path)}#breadcrumbs` },
+        ...(hasListings ? { mainEntity: { "@id": `${absoluteUrl(path)}#list` } } : {}),
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": `${absoluteUrl(path)}#breadcrumbs`,
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Home", item: absoluteUrl("/") },
+          { "@type": "ListItem", position: 2, name: `Laundromats in ${editorial.name}, ${editorial.abbr}`, item: absoluteUrl(path) },
+        ],
+      },
+      ...(hasListings ? [{
+        "@type": "ItemList",
+        "@id": `${absoluteUrl(path)}#list`,
+        numberOfItems: listings.length,
+        itemListElement: listings.map((listing, index) => ({
+          "@type": "ListItem",
+          position: index + 1,
+          name: listing.name,
+          url: absoluteUrl(`${path}#${editorial.slug}-listing-${listing.id}`),
+        })),
+      }] : []),
+    ],
   };
 
   return <PageShell>

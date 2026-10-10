@@ -43,20 +43,36 @@ export default function CityPage({ params }: Props) {
   const path = `/laundromats/${city.stateSlug}/${city.slug}`;
   const schema = {
     "@context": "https://schema.org",
-    "@type": "CollectionPage",
-    name: `Laundromats in ${city.name}, ${stateLabel}`,
-    description: cityIntro(city),
-    url: absoluteUrl(path),
-    ...(hasListings ? { mainEntity: {
-      "@type": "ItemList",
-      numberOfItems: listings.length,
-      itemListElement: listings.map((listing, index) => ({
-        "@type": "ListItem",
-        position: index + 1,
-        name: listing.name,
-        url: absoluteUrl(`${path}#${city.slug}-listing-${listing.id}`),
-      })),
-    }} : {}),
+    "@graph": [
+      {
+        "@type": "CollectionPage",
+        "@id": `${absoluteUrl(path)}#page`,
+        name: `Laundromats in ${city.name}, ${stateLabel}`,
+        description: cityIntro(city),
+        url: absoluteUrl(path),
+        breadcrumb: { "@id": `${absoluteUrl(path)}#breadcrumbs` },
+        ...(hasListings ? { mainEntity: { "@id": `${absoluteUrl(path)}#list` } } : {}),
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": `${absoluteUrl(path)}#breadcrumbs`,
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Home", item: absoluteUrl("/") },
+          { "@type": "ListItem", position: 2, name: `Laundromats in ${city.name}, ${stateLabel}`, item: absoluteUrl(path) },
+        ],
+      },
+      ...(hasListings ? [{
+        "@type": "ItemList",
+        "@id": `${absoluteUrl(path)}#list`,
+        numberOfItems: listings.length,
+        itemListElement: listings.map((listing, index) => ({
+          "@type": "ListItem",
+          position: index + 1,
+          name: listing.name,
+          url: absoluteUrl(`${path}#${city.slug}-listing-${listing.id}`),
+        })),
+      }] : []),
+    ],
   };
 
   return <PageShell>
