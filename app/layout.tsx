@@ -13,5 +13,16 @@ export const metadata: Metadata = {
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
-  return <html lang="en"><body className="font-sans antialiased">{children}</body></html>;
+  return (
+    <html lang="en">
+      <head>
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1340216680351633"
+          crossOrigin="anonymous"
+        />
+      </head>
+      <body className="font-sans antialiased">{children}</body>
+    </html>
+  );
 }
