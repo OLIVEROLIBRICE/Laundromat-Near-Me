@@ -21,6 +21,17 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1340216680351633"
           crossOrigin="anonymous"
         />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-CT2040FK0K" />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-CT2040FK0K');
+            `,
+          }}
+        />
       </head>
       <body className="font-sans antialiased">{children}</body>
     </html>
